@@ -1,0 +1,392 @@
+\documentclass{article}
+\usepackage[a4paper, margin=1in, showframe]{geometry}
+\usepackage{amsmath}
+\usepackage[no-math]{fontspec}
+\usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
+\usepackage{physics}
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
+
+\setmathfont{GM.otf}
+%\setmathfont{fira-math.otf}[BoldFont = *, Path=../docs/assets/, version=upintegral, StylisticSet=1]
+\newfontface\firatext{GM.otf}
+%\setmathfont{XITS Math}
+%\setmathfont{XITS Math}[version=upintegral, StylisticSet=8]
+%\newfontface\firatext{XITS Math}
+%\setmathfont{Latin Modern Math}
+%\newfontface\firatext{Latin Modern Math}
+
+\def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
+\def\Greekalphabets{%
+  \Alpha      \Beta       \Gamma      \Delta      \Epsilon
+  \Zeta       \Eta        \Theta      \varTheta   \Iota
+  \Kappa      \Lambda     \Mu         \Nu         \Xi
+  \Omicron    \Pi         \Rho        \Sigma      \Tau
+  \Upsilon    \Phi        \Chi        \Psi        \Omega
+}
+\def\greekalphabets{%
+  \alpha      \beta       \gamma      \delta      \epsilon
+  \varepsilon \zeta       \eta        \theta      \vartheta 
+  \iota       \kappa      \varkappa   \lambda     \mu
+  \nu         \xi         \omicron    \pi         \rho
+  \varrho     \sigma      \varsigma   \tau        \upsilon
+  \phi        \varphi     \chi        \psi        \omega
+}
+% ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+% αβγδεζηθικλμνξοπρστυφχψω
+\def\TOPACCENT#1{%
+  \acute{#1}    \, \bar{#1}   \, \breve{#1} \, \check{#1}   \, \ddddot{#1}    , \quad
+  \dddot{#1}    \, \ddot{#1}  \, \dot{#1}   \, \grave{#1}   \, \hat{#1}       , \quad
+  \mathring{#1} \, \tilde{#1} \, \vec{#1}   \, \widehat{#1} \, \widetilde{#1}
+}
+\def\MATRIXII{a & b & c & d \\ x & y & z & w}
+\def\MATRIXIII{a & b & c & d \\ k & l & m & n \\ x & y & z & w}
+\def\MATRIXIV{a & b & c & d \\ k & l & m & n \\ p & q & s & t \\ x & y & z & w}
+\ExplSyntaxOn
+\NewDocumentCommand \TOPACCENTMAP { m m }
+  { \fonttest_top_accent_map:Nx #1 {#2} }
+\cs_new:Npn \fonttest_top_accent_map:Nn #1#2
+  { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
+\cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
+\ExplSyntaxOff
+\def\OVERUNDERLINE#1{%
+  #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
+\def\LISTTEXT{x_1, \, x_2, \, \ldots, \, x_n}
+\def\ligaturetext{ff\quad fi\quad fl\quad ffi\quad ffl}
+
+\begin{document}
+
+\section{Alphabets}
+
+\begin{itemize}
+  \item Latin capital letters:
+        \[ \Latinalphabets RX\]
+
+  \item Latin small letters:
+        \[ \latinalphabets gygf\]
+
+  \item Latin capital upright letters (\verb|\symup|):
+        \[ \symup{\Latinalphabets} \]
+
+  \item Latin small upright letters (\verb|\symup|):
+        \[ \symup{\latinalphabets} \]
+
+  \item Latin capital typewriter letters (\verb|\symtt|):
+        \[ \symtt{\Latinalphabets} \]
+
+  \item Latin small typewriter letters (\verb|\symtt|):
+        \[ \symtt{\latinalphabets} \]
+
+  \item Latin capital bold letters (\verb|\symbf|):
+        \[ \symbf{\Latinalphabets} \]
+
+  \item Latin small bold letters (\verb|\symbf|):
+        \[ \symbf{\latinalphabets} \]
+
+  \item Latin capital bold upright letters (\verb|\symbfup|):
+        \[ \symbfup{\Latinalphabets} \]
+
+  \item Latin small bold upright letters (\verb|\symbfup|):
+        \[ \symbfup{\latinalphabets} \]
+
+  \item Greek capital letters:
+        \[ \Greekalphabets \]
+
+  \item Greek small letters:
+        \[ \greekalphabets \]
+
+  \item Greek capital upright letters (\verb|\symup|):
+        \[ \symup{\Greekalphabets} \]
+
+  \item Greek small upright letters (\verb|\symup|):
+        \[ \symup{\greekalphabets} \]
+
+  \item Greek capital bold letters (\verb|\symbf|):
+        \[ \symbf{\Greekalphabets} \]
+
+  \item Greek small bold letters (\verb|\symbf|):
+        \[ \symbf{\greekalphabets} \]
+
+  \item Greek capital bold upright letters (\verb|\symbfup|):
+        \[ \symbfup{\Greekalphabets} \]
+
+  \item Greek small bold upright letters (\verb|\symbfup|):
+        \[ \symbfup{\greekalphabets} \]
+
+  \item Dotless letters:
+        \[ \imath + \jmath + \symup{\imath} + \symup{\jmath} \]
+        % \TOPACCENTMAP{\symbf}{\imath\jmath}
+        % \TOPACCENTMAP{\symup}{\imath\jmath}
+
+  \item Ligature (text): {\firatext\ligaturetext}
+
+  \item Non-ligature (math): $ \symrm{\ligaturetext} $
+\end{itemize}
+
+\section{Equations test}
+
+\begin{itemize}
+  \item Basic:
+        \[ 1 + 2 - 3 \times 4 \div 5 \pm 6 \mp 7 \dotplus 8 = -a \oplus b \otimes c \]
+
+  \item Binary relations
+        \[
+          x + - \oplus \otimes \ominus \odot \oslash \cdot \cdotp \times \div
+          y \cap A \cup B \sqcap C \sqcup D \cupleftarrow k \cupdot l \uplus m
+        \]
+
+  \item Superscript and subscript:
+        \[ 2^2 + 2^{2^2} + 2^{2^{2^2}} + {2^2}^2 + x_a + x_{a_i} + x_{a_{i_1}} \]
+
+  \item Arrows:
+        \[
+          x \leftarrow y \rightarrow z \leftrightarrow w
+            \Leftarrow a \Rightarrow b \Leftrightarrow c
+        \]
+        \[
+          x \uparrow   y \downarrow  z \updownarrow    w
+            \Uparrow   a \Downarrow  b \Updownarrow    c
+        \]
+        \[
+          p \nwarrow p \nearrow p \searrow p \swarrow p
+            \Nwarrow p \Nearrow p \Searrow p \Swarrow p
+        \]
+        \[
+          x \leftharpoonup    x \leftharpoondown  x
+            \upharpoonright   x \upharpoonleft    x
+            \rightharpoonup   x \rightharpoondown x
+            \downharpoonright x \downharpoonleft  x
+        \]
+        \[
+          A \longleftarrow B \longrightarrow C \longleftrightarrow D
+            \Longleftarrow E \Longrightarrow F \Longleftrightarrow G
+        \]
+        \[
+          X \mapsfrom Y \mapsto Z \mapsup W \mapsdown P \Mapsfrom S \Mapsto R
+        \]
+        \[
+          M \longmapsfrom N \longmapsto O \Longmapsfrom K \Longmapsto L
+        \]
+        \[
+          f \rightleftarrows  f \updownarrows f \leftrightarrows f \downuparrows
+          g \rightrightarrows g \upuparrows   g \leftleftarrows  g \downdownarrows
+          h \rightthreearrows h \leftthreearrows
+          p \leftrightharpoons       p \rightleftharpoons
+          p \updownharpoonsleftright p \downupharpoonsleftright p
+        \]
+
+  \item Math accents:
+        \TOPACCENTMAP{\symnormal}{x}
+        % \begin{itemize}
+        %   \item Latin capital letters:
+        %     \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+        %   \item Latin small letters:
+        %     \TOPACCENTMAP{\symnormal}{\latinalphabets}
+        %   \item Latin capital upright letters:
+        %     \TOPACCENTMAP{\symup}{\Latinalphabets}
+        %   \item Latin small upright letters:
+        %     \TOPACCENTMAP{\symup}{\latinalphabets}
+        %   \item Latin capital bold letters:
+        %     \TOPACCENTMAP{\symbf}{\Latinalphabets}
+        %   \item Latin small bold letters:
+        %     \TOPACCENTMAP{\symbf}{\latinalphabets}
+        %   \item Latin capital bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+        %   \item Latin small bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\latinalphabets}
+        %   \item Greek capital letters:
+        %     \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+        %   \item Greek small letters:
+        %     \TOPACCENTMAP{\symnormal}{\greekalphabets}
+        %   \item Greek capital upright letters:
+        %     \TOPACCENTMAP{\symup}{\Greekalphabets}
+        %   \item Greek small upright letters:
+        %     \TOPACCENTMAP{\symup}{\greekalphabets}
+        %   \item Greek capital bold letters:
+        %     \TOPACCENTMAP{\symbf}{\Greekalphabets}
+        %   \item Greek small bold letters:
+        %     \TOPACCENTMAP{\symbf}{\greekalphabets}
+        %   \item Greek capital bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+        %   \item Greek small bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\greekalphabets}
+        % \end{itemize}
+
+  \item Integral:
+        \[
+            \int_0^\pi        \sin x \, \mathrm{d} x
+          = \int\limits_0^\pi \sin x \, \mathrm{d} x
+          = \cos 0 - \cos\pi + C
+        \]
+        \[
+          \int_{-\infty}^{+\infty}   \mathrm{d} z
+          \iint_{-\infty}^{+\infty}  \mathrm{d}^2 y
+          \iiint_{-\infty}^{+\infty} \mathrm{d}^3 x
+        \]
+        \[ \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}\]
+        \begingroup
+          \[
+              \int_0^\pi        \sin x \, \mathrm{d} x
+            = \int\limits_0^\pi \sin x \, \mathrm{d} x
+            = \cos 0 - \cos\pi + C
+          \]
+          \[
+            \int_{-\infty}^{+\infty}   \mathrm{d} z
+            \iint_{-\infty}^{+\infty}  \mathrm{d}^2 y
+            \iiint_{-\infty}^{+\infty} \mathrm{d}^3 x
+          \]
+          \[ \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi} \]
+        \endgroup
+
+  \item Huge operators:
+        \[
+          \int\limits_0^\infty \int_0^\infty
+          \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{k=i}^\infty
+        \]
+        \[
+          \sum_{i=1}^\infty    \frac{1}{x^i} = \frac{1}{1-x} \quad
+          \prod_{i=1}^\infty   \frac{1}{x^i} = x^{-n(n+1)/2} \quad
+          \coprod_{i=i}^\infty \frac{1}{x^i} = ?
+        \]
+
+  \item Huge operators (inline):
+        $ \int\limits_0^\infty \int_0^\infty \iint \dd{x} \iiint \dd{y}
+          \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}
+          \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
+
+  \item Huge operators (inline):
+        \begingroup
+          $ \int\limits_0^\infty \int_0^\infty \iint \dd{x} \iiint \dd{y}
+            \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}
+            \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
+        \endgroup
+
+  \item Fraction:
+        \[ \frac{1}{2} + \frac{1}{\frac{2}{3}+4} + \frac{\frac{1}{2}+3}{4} \]
+
+  \item Fraction (inline):
+        $ \frac{1}{2} + \frac{1g}{2} + \frac{1}{\frac{2}{3}+4} + \frac{\frac{1}{2}+3}{4} $
+
+  \item Radical:
+        \[
+            \sqrt{2} + \sqrt{2^2} + \sqrt{1+\sqrt{2}} + \sqrt{1+\sqrt{1+\sqrt{3}}}
+          + \sqrt{\sqrt{\sqrt{\sqrt{2}}}} + \sqrt{\frac{1}{2}}
+        \]
+
+  \item Brackets:
+        \[
+          \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
+          \Biggl\lgroup \biggl\lgroup \Bigl\lgroup  \bigl\lgroup  \lgroup x \rgroup
+          \bigr\rgroup  \Bigr\rgroup  \biggr\rgroup \Biggr\rgroup                   \quad
+          \Biggl[  \biggl[  \Bigl[  \bigl[   [x]  \bigr]  \Bigr]  \biggr]  \Biggr]  \quad
+          \Biggl\{ \biggl\{ \Bigl\{ \bigl\{ \{x\} \bigr\} \Bigr\} \biggr\} \Biggr\}
+        \]
+        \[
+            \left( x \right) + \left( x^2 \right)
+          + \left( \frac{1}{2} \right) + \left( \frac{2^2}{3} \right)
+          + \left( \frac{\frac{1}{2}}{\frac{3}{4}} \right)
+        \]
+        \[
+          ( \vert ) [ \Vert ] \{ \Vvert \} \quad
+          \bigl(  \bigm\vert  \bigr)  \bigl[  \bigm\Vert  \bigr]  \bigl\{  \bigm\Vvert  \bigr\}  \quad
+          \Bigl(  \Bigm\vert  \Bigr)  \Bigl[  \Bigm\Vert  \Bigr]  \Bigl\{  \Bigm\Vvert  \Bigr\}  \quad
+          \biggl( \biggm\vert \biggr) \biggl[ \biggm\Vert \biggr] \biggl\{ \biggm\Vvert \biggr\} \quad
+          \Biggl( \Biggm\vert \Biggr) \Biggl[ \Biggm\Vert \Biggr] \Biggl\{ \Biggm\Vvert \Biggr\}
+        \]
+
+  \item More brackets:
+        \[
+          \lceil  ceiling \rceil  \quad
+          \lfloor floor   \rfloor \quad
+          \lgroup group   \rgroup
+        \]
+
+  \item Bra-kets:
+        \[
+            \bra{x} + \ket{x} + \ip{\alpha}{\beta} + \op{\alpha}{\beta}
+          + \bra{\frac{1}{2}} + \ket{\frac{1}{2}}
+          + \ip{\frac{1}{2}}{\frac{1}{2}} + \op{\frac{1}{2}}{\frac{1}{2}}
+          + \bra{\frac{a^2}{b^2}}
+          + \Biggl\vert \frac{\mathrm{e}^{x^2}}{\mathrm{e}^{y^2}} \Biggr\rangle
+        \]
+        \[
+            \langle \vert \rangle                   \quad
+            \bigl\langle  \bigl\vert  \bigl\rangle  \quad
+            \Bigl\langle  \Bigl\vert  \Bigl\rangle  \quad
+            \biggl\langle \biggl\vert \biggl\rangle \quad
+            \Biggl\langle \Biggl\vert \Biggl\rangle \qquad
+            \lAngle \vert \rAngle                   \quad
+            \bigl\lAngle  \bigl\vert  \bigl\rAngle  \quad
+            \Bigl\lAngle  \Bigl\vert  \Bigl\rAngle  \quad
+            \biggl\lAngle \biggl\vert \biggl\rAngle \quad
+            \Biggl\lAngle \Biggl\vert \Biggl\rAngle
+        \]
+
+  \item Matrices:
+        \[ \mqty(a & b \\ c & d) + \mqty*(a & b \\ c & d) \]
+        \[
+          \begin{pmatrix} \MATRIXII  \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXII  \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXII  \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXII  \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXII  \end{Vmatrix}
+        \]
+        \[
+          \begin{pmatrix} \MATRIXIII \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXIII \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXIII \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXIII \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXIII \end{Vmatrix}
+        \]
+        \[
+          \begin{pmatrix} \MATRIXIV  \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXIV  \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXIV  \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXIV  \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXIV  \end{Vmatrix}
+        \]
+  \item Nablas:
+        \[ \nabla x + \grad{f} + \divergence{\symbf{u}} + \curl{\symbf{v}} \]
+        \[
+          \nabla                 \quad \symbf{\nabla}           \quad
+          \symit{\nabla}         \quad \symbfit{\nabla};        \quad
+          \tilde{\nabla}         \quad \tilde{\symbf{\nabla}}   \quad
+          \tilde{\symit{\nabla}} \quad \tilde{\symbfit{\nabla}}
+        \]
+  \item Over-/underline and over-/underbraces
+        \[ \OVERUNDERLINE{\overline}     \quad \overline     {\LISTTEXT}   \]
+        \[ \OVERUNDERLINE{\overparen}    \quad \overparen    {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\overbracket}  \quad \overbracket  {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\overbrace}    \quad \overbrace    {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\underline}    \quad \underline    {\LISTTEXT}   \]
+        \[ \OVERUNDERLINE{\underparen}   \quad \underparen   {\LISTTEXT}_n \]
+        \[ \OVERUNDERLINE{\underbracket} \quad \underbracket {\LISTTEXT}_n \]
+        \[ \OVERUNDERLINE{\underbrace}   \quad \underbrace   {\LISTTEXT}_n \]
+\end{itemize}
+
+\verb|\lim_{x\to\infty} \frac{1}{x^2} = 0|
+\[ \lim_{x\to\infty} \frac{1}{x^2} = 0 \]
+
+\verb|\frac{\partial y(x)}{\partial x} = \frac{\mathrm{d}y(x)}{\mathrm{d}x} = y'(x)|
+\[ \frac{\partial y(x)}{\partial x} = \frac{\mathrm{d}y(x)}{\mathrm{d}x} = y'(x) \]
+
+\[ x' x'' x''' x` x^{x'} x^{x''} x^{x'''} x^{x`}\]
+
+{\firatext x\symbol{"2032} x'' x'''}
+
+\[ g^{mn} g_{mn} T^{i}_{jk} \]
+
+\[ x \to \infty + \infty - \infty \]
+
+\def\ee{\mathrm{e}}
+\begin{align*}
+     \int_{-\infty}^\infty \ee^{-x^2} \dd{x}
+  &= \qty[\int_{-\infty}^\infty \ee^{-x^2} \dd{x} \, \int_{-\infty}^\infty \ee^{-y^2} \dd{y}]^{1/2} \\
+  &= \qty[\int_0^{2\pi} \int_0^\infty \ee^{-r^2} r \dd{r}\dd{\theta}]^{1/2} \\
+  &= \qty[\pi \int_0^\infty \ee^{-u} \dd{u}]^{1/2} \\
+  &= \sqrt{\pi}
+\end{align*}
+
+\end{document}
