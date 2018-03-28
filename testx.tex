@@ -4,13 +4,15 @@
 \usepackage[no-math]{fontspec}
 \usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
 \usepackage{physics}
-\setmainfont{EBGaramond12}[
+\usepackage{mathtools}
+\setmainfont{EBGaramond}[
 %Path = D:/LaTeX/FontTest/MTX/ ,
 Extension = .otf ,
 UprightFont = *-Regular ,
-BoldFont = *-fakebold ,
+BoldFont = *-bold ,
 ItalicFont = *-italic ,
-BoldItalicFont = *-fakebold-italic ]
+BoldItalicFont = *-bolditalic ]
+\setmathfont{GM.otf}
 \setsansfont{TeX Gyre Heros}
 \setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
@@ -68,22 +70,16 @@ BoldItalicFont = *-fakebold-italic ]
 
 \begin{itemize}
   \item Latin capital letters:
-        \[ \Latinalphabets RX\]
+        \[ \Latinalphabets\]
 
   \item Latin small letters:
-        \[ \latinalphabets gygf\]
+        \[ \latinalphabets\]
 
   \item Latin capital upright letters (\verb|\symup|):
         \[ \symup{\Latinalphabets} \]
 
   \item Latin small upright letters (\verb|\symup|):
         \[ \symup{\latinalphabets} \]
-
-  \item Latin capital typewriter letters (\verb|\symtt|):
-        \[ \symtt{\Latinalphabets} \]
-
-  \item Latin small typewriter letters (\verb|\symtt|):
-        \[ \symtt{\latinalphabets} \]
 
   \item Latin capital bold letters (\verb|\symbf|):
         \[ \symbf{\Latinalphabets} \]
@@ -125,10 +121,6 @@ BoldItalicFont = *-fakebold-italic ]
         \[ \imath + \jmath + \symup{\imath} + \symup{\jmath} \]
         % \TOPACCENTMAP{\symbf}{\imath\jmath}
         % \TOPACCENTMAP{\symup}{\imath\jmath}
-
-  \item Ligature (text): {\firatext\ligaturetext}
-
-  \item Non-ligature (math): $ \symrm{\ligaturetext} $
 \end{itemize}
 
 \section{Equations test}
@@ -185,40 +177,40 @@ BoldItalicFont = *-fakebold-italic ]
 
   \item Math accents:
         \TOPACCENTMAP{\symnormal}{x}
-        % \begin{itemize}
-        %   \item Latin capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Latinalphabets}
-        %   \item Latin small letters:
-        %     \TOPACCENTMAP{\symnormal}{\latinalphabets}
-        %   \item Latin capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Latinalphabets}
-        %   \item Latin small upright letters:
-        %     \TOPACCENTMAP{\symup}{\latinalphabets}
-        %   \item Latin capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Latinalphabets}
-        %   \item Latin small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\latinalphabets}
-        %   \item Latin capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Latinalphabets}
-        %   \item Latin small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\latinalphabets}
-        %   \item Greek capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Greekalphabets}
-        %   \item Greek small letters:
-        %     \TOPACCENTMAP{\symnormal}{\greekalphabets}
-        %   \item Greek capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Greekalphabets}
-        %   \item Greek small upright letters:
-        %     \TOPACCENTMAP{\symup}{\greekalphabets}
-        %   \item Greek capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Greekalphabets}
-        %   \item Greek small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\greekalphabets}
-        %   \item Greek capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Greekalphabets}
-        %   \item Greek small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\greekalphabets}
-        % \end{itemize}
+         \begin{itemize}
+           \item Latin capital letters:
+             \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+           \item Latin small letters:
+             \TOPACCENTMAP{\symnormal}{\latinalphabets}
+           \item Latin capital upright letters:
+             \TOPACCENTMAP{\symup}{\Latinalphabets}
+           \item Latin small upright letters:
+             \TOPACCENTMAP{\symup}{\latinalphabets}
+           \item Latin capital bold letters:
+             \TOPACCENTMAP{\symbf}{\Latinalphabets}
+           \item Latin small bold letters:
+             \TOPACCENTMAP{\symbf}{\latinalphabets}
+           \item Latin capital bold upright letters:
+             \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+           \item Latin small bold upright letters:
+             \TOPACCENTMAP{\symbfup}{\latinalphabets}
+           \item Greek capital letters:
+             \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+           \item Greek small letters:
+             \TOPACCENTMAP{\symnormal}{\greekalphabets}
+           \item Greek capital upright letters:
+             \TOPACCENTMAP{\symup}{\Greekalphabets}
+           \item Greek small upright letters:
+             \TOPACCENTMAP{\symup}{\greekalphabets}
+           \item Greek capital bold letters:
+             \TOPACCENTMAP{\symbf}{\Greekalphabets}
+           \item Greek small bold letters:
+             \TOPACCENTMAP{\symbf}{\greekalphabets}
+           \item Greek capital bold upright letters:
+             \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+           \item Greek small bold upright letters:
+             \TOPACCENTMAP{\symbfup}{\greekalphabets}
+         \end{itemize}
 
   \item Integral:
         \[
@@ -395,60 +387,77 @@ BoldItalicFont = *-fakebold-italic ]
   &= \sqrt{\pi}
 \end{align*}
 
-	fi ff ffi 
-
-The quick brown fox jumps over the lazy dog.
-
-\textit{The quick brown fox jumps over the lazy dog.}
-
-THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
-
-\textbf{THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.}
-
-\textbf{\textit{THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.}}
-
-\textit{THE QUICK BROWN FOX JUMPS OVER THE LA\"{A}ZY DOG.}
-
-\textit{The quick brown fox jumps over THE QUICK BROWN FOX JUMPS OVER THE LAZY DOGthe lazy dog.}
-
-$y_y$
-%\[1\pm\pmop\mp+-1\mathrm{vw}\symbf{vw}\]
-%\[\pi^{\pi^\pi}\uppi^{\uppi^\uppi}x^{x^x}a^{a^a}A^{A^A}\Lambda^{\Lambda^\Lambda}\]
-%\[\uppi SO(3)\]
-%$\underbrace{\frac{1}{2}}\frac{1}{2}\Biggl\{\biggl\{\Bigl\{\bigl\{\lbrace$\{$\left({90}{\hspace{12pt}}\right)$
-%K$\symbf{xA}\mathcal{HL}I\Psi\symbf{\Psi} \Lambda\symbf{A\Lambda}\mathrm{A} I\symbf{\mathcal{HL}}{{K}}{{K}}$+$+$
-$\hat{k}{\sqrt{\pi\Pi\Sigma p\Omega  p E I}}$
-$1-/+{\pm} 2 \vec{q}u$\textit{uv}${v}$$p$\textit{p}$ v\nu{\nu} k\kappa u \mu w\omega,$,$.$.
-($(\left(x\right))$)[$[]$]
-%\textbf{\{}$\{\}$\}
-$\underbrace{i}_{u}$
-$\underbrace{ii}_{u}$
-$\underbrace{iii}_{u}$
-$\underbrace{iiii}_{u}$
-$\underbrace{iiiii}_{u}$
-$\underbrace{iiiiii}_{u}$
-$\underbrace{iiiiiii}_{u}$
-$\underbrace{iiiiiiii}_{u}$
-$\underbrace{iiiiiiiii}_{u}$
-$\underbrace{iiiiiiiiii}_{u}$
-
-%$\stackbin{\normalfont s}{d}$
-
-awergqwaetgweaqtaqavt;asleitjamg;selicjta;il
-
-$\underbrace{gyvwssd}_{under}\underbrace{yuiopasd\symit{dfg}ghjklzxcvbnm}_{\textbf{}}
-\mathrm{qwertyuiopasdfghjklzxcvbnm}\chi Bb\beta\pi
-)$)
-
-weatvawerytvaserysergywretgserysergyshjgiygoyigoo
-$\left(\left[\left\lbrace\frac{1}{2}\right\rbrace\right]\right)$
-$\left(\int_{0}^{0}\sum_0^1 \prod_0^1 x 123xyz\delta\right)$
-\[\left\{\left[\left(\int_{0}^{0}\sum_0^1 \prod_0^1 x 123xyz\Sigma\right)\right]\right\}\]
-$\oint_{0}^{0}\frac{\ln \left(1+x\right)}{x\left(1+x^2\right)}\delta x$
-\[\oint_{0}^{0}\frac{\ln \left(1+x\right)}{x\left(1+x^2\right)}\mathrm{d} x=\frac{7 {\pi}\times\pi}{96}-\frac{\ln^2 2}{8}\]
+\[\oiint_{\partial\Omega}\vec{E}\cdot\dd{\vec S}=4\uppi \iint_{\Omega}\rho\dd{V};\]
+\[\oiint_{\partial\Omega}\vec{B}\cdot\dd{\vec S}=0;\]
+\[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}};\]
+\[\oint_{\partial\Sigma}\vec B\cdot \dd{\vec{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\vec J\cdot \dd{\vec S}+\frac{\dd}{\dd t}\iint_{\Sigma}\vec E \cdot \dd{\vec{S}}\right).\]
+\[\partial_{[a}F_{\beta\gamma]}=0;\]
+\[\partial_\alpha F^{\alpha\beta}=\mu_0J^\beta.\]
 
 
-\textbf{\textit{A}}$\symbf{A\Sigma}\Sigma\Pi\Sigma \Epsilon E\Sigma p E p \Epsilon\Epsilon EE \Epsilon ETS  EEqqE \Gamma\Gamma pp \Gamma \Omega \Omega pp\Omega f\Omega  gfg\symbf{gfg}f\mathrm{H}f(x)$ 
+\[\left(\frac{-\hbar^2}{2m}\nabla^2+V\right)\Psi=i\hbar\dot{\Psi}.\]
+
+\[\left[ f,g \right]\equiv \sum\limits_{\alpha =1}^{s}{\left( \frac{\partial f}{\partial {{q}_{\alpha }}}\frac{\partial g}{\partial {{p}_{\alpha }}}-\frac{\partial g}{\partial {{q}_{\alpha }}}\frac{\partial f}{\partial {{p}_{\alpha }}} \right)}=\sum\limits_{\alpha =1}^{s}{\left| \begin{matrix}
+	\frac{\partial f}{\partial {{q}_{\alpha }}} & \frac{\partial f}{\partial {{p}_{\alpha }}}  \\
+	\frac{\partial g}{\partial {{q}_{\alpha }}} & \frac{\partial g}{\partial {{p}_{\alpha }}}  \\
+	\end{matrix} \right|}=\sum\limits_{\alpha =1}^{s}{\frac{\partial \left( f,g \right)}{\partial \left( {{q}_{\alpha }},{{p}_{\alpha }} \right)}}\]
+\[\begin{split}
+& \frac{{{\text{d}}^{2}}f}{\text{d}{{t}^{2}}}=\frac{\text{d}}{\text{d}t}\left[ f,H \right]=\left[ \left[ f,H \right],H \right]=\hat{H}\hat{H}f={{{\hat{H}}}^{2}}f \\ 
+& \vdots  \\ 
+& \frac{{{\text{d}}^{n}}f}{\text{d}{{t}^{n}}}=\underbrace{\left[ \left[ \left[ f,H \right],\cdots  \right],H \right]}_{n}={{{\hat{H}}}^{n}}f  \\
+\end{split}\]
+\[\left( \begin{matrix}
+{mg}/{l}\;+k-m\omega _{1}^{2} & -k  \\
+-k & {mg}/{l}\;+k-m\omega _{1}^{2}  \\
+\end{matrix} \right)\left( \begin{matrix}
+{{a}_{11}}  \\
+{{a}_{21}}  \\
+\end{matrix} \right)=0\]
+\[V=\underbrace{{{V}_{0}}}_{=0}+\underbrace{\sum\limits_{\alpha =1}^{s}{{{\left( \frac{\partial V}{\partial {{q}_{\alpha }}} \right)}_{0}}{{q}_{\alpha }}}}_{=0}+\underbrace{\frac{1}{2}\sum\limits_{\alpha ,\beta =1}^{s}{{{\left( \frac{{{\partial }^{2}}V}{\partial {{q}_{\alpha }}\partial {{q}_{\beta }}} \right)}_{0}}{{q}_{\alpha }}{{q}_{\beta }}}}_{>0}+\cdots \]
+\[T=\frac{1}{2}\sum\limits_{i=1}^{n}{{{m}_{i}}{{{\dot{\vec r}}}_{i}}\cdot {{{\dot{\vec r}}}_{i}}}=\frac{1}{2}\sum\limits_{\alpha ,\beta =1}^{s}{\left[ \sum\limits_{i=1}^{n}{{{m}_{i}}{{\left( \frac{\partial {{\vec r}_{i}}}{\partial {{q}_{\alpha }}} \right)}_{0}}\cdot {{\left( \frac{\partial {{\vec r}_{i}}}{\partial {{q}_{\beta }}} \right)}_{0}}} \right]{{{\dot{q}}}_{\alpha }}{{{\dot{q}}}_{\beta }}}+\cdots \]
+\[\left( \begin{matrix}
+{{u}_{0}}  \\
+{{u}_{1}}  \\
+\vdots   \\
+{{u}_{N-1}}  \\
+\end{matrix} \right)=\sum\limits_{k>0}{\left[ \left( \begin{matrix}
+	1  \\
+	\cos ka  \\
+	\vdots   \\
+	\cos k\left( N-1 \right)a  \\
+	\end{matrix} \right)\underbrace{{{C}_{k+}}\cos \left( {{\omega }_{k}}t+{{\varphi }_{k+}} \right)}_{\frac{2}{\sqrt{N}}{{q}_{k+}}}+\left( \begin{matrix}
+	0  \\
+	\sin ka  \\
+	\vdots   \\
+	\sin k\left( N-1 \right)a  \\
+	\end{matrix} \right)\underbrace{{{C}_{k-}}\cos \left( {{\omega }_{k}}t+{{\varphi }_{k-}} \right)}_{\frac{2}{\sqrt{N}}{{q}_{k-}}} \right]}\]
+
+\[G(\vec{r},{\vec{r}}',\tau )=\int _{-\infty }^{\infty }\tilde{G}(\vec{r},{\vec{r}}',\omega )e^{-i \tau  \omega }d\omega=\int_{-\infty }^{\infty } \frac{e^{-i \tau  \omega } e^{i k |\vec{r}-{\vec{r}}'| }}{(2 \pi ) |\vec{r}-{\vec{r}}'| } \, d\omega=\frac{\delta  \left(\tau -\frac{R}{c}\right)}{|\vec{r}-{\vec{r}}'| }\]
 
 
+\def\ii{\mathrm{i}}
+
+\[
+\begin{split}	
+\mathcal{F}^{-1}(\ket{j})
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k=0}^{2^n-1}\exp\left(-2\pi \ee \frac{jk}{2^n}\right)\ket{k}.\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\exp\left(-2\uppi \ii j\sum_{l=0}^{n-1}\frac{2^l k_l}{2^n}\right)\ket{k_{n-1}\cdots k_0}\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\bigotimes_{l=1}^n\left[\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\sum_{k_{n-l}=0}^1\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii j /2^l}\ket{1}_{n-l}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii ({0.j_{l-1}\ldots j_0})}\ket{1}_{n-l}\right].
+\end{split}
+\]
+
+\[\begin{dcases}
+{{{{u}'}}_{x}}=\frac{{{u}_{x}}-v}{1-{v{{u}_{x}}}/{{{c}^{2}}}\;} \\ 
+{{{{u}'}}_{y}}=\frac{{{u}_{y}}\sqrt{1-{{{v}^{2}}}/{{{c}^{2}}}\;}}{1-{v{{u}_{x}}}/{{{c}^{2}}}\;} \\ 
+{{{{u}'}}_{z}}=\frac{{{u}_{z}}\sqrt{1-{{{v}^{2}}}/{{{c}^{2}}}\;}}{1-{v{{u}_{x}}}/{{{c}^{2}}}\;}  \\
+\end{dcases}\]
+
+
+\[\oiint_{\partial\Omega}\symbf{E}\cdot\dd{\symbf S}=4\uppi \iint_{\Omega}\rho\dd{V};\]
+\[\oiint_{\partial\Omega}\symbf{B}\cdot\dd{\symbf S}=0;\]
+\[\oint_{\partial\Sigma}\symbf E\cdot \dd{\symbf{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\symbf B \cdot \dd{\symbf{S}};\]
+\[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
 \end{document}
