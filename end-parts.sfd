@@ -1,0 +1,115 @@
+SplineFontDB: 3.0
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2018, Yuansheng Zhao
+UComments: "2018-3-30: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 70 263418660 12014]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1522414217
+ModificationTime: 1522415956
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 26 10
+BeginChars: 256 5
+
+StartChar: exclam
+Encoding: 33 33 0
+Width: 560
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 6
+ 0 -18 -29 -32 -39 -32 c 4
+ -45 -32 -50 -24 -50 -18 c 1030
+EndSplineSet
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 1
+Width: 438
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-50 18 m 6
+ -50 24 -45 32 -39 32 c 4
+ -29 32 0 18 0 0 c 1030
+EndSplineSet
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 2
+Width: 1000
+VWidth: 993
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-18 -50 m 6
+ -29 -50.5 -31 -41 -31 -36 c 4
+ -31 -20 -17 -0.5 0 0 c 1030
+EndSplineSet
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 3
+Width: 1000
+VWidth: 993
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+18 50 m 6
+ 29 49.5 31 41 31 36 c 4
+ 31 20 17 -0.5 0 0 c 1030
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 4
+Width: 810
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 0 m 6
+ 15 15 53 -1 53 -13 c 4
+ 53 -17 51 -21 49 -23 c 1030
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

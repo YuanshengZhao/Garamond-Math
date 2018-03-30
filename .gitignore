@@ -1,5 +1,2 @@
-*.aux
-*.log
-*.otf
-*.pdf
-*.synctex.gz
+*.*
+!*.sfd
