@@ -1,0 +1,64 @@
+\documentclass{article}
+
+\PassOptionsToPackage{no-math}{fontspec}
+\usepackage{xfonttable,geometry,ctexheading,fontspec,xcolor-material,hyperref}
+
+\geometry{a4paper, hmargin=0.5in, vmargin=1.0in}
+\ctexset{section/format=\Large\bfseries\centering}
+\hypersetup{bookmarksnumbered=true, colorlinks=true, linkcolor=GoogleGreen}
+
+\setmainfont{Source Sans Pro}
+\setmonofont{Courier New}
+
+\newfontface\SYMBOLFONT{GM.otf}%[Path=../assets/]
+%\newfontface\SYMBOLFONT{FiraSans-Regular.otf}
+%\newfontface\SYMBOLFONT{xits-math.otf}
+
+\title{\bfseries Garamond Math}
+\author{Glyphs count: \ref*{count:glyph}}
+
+\begin{document}
+
+\newgeometry{hmargin=1.5in, vmargin=1.0in}
+\maketitle
+\tableofcontents
+\clearpage
+
+\restoregeometry
+\fonttable{C0 Controls and Basic Latin}{"0}{"7F}
+\fonttable{C1 Controls and Latin-1 Supplement}{"80}{"FF}
+\fonttable{Latin Extended-A}{"100}{"17F}
+\fonttable{Latin Extended-B}{"180}{"24F}
+%\fonttable{IPA Extensions}{"250}{"2AF}
+%\fonttable{Spacing Modifier Letters}{"2B0}{"2FF}
+\fonttable{Combining Diacritical Marks}{"300}{"36F}
+\fonttable{Greek and Coptic}{"370}{"3FF}
+\fonttable{General Punctuation}{"2000}{"206F}
+%\fonttable{Superscripts and Subscripts}{"2070}{"209F}
+\fonttable{Currency Symbols}{"20A0}{"20CF}
+\fonttable{Combining Diacritical Marks for Symbols}{"20D0}{"20FF}
+\fonttable{Letterlike Symbols}{"2100}{"214F}
+\fonttable{Number Forms}{"2150}{"218F}
+\fonttable{Arrows}{"2190}{"21FF}
+\fonttable{Mathematical Operators}{"2200}{"22FF}
+\fonttable{Miscellaneous Technical}{"2300}{"23FF}
+%\fonttable{Control Pictures}{"2400}{"243F}
+%\fonttable{Optical Character Recognition}{"2440}{"245F}
+%\fonttable{Enclosed Alphanumerics}{"2460}{"24FF}
+%\fonttable{Box Drawing}{"2500}{"257F}
+\fonttable{Block Elements}{"2580}{"259F}
+\fonttable{Geometric Shapes}{"25A0}{"25FF}
+\fonttable{Miscellaneous Symbols}{"2600}{"26FF}
+%\fonttable{Dingbats}{"2700}{"27BF}
+\fonttable{Miscellaneous Mathematical Symbols-A}{"27C0}{"27EF}
+\fonttable{Supplemental Arrows-A}{"27F0}{"27FF}
+%\fonttable{Braille Patterns}{"2800}{"28FF}
+\fonttable{Supplemental Arrows-B}{"2900}{"297F}
+\fonttable{Miscellaneous Mathematical Symbols-B}{"2980}{"29FF}
+%\fonttable{Supplemental Mathematical Operators}{"2A00}{"2AFF}
+\fonttable{Miscellaneous Symbols and Arrows}{"2B00}{"2BFF}
+\fonttable{Alphabetic Presentation Forms}{"FB00}{"FB4F}
+\fonttable{Mathematical Alphanumeric Symbols}{"1D400}{"1D7FF}%
+  [\refstepcounter{glyph}\label{count:glyph}]
+
+\end{document}

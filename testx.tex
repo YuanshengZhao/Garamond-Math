@@ -1,0 +1,356 @@
+\documentclass{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage[no-math]{fontspec}
+\usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
+\usepackage{physics}
+\usepackage{mathtools}
+%\usepackage{extarrows}
+\setmainfont{EBGaramond}[
+%Path = D:/LaTeX/FontTest/MTX/ ,
+Extension = .otf ,
+UprightFont = *-Regular ,
+BoldFont = *-bold ,
+ItalicFont = *-italic ,
+BoldItalicFont = *-bolditalic ]
+%\setmathfont{GM.otf}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
+
+%\setmathfont{XITS Math}
+\setmathfont{GM.otf}
+
+\def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
+\def\Greekalphabets{%
+  \Alpha      \Beta       \Gamma      \Delta      \Epsilon
+  \Zeta       \Eta        \Theta      \varTheta   \Iota
+  \Kappa      \Lambda     \Mu         \Nu         \Xi
+  \Omicron    \Pi         \Rho        \Sigma      \Tau
+  \Upsilon    \Phi        \Chi        \Psi        \Omega
+}
+\def\greekalphabets{%
+  \alpha      \beta       \gamma      \delta      \epsilon
+   \zeta       \eta        \theta      \vartheta 
+  \iota       \kappa      \varkappa   \lambda     \mu
+  \nu         \xi         \omicron    \pi \varpi        \rho
+  \varrho     \sigma      \varsigma   \tau        \upsilon
+  \phi        \varphi     \chi        \psi        \omega
+}
+% ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+% αβγδεζηθικλμνξοπρστυφχψω
+\def\TOPACCENT#1{%
+  \acute{#1}    \, \bar{#1}   \, \breve{#1} \, \check{#1}   \, \ddddot{#1}    , \quad
+  \dddot{#1}    \, \ddot{#1}  \, \dot{#1}   \, \grave{#1}   \, \hat{#1}       , \quad
+  \mathring{#1} \, \tilde{#1} \, \vec{#1}   \, \widehat{#1} \, \widetilde{#1}
+}
+\def\MATRIXII{a\\b}
+\def\MATRIXIII{x\\y\\z}
+\def\MATRIXIV{\phi\\\chi\\\phi'\\\chi'}
+\ExplSyntaxOn
+\NewDocumentCommand \TOPACCENTMAP { m m }
+  { \fonttest_top_accent_map:Nx #1 {#2} }
+\cs_new:Npn \fonttest_top_accent_map:Nn #1#2
+  { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
+\cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
+\ExplSyntaxOff
+\def\OVERUNDERLINE#1{%
+  #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
+\def\LISTTEXT{x_1, \, x_2, \, \ldots, \, x_n}
+
+\def\ee{\mathrm{e}}
+\def\ii{\mathrm{i}}
+\def\bm{\symbf}
+\newcommand{\innerprod}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
+\newcommand{\brakket}[3]{\left\langle{#1}\middle\vert{#2}\middle\vert{#3}\right\rangle}
+
+\begin{document}
+
+\section{Alphabets}
+%\delimitershortfall-.001pt
+
+       \[ \Latinalphabets \latinalphabets \]
+       \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
+       \[ \symbf{\Latinalphabets} \symbf{\latinalphabets}\]
+       \[ \symbfup{\Latinalphabets}  \symbfup{\latinalphabets} \]
+       \[ \Greekalphabets \greekalphabets\]
+       \[ \symup{\Greekalphabets} \symup{\greekalphabets} \]
+       \[ \symbf{\Greekalphabets} \symbf{\greekalphabets} \]
+       \[ \symbfup{\Greekalphabets} \symbfup{\greekalphabets} \]
+       \[ \imath + \jmath + \symup{\imath} + \symup{\jmath} \]
+       \[ \symbb{\Latinalphabets \latinalphabets} \]
+       \[SO(3)SU(2)LAETSQ_AWOWCVO LX UUTTXAT afggffg\]
+       \[\symbf{afggffg} \Omega f \lambda\kappa\vartheta\nu\varpi\upsilon\]
+        % \TOPACCENTMAP{\symbf}{\imath\jmath}
+        % \TOPACCENTMAP{\symup}{\imath\jmath}
+
+\section{Equations Tests}
+
+\begin{itemize}
+  \item Basic
+        \[ 1 + 2 - 3 \times 4 \div 5 \pm 6 \mp 7 \dotplus 8 = -a \oplus b \otimes c -\{z\}\]
+
+  \item Binary relations
+        \[
+          x + - \oplus \otimes \ominus \odot \oslash \cdot \cdotp \times \div
+          y \cap A \cup B \sqcap C \sqcup D \cupleftarrow k \cupdot l \uplus m
+        \]
+
+  \item Superscript and subscript
+        \[ 2^2 + 2^{2^2} + 2^{2^{2^2}} + {2^2}^2 + x_a + x_{a_i} + x_{a_{i_1}} \]
+
+  \item Arrows
+        \[
+          x \leftarrow y \rightarrow z \leftrightarrow w
+            \Leftarrow a \Rightarrow b \Leftrightarrow c
+        \]
+        \[
+          x \uparrow   y \downarrow  z \updownarrow    w
+            \Uparrow   a \Downarrow  b \Updownarrow    c
+        \]
+        \[
+          p \nwarrow p \nearrow p \searrow p \swarrow p
+            \Nwarrow p \Nearrow p \Searrow p \Swarrow p
+        \]
+        \[
+          x \leftharpoonup    x \leftharpoondown  x
+            \upharpoonright   x \upharpoonleft    x
+            \rightharpoonup   x \rightharpoondown x
+            \downharpoonright x \downharpoonleft  x
+        \]
+        \[
+          A \longleftarrow B \longrightarrow C \longleftrightarrow D
+            \Longleftarrow E \Longrightarrow F \Longleftrightarrow G
+        \]
+        \[
+          X \mapsfrom Y \mapsto Z \mapsup W \mapsdown P \Mapsfrom S \Mapsto R
+        \]
+        \[
+          M \longmapsfrom N \longmapsto O \Longmapsfrom K \Longmapsto L
+        \]
+        \[
+          f \rightleftarrows  f \updownarrows f \leftrightarrows f \downuparrows
+          g \rightrightarrows g \upuparrows   g \leftleftarrows  g \downdownarrows
+          h \rightthreearrows h \leftthreearrows
+          p \leftrightharpoons       p \rightleftharpoons
+          p \]
+%        \[\xLeftrightarrow{\symup{Na}_2\symup{SO}_4, \;
+%        	\symup{AgClO}_4, \;
+%        	\symup{K}_3\symup{Fe}(\symup{CN})_6} \xleftrightarrow{\symup{Na}_2\symup{SO}_4, \;
+%        	\symup{AgClO}_4, \;
+%        	\symup{K}_3\symup{Fe}(\symup{CN})_6}\]
+%\[{\Uhextensible width 1cm 0 "2192}{\Uhextensible width 1cm 0 "21DB}{\Uhextensible width 1cm 0 "21CE}\]
+  \item Math accents
+        \TOPACCENTMAP{\symnormal}{W}
+%         \begin{itemize}
+%           \item Latin capital letters:
+%             \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+%           \item Latin small letters:
+%             \TOPACCENTMAP{\symnormal}{\latinalphabets}
+%           \item Latin capital upright letters:
+%             \TOPACCENTMAP{\symup}{\Latinalphabets}
+%           \item Latin small upright letters:
+%             \TOPACCENTMAP{\symup}{\latinalphabets}
+%           \item Latin capital bold letters:
+%             \TOPACCENTMAP{\symbf}{\Latinalphabets}
+%           \item Latin small bold letters:
+%             \TOPACCENTMAP{\symbf}{\latinalphabets}
+%           \item Latin capital bold upright letters:
+%             \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+%           \item Latin small bold upright letters:
+%             \TOPACCENTMAP{\symbfup}{\latinalphabets}
+%           \item Greek capital letters:
+%             \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+%           \item Greek small letters:
+%             \TOPACCENTMAP{\symnormal}{\greekalphabets}
+%           \item Greek capital upright letters:
+%             \TOPACCENTMAP{\symup}{\Greekalphabets}
+%           \item Greek small upright letters:
+%             \TOPACCENTMAP{\symup}{\greekalphabets}
+%           \item Greek capital bold letters:
+%             \TOPACCENTMAP{\symbf}{\Greekalphabets}
+%           \item Greek small bold letters:
+%             \TOPACCENTMAP{\symbf}{\greekalphabets}
+%           \item Greek capital bold upright letters:
+%             \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+%           \item Greek small bold upright letters:
+%             \TOPACCENTMAP{\symbfup}{\greekalphabets}
+%         \end{itemize}
+
+  \item Large operators
+  \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
+  		\[\oiint_{\partial\Omega}\symbf{E}\cdot\dd{\symbf S}=4\uppi \iiint_{\Omega}\rho\dd{V}\]
+  		\[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
+        \[
+          \int\limits_0^\infty \int_0^\infty
+          \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{k=i}^\infty
+          \oiiint \varointclockwise \ointctrclockwise \awint \intclockwise
+        \]
+
+  \item Large operators (inline)
+        $ \int\limits_0^\infty \int_0^\infty \iint \dd{x} \iiint \dd{y}
+          \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}\varointclockwise \ointctrclockwise \awint \intclockwise
+          \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
+
+  \item Fraction
+        \[ \frac{1}{2} + \frac{1}{\frac{2}{3}+4} + \frac{\frac{1}{2}+3}{4} \]
+
+  \item Fraction (inline)
+        $ \frac{1}{2} + \frac{1g}{2} + \frac{1}{\frac{2}{3}+4} + \frac{\frac{1}{2}+3}{4} $
+
+  \item Radical
+        \[
+            \sqrt{2} + \sqrt{2^2} + \sqrt{1+\sqrt{2}} + \sqrt{1+\sqrt{1+\sqrt{3}}}
+          + \sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{x}}}}}}}}}}}}}} + \sqrt{\frac{1}{2}}
+        \]
+
+  \item Brackets
+  \[(jf)|jf\rangle(\ket{j})(\ket{k})\left((j)\right)\]
+        \[
+          \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
+          \Biggl[  \biggl[  \Bigl[  \bigl[   [x]  \bigr]  \Bigr]  \biggr]  \Biggr]  \quad
+          \Biggl\{ \biggl\{ \Bigl\{ \bigl\{ \{x\} \bigr\} \Bigr\} \biggr\} \Biggr\}\quad
+           \Biggl\lvert \biggl\lvert \Bigl\lvert \bigl\lvert \lvert x\rvert \bigr\rvert \Bigr\rvert\biggr\rvert \Biggr\rvert\quad
+           \Biggl\lVert \biggl\lVert \Bigl\lVert \bigl\lVert \lVert x\rVert \bigr\rVert \Bigr\rVert\biggr\rVert \Biggr\rVert\quad
+            \Biggl\langle \biggl\langle \Bigl\langle \bigl\langle \langle x\rangle \bigr\rangle \Bigr\rangle\biggr\rangle \Biggr\rangle\quad
+        \]
+        \[       
+         \Biggl\lgroup \biggl\lgroup \Bigl\lgroup \bigl\lgroup \lgroup x\rgroup \bigr\rgroup \Bigr\rgroup\biggr\rgroup \Biggr\rgroup\quad
+        \Biggl\lfloor \biggl\lfloor \Bigl\lfloor \bigl\lfloor \lfloor x\rfloor \bigr\rfloor \Bigr\rfloor\biggr\rfloor \Biggr\rfloor\quad
+        \Biggl\lceil \biggl\lceil \Bigl\lceil \bigl\lceil \lceil x\rceil \bigr\rceil \Bigr\rceil\biggr\rceil \Biggr\rceil\quad\]
+        \[
+            \left( x \right) + \left( x^2 \right)
+          + \left( \frac{1}{2} \right) + \left( \frac{2^2}{3} \right)
+          + \left( \frac{\frac{1}{2}}{\frac{3}{4}} \right)
+        \]
+        \[
+          ( \vert ) [ \Vert ] \{ \Vvert \} \quad
+          \bigl(  \bigm\vert  \bigr)  \bigl[  \bigm\Vert  \bigr]  \bigl\{  \bigm\Vvert  \bigr\}  \quad
+          \Bigl(  \Bigm\vert  \Bigr)  \Bigl[  \Bigm\Vert  \Bigr]  \Bigl\{  \Bigm\Vvert  \Bigr\}  \quad
+          \biggl( \biggm\vert \biggr) \biggl[ \biggm\Vert \biggr] \biggl\{ \biggm\Vvert \biggr\} \quad
+          \Biggl( \Biggm\vert \Biggr) \Biggl[ \Biggm\Vert \Biggr] \Biggl\{ \Biggm\Vvert \Biggr\}
+        \]
+        \[
+            \bra{x} + \ket{x} + \ip{\alpha}{\beta} + \op{\alpha}{\beta}
+          + \bra{\frac{1}{2}} + \ket{\frac{1}{2}}
+          + \ip{\frac{1}{2}}{\frac{1}{2}} + \op{\frac{1}{2}}{\frac{1}{2}}
+          + \bra{\frac{a^2}{b^2}}
+          + \Biggl\vert \frac{\mathrm{e}^{x^2}}{\mathrm{e}^{y^2}} \Biggr\rangle
+        \]
+        \[
+            \langle \vert \rangle                   \quad
+            \bigl\langle  \bigl\vert  \bigl\rangle  \quad
+            \Bigl\langle  \Bigl\vert  \Bigl\rangle  \quad
+            \biggl\langle \biggl\vert \biggl\rangle \quad
+            \Biggl\langle \Biggl\vert \Biggl\rangle \qquad
+            \lAngle \vert \rAngle                   \quad
+            \bigl\lAngle  \bigl\vert  \bigl\rAngle  \quad
+            \Bigl\lAngle  \Bigl\vert  \Bigl\rAngle  \quad
+            \biggl\lAngle \biggl\vert \biggl\rAngle \quad
+            \Biggl\lAngle \Biggl\vert \Biggl\rAngle
+        \]
+
+  \item Matrices
+        \[
+        \begin{pmatrix} \MATRIXII  \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXII  \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXII  \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXII  \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXII  \end{Vmatrix} \quad
+          \begin{pmatrix} \MATRIXIII \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXIII \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXIII \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXIII \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXIII \end{Vmatrix} \quad
+          \begin{pmatrix} \MATRIXIV  \end{pmatrix} \quad
+          \begin{bmatrix} \MATRIXIV  \end{bmatrix} \quad
+          \begin{Bmatrix} \MATRIXIV  \end{Bmatrix} \quad
+          \begin{vmatrix} \MATRIXIV  \end{vmatrix} \quad
+          \begin{Vmatrix} \MATRIXIV  \end{Vmatrix} \quad
+        \]
+        \[\begin{split}
+        V&{}=-\gamma \mathbf{B}\cdot \mathbf{S}=-\gamma\dfrac{\hbar}{2}(B_x{\sigma}_x+B_y{\sigma}_y)\\
+        &{}=-\gamma\frac{\hbar}{2}\begin{bmatrix}0&B_1(\cos(\omega t)+\ii \sin(\omega t)\\B_1(\cos(\omega t)-\ii \sin(\omega t))&0\end{bmatrix}\\
+        &{}=-\gamma\frac{\hbar}{2}\begin{pmatrix}0&B_1\ee^{\ii\omega t}\\B_1\ee^{-\ii \omega t}&0\end{pmatrix}
+        \end{split}\]
+  \item Nabla and partial
+        \[ \rho\frac{\dd \symbf v}{\dd t}=\symbfscr{f}-\nabla p+\eta \symit{\nabla}^2 \symbf v+(\eta+\theta)\symbfup{\nabla}(\symbfit\nabla\cdot\symbf v)\]
+        \[\bar{\psi}(\leftharpoonaccent{\nabla}+\rightharpoonaccent{\symbfit{\nabla}})\psi+\partial_\mu(\symup\partial^\mu\phi)-\epsilon^{\lambda\mu\nu}\symbf\partial_\mu(A_\lambda\symbfup\partial_\nu f)\]
+  \item Over-/underline and over-/underbraces
+        \[ \OVERUNDERLINE{\overline}     \quad \overline     {\LISTTEXT}   \]
+        \[ \OVERUNDERLINE{\overparen}    \quad \overparen    {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\overbracket}  \quad \overbracket  {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\overbrace}    \quad \overbrace    {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\underline}    \quad \underline    {\LISTTEXT}   \]
+        \[ \OVERUNDERLINE{\underparen}   \quad \underparen   {\LISTTEXT}_n \]
+        \[ \OVERUNDERLINE{\underbracket} \quad \underbracket {\LISTTEXT}_n \]
+        \[ \OVERUNDERLINE{\underbrace}   \quad \underbrace   {\LISTTEXT}_n \]
+
+\item Others
+\[ \lim_{x\to\infty} x' x'' x''' x` x^{x'} x^{x''} x^{x'''} x^{x`} g^{mn} g_{mn} T^{i}_{jk} \]
+\end{itemize}
+\section{More Samples}
+
+\begin{align*}
+\int_{0}^aJ_0\left[\frac{x_n^{(0)}}{a}r\right]\left[\frac{x_m^{(0)}}{a}r\right]r\dd{r}=\frac{a^2}{2}J_1^2[x_n^{(0)}]\delta_m^n.\\
+\int_{0}^{\infty}\frac{\cos x-\ee^{-x}}{x}\dd{x}=0\\
+\end{align*}
+\[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}};\]
+\[\partial_{[a}F_{\beta\gamma]}=0;\quad \partial_\alpha F^{\alpha\beta}=\mu_0J^\beta\]
+\[\left(\frac{-\hbar^2}{2m}\nabla^2+V\right)\Psi=i\hbar\dot{\Psi}\]
+\[\begin{split}
+\frac{1}{\mathcal{C}^2}&{}=\frac{\innerprod{g'}{g'}}{\mathcal{C}^2}=\sum_{\bm{k}}\sum_{\bm{k}'}\brakket{g}{c_{\bm{k}',\uparrow}^\dagger c_{\bm{k}',\downarrow} c_{\bm{k},\downarrow}^\dagger c_{\bm{k},\uparrow}}{g}=\sum_{\bm{k}}\brakket{g}{c_{\bm{k},\uparrow}^\dagger c_{\bm{k},\downarrow} c_{\bm{k},\downarrow}^\dagger c_{\bm{k},\uparrow}}{g}\\
+&{}=\sum_{\bm{k}}\brakket{g}{n_{\bm{k},\uparrow}\left(1-n_{\bm{k},\downarrow}\right)}{g}\\
+&{}=\sum_{\norm{\bm{k}}<k_F^\downarrow}\brakket{g}{0}{g}+\sum_{k_F^\downarrow<\norm{\bm{k}}<k_F^\uparrow}\brakket{g}{1}{g}+\sum_{\norm{\bm{k}}>k_F^\uparrow}\brakket{g}{0}{g}\\
+&{}=N_\uparrow-N_\downarrow
+\end{split}\]
+\[\left[ f,g \right]\equiv \sum_{\alpha =1}^{s}{\left( \frac{\partial f}{\partial {{q}_{\alpha }}}\frac{\partial g}{\partial {{p}_{\alpha }}}-\frac{\partial g}{\partial {{q}_{\alpha }}}\frac{\partial f}{\partial {{p}_{\alpha }}} \right)}=\sum\limits_{\alpha =1}^{s}{\begin{vmatrix}
+	\partial_{{q}_{\alpha }} f & \partial_{{p}_{\alpha }} f  \\
+	\partial_{{q}_{\alpha }} g & \partial_{{p}_{\alpha }} g  \\
+	\end{vmatrix} }=\sum\limits_{\alpha =1}^{s}{\frac{\partial \left( f,g \right)}{\partial \left( {{q}_{\alpha }},{{p}_{\alpha }} \right)}}\]
+\[\begin{split}
+& \frac{{{\text{d}}^{2}}f}{\text{d}{{t}^{2}}}=\frac{\text{d}}{\text{d}t}\left[ f,H \right]=\left[ \left[ f,H \right],H \right]=\hat{H}\hat{H}f={{{\hat{H}}}^{2}}f \\ 
+& \vdots  \\ 
+& \frac{{{\text{d}}^{n}}f}{\text{d}{{t}^{n}}}=\underbrace{\left[ \left[ \left[ f,H \right],\cdots  \right],H \right]}_{n}={{{\hat{H}}}^{n}}f  \\
+\end{split}\]
+\[\tilde{U}(r,z)=E_0\dfrac{\omega_0}{\omega(z)}\exp\left[-r^2\left(\dfrac{1}{\omega^2(z)}+\dfrac{\ii k}{2R(z)}\right)-\ii k z+\ii \zeta(z)\right]\]
+\[\omega(z)=\omega_0\sqrt{1+\left(\dfrac{\lambda z}{\pi {\omega_0}^2}\right)^2};\quad R(z)=z\left[1+\left(\dfrac{\pi {\omega_0}^2}{\lambda z}\right)^2\right]\]
+\[\left( \begin{matrix}
+{mg}/{l}\;+k-m\omega _{1}^{2} & -k  \\
+-k & {mg}/{l}\;+k-m\omega _{1}^{2}  \\
+\end{matrix} \right)\left( \begin{matrix}
+{{a}_{11}}  \\
+{{a}_{21}}  \\
+\end{matrix} \right)=0\]
+\[V=\underbrace{{{V}_{0}}}_{=0}+\underbrace{\sum\limits_{\alpha =1}^{s}{{{\left( \frac{\partial V}{\partial {{q}_{\alpha }}} \right)}_{0}}{{q}_{\alpha }}}}_{=0}+\underbrace{\frac{1}{2}\sum\limits_{\alpha ,\beta =1}^{s}{{{\left( \frac{{{\partial }^{2}}V}{\partial {{q}_{\alpha }}\partial {{q}_{\beta }}} \right)}_{0}}{{q}_{\alpha }}{{q}_{\beta }}}}_{>0}+\cdots \]
+\[T=\frac{1}{2}\sum\limits_{i=1}^{n}{{{m}_{i}}{{{\dot{\bm r}}}_{i}}\cdot {{{\dot{\bm r}}}_{i}}}=\frac{1}{2}\sum\limits_{\alpha ,\beta =1}^{s}{\left[ \sum\limits_{i=1}^{n}{{{m}_{i}}{{\left( \frac{\partial {{\bm r}_{i}}}{\partial {{q}_{\alpha }}} \right)}_{0}}\cdot {{\left( \frac{\partial {{\bm r}_{i}}}{\partial {{q}_{\beta }}} \right)}_{0}}} \right]{{{\dot{q}}}_{\alpha }}{{{\dot{q}}}_{\beta }}}+\cdots \]
+\[\left( \begin{matrix}
+{{u}_{0}}  \\
+{{u}_{1}}  \\
+\vdots   \\
+{{u}_{N-1}}  \\
+\end{matrix} \right)=\sum\limits_{k>0}{\left[ \left( \begin{matrix}
+	1  \\
+	\cos ka  \\
+	\vdots   \\
+	\cos k\left( N-1 \right)a  \\
+	\end{matrix} \right)\underbrace{{{C}_{k+}}\cos \left( {{\omega }_{k}}t+{{\varphi }_{k+}} \right)}_{\frac{2}{\sqrt{N}}{{q}_{k+}}}+\left( \begin{matrix}
+	0  \\
+	\sin ka  \\
+	\vdots   \\
+	\sin k\left( N-1 \right)a  \\
+	\end{matrix} \right)\underbrace{{{C}_{k-}}\cos \left( {{\omega }_{k}}t+{{\varphi }_{k-}} \right)}_{\frac{2}{\sqrt{N}}{{q}_{k-}}} \right]}\]
+\[G(\vec{r},{\vec{r}}',\tau )=\int _{-\infty }^{\infty }\tilde{G}(\vec{r},{\vec{r}}',\omega )e^{-i \tau  \omega }d\omega=\int_{-\infty }^{\infty } \frac{e^{-i \tau  \omega } e^{i k |\vec{r}-{\vec{r}}'| }}{(2 \pi ) |\vec{r}-{\vec{r}}'| } \, d\omega=\frac{\delta  \left(\tau -\frac{R}{c}\right)}{|\vec{r}-{\vec{r}}'| }\]
+\[
+\begin{split}	
+\mathcal{F}^{-1}(\ket{j})
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k=0}^{2^n-1}\exp\left(-2\uppi \ii \frac{jk}{2^n}\right)\ket{k}.\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\exp\left(-2\uppi \ii j\sum_{l=0}^{n-1}\frac{2^l k_l}{2^n}\right)\ket{k_{n-1}\cdots k_0}\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\bigotimes_{l=1}^n\left[\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\sum_{k_{n-l}=0}^1\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\ket{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii j /2^l}\ket{1}_{n-l}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\ket{0}_{n-l}+\ee^{-2\uppi \ii ({0.j_{l-1}\ldots j_0})}\ket{1}_{n-l}\right].
+\end{split}
+\]
+
+\end{document}
