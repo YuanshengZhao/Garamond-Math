@@ -467,6 +467,7 @@ Width: 315
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: parenleft parenleft.v1 parenleft.v2 parenleft.v3 parenleft.v4 parenleft.v5 parenleft.v6
 GlyphCompositionVertical: 3  uni239D%0,0,198,2032 uni239C%1,396,396,396 uni239B%0,198,0,2032
 VStem: 40 83<200.5 358.5>
@@ -493,6 +494,7 @@ Width: 315
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 -300
 GlyphVariantsVertical: parenright parenright.v1 parenright.v2 parenright.v3 parenright.v4 parenright.v5 parenright.v6
 GlyphCompositionVertical: 3  uni23A0%0,0,198,2032 uni239F%1,396,396,396 uni239E%0,198,0,2032
 VStem: 192 83<200.5 358.5 188.5 370.5>
@@ -653,6 +655,7 @@ Encoding: 47 47 16
 Width: 466
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: slash slash.v1 slash.v2 slash.v3 slash.v4 slash.v5 slash.v6
 VStem: 80 306
 LayerCount: 2
@@ -2437,6 +2440,7 @@ Width: 331
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: bracketleft bracketleft.v1 bracketleft.v2 bracketleft.v3 bracketleft.v4 bracketleft.v5 bracketleft.v6
 GlyphCompositionVertical: 3  uni23A3%0,0,405,2046 uni23A2%1,810,810,810 uni23A1%0,405,0,2046
 HStem: -200 33<141 285> 673 28<285 297.5>
@@ -2467,6 +2471,7 @@ Encoding: 92 92 61
 Width: 466
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: backslash backslash.v1 backslash.v2 backslash.v3 backslash.v4 backslash.v5 backslash.v6
 VStem: 80 306
 LayerCount: 2
@@ -2488,6 +2493,7 @@ Width: 331
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: bracketright bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4 bracketright.v5 bracketright.v6
 GlyphCompositionVertical: 3  uni23A6%0,0,405,2046 uni23A5%1,810,810,810 uni23A4%0,405,0,2046
 HStem: -200 33<40 46 46 190> 673 28<33.5 46>
@@ -3748,6 +3754,7 @@ Width: 376
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: braceleft braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4 braceleft.v5 braceleft.v6
 GlyphCompositionVertical: 5  uni23A9%0,0,298,1437 braceleft.ex%1,596,596,596 uni23A8%0,298,298,1194 braceleft.ex%1,596,596,596 uni23A7%0,298,0,1437
 HStem: -183.5 27 654.5 29
@@ -3783,6 +3790,7 @@ Encoding: 124 124 93
 Width: 204
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: bar divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6
 GlyphCompositionVertical: 3  divides.bt%0,0,398,2032 divides.ex%1,396,396,396 divides.tp%0,398,0,2032
 VStem: 80 44<-220 720>
@@ -3790,7 +3798,7 @@ LayerCount: 2
 Fore
 SplineSet
 128 -208.95 m 2
- 128 -217.075 121.5 -225.2 115 -225.2 c 0
+ 128 -217.075 121.5 -225.2 115 -225.2 c 4
  95.5 -225.2 76 -214.28 76 -194 c 0
  76 708.95 l 2
  76 717.075 82.5 725.2 89 725.2 c 0
@@ -3805,6 +3813,7 @@ Width: 376
 VWidth: 1003
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: braceright braceright.v1 braceright.v2 braceright.v3 braceright.v4 braceright.v5 braceright.v6
 GlyphCompositionVertical: 5  uni23AD%0,0,298,1437 braceright.ex%1,596,596,596 uni23AC%0,298,298,1194 braceright.ex%1,596,596,596 uni23AB%0,298,0,1437
 HStem: -183.5 27 654.5 29
@@ -23220,6 +23229,7 @@ Encoding: 8214 8214 524
 Width: 356
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: dblverticalbar parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6
 GlyphCompositionVertical: 3  parallel.bt%0,0,398,1622 parallel.ex%1,396,396,396 parallel.tp%0,398,0,1622
 VStem: 80 52<-222.049 722.049> 224 52<-222.049 722.049>
@@ -32199,6 +32209,7 @@ Encoding: 8725 8725 740
 Width: 466
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 VStem: 80 306
 LayerCount: 2
 Fore
@@ -32569,6 +32580,7 @@ Encoding: 8739 8739 752
 Width: 204
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: divides divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6
 GlyphCompositionVertical: 3  divides.bt%0,0,398,796 divides.ex%1,796,796,796 divides.tp%0,398,0,796
 VStem: 80 44<-220 720>
@@ -32625,6 +32637,7 @@ Encoding: 8741 8741 754
 Width: 356
 GlyphClass: 2
 Flags: W
+TeX: 32767 300
 GlyphVariantsVertical: parallel parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6
 GlyphCompositionVertical: 3  parallel.bt%0,0,398,796 parallel.ex%1,796,796,796 parallel.tp%0,398,0,796
 VStem: 80 52<-222.049 722.049> 224 52<-222.049 722.049>
@@ -43651,6 +43664,7 @@ Encoding: 10214 10214 1058
 Width: 398
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: uni27E6 uni27E6.v1 uni27E6.v2 uni27E6.v3 uni27E6.v4 uni27E6.v5 uni27E6.v6
 GlyphCompositionVertical: 3  uni27E6.bt%0,0,405,2046 uni27E6.ex%1,810,810,810 uni27E6.tp%0,405,0,2046
 HStem: -228 36<156 219 255 318> 692 36<156 219 156 156 255 318 255 255>
@@ -43690,6 +43704,7 @@ Encoding: 10215 10215 1059
 Width: 398
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: uni27E7 uni27E7.v1 uni27E7.v2 uni27E7.v3 uni27E7.v4 uni27E7.v5 uni27E7.v6
 GlyphCompositionVertical: 3  uni27E7.bt%0,0,405,2046 uni27E7.ex%1,810,810,810 uni27E7.tp%0,405,0,2046
 HStem: -228 36<80 143 179 242 80 143> 692 36<80 143 80 278 179 179 179 242>
@@ -43729,6 +43744,7 @@ Encoding: 10216 10216 1060
 Width: 357
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: uni27E8 uni27E8.v1 uni27E8.v2 uni27E8.v3 uni27E8.v4 uni27E8.v5 uni27E8.v6
 VStem: 80 197
 LayerCount: 2
@@ -43753,6 +43769,7 @@ Encoding: 10217 10217 1061
 Width: 357
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: uni27E9 uni27E9.v1 uni27E9.v2 uni27E9.v3 uni27E9.v4 uni27E9.v5 uni27E9.v6
 VStem: 80 197
 LayerCount: 2
@@ -43777,6 +43794,7 @@ Encoding: 10218 10218 1062
 Width: 543
 GlyphClass: 2
 Flags: HMW
+TeX: 32767 300
 GlyphVariantsVertical: uni27EA uni27EA.v1 uni27EA.v2 uni27EA.v3 uni27EA.v4 uni27EA.v5 uni27EA.v6
 LayerCount: 2
 Fore
@@ -43811,6 +43829,7 @@ Encoding: 10219 10219 1063
 Width: 543
 GlyphClass: 2
 Flags: W
+TeX: 32767 300
 GlyphVariantsVertical: uni27EB uni27EB.v1 uni27EB.v2 uni27EB.v3 uni27EB.v4 uni27EB.v5 uni27EB.v6
 VStem: 80.6753 41.4617<-220.757 -202.238 702.238 720.757> 267.607 40.371<-220.74 -202.703 702.703 720.74>
 LayerCount: 2
@@ -43846,6 +43865,7 @@ Encoding: 10222 10222 1064
 Width: 320
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: uni27EE uni27EE.v1 uni27EE.v2 uni27EE.v3 uni27EE.v4 uni27EE.v5 uni27EE.v6
 GlyphCompositionVertical: 3  uni27EE.bt%0,0,397,2031 uni27EE.ex%1,794,794,794 uni27EE.tp%0,397,0,2031
 VStem: 120 62<217 283>
@@ -43871,6 +43891,7 @@ Encoding: 10223 10223 1065
 Width: 320
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 GlyphVariantsVertical: uni27EF uni27EF.v1 uni27EF.v2 uni27EF.v3 uni27EF.v4 uni27EF.v5 uni27EF.v6
 GlyphCompositionVertical: 3  uni27EF.bt%0,0,397,2031 uni27EF.ex%1,794,794,794 uni27EF.tp%0,397,0,2031
 VStem: 138 62<217 283>
@@ -46170,6 +46191,7 @@ Encoding: 12310 12310 1115
 Width: 430
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 HStem: -218 36<116 297> 682 36<116 297>
 VStem: 80 36<-182 682> 168 36<88.4539 411.546>
 LayerCount: 2
@@ -46207,6 +46229,7 @@ Encoding: 12311 12311 1116
 Width: 430
 GlyphClass: 2
 Flags: MW
+TeX: 32767 300
 HStem: -218 36<133 314> 682 36<133 314>
 VStem: 226 36<88.4539 411.546> 314 36<-182 682>
 LayerCount: 2
@@ -49334,7 +49357,7 @@ SplineSet
  275 551 l 2
  289 597 280 613 236 622 c 0
  216 626 211 633 211 642 c 0
- 211 650 226 653 242 653 c 0
+ 211 650 226 653 242 653 c 4
  292 653 306 650 349 650 c 0
  383 650 388 653 438 653 c 0
  454 653 461 650 461 642 c 0
@@ -50419,7 +50442,7 @@ SplineSet
  289 584 313 613 345 613 c 0
  366 613 379 591 379 570 c 0
  379 540 354 513 324 513 c 0
--46 -290 m 0
+-46 -290 m 4
  -93 -290 -124 -266 -124 -247 c 0
  -124 -230 -104 -207 -85 -207 c 0
  -73 -207 -64 -216 -54 -227 c 0
@@ -50434,7 +50457,7 @@ SplineSet
  300 419 320 399 315 386 c 0
  301 350 289 314 276 275 c 2
  143 -128 l 2
- 118 -203 14 -290 -46 -290 c 0
+ 118 -203 14 -290 -46 -290 c 4
 EndSplineSet
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" u1D6A5
 EndChar
@@ -102660,6 +102683,7 @@ Encoding: 1114722 -1 2726
 Width: 381
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 VStem: 255.68 42.572<-274.773 -255.772 755.772 774.773>
 LayerCount: 2
 Fore
@@ -102683,6 +102707,7 @@ Encoding: 1114723 -1 2727
 Width: 381
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 LayerCount: 2
 Fore
 SplineSet
@@ -102705,6 +102730,7 @@ Encoding: 1114724 -1 2728
 Width: 579
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 VStem: 255.68 42.572<-274.773 -255.772 755.772 774.773> 454.84 41.48<-274.844 -256.238 756.238 774.755>
 LayerCount: 2
 Fore
@@ -102739,6 +102765,7 @@ Encoding: 1114725 -1 2729
 Width: 579
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 LayerCount: 2
 Fore
 SplineSet
@@ -103542,6 +103569,7 @@ Encoding: 1114755 -1 2759
 Width: 206
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 VStem: 80 46<-275.71 775.71>
 LayerCount: 2
 Fore
@@ -103561,6 +103589,7 @@ Encoding: 1114756 -1 2760
 Width: 352
 GlyphClass: 2
 Flags: W
+TeX: 32767 310
 VStem: 80 46<-275.71 775.71> 226 46<-275.71 775.71>
 LayerCount: 2
 Fore
