@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1523435059
-ModificationTime: 1523437374
+ModificationTime: 1523446234
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -43,7 +43,7 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 378 18 11
+WinInfo: 468 36 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 1114112 504
@@ -15581,7 +15581,7 @@ StartChar: uni020B
 Encoding: 523 523 502
 Width: 376
 VWidth: 1003
-Flags: W
+Flags: HW
 HStem: -183.5 27 654.5 29
 VStem: 143 85<-94 -23.5 -94 -17.5 521.5 592> 156 85<94.5 148.5 86.5 154.5 349.5 403.5>
 LayerCount: 2
@@ -15603,9 +15603,9 @@ SplineSet
  241 316.5 165 268.5 123 251.5 c 0
  119 249.5 122 248.5 125 247.5 c 0
  158 238.5 241 181.5 241 115.5 c 0xd0
- 241 57.5 228 10.5 228 -57.5 c 0
- 228 -130.5 263 -150.5 327 -156.5 c 0
- 338 -157.5 353 -157.5 353 -168.5 c 0
+ 241 57.5 228.879696869 10.4943095665 228 -57.5 c 0
+ 227.055540503 -130.5 263.101941947 -150.5 327 -156.5 c 4
+ 337.996986491 -157.532612273 353 -157.5 353 -168.5 c 0
  353 -177.5 344 -184.5 335 -183.5 c 0xe0
 EndSplineSet
 EndChar
