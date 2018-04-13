@@ -18,7 +18,8 @@ BoldItalicFont = *-bolditalic ]
 \setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
 %\setmathfont{XITS Math}
-\setmathfont{GM.otf}
+\setmathfont{GM.otf}%[StylisticSet=1]
+%\setmathfont{GM.otf}[version=ss01,StylisticSet=1]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -67,7 +68,7 @@ BoldItalicFont = *-bolditalic ]
 \begin{document}
 
 \section{Alphabets}
-\delimitershortfall-.001pt
+\delimitershortfall1055pt
 
        \[ \Latinalphabets \latinalphabets \]
        \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
@@ -205,7 +206,7 @@ BoldItalicFont = *-bolditalic ]
         \]
 
   \item Brackets
-  \[(jf)|jf\rangle(\ket{j})(\ket{k})\left((j)\right)\]
+  \[(x)[x]\{x\}(B)[B]\{B\}(jf)|jf\rangle(\ket{j})(\lvert j\rangle)(\ket{k})\left((j)\right)\]
         \[
           \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
           \Biggl[  \biggl[  \Bigl[  \bigl[   [x]  \bigr]  \Bigr]  \biggr]  \Biggr]  \quad
