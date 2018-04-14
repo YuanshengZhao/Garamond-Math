@@ -58,7 +58,7 @@ BoldItalicFont = *-bolditalic ]
 \ExplSyntaxOff
 \def\OVERUNDERLINE#1{%
   #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
-\def\LISTTEXT{x_1, \, x_2, \, \ldots, \, x_n}
+\def\LISTTEXT{x_1, \, x_2, \, x_3,\ x_4\, \ \ldots, \, x_n}
 
 \def\ee{\mathrm{e}}
 \def\ii{\mathrm{i}}
@@ -282,6 +282,15 @@ BoldItalicFont = *-bolditalic ]
         \left\lgroup \begin{matrix}
         \MATRIXV
         \end{matrix} \right\rgroup
+        \left\lceil \begin{matrix}
+        \MATRIXV
+        \end{matrix} \right\rceil
+        \left\lfloor \begin{matrix}
+        \MATRIXV
+        \end{matrix} \right\rfloor
+        \left\lBrack \begin{matrix}
+        \MATRIXV
+        \end{matrix} \right\rBrack
         \]
         \[\begin{split}
         V&{}=-\gamma \mathbf{B}\cdot \mathbf{S}=-\gamma\dfrac{\hbar}{2}(B_x{\sigma}_x+B_y{\sigma}_y)\\
