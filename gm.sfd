@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1409921248
-ModificationTime: 1523683519
+ModificationTime: 1523691217
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -128,7 +128,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 756 54 15
+WinInfo: 675 27 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
@@ -469,7 +469,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 810 310
 GlyphVariantsVertical: parenleft parenleft.v1 parenleft.v2 parenleft.v3 parenleft.v4 parenleft.v5 parenleft.v6 parenleft.v7 parenleft.v8 parenleft.v9 parenleft.v10 parenleft.v11 parenleft.v12 parenleft.v13 parenleft.v14 parenleft.v15 parenleft.v16 parenleft.v17 parenleft.v18 parenleft.v19 parenleft.v20
-GlyphCompositionVertical: 3  uni239D%0,0,198,2032 uni239C%1,396,396,396 uni239B%0,198,0,2032
+GlyphCompositionVertical: 3  uni239D%0,0,250,3194 uni239C%1,500,500,500 uni239B%0,250,0,3736
 VStem: 40 83<200.5 358.5>
 LayerCount: 2
 Fore
@@ -495,7 +495,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 810 310
 GlyphVariantsVertical: parenright parenright.v1 parenright.v2 parenright.v3 parenright.v4 parenright.v5 parenright.v6 parenright.v7 parenright.v8 parenright.v9 parenright.v10 parenright.v11 parenright.v12 parenright.v13 parenright.v14 parenright.v15 parenright.v16 parenright.v17 parenright.v18 parenright.v19 parenright.v20
-GlyphCompositionVertical: 3  uni23A0%0,0,198,2032 uni239F%1,396,396,396 uni239E%0,198,0,2032
+GlyphCompositionVertical: 3  uni23A0%0,0,250,3194 uni239F%1,500,500,500 uni239E%0,250,0,2376
 VStem: 192 83<200.5 358.5 188.5 370.5>
 LayerCount: 2
 Fore
@@ -2488,7 +2488,7 @@ GlyphClass: 2
 Flags: HMW
 TeX: 702 300
 GlyphVariantsVertical: bracketleft bracketleft.v1 bracketleft.v2 bracketleft.v3 bracketleft.v4 bracketleft.v5 bracketleft.v6 bracketleft.v7 bracketleft.v8 bracketleft.v9 bracketleft.v10 bracketleft.v11 bracketleft.v12 bracketleft.v13 bracketleft.v14 bracketleft.v15 bracketleft.v16 bracketleft.v17 bracketleft.v18 bracketleft.v19 bracketleft.v20
-GlyphCompositionVertical: 3  uni23A3%0,0,405,2046 uni23A2%1,810,810,810 uni23A1%0,405,0,2046
+GlyphCompositionVertical: 3  uni23A3%0,0,500,2359 uni23A2%1,1000,1000,1000 uni23A1%0,500,0,2357
 HStem: -200 33<141 285> 673 28<285 297.5>
 VStem: 110 73<-130 -121 -121 642>
 LayerCount: 2
@@ -2540,7 +2540,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 702 300
 GlyphVariantsVertical: bracketright bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4 bracketright.v5 bracketright.v6 bracketright.v7 bracketright.v8 bracketright.v9 bracketright.v10 bracketright.v11 bracketright.v12 bracketright.v13 bracketright.v14 bracketright.v15 bracketright.v16 bracketright.v17 bracketright.v18 bracketright.v19 bracketright.v20
-GlyphCompositionVertical: 3  uni23A6%0,0,405,2046 uni23A5%1,810,810,810 uni23A4%0,405,0,2046
+GlyphCompositionVertical: 3  uni23A6%0,0,500,2357 uni23A5%1,1000,1000,1000 uni23A4%0,500,0,2359
 HStem: -200 33<40 46 46 190> 673 28<33.5 46>
 VStem: 148 73<-121 642 642 647.5>
 LayerCount: 2
@@ -3829,7 +3829,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 683 300
 GlyphVariantsVertical: braceleft braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4 braceleft.v5 braceleft.v6 braceleft.v7 braceleft.v8 braceleft.v9 braceleft.v10 braceleft.v11 braceleft.v12 braceleft.v13 braceleft.v14 braceleft.v15 braceleft.v16 braceleft.v17 braceleft.v18 braceleft.v19 braceleft.v20
-GlyphCompositionVertical: 5  uni23A9%0,0,298,1437 braceleft.ex%1,596,596,596 uni23A8%0,298,298,1194 braceleft.ex%1,596,596,596 uni23A7%0,298,0,1437
+GlyphCompositionVertical: 5  uni23A9%0,0,400,1734 braceleft.ex%1,800,800,800 uni23A8%0,400,400,3464 braceleft.ex%1,800,800,800 uni23A7%0,400,0,1737
 HStem: -183.5 27 654.5 29
 VStem: 133 85<-94 -23.5 -94 -17.5 521.5 592> 146 85<94.5 148.5 86.5 154.5 349.5 403.5>
 LayerCount: 2
@@ -3865,7 +3865,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 725 300
 GlyphVariantsVertical: bar divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6 divides.v7 divides.v8 divides.v9 divides.v10 divides.v11 divides.v12 divides.v13 divides.v14 divides.v15 divides.v16 divides.v17 divides.v18 divides.v19 divides.v20
-GlyphCompositionVertical: 3  divides.bt%0,0,398,2032 divides.ex%1,396,396,396 divides.tp%0,398,0,2032
+GlyphCompositionVertical: 3  divides.bt%0,0,1000,2375 divides.ex%1,500,500,500 divides.tp%0,1000,0,2375
 VStem: 76 52<-194 694>
 LayerCount: 2
 Fore
@@ -3887,7 +3887,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 683 300
 GlyphVariantsVertical: braceright braceright.v1 braceright.v2 braceright.v3 braceright.v4 braceright.v5 braceright.v6 braceright.v7 braceright.v8 braceright.v9 braceright.v10 braceright.v11 braceright.v12 braceright.v13 braceright.v14 braceright.v15 braceright.v16 braceright.v17 braceright.v18 braceright.v19 braceright.v20
-GlyphCompositionVertical: 5  uni23AD%0,0,298,1437 braceright.ex%1,596,596,596 uni23AC%0,298,298,1194 braceright.ex%1,596,596,596 uni23AB%0,298,0,1437
+GlyphCompositionVertical: 5  uni23AD%0,0,400,1734 braceright.ex%1,800,800,800 uni23AC%0,400,400,3464 braceright.ex%1,800,800,800 uni23AB%0,400,0,1737
 HStem: -183.5 27 654.5 29
 VStem: 165 85<94.5 148.5 349.5 403.5> 178 85<-94 -23.5 521.5 592>
 LayerCount: 2
@@ -23735,7 +23735,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 725 300
 GlyphVariantsVertical: dblverticalbar parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6 parallel.v7 parallel.v8 parallel.v9 parallel.v10 parallel.v11 parallel.v12 parallel.v13 parallel.v14 parallel.v15 parallel.v16 parallel.v17 parallel.v18 parallel.v19 parallel.v20
-GlyphCompositionVertical: 3  parallel.bt%0,0,398,1622 parallel.ex%1,396,396,396 parallel.tp%0,398,0,1622
+GlyphCompositionVertical: 3  parallel.bt%0,0,500,2375 parallel.ex%1,1000,1000,1000 parallel.tp%0,500,0,2375
 VStem: 80 52<-194 694> 224 52<-194 694>
 LayerCount: 2
 Fore
@@ -33111,7 +33111,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 616 97
 GlyphVariantsVertical: radical.v1 radical.v2 radical.v3 radical.v4 radical.v5 radical.v6 radical.v7 radical.v8 radical.v9 radical.v10 radical.v11 radical.v12 radical.v13 radical.v14 radical.v15 radical.v16 radical.v17 radical.v18 radical.v19 radical.v20
-GlyphCompositionVertical: 3  uni23B7%0,0,527,1656 radical.ex%1,1053,1053,1053 radical.tp%0,527,0,301
+GlyphCompositionVertical: 3  uni23B7%0,0,750,3650 radical.ex%1,1500,1500,1500 radical.tp%0,750,0,1166
 HStem: 122 44<125.312 232.289 141.4 171.4> 564 52<593.067 596.4 596.4 603.4>
 LayerCount: 2
 Fore
@@ -42204,7 +42204,7 @@ StartChar: angleright
 Encoding: 9002 9002 969
 Width: 287
 GlyphClass: 2
-Flags: HW
+Flags: W
 TeX: 724 224
 GlyphVariantsVertical: angleright uni27E9.v1 uni27E9.v2 uni27E9.v3 uni27E9.v4 uni27E9.v5 uni27E9.v6 uni27E9.v7 uni27E9.v8 uni27E9.v9 uni27E9.v10 uni27E9.v11 uni27E9.v12 uni27E9.v13 uni27E9.v14 uni27E9.v15 uni27E9.v16 uni27E9.v17 uni27E9.v18 uni27E9.v19 uni27E9.v20
 LayerCount: 2
@@ -42226,423 +42226,421 @@ EndChar
 
 StartChar: uni239B
 Encoding: 9115 9115 970
-Width: 624
+Width: 515
 GlyphClass: 2
 Flags: MW
 TeX: 2051 0
-HStem: 0 21G<149 236 149 149>
-VStem: 149 87<0 199 0 412.5>
+VStem: 40 83<0 528.438>
 LayerCount: 2
 Fore
 SplineSet
-492 2040 m 0
- 498 2046 509 2051 519 2051 c 0
- 526 2051 541 2044 541 2035 c 0
- 541 2033 530 2018 528 2016 c 0
- 356 1843 236 636 236 199 c 2
- 236 0 l 1
- 149 0 l 1
- 149 199 l 2
- 149 626 283 1830 492 2040 c 0
+40 0 m 0
+ 40 300.5 l 0
+ 40 1970.5 274.2890625 2583.79003906 416 2725.5 c 0
+ 422 2731.5 433 2736.5 443 2736.5 c 4
+ 450 2736.5 465 2729.5 465 2720.5 c 0
+ 465 2718.5 454 2703.5 452 2701.5 c 0
+ 320.2890625 2559.79003906 123 1982.5 123 312.5 c 0
+ 123 0 l 0
+ 40 0 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni239C
 Encoding: 9116 9116 971
-Width: 624
+Width: 515
 GlyphClass: 2
 Flags: MW
 TeX: 396 0
-HStem: 0 21G<149 236 149 149>
-VStem: 149 87<0 396>
+HStem: 480 20G<40 123>
+VStem: 40 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-236 0 m 1
- 149 0 l 1
- 149 396 l 1
- 236 396 l 1
- 236 0 l 1
+123 500 m 25
+ 123 0 l 25
+ 40 0 l 25
+ 40 500 l 25
+ 123 500 l 25
 EndSplineSet
 EndChar
 
 StartChar: uni239D
 Encoding: 9117 9117 972
-Width: 624
+Width: 515
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 2032 25
-VStem: 149 87<1833 2032>
+HStem: 465.5 20G<40 123>
+VStem: 40 83<-443.086 485.5>
 LayerCount: 2
 Fore
 SplineSet
-500 -18 m 0
- 285 197 149 1404 149 1833 c 2
- 149 2032 l 1
- 236 2032 l 1
- 236 1833 l 2
- 236 1396 356 189 528 16 c 0
- 530 14 544 -1 544 -3 c 0
- 544 -17 530 -25 517 -25 c 0
- 511 -25 505 -23 500 -18 c 0
+123 3194.5 m 0
+ 123 2494 l 0
+ 123.0390625 824.272460938 317.301757812 182.196289062 449 40.5 c 0
+ 450 38.5 464 23.5 464 21.5 c 0
+ 464 7.5 450 -0.5 437 -0.5 c 0
+ 431 -0.5 425 1.5 420 6.5 c 0
+ 278.302734375 148.196289062 40.0478515625 812.267578125 40 2482 c 0
+ 40 3194.5 l 4
+ 123 3194.5 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni239E
 Encoding: 9118 9118 973
-Width: 624
+Width: 515
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 2051 0
-HStem: 0 21G<388 475 388 388>
-VStem: 388 87<0 199 0 417.5>
+VStem: 392 83<0 528.438>
 LayerCount: 2
 Fore
 SplineSet
-132 2040 m 0
- 341 1830 475 626 475 199 c 2
- 475 0 l 1
- 388 0 l 1
- 388 199 l 2
- 388 636 268 1843 96 2016 c 0
- 94 2018 83 2033 83 2035 c 0
- 83 2044 98 2051 105 2051 c 0
- 115 2051 126 2046 132 2040 c 0
+475 0 m 0
+ 392 0 l 0
+ 392 312.5 l 0
+ 392 1982.5 194.7109375 2559.79003906 63 2701.5 c 0
+ 61 2703.5 50 2718.5 50 2720.5 c 0
+ 50 2729.5 65 2736.5 72 2736.5 c 4
+ 82 2736.5 93 2731.5 99 2725.5 c 0
+ 240.7109375 2583.79003906 475 1970.5 475 300.5 c 0
+ 475 0 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni239F
 Encoding: 9119 9119 974
-Width: 624
+Width: 515
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 396 0
-HStem: 0 21G<387 475 387 387>
-VStem: 387 88<0 396>
+HStem: 480 20G<392 475>
+VStem: 392 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-475 396 m 1
- 475 0 l 1
- 387 0 l 1
- 388 396 l 1
- 475 396 l 1
+392 500 m 25
+ 475 500 l 25
+ 475 0 l 25
+ 392 0 l 25
+ 392 500 l 25
 EndSplineSet
 EndChar
 
 StartChar: uni23A0
 Encoding: 9120 9120 975
-Width: 624
+Width: 515
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 2032 25
-VStem: 388 87<1833 2032>
+HStem: 3174.5 20G<392 475>
+VStem: 392 83<2265.91 3194.5>
 LayerCount: 2
 Fore
 SplineSet
-124 -18 m 0
- 119 -23 113 -25 107 -25 c 0
- 94 -25 80 -17 80 -3 c 0
- 80 -1 94 14 96 16 c 0
- 268 189 388 1396 388 1833 c 2
- 388 2032 l 1
- 475 2032 l 1
- 475 1833 l 2
- 475 1404 339 197 124 -18 c 0
+392 3194.5 m 4
+ 475 3194.5 l 0
+ 475 2482 l 0
+ 474.952148438 812.267578125 236.697265625 148.196289062 95 6.5 c 0
+ 90 1.5 84 -0.5 78 -0.5 c 0
+ 65 -0.5 51 7.5 51 21.5 c 0
+ 51 23.5 65 38.5 66 40.5 c 0
+ 197.698242188 182.196289062 391.9609375 824.272460938 392 2494 c 0
+ 392 3194.5 l 4
 EndSplineSet
 EndChar
 
 StartChar: uni23A1
 Encoding: 9121 9121 976
-Width: 498
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 2046 0
-HStem: 0 21G<143 143 143 230> 2005 41
-VStem: 143 87<0 1980 0 2006 0 2023>
+HStem: 2324.5 35<184.811 410.265>
+VStem: 110 73<0 2324.28>
 LayerCount: 2
 Fore
 SplineSet
-143 0 m 1
- 143 2006 l 2
- 143 2040 149 2046 181 2046 c 2
- 384 2045 l 2
- 393 2045 402 2039 402 2029 c 0
- 402 2019 389 2012 376 2011 c 2
- 253 2005 l 2
- 244 2005 230 1991 230 1980 c 2
- 230 0 l 1
- 143 0 l 1
+110 0 m 5
+ 110 2325.5 l 6
+ 110 2359 116 2359.5 148 2359.5 c 6
+ 393 2358.5 l 6
+ 402 2358.5 411 2355.5 411 2345.5 c 4
+ 411 2335.5 398 2331.5 385 2330.5 c 6
+ 206 2324.5 l 6
+ 197 2323.5 183 2311 183 2299.5 c 6
+ 183 0 l 5
+ 110 0 l 5
 EndSplineSet
 EndChar
 
 StartChar: uni23A2
 Encoding: 9122 9122 977
-Width: 498
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 810 0
-HStem: 0 21G<143 230 143 143>
-VStem: 143 87<0 810 0 810>
+VStem: 110 73<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-230 810 m 1
- 230 0 l 1
- 143 0 l 1
- 143 810 l 1
- 230 810 l 1
+110 0 m 1
+ 110 1000 l 1
+ 183 1000 l 1
+ 183 0 l 5
+ 110 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni23A3
 Encoding: 9123 9123 978
-Width: 498
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 2046 0
-HStem: 0 39<174 376>
-VStem: 143 87<76 85 85 2046>
+HStem: -0.5 33<288.615 410.909>
+VStem: 110 73<45.7181 2357>
 LayerCount: 2
 Fore
 SplineSet
-230 2046 m 1
- 230 85 l 2
- 230 67 241 53 253 52 c 2
- 376 39 l 2
- 389 37 402 30 402 18 c 0
- 402 6 388 0 376 0 c 2
- 174 0 l 2
- 151 0 143 7 143 31 c 2
- 143 2046 l 1
- 230 2046 l 1
+183 2357 m 1
+ 183 78.5 l 2
+ 183 60 194 47.5 206 45.5 c 2
+ 385 32.5 l 2
+ 398 30.5 411 26.5 411 14.5 c 0
+ 411 2.5 397 -0.5 385 -0.5 c 2
+ 141 -0.5 l 2
+ 118 -0.5 110 0 110 24.5 c 2
+ 110 2357 l 1
+ 183 2357 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni23A4
 Encoding: 9124 9124 979
-Width: 398
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 2046 0
-HStem: 0 21G<268 355 268 268> 2011 34<109.5 122>
-VStem: 268 87<0 1980 1980 1985.5>
+HStem: 2324.5 35<20.7351 246.189>
+VStem: 248 73<0 2324.28>
 LayerCount: 2
 Fore
 SplineSet
-355 0 m 1
- 268 0 l 1
- 268 1980 l 2
- 268 1991 254 2005 245 2005 c 2
- 122 2011 l 2
- 109 2012 96 2019 96 2029 c 0
- 96 2039 105 2045 114 2045 c 2
- 317 2046 l 2
- 349 2046 355 2040 355 2006 c 2
- 355 0 l 1
+321 0 m 5
+ 321 2325.5 l 6
+ 321 2359 315 2359.5 283 2359.5 c 6
+ 38 2358.5 l 6
+ 29 2358.5 20 2355.5 20 2345.5 c 4
+ 20 2335.5 33 2331.5 46 2330.5 c 6
+ 225 2324.5 l 6
+ 234 2323.5 248 2311 248 2299.5 c 6
+ 248 0 l 5
+ 321 0 l 5
 EndSplineSet
 EndChar
 
 StartChar: uni23A5
 Encoding: 9125 9125 980
-Width: 498
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 810 0
-HStem: 0 21G<268 355 268 268>
-VStem: 268 87<0 810 0 810>
+VStem: 248 73<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-268 810 m 1
- 355 810 l 1
- 355 0 l 1
- 268 0 l 1
- 268 810 l 1
+321 0 m 1
+ 321 1000 l 1
+ 248 1000 l 1
+ 248 0 l 5
+ 321 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni23A6
 Encoding: 9126 9126 981
-Width: 398
+Width: 431
 GlyphClass: 2
 Flags: MW
 TeX: 2046 0
-HStem: 0 39<116 122 122 324>
-VStem: 268 87<85 2046>
+HStem: -0.5 33<20.0906 142.385>
+VStem: 248 73<45.7181 2357>
 LayerCount: 2
 Fore
 SplineSet
-268 2046 m 1
- 355 2046 l 1
- 355 31 l 2
- 355 7 347 0 324 0 c 2
- 122 0 l 2
- 110 0 96 6 96 18 c 0
- 96 30 109 37 122 39 c 2
- 245 52 l 2
- 257 53 268 67 268 85 c 2
- 268 2046 l 1
+248 2357 m 1
+ 248 78.5 l 2
+ 248 60 237 47.5 225 45.5 c 2
+ 46 32.5 l 2
+ 33 30.5 20 26.5 20 14.5 c 0
+ 20 2.5 34 -0.5 46 -0.5 c 2
+ 290 -0.5 l 2
+ 313 -0.5 321 0 321 24.5 c 2
+ 321 2357 l 1
+ 248 2357 l 1
 EndSplineSet
 EndChar
 
 StartChar: uni23A7
 Encoding: 9127 9127 982
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: MW
 TeX: 1437 0
-HStem: 0 21G<257 344 257 257> 1408 29
-VStem: 257 87<0 1129 0 1214.01>
+HStem: 1708.5 29<471.027 545.974>
+VStem: 240 85<0.5 1462.02>
 LayerCount: 2
 Fore
 SplineSet
-490 1437 m 0
- 499 1437 508 1431 508 1422 c 0
- 508 1411 493 1409 482 1408 c 0
- 405.221679688 1401.12597656 344 1278.77050781 344 1129 c 2
- 344 0 l 1
- 257 0 l 1
- 257 1129 l 2
- 257 1299.015625 346.48046875 1437 490 1437 c 0
+240 0.5 m 17
+ 240 562.5 240 734.5 240 1304.5 c 0
+ 240 1498.5 334.087890625 1729.30957031 528 1737.5 c 4
+ 537 1737.5 546 1731.5 546 1722.5 c 0
+ 546 1711.5 531 1709.5 520 1708.5 c 0
+ 356.766601562 1688.13964844 325 1482.5 325 1309.5 c 0
+ 325 741.5 325 558.5 325 0.5 c 9
+ 240 0.5 l 17
 EndSplineSet
 EndChar
 
 StartChar: uni23A8
 Encoding: 9128 9128 983
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: MW
 TeX: 1194 0
-HStem: 0 21G<257 344 257 257> 580 36
-VStem: 257 87<0 299 0 371.59 895 1194>
+VStem: 240 85<-0.5 1456.63 2011.13 3464.5>
 LayerCount: 2
 Fore
 SplineSet
-127 580 m 0
- 118 582 108 589 108 597 c 0
- 108 603 114 612 129 616 c 0
- 201.297851562 635.127929688 257 752.80078125 257 895 c 2
- 257 1194 l 1
- 344 1194 l 1
- 344 895 l 2
- 344 745 251 630 163 597 c 1
- 251 564 344 449 344 299 c 2
- 344 0 l 1
- 257 0 l 1
- 257 299 l 2
- 257 444.180664062 200.1328125 563.904296875 127 580 c 0
+240 -0.5 m 0
+ 240 569.5 240 746.5 240 1308.5 c 0
+ 240 1466.5 199.3984375 1683.83496094 59 1716.5 c 0
+ 50 1718.5 40 1725.5 40 1733.5 c 0
+ 40 1739.5 46 1748.5 61 1752.5 c 0
+ 210.681640625 1792.04492188 240 1997.5 240 2155.5 c 0
+ 240 2717.5 240 2894.5 240 3464.5 c 0
+ 325 3464.5 l 0
+ 325 2896.5 325 2723.5 325 2165.5 c 0
+ 325 1999.5 247.717773438 1788.9609375 113 1734.5 c 0
+ 109 1732.5 112 1731.5 115 1730.5 c 0
+ 244.456054688 1695.11328125 325 1464.5 325 1298.5 c 0
+ 325 740.5 325 567.5 325 -0.5 c 0
+ 240 -0.5 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni23A9
 Encoding: 9129 9129 984
-Width: 577
+Width: 596
 GlyphClass: 2
-Flags: MW
+Flags: W
 TeX: 1437 0
-VStem: 257 87<308 1437>
+HStem: -0.5 27<468.043 542.897>
+VStem: 240 85<267.573 1734.5>
 LayerCount: 2
 Fore
 SplineSet
-490 0 m 0
- 343.997070312 16.0537109375 257 148 257 308 c 2
- 257 1437 l 1
- 344 1437 l 1
- 344 308 l 2
- 344 157 405.2265625 33.8740234375 482 27 c 0
- 493 26 508 26 508 15 c 0
- 508 6 499 -1 490 0 c 0
+325 1734.5 m 0
+ 325 1176.5 325 993.5 325 425.5 c 0
+ 325 252.5 353.444335938 41.91015625 517 26.5 c 0
+ 528 25.5 543 25.5 543 14.5 c 0
+ 543 5.5 534 -1.5 525 -0.5 c 0
+ 331.208007812 11.9501953125 240 236.5 240 430.5 c 0
+ 240 1000.5 240 1172.5 240 1734.5 c 4
+ 325 1734.5 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni23AA
 Encoding: 9130 9130 985
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: MW
 TeX: 596 0
-HStem: 0 21G<260 347 260 260>
-VStem: 260 87<0 596 0 596>
+VStem: 240 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-347 596 m 1
- 347 0 l 1
- 260 0 l 1
- 260 596 l 1
- 347 596 l 1
+240 0 m 17
+ 240 562 240 230 240 800 c 9
+ 325 800 l 17
+ 325 232 325 558 325 0 c 13
+ 240 0 l 17
 EndSplineSet
 EndChar
 
 StartChar: uni23AB
 Encoding: 9131 9131 986
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: MW
 TeX: 1437 0
-HStem: 0 21G<233 320 233 233> 1408 29
-VStem: 233 87<0 1129 0 1203.89>
+HStem: 1708.5 29<50.0261 124.973>
+VStem: 271 85<1304.5 1462.02>
 LayerCount: 2
 Fore
 SplineSet
-87 1437 m 0
- 230.51953125 1437 320 1299.015625 320 1129 c 2
- 320 0 l 1
- 233 0 l 1
- 233 1129 l 2
- 233 1278.77050781 171.778320312 1401.12597656 95 1408 c 0
- 84 1409 69 1411 69 1422 c 0
- 69 1431 78 1437 87 1437 c 0
+356 0.5 m 17
+ 356 562.5 356 734.5 356 1304.5 c 0
+ 356 1498.5 261.912109375 1729.30957031 68 1737.5 c 4
+ 59 1737.5 50 1731.5 50 1722.5 c 0
+ 50 1711.5 65 1709.5 76 1708.5 c 0
+ 239.233398438 1688.13964844 271 1482.5 271 1309.5 c 0
+ 271 741.5 271 558.5 271 0.5 c 9
+ 356 0.5 l 17
 EndSplineSet
 EndChar
 
 StartChar: uni23AC
 Encoding: 9132 9132 987
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: MW
 TeX: 1194 0
-HStem: 0 21G<233 320 233 233> 580 36
-VStem: 233 87<0 299 0 374 895 1194>
+VStem: 271 85<1298.5 1456.63 2011.13 2165.5>
 LayerCount: 2
 Fore
 SplineSet
-450 580 m 0
- 376.8671875 563.904296875 320 444.180664062 320 299 c 2
- 320 0 l 1
- 233 0 l 1
- 233 299 l 2
- 233 449 326 564 414 597 c 1
- 326 630 233 745 233 895 c 2
- 233 1194 l 1
- 320 1194 l 1
- 320 895 l 2
- 320 752.80078125 375.702148438 635.127929688 448 616 c 0
- 463 612 469 603 469 597 c 0
- 469 589 459 582 450 580 c 0
+356 -0.5 m 0
+ 356 569.5 356 746.5 356 1308.5 c 0
+ 356 1466.5 396.6015625 1683.83496094 537 1716.5 c 0
+ 546 1718.5 556 1725.5 556 1733.5 c 0
+ 556 1739.5 550 1748.5 535 1752.5 c 0
+ 385.318359375 1792.04492188 356 1997.5 356 2155.5 c 0
+ 356 2717.5 356 2894.5 356 3464.5 c 0
+ 271 3464.5 l 0
+ 271 2896.5 271 2723.5 271 2165.5 c 0
+ 271 1999.5 348.282226562 1788.9609375 483 1734.5 c 0
+ 487 1732.5 484 1731.5 481 1730.5 c 0
+ 351.543945312 1695.11328125 271 1464.5 271 1298.5 c 0
+ 271 740.5 271 567.5 271 -0.5 c 0
+ 356 -0.5 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni23AD
 Encoding: 9133 9133 988
-Width: 577
+Width: 596
 GlyphClass: 2
-Flags: MW
+Flags: W
 TeX: 1437 0
-HStem: 0 27
-VStem: 233 87<308 1437>
+HStem: -0.5 27<53.1033 127.957>
+VStem: 271 85<267.573 430.5>
 LayerCount: 2
 Fore
 SplineSet
-87 0 m 0
- 78 -1 69 6 69 15 c 0
- 69 26 84 26 95 27 c 0
- 171.7734375 33.8740234375 233 157 233 308 c 2
- 233 1437 l 1
- 320 1437 l 1
- 320 308 l 2
- 320 148 233.002929688 16.0537109375 87 0 c 0
+271 1734.5 m 4
+ 271 1176.5 271 993.5 271 425.5 c 0
+ 271 252.5 242.555664062 41.91015625 79 26.5 c 0
+ 68 25.5 53 25.5 53 14.5 c 0
+ 53 5.5 62 -1.5 71 -0.5 c 0
+ 264.791992188 11.9501953125 356 236.5 356 430.5 c 0
+ 356 1000.5 356 1172.5 356 1734.5 c 4
+ 271 1734.5 l 4
 EndSplineSet
 EndChar
 
@@ -42783,45 +42781,48 @@ EndChar
 
 StartChar: uni23B7
 Encoding: 9143 9143 994
-Width: 674
+Width: 950
 GlyphClass: 2
-Flags: MW
+Flags: W
 TeX: 1656 0
-HStem: 0 21G<438 476 438 438 476 514> 1479 44<120 176 120 268>
-VStem: 438 76<0 1656> 462 52<430 1656 0 1656>
+HStem: 22 44<112.105 177.899>
+VStem: 489 52<-2418.62 850>
 LayerCount: 2
 Fore
 SplineSet
-514 1656 m 1xd0
- 514 0 l 1
- 476 0 l 1
- 438 0 l 1xe0
- 176 1479 l 1
- 120 1479 l 1
- 120 1523 l 1
- 268 1523 l 1
- 462 430 l 1
- 462 1656 l 1
- 514 1656 l 1xd0
+167 22 m 2
+ 124.349609375 22 l 2
+ 117.474609375 22 110.599609375 27.5 110.599609375 33 c 0
+ 110.599609375 49.5 119.83984375 66 137 66 c 2
+ 235.399414062 66 l 2
+ 255.399414062 66 266.299804688 56.041015625 268.098632812 36.1220703125 c 0
+ 489 -2418.62011719 l 1
+ 489.00390625 850 l 1
+ 541 850 l 4
+ 541 -2735.58007812 l 2
+ 541 -2778 500.122070312 -2800.99023438 459.243164062 -2800.99023438 c 0
+ 445.618164062 -2800.99023438 430.459960938 -2784.03027344 428.927734375 -2767.05957031 c 0
+ 177.899414062 12.041015625 l 2
+ 177.299804688 18.6806640625 173.666015625 22 167 22 c 2
 EndSplineSet
 EndChar
 
 StartChar: uni23D0
 Encoding: 9168 9168 995
-Width: 212
+Width: 950
 GlyphClass: 2
-Flags: MW
+Flags: W
 TeX: 527 0
-HStem: 0 21G<80 132 80 80>
-VStem: 80 52<0 527>
+HStem: 0 21G<489 541>
+VStem: 489 52<0 1500>
 LayerCount: 2
 Fore
 SplineSet
-132 0 m 1
- 80 0 l 1
- 80 527 l 1
- 132 527 l 1
- 132 0 l 1
+541 1500 m 1
+ 541 0 l 1
+ 489 0 l 1
+ 489.00390625 1500 l 5
+ 541 1500 l 1
 EndSplineSet
 EndChar
 
@@ -44922,12 +44923,12 @@ StartChar: uni27E7
 Encoding: 10215 10215 1062
 Width: 481
 GlyphClass: 2
-Flags: HW
+Flags: W
 TeX: 728 300
 GlyphVariantsVertical: uni27E7 uni27E7.v1 uni27E7.v2 uni27E7.v3 uni27E7.v4 uni27E7.v5 uni27E7.v6
 GlyphCompositionVertical: 3  uni27E7.bt%0,0,405,2046 uni27E7.ex%1,810,810,810 uni27E7.tp%0,405,0,2046
-HStem: -200 33<20.0906 88.5385> 673 29<20.0377 46>
-VStem: 148 73<-153.78 -121 642 666.706> 298 73<-153.78 -121 642 666.782>
+HStem: -200 33<20.0906 88.5385> 673 29<20.0377 125>
+VStem: 148 73<-153.78 666.706> 298 73<-153.78 666.782>
 LayerCount: 2
 Fore
 SplineSet
@@ -44986,7 +44987,7 @@ StartChar: uni27E9
 Encoding: 10217 10217 1064
 Width: 287
 GlyphClass: 2
-Flags: HW
+Flags: W
 TeX: 724 300
 GlyphVariantsVertical: uni27E9 uni27E9.v1 uni27E9.v2 uni27E9.v3 uni27E9.v4 uni27E9.v5 uni27E9.v6 uni27E9.v7 uni27E9.v8 uni27E9.v9 uni27E9.v10 uni27E9.v11 uni27E9.v12 uni27E9.v13 uni27E9.v14 uni27E9.v15 uni27E9.v16 uni27E9.v17 uni27E9.v18 uni27E9.v19 uni27E9.v20
 LayerCount: 2
@@ -45045,7 +45046,7 @@ StartChar: uni27EB
 Encoding: 10219 10219 1066
 Width: 474
 GlyphClass: 2
-Flags: HW
+Flags: W
 TeX: 724 300
 GlyphVariantsVertical: uni27EB uni27EB.v1 uni27EB.v2 uni27EB.v3 uni27EB.v4 uni27EB.v5 uni27EB.v6 uni27EB.v7 uni27EB.v8 uni27EB.v9 uni27EB.v10 uni27EB.v11 uni27EB.v12 uni27EB.v13 uni27EB.v14 uni27EB.v15 uni27EB.v16 uni27EB.v17 uni27EB.v18 uni27EB.v19 uni27EB.v20
 LayerCount: 2
@@ -45083,7 +45084,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 709 300
 GlyphVariantsVertical: uni27EE uni27EE.v1 uni27EE.v2 uni27EE.v3 uni27EE.v4 uni27EE.v5 uni27EE.v6 uni27EE.v7 uni27EE.v8 uni27EE.v9 uni27EE.v10 uni27EE.v11 uni27EE.v12 uni27EE.v13 uni27EE.v14 uni27EE.v15 uni27EE.v16 uni27EE.v17 uni27EE.v18 uni27EE.v19 uni27EE.v20
-GlyphCompositionVertical: 3  uni27EE.bt%0,0,397,2031 uni27EE.ex%1,794,794,794 uni27EE.tp%0,397,0,2031
+GlyphCompositionVertical: 3  uni27EE.bt%0,0,250,3194 uni27EE.ex%1,500,500,500 uni27EE.tp%0,250,0,2736
 VStem: 40 83<200.5 358.5>
 LayerCount: 2
 Fore
@@ -45109,7 +45110,7 @@ GlyphClass: 2
 Flags: HMW
 TeX: 709 300
 GlyphVariantsVertical: uni27EF uni27EF.v1 uni27EF.v2 uni27EF.v3 uni27EF.v4 uni27EF.v5 uni27EF.v6 uni27EF.v7 uni27EF.v8 uni27EF.v9 uni27EF.v10 uni27EF.v11 uni27EF.v12 uni27EF.v13 uni27EF.v14 uni27EF.v15 uni27EF.v16 uni27EF.v17 uni27EF.v18 uni27EF.v19 uni27EF.v20
-GlyphCompositionVertical: 3  uni27EF.bt%0,0,397,2031 uni27EF.ex%1,794,794,794 uni27EF.tp%0,397,0,2031
+GlyphCompositionVertical: 3  uni27EF.bt%0,0,250,3194 uni27EF.ex%1,500,500,500 uni27EF.tp%0,250,0,2736
 VStem: 122 83<200.5 358.5 188.5 370.5>
 LayerCount: 2
 Fore
@@ -103507,133 +103508,131 @@ EndChar
 
 StartChar: uni27EE.bt
 Encoding: 1114646 -1 2654
-Width: 418
+Width: 400
 GlyphClass: 2
 Flags: W
 TeX: 2031 3
-VStem: 143 84<1405.25 2030.27>
+HStem: -0.5 21G<319 328.5>
+VStem: 40 83<2265.91 3194.5>
 LayerCount: 2
 Fore
 SplineSet
-309.134765625 26.7392578125 m 0
- 312.916015625 17.638671875 316.400390625 10.125 316.400390625 0.650390625 c 0
- 316.400390625 -3.875 312.428710938 -4.373046875 308.403320312 -0.400390625 c 0
- 235.338867188 71.689453125 143 1258.31054688 143 1633 c 2
- 143 2001 l 2
- 143 2021 153 2031 173 2031 c 2
- 197 2031 l 2
- 217 2031 227 2021 227 2001 c 2
- 227 1633 l 2
- 227 1319.09667969 258.045898438 149.705078125 309.134765625 26.7392578125 c 0
+123 3194.5 m 0
+ 123 2494 l 0
+ 123.0390625 824.272460938 202.301757812 182.196289062 334 40.5 c 0
+ 335 38.5 349 23.5 349 21.5 c 0
+ 349 7.5 335 -0.5 322 -0.5 c 0
+ 316 -0.5 310 1.5 305 6.5 c 0
+ 163.302734375 148.196289062 40.0478515625 812.267578125 40 2482 c 0
+ 40 3194.5 l 0
+ 123 3194.5 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni27EE.ex
 Encoding: 1114647 -1 2655
-Width: 418
+Width: 400
 GlyphClass: 2
 Flags: W
 TeX: 794 0
-HStem: 0 21G<143 227>
-VStem: 143 84<0 794>
+HStem: 0 21G<40 123>
+VStem: 40 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-227 0 m 1
- 143 0 l 1
- 143 794 l 1
- 227 794 l 1
- 227 0 l 1
+123 500 m 25
+ 123 0 l 25
+ 40 0 l 25
+ 40 500 l 25
+ 123 500 l 25
 EndSplineSet
 EndChar
 
 StartChar: uni27EE.tp
 Encoding: 1114648 -1 2656
-Width: 418
+Width: 390
 GlyphClass: 2
 Flags: W
 TeX: 2034 0
-HStem: 0 21G<163 207>
-VStem: 143 84<0.732422 625.754>
+HStem: 0 21G<40 123>
+VStem: 40 83<0 528.438>
 LayerCount: 2
 Fore
 SplineSet
-309.134765625 2004.25976562 m 0
- 258.045898438 1881.29003906 227 711.903320312 227 398 c 2
- 227 30 l 2
- 227 10 217 0 197 0 c 2
- 173 0 l 2
- 153 0 143 10 143 30 c 2
- 143 398 l 2
- 143 772.689453125 235.338867188 1959.30957031 308.403320312 2031.40039062 c 0
- 312.428710938 2035.37011719 316.400390625 2034.87011719 316.400390625 2030.34960938 c 0
- 316.400390625 2020.87011719 312.916015625 2013.36035156 309.134765625 2004.25976562 c 0
+40 0 m 0
+ 40 300.5 l 0
+ 40 1970.5 159.2890625 2583.79003906 301 2725.5 c 0
+ 307 2731.5 318 2736.5 328 2736.5 c 0
+ 335 2736.5 350 2729.5 350 2720.5 c 0
+ 350 2718.5 339 2703.5 337 2701.5 c 0
+ 205.2890625 2559.79003906 123 1982.5 123 312.5 c 0
+ 123 0 l 0
+ 40 0 l 0
 EndSplineSet
 EndChar
 
 StartChar: uni27EF.bt
 Encoding: 1114649 -1 2657
-Width: 418
+Width: 400
 GlyphClass: 2
 Flags: W
 TeX: 2031 3
-VStem: 191 84<1405.25 2030.27>
+HStem: -0.5 21G<71.5 81>
+VStem: 277 83<2265.91 3194.5>
 LayerCount: 2
 Fore
 SplineSet
-275 1633 m 2
- 275 1258.31054688 182.661132812 71.689453125 109.596679688 -0.400390625 c 0
- 105.571289062 -4.373046875 101.599609375 -3.875 101.599609375 0.650390625 c 0
- 101.599609375 10.125 105.083984375 17.638671875 108.865234375 26.7392578125 c 0
- 159.954101562 149.705078125 191 1319.09667969 191 1633 c 2
- 191 2001 l 2
- 191 2021 201 2031 221 2031 c 2
- 245 2031 l 2
- 265 2031 275 2021 275 2001 c 2
- 275 1633 l 2
+277 3194.5 m 4
+ 360 3194.5 l 4
+ 360 2482 l 4
+ 359.952148438 812.267578125 236.697265625 148.196289062 95 6.5 c 0
+ 90 1.5 84 -0.5 78 -0.5 c 0
+ 65 -0.5 51 7.5 51 21.5 c 0
+ 51 23.5 65 38.5 66 40.5 c 0
+ 197.698242188 182.196289062 276.9609375 824.272460938 277 2494 c 4
+ 277 3194.5 l 4
 EndSplineSet
 EndChar
 
 StartChar: uni27EF.ex
 Encoding: 1114650 -1 2658
-Width: 418
+Width: 400
 GlyphClass: 2
 Flags: W
 TeX: 794 0
-HStem: 0 21G<191 275>
-VStem: 191 84<0 794>
+HStem: 0 21G<277 360>
+VStem: 277 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-275 0 m 1
- 191 0 l 1
- 191 794 l 1
- 275 794 l 1
- 275 0 l 1
+277 500 m 29
+ 360 500 l 29
+ 360 0 l 29
+ 277 0 l 29
+ 277 500 l 29
 EndSplineSet
 EndChar
 
 StartChar: uni27EF.tp
 Encoding: 1114651 -1 2659
-Width: 418
+Width: 400
 GlyphClass: 2
 Flags: W
 TeX: 2034 0
-HStem: 0 21G<211 255>
-VStem: 191 84<0.732422 625.754>
+HStem: 0 21G<277 360>
+VStem: 277 83<0 528.438>
 LayerCount: 2
 Fore
 SplineSet
-275 30 m 2
- 275 10 265 0 245 0 c 2
- 221 0 l 2
- 201 0 191 10 191 30 c 2
- 191 398 l 2
- 191 711.903320312 159.954101562 1881.29003906 108.865234375 2004.25976562 c 0
- 105.083984375 2013.36035156 101.599609375 2020.87011719 101.599609375 2030.34960938 c 0
- 101.599609375 2034.87011719 105.571289062 2035.37011719 109.596679688 2031.40039062 c 0
- 182.661132812 1959.30957031 275 772.689453125 275 398 c 2
- 275 30 l 2
+360 0 m 4
+ 277 0 l 4
+ 277 312.5 l 4
+ 277 1982.5 194.7109375 2559.79003906 63 2701.5 c 0
+ 61 2703.5 50 2718.5 50 2720.5 c 0
+ 50 2729.5 65 2736.5 72 2736.5 c 0
+ 82 2736.5 93 2731.5 99 2725.5 c 0
+ 240.7109375 2583.79003906 360 1970.5 360 300.5 c 4
+ 360 0 l 4
 EndSplineSet
 EndChar
 
@@ -103709,39 +103708,39 @@ EndChar
 
 StartChar: braceleft.ex
 Encoding: 1114654 -1 2662
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: W
 TeX: 596 0
-HStem: 0 21G<257 344>
-VStem: 257 87<0 596>
+HStem: 0 21G<240 325>
+VStem: 240 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-344 596 m 1
- 344 0 l 1
- 257 0 l 1
- 257 596 l 1
- 344 596 l 1
+240 0 m 17
+ 240 562 240 230 240 800 c 9
+ 325 800 l 17
+ 325 232 325 558 325 0 c 13
+ 240 0 l 17
 EndSplineSet
 EndChar
 
 StartChar: braceright.ex
 Encoding: 1114655 -1 2663
-Width: 577
+Width: 596
 GlyphClass: 2
 Flags: W
 TeX: 596 0
-HStem: 0 21G<233 320>
-VStem: 233 87<0 596>
+HStem: 0 21G<271 356>
+VStem: 271 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-233 596 m 1
- 320 596 l 1
- 320 0 l 1
- 233 0 l 1
- 233 596 l 1
+356 0 m 9
+ 271 0 l 21
+ 271 558 271 232 271 800 c 9
+ 356 800 l 17
+ 356 230 356 562 356 0 c 9
 EndSplineSet
 EndChar
 
@@ -106355,136 +106354,130 @@ EndChar
 
 StartChar: divides.bt
 Encoding: 1114756 -1 2764
-Width: 219
+Width: 204
 GlyphClass: 2
-Flags: MW
-HStem: -5.90039 21G<113.188 127.938>
-VStem: 80 59<29.5 2016.5>
+Flags: W
+HStem: -0.200195 21G<105.25 118.25>
+VStem: 76 52<2.95141 2375>
 LayerCount: 2
 Fore
 SplineSet
-139 2016.5 m 2
- 139 12.537109375 l 2
- 139 3 131.625 -5.900390625 124.25 -5.900390625 c 0
- 102.125 -5.900390625 80 6.490234375 80 29.5 c 2
- 80 2033.46289062 l 2
- 80 2043 87.375 2051.90039062 94.75 2051.90039062 c 0
- 116.875 2051.90039062 139 2040 139 2016.5 c 2
+128 16.0498046875 m 2
+ 128 7.919921875 121.5 -0.2001953125 115 -0.2001953125 c 0
+ 95.5 -0.2001953125 76 10.7197265625 76 31 c 2
+ 76 2375 l 1
+ 128 2375 l 1
+ 128 16.0498046875 l 2
 EndSplineSet
 EndChar
 
 StartChar: divides.ex
 Encoding: 1114757 -1 2765
-Width: 219
+Width: 204
 GlyphClass: 2
-Flags: MW
-HStem: 0 21G<80 80 80 139>
-VStem: 80 59<0 396 0 396>
+Flags: W
+HStem: 0 21G<76 128>
+VStem: 76 52<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-80 0 m 1
- 80 396 l 1
- 139 396 l 1
- 139 0 l 1
- 80 0 l 1
+128 1000 m 1
+ 128 0 l 1
+ 76 0 l 2
+ 76 1000 l 1
+ 128 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: divides.tp
 Encoding: 1114758 -1 2766
-Width: 219
+Width: 204
 GlyphClass: 2
 Flags: MW
-HStem: -5.89999 21G
-VStem: 80 59<29.5 2016.5>
+HStem: 0 21G<76 128>
+VStem: 76 52<0 2372.05>
 LayerCount: 2
 Fore
 SplineSet
-139 12.537109375 m 2
- 139 3 131.625 -5.8994140625 124.25 -5.8994140625 c 0
- 102.125 -5.8994140625 80 6.490234375 80 29.5 c 2
- 80 2033.46289062 l 2
- 80 2042.68066406 87.375 2051.90039062 94.75 2051.90039062 c 0
- 116.875 2051.90039062 139 2039.50976562 139 2016.5 c 2
- 139 12.537109375 l 2
+128 0 m 1
+ 76 0 l 1
+ 76 2358.95019531 l 2
+ 76 2367.08007812 82.5 2375.20019531 89 2375.20019531 c 4
+ 108.5 2375.20019531 128 2364.28027344 128 2344 c 2
+ 128 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: parallel.bt
 Encoding: 1114759 -1 2767
-Width: 370
+Width: 348
 GlyphClass: 2
-Flags: MW
-HStem: -5.90039 21G<109.188 123.938 268.188 282.938>
-VStem: 76 59<29.5 2016.5> 235 59<29.5 2016.5>
+Flags: HMW
+HStem: -0.200195 21G<249.25 262.25>
+VStem: 220 52<2.95141 2375>
 LayerCount: 2
 Fore
 SplineSet
-135 12.537109375 m 2
- 135 3 127.625 -5.900390625 120.25 -5.900390625 c 0
- 98.125 -5.900390625 76 6.490234375 76 29.5 c 2
- 76 2033.46289062 l 2
- 76 2043 83.375 2051.90039062 90.75 2051.90039062 c 0
- 112.875 2051.90039062 135 2039.50976562 135 2016.5 c 2
- 135 12.537109375 l 2
-294 2016.5 m 2
- 294 12.537109375 l 2
- 294 3 286.625 -5.900390625 279.25 -5.900390625 c 0
- 257.125 -5.900390625 235 6.490234375 235 29.5 c 2
- 235 2033.46289062 l 2
- 235 2043 242.375 2051.90039062 249.75 2051.90039062 c 0
- 271.875 2051.90039062 294 2040 294 2016.5 c 2
+272 16.0498046875 m 2
+ 272 7.919921875 265.5 -0.2001953125 259 -0.2001953125 c 0
+ 239.5 -0.2001953125 220 10.7197265625 220 31 c 2
+ 220 2375 l 1
+ 272 2375 l 1
+ 272 16.0498046875 l 2
+128 16.0498046875 m 2
+ 128 7.919921875 121.5 -0.2001953125 115 -0.2001953125 c 0
+ 95.5 -0.2001953125 76 10.7197265625 76 31 c 2
+ 76 2375 l 1
+ 128 2375 l 1
+ 128 16.0498046875 l 2
 EndSplineSet
 EndChar
 
 StartChar: parallel.ex
 Encoding: 1114760 -1 2768
-Width: 370
+Width: 348
 GlyphClass: 2
-Flags: MW
-HStem: 0 21G<76 76 76 135 235 235 235 294>
-VStem: 76 59<0 396 0 396> 235 59<0 396 0 396>
+Flags: HMW
+HStem: 0 21G<220 272>
+VStem: 220 52<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-235 0 m 1
- 235 396 l 1
- 294 396 l 1
- 294 0 l 1
- 235 0 l 1
-76 0 m 1
- 76 396 l 1
- 135 396 l 1
- 135 0 l 1
- 76 0 l 1
+272 1000 m 1
+ 272 0 l 1
+ 220 0 l 2
+ 220 1000 l 1
+ 272 1000 l 1
+128 1000 m 1
+ 128 0 l 1
+ 76 0 l 2
+ 76 1000 l 1
+ 128 1000 l 1
 EndSplineSet
 EndChar
 
 StartChar: parallel.tp
 Encoding: 1114761 -1 2769
-Width: 370
+Width: 348
 GlyphClass: 2
-Flags: MW
-HStem: -5.90039 21G<109.188 123.938 268.188 282.938>
-VStem: 76 59<29.5 2016.5> 235 59<29.5 2016.5>
+Flags: HMW
+HStem: 0 21G<220 272>
+VStem: 220 52<0 2372.05>
 LayerCount: 2
 Fore
 SplineSet
-135 12.537109375 m 2
- 135 3 127.625 -5.900390625 120.25 -5.900390625 c 0
- 98.125 -5.900390625 76 6.490234375 76 29.5 c 2
- 76 2033.46289062 l 2
- 76 2042.68066406 83.375 2051.90039062 90.75 2051.90039062 c 0
- 112.875 2051.90039062 135 2039.50976562 135 2016.5 c 2
- 135 12.537109375 l 2
-294 12.537109375 m 2
- 294 3 286.625 -5.900390625 279.25 -5.900390625 c 0
- 257.125 -5.900390625 235 6.490234375 235 29.5 c 2
- 235 2033.46289062 l 2
- 235 2042.68066406 242.375 2051.90039062 249.75 2051.90039062 c 0
- 271.875 2051.90039062 294 2039.50976562 294 2016.5 c 2
- 294 12.537109375 l 2
+272 0 m 5
+ 220 0 l 5
+ 220 2358.95019531 l 6
+ 220 2367.08007812 226.5 2375.20019531 233 2375.20019531 c 4
+ 252.5 2375.20019531 272 2364.28027344 272 2344 c 6
+ 272 0 l 5
+128 0 m 5
+ 76 0 l 5
+ 76 2358.95019531 l 6
+ 76 2367.08007812 82.5 2375.20019531 89 2375.20019531 c 4
+ 108.5 2375.20019531 128 2364.28027344 128 2344 c 6
+ 128 0 l 5
 EndSplineSet
 EndChar
 
@@ -108453,39 +108446,42 @@ EndChar
 
 StartChar: radical.ex
 Encoding: 1114813 -1 2821
-Width: 674
+Width: 950
 GlyphClass: 2
-Flags: MW
-HStem: 0 21G<462 514 462 462>
-VStem: 462 52<0 1053 0 1053>
+Flags: W
+HStem: 0 21G<489 541>
+VStem: 489 52<0 1500>
 LayerCount: 2
 Fore
 SplineSet
-514 1053 m 1
- 514 0 l 1
- 462 0 l 1
- 462 1053 l 1
- 514 1053 l 1
+541 1500 m 1
+ 541 0 l 1
+ 489 0 l 1
+ 489.00390625 1500 l 5
+ 541 1500 l 1
 EndSplineSet
 EndChar
 
 StartChar: radical.tp
 Encoding: 1114814 -1 2822
-Width: 674
+Width: 950
 GlyphClass: 2
-Flags: MW
-HStem: 0 21G<462 514 462 462> 249 52<514 700 514 514>
-VStem: 462 52<0 249 0 301>
+Flags: W
+HStem: 0 21G<489 541> 1114 52<541 982.049>
+VStem: 489 52<0 1114>
 LayerCount: 2
 Fore
 SplineSet
-700 249 m 1
- 514 249 l 1
- 514 0 l 1
- 462 0 l 1
- 462 301 l 1
- 700 301 l 1
- 700 249 l 1
+954 1114 m 2
+ 551 1114 l 2
+ 544 1114 541 1110.66992188 541 1104 c 0
+ 541 0 l 1
+ 489 0 l 1
+ 489.00390625 1136 l 2
+ 489.000976562 1156 499 1166 519 1166 c 0
+ 968.950195312 1166 l 2
+ 977.075195312 1166 985.200195312 1159.5 985.200195312 1153 c 0
+ 985.200195312 1133.5 974.280273438 1114 954 1114 c 2
 EndSplineSet
 EndChar
 
@@ -111329,7 +111325,7 @@ StartChar: parallel.v7
 Encoding: 1114920 -1 2928
 Width: 348
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 VStem: 76 52<-1069 1569> 220 52<-1069 1569>
 LayerCount: 2
 Fore
@@ -111346,7 +111342,7 @@ SplineSet
  95.5 -1100.20019531 76 -1089.28027344 76 -1069 c 2
  76 1583.95019531 l 2
  76 1592.08007812 82.5 1600.20019531 89 1600.20019531 c 0
- 108.5 1600.20019531 128 1589.28027344 128 1569 c 2
+ 108.5 1600.20019531 128 1589.28027344 128 1569 c 6
  128 -1083.95019531 l 2
 EndSplineSet
 EndChar
@@ -114822,13 +114818,13 @@ SplineSet
  515.801757812 -2773.74023438 l 2
  514.760742188 -2785.8203125 504.017578125 -2797.90039062 494.317382812 -2797.90039062 c 0
  465.21484375 -2797.90039062 434.647460938 -2781.66992188 431.924804688 -2751.53027344 c 2
- 182.299804688 12.041015625 l 2
- 181.700195312 18.6806640625 178.06640625 22 171.400390625 22 c 2
- 128.75 22 l 2
- 121.875 22 115 27.5 115 33 c 0
- 115 49.5 124.240234375 66 141.400390625 66 c 2
- 239.799804688 66 l 2
- 259.799804688 66 270.700195312 56.041015625 272.499023438 36.1220703125 c 2
+ 182.299804688 12.041015625 l 6
+ 181.700195312 18.6806640625 178.06640625 22 171.400390625 22 c 6
+ 128.75 22 l 6
+ 121.875 22 115 27.5 115 33 c 4
+ 115 49.5 124.240234375 66 141.400390625 66 c 6
+ 239.799804688 66 l 6
+ 259.799804688 66 270.700195312 56.041015625 272.499023438 36.1220703125 c 6
  493.329101562 -2408.66015625 l 2
  493.928710938 -2415.29980469 494.514648438 -2415.29980469 495.087890625 -2408.66015625 c 2
  986.114257812 3286.11035156 l 2

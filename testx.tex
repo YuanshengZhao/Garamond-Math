@@ -1,5 +1,5 @@
 \documentclass{article}
-\usepackage[a4paper, margin=1in]{geometry}
+\usepackage[a4paper, margin=.3in]{geometry}
 \usepackage{amsmath}
 \usepackage[no-math]{fontspec}
 \usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
@@ -48,6 +48,7 @@ BoldItalicFont = *-bolditalic ]
 \def\MATRIXII{a\\b}
 \def\MATRIXIII{x\\y\\z}
 \def\MATRIXIV{\phi\\\chi\\\phi'\\\chi'}
+\def\MATRIXV{\lambda\\\mu\\\nu\\\rho\\\sigma}
 \ExplSyntaxOn
 \NewDocumentCommand \TOPACCENTMAP { m m }
   { \fonttest_top_accent_map:Nx #1 {#2} }
@@ -69,7 +70,7 @@ BoldItalicFont = *-bolditalic ]
 \begin{document}
 
 \section{Alphabets}
-\delimitershortfall1055pt
+\delimitershortfall-.0001pt
 
        \[ \Latinalphabets \latinalphabets \]
        \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
@@ -203,7 +204,9 @@ BoldItalicFont = *-bolditalic ]
   \item Radical
         \[
             \sqrt{2} + \sqrt{2^2} + \sqrt{1+\sqrt{2}} + \sqrt{1+\sqrt{1+\sqrt{3}}}
-          + \sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{x}}}}}}}}}}}}}} + \sqrt{\frac{1}{2}}
+          + \sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{\sqrt{x}}}}}}}}}}}}}} + \sqrt{\frac{1}{2}}-\sqrt{\begin{matrix}
+          	1\\2\\3\\4\\5\\6
+          	\end{matrix}}
         \]
 
   \item Brackets
@@ -226,11 +229,11 @@ BoldItalicFont = *-bolditalic ]
           + \left( \frac{\frac{1}{2}}{\frac{3}{4}} \right)
         \]
         \[
-          ( \vert ) [ \Vert ] \{ \Vvert \} \quad
-          \bigl(  \bigm\vert  \bigr)  \bigl[  \bigm\Vert  \bigr]  \bigl\{  \bigm\Vvert  \bigr\}  \quad
-          \Bigl(  \Bigm\vert  \Bigr)  \Bigl[  \Bigm\Vert  \Bigr]  \Bigl\{  \Bigm\Vvert  \Bigr\}  \quad
-          \biggl( \biggm\vert \biggr) \biggl[ \biggm\Vert \biggr] \biggl\{ \biggm\Vvert \biggr\} \quad
-          \Biggl( \Biggm\vert \Biggr) \Biggl[ \Biggm\Vert \Biggr] \Biggl\{ \Biggm\Vvert \Biggr\}
+          ( \vert ) [ \Vert ] \{  \} \quad
+          \bigl(  \bigm\vert  \bigr)  \bigl[  \bigm\Vert  \bigr]  \bigl\{   \bigr\}  \quad
+          \Bigl(  \Bigm\vert  \Bigr)  \Bigl[  \Bigm\Vert  \Bigr]  \Bigl\{   \Bigr\}  \quad
+          \biggl( \biggm\vert \biggr) \biggl[ \biggm\Vert \biggr] \biggl\{  \biggr\} \quad
+          \Biggl( \Biggm\vert \Biggr) \Biggl[ \Biggm\Vert \Biggr] \Biggl\{  \Biggr\}
         \]
         \[
             \bra{x} + \ket{x} + \ip{\alpha}{\beta} + \op{\alpha}{\beta}
@@ -252,6 +255,7 @@ BoldItalicFont = *-bolditalic ]
             \Biggl\lAngle \Biggl\vert \Biggl\rAngle
         \]
 
+
   \item Matrices
         \[
         \begin{pmatrix} \MATRIXII  \end{pmatrix} \quad
@@ -264,11 +268,20 @@ BoldItalicFont = *-bolditalic ]
           \begin{Bmatrix} \MATRIXIII \end{Bmatrix} \quad
           \begin{vmatrix} \MATRIXIII \end{vmatrix} \quad
           \begin{Vmatrix} \MATRIXIII \end{Vmatrix} \quad
-          \begin{pmatrix} \MATRIXIV  \end{pmatrix} \quad
-          \begin{bmatrix} \MATRIXIV  \end{bmatrix} \quad
-          \begin{Bmatrix} \MATRIXIV  \end{Bmatrix} \quad
-          \begin{vmatrix} \MATRIXIV  \end{vmatrix} \quad
-          \begin{Vmatrix} \MATRIXIV  \end{Vmatrix} \quad
+        \]
+        \[\begin{pmatrix} \MATRIXIV  \end{pmatrix} \quad
+        \begin{bmatrix} \MATRIXIV  \end{bmatrix} \quad
+        \begin{Bmatrix} \MATRIXIV  \end{Bmatrix} \quad
+        \begin{vmatrix} \MATRIXIV  \end{vmatrix} \quad
+        \begin{Vmatrix} \MATRIXIV  \end{Vmatrix} \quad
+        \begin{pmatrix} \MATRIXV  \end{pmatrix} \quad
+        \begin{bmatrix} \MATRIXV  \end{bmatrix} \quad
+        \begin{Bmatrix} \MATRIXV  \end{Bmatrix} \quad
+        \begin{vmatrix} \MATRIXV  \end{vmatrix} \quad
+        \begin{Vmatrix} \MATRIXV  \end{Vmatrix} \quad
+        \left\lgroup \begin{matrix}
+        \MATRIXV
+        \end{matrix} \right\rgroup
         \]
         \[\begin{split}
         V&{}=-\gamma \mathbf{B}\cdot \mathbf{S}=-\gamma\dfrac{\hbar}{2}(B_x{\sigma}_x+B_y{\sigma}_y)\\
