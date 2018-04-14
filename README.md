@@ -1,14 +1,21 @@
-# Garamond-Math
+# Garamond-Math: An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGaramond12/).
 
-- An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGaramond12/).
+## Glyph origin (Other than EB Garamond):
+- *[TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/), with modifications on the crossings and endpoints of strokes:* Binary relations, etc.
 
-- Glyphs from the [TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/) and [XITS Math](https://github.com/khaledhosny/xits) fonts are used to fill those unavailable in EB Garamond, but most of them are modified for a more unified style.
+- *TG Ternes Math:* Fraktur, Script, sans, tt, etc.
+
+- *[XITS Math](https://github.com/khaledhosny/xits), with modifications on the crossings and endpoints of strokes:* BlackBoard.
+
+- *Redesigned:* \int, \sum, \underbrace, big delimiters, etc.
+
+- Arrows are the combination of TG Termes math (tail) and EB Garamond (head).
 
 - TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.
 
 ## Sample
 
-![sample](https://user-images.githubusercontent.com/37881856/38508088-cd7bbc2e-3c50-11e8-9d51-159ffa751e7c.png)
+![sample](https://raw.githubusercontent.com/YuanshengZhao/Garamond-Math/master/sample.PNG)
 
 ## License
 
