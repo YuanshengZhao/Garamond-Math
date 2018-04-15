@@ -1,3 +1,3 @@
 @echo off
 
-fontforge -script generate.pe GM.sfd
+fontforge -script generate.pe Garamond-Math.sfd
