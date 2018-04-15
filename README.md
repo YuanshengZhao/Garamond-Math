@@ -5,9 +5,11 @@ An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGa
 ## Glyph origin (other than EB Garamond):
 - *[TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/), with modifications on the crossings and endpoints of strokes:* Binary relations, etc.
 
-- *TG Ternes Math:* Fraktur, Script, sanserif, typewriter, etc.
+- *TG Ternes Math:* Fraktur, Script, Sanserif, Typewriter, etc.
 
-- *Redesigned:*    `\int`, `\sum`, `\underbrace`, big delimiters, etc.
+- *[XITS Math](https://github.com/khaledhosny/xits), with modifications on the crossings and endpoints of strokes:* Blackboard.
+
+- *Redesigned:* `\int`, `\sum`, `\underbrace`, big delimiters, etc.
 
 - Arrows are the combination of TG Termes math (tail) and EB Garamond (head).
 
