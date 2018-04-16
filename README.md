@@ -5,7 +5,7 @@ An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGa
 ## Glyph origin (other than EB Garamond):
 - *[TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/), with modifications on the crossings and endpoints of strokes:* Binary relations, etc.
 
-- *TG Ternes Math:* Fraktur, Script, Sanserif, Typewriter, etc.
+- *TG Termes Math:* Fraktur, Script, Sanserif, Typewriter, etc.
 
 - *[XITS Math](https://github.com/khaledhosny/xits), with modifications on the crossings and endpoints of strokes:* Blackboard.
 
