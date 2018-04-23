@@ -3,15 +3,14 @@ FontName: Garamond-Math
 FullName: Garamond-Math
 FamilyName: Garamond-Math
 Weight: Regular
-Copyright: 
-Version: 0.1
+Copyright: Copyright (C) 2018 Yuansheng Zhao and Xiangdong Zeng
+Version: 0.2
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 40
 Ascent: 782
 Descent: 218
 InvalidEm: 0
-sfntRevision: 0x0000199a
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -21,8 +20,8 @@ FSType: 8
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1409921248
-ModificationTime: 1524153937
+CreationTime: 1522080000
+ModificationTime: 1524498636
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,7 +62,7 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 Lookup: 258 0 0 "mkn" { "mkn-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "FontForge : Garamond-Math : 14-4-2018" "" "Version 1.543" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "" "" "" "" "" "" "" "TeX Gyre Termes Math" "Regular"
+LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
 MATH:ScriptPercentScaleDown: 74
 MATH:ScriptScriptPercentScaleDown: 55
 MATH:DelimitedSubFormulaMinHeight: 1300
@@ -128,7 +127,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 702 54 15
+WinInfo: 108 54 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
