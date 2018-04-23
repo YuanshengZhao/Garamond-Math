@@ -89,7 +89,7 @@ BoldItalicFont = *-bolditalic ]
         % \TOPACCENTMAP{\symbf}{\imath\jmath}
         % \TOPACCENTMAP{\symup}{\imath\jmath}
 
-\section{Equations Tests}
+\section{Equation Tests}
 
 \begin{itemize}
   \item Basic
@@ -105,6 +105,11 @@ BoldItalicFont = *-bolditalic ]
         \[ 2^2 + 2^{2^2} + 2^{2^{2^2}} + {2^2}^2 + x_a + x_{a_i} + x_{a_{i_1}}-\Gamma_{\epsilon_\alpha} \]
         \[\Gamma_{\mu\nu}^{\kappa}=\frac{1}{2}g^{\kappa\lambda}(\partial_\mu g_{\nu\lambda}+\partial_\nu g_{\mu\lambda}-\partial_\lambda g_{\mu\nu})\]
         \[R_{\nu\kappa\lambda}^\mu=\partial_\kappa\Gamma_{\lambda\nu}^\mu-\partial_\lambda\Gamma_{\kappa\nu}^\mu+\Gamma_{\kappa\sigma}^\mu\Gamma_{\lambda\nu}^\sigma-\Gamma_{\lambda\sigma}^\mu\Gamma_{\kappa\nu}^\sigma\]
+        \[{T'}_{\alpha_1,\cdots\alpha_k}^{\beta_1\cdots\beta_l}=T_{i_1\cdots i_k}^{j_1\cdots j_l}
+        \frac{\partial x^{i_1}}{\partial x'^{\alpha_1}}\cdots
+        \frac{\partial x^{i_k}}{\partial x'^{\alpha_k}}
+        \frac{\partial x'^{\beta_1}}{\partial x^{j_1}}\cdots
+        \frac{\partial x'^{\beta_l}}{\partial x^{j_l}}\]
         \[\int_{\frac{1-m u+m\Delta/k^2}{2mu/k}}^{+\infty}\frac{p\Omega}{2 k p u \sin\phi} [h(up^2)-h(up^2+k^2/m+\Delta)]\,\dd p\]
 \setmathfont{TeX Gyre Termes Math}
         \[\int_{\frac{1-m u+m\Delta/k^2}{2mu/k}}^{+\infty}\frac{p\Omega}{2 k p u \sin\phi} [h(up^2)-h(up^2+k^2/m+\Delta)]\,\dd p\]
@@ -385,4 +390,46 @@ BoldItalicFont = *-bolditalic ]
 \end{split}
 \]
 
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\ec}{\text{,}}
+\newcommand{\ed}{\text{.}}
+\newcommand{\bt}{\lb t\rb}
+\newcommand{\deltaup}{\updelta}
+\newcommand{\piup}{\uppi}
+\newcommand{\ndd}{\,\mathrm{d}}
+\subsection*{Problem 1}
+For convenience, first we set $t_i=0$, and in the end, we replace $t_f$ by $t_f-t_i$ and right answer is obtained.
+The classical path is \[x_c\lb t\rb=A \cos\omega t+B\sin \omega t\ec\]where $A$ and $B$ can be determined by plugging $\lb0,x_i\rb$ and $\lb t_f, x_f\rb$ into the equation. The result is
+\[x_c\lb t\rb=x_i \cos\omega t+\frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\sin \omega t\ed\]
+We write $x\lb t\rb=x_c\lb t\rb+\deltaup x\bt$. Due to the fact that $\deltaup x$ should vanish at $t=0$ and $t=t_f$, $\deltaup x$ can be expanded as sine series: \[\deltaup x\bt=\sum_{n=1}^\infty a_n\sin\frac{n\piup t}{t_f}\ed\]
+Also, the functional integral can be rewritten as \[\int\mathcal{D}\left[x\bt\right]=c\int\prod_{n=1}^\infty \dd a_n\ed\]
+So, we have
+\[L=\frac{m}{2}\lb\dot{x}_c+\deltaup\dot{x}\rb^2-\frac{m\omega^2}{2}\lb x_c+\deltaup x\rb^2\ec\]
+\[\dot{x}\bt=-\omega x_i \sin\omega t +\omega \frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\cos\omega t+\sum_{n=1}^\infty\frac{a_n n \piup}{t_f}\cos\frac{n \piup t}{t_f}\ec\]
+\[S=\int_0^{t_f} L\ndd t\ed\]
+Because $x_c$ is the classical path, $\deltaup S_\text{classical}=0$, so there can't be any the linear term in the expression of $S$, and we also have in mind that the sine and cosine series are orthogonal. So, we can write S as following:
+\[\begin{split}S&{}=\frac{m}{2}\int_0^{t_f}\left[\lb-\omega x_i\sin\omega t+\omega \frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\cos\omega t\rb^2+\sum_{n=1}^\infty\lb\frac{a_n n \piup}{t_f}\rb^2\cos^2\frac{n \piup t}{t_f}\right]\ndd t\\%
+&\quad{}-\frac{m\omega^2}{2}\int_0^{t_f}\left[\lb x_i\cos\omega t+ \frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\sin\omega t\rb^2+\sum_{n=1}^\infty {a_n}^2\sin^2\frac{n \piup t}{t_f}\right]\ndd t\\%
+&{}=\sum_{n=1}^\infty\int_0^{t_f}\left[\frac{m}{2}\lb\frac{a_n n \piup}{t_f}\rb^2\cos^2\frac{n \piup t}{t_f}-\frac{m\omega^2}{2}{a_n}^2\sin^2\frac{n \piup t}{t_f}\right]\ndd t\\%
+&\quad{}+\frac{m\omega^2}{2}\int_0^{t_f}\left[ {x_i}^2-\lb\frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\rb^2\right]\lb\sin^2\omega t-\cos^2\omega t\rb\ndd t\\%
+&\quad{}-\frac{m\omega^2}{2}\int_0^{t_f}4 {x_i}\lb\frac{x_f-x_i\cos\omega t_f}{\sin\omega t_f}\rb\lb\sin\omega t\cos\omega t\rb\ndd t\ed\end{split}\]
+Using 
+\[\int_0^{t_f}\lb\sin^2\omega t-\cos^2\omega t\rb\ndd t=-\frac{\sin2\omega t_f}{2\omega}\ec\]
+\[\int_0^{t_f}\sin\omega t\cdot\cos\omega t\ndd t=\frac{\sin^2\omega t_f}{2\omega}\ec\]
+\[\int_0^{t_f}\sin^2\frac{n\piup t}{t_f} \ndd t=\int_0^{t_f}\cos^2\frac{n\piup t}{t_f} \ndd t=\frac{a_n n \piup}{t_f}\ec\]
+we get
+\[S=\sum_{n=1}^\infty\left[\frac{m}{2}\lb\frac{a_n n \piup}{t_f}\rb^2-\frac{m\omega^2}{2}{a_n}^2\right]\frac{t_f}{2}+\frac{m\omega}{2\sin\omega t_f}\left[\lb {x_i}^2+{x_f}^2\rb\cos\omega t_f-2 x_i x_f\right]\ed\]
+\[\begin{split}U={}&\exp\left\{\frac{\ii}{\hbar}\frac{m\omega}{2\sin\omega t_f}\left[\lb {x_i}^2+{x_f}^2\rb\cos\omega t_f-2 x_i x_f\right]\right\}\\%
+&{}\times c\prod_{n=1}^{\infty}\int_{-\infty}^\infty\exp{\frac{\ii}{\hbar}\left[\frac{m}{2}\lb\frac{n \piup}{t_f}\rb^2-\frac{m\omega^2}{2}\right]\frac{t_f {a_n}^2}{2}}\ndd a_n\ed\end{split}\]
+Using the Fresnel integral formula:
+\[\int_{-\infty}^\infty\exp\lb \ii t\rb\ndd t=\sqrt{\piup \ii}\ec\]
+\[\int_{-\infty}^\infty\exp{\frac{\ii}{\hbar}\left[\frac{m}{2}\lb\frac{n \piup}{t_f}\rb^2-\frac{m\omega^2}{2}\right]\frac{t_f {a_n}^2}{2}}\ndd a_n\sim\frac{\sqrt{t_f}}{n}\ec\]
+\[U\lb x_f,t_f;x_i,t_i\rb=c'\lb t_f-t_i\rb\exp\left\{\frac{\ii m\omega}{2\hbar\sin\left[\omega \lb t_f-t_i\rb\right]}\left[\lb {x_i}^2+{x_f}^2\rb\cos\left[\omega\lb t_f-t_i\rb\right]-2 x_i x_f\right]\right\}\ed\]
+Because \[\int\dd x U\lb x_f,t_f;x,t\rb U\lb x,t;x_i,t_i\rb=U\lb x_f,t_f;x_i,t_i\rb\ec\]
+By using the Fresnel integral again:
+\[c'\lb t_f-t\rb c'\lb t-t_i\rb\sqrt{\frac{2 \piup \ii \hbar}{m \omega}\lb\frac{\cos\left[\omega\lb t_f-t\rb\right]}{\sin\left[\omega\lb t_f-t\rb\right]}+\frac{\cos\left[\omega\lb t-t_i\rb\right]}{\sin\left[\omega\lb t-t_i\rb\right]}\rb}=c'\lb t_f-t_i\rb\ec\]
+\[c'\lb t_f-t_i\rb=\sqrt{\frac{m\omega}{2\piup \ii \hbar\sin\left[\omega\lb t_f-t_i\rb\right]}}\ed\]
+Thus
+\[\begin{split}U\lb x_f,t_f;x_i,t_i\rb=&\sqrt{\frac{m\omega}{2\piup \ii \hbar\sin\left[\omega\lb t_f-t_i\rb\right]}}\\&{}\times\exp\left\{\frac{\ii m\omega}{2\hbar\sin\left[\omega \lb t_f-t_i\rb\right]}\left[\lb {x_i}^2+{x_f}^2\rb\cos\left[\omega\lb t_f-t_i\rb\right]-2 x_i x_f\right]\right\}\ed\end{split}\]
 \end{document}
