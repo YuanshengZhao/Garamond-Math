@@ -1,7 +1,8 @@
 *.nb
 *.otf
 *.pdf
-
+*.txt
+*.ttf
 *.aux
 *.fdb_latexmk
 *.fls
@@ -10,8 +11,9 @@
 *.synctex.gz
 *.toc
 *.xdv
+*.synctex
 
 GTSymbol/
 EBGaramond/
 
-Glyph-Change.txt
+
