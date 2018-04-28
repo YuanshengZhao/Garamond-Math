@@ -1,22 +1,22 @@
 StartChar: parallel.ex
-Encoding: 1114760 -1 1933
-Width: 348
+Encoding: 2698 -1 1933
+Width: 416
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<76 128 220 272>
-VStem: 76 52<0 1000> 220 52<0 1000>
+HStem: 0 21G<110 162 254 306>
+VStem: 110 52<0 1000> 254 52<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-272 1000 m 1
- 272 0 l 1
- 220 0 l 2
- 220 1000 l 1
- 272 1000 l 1
-128 1000 m 1
- 128 0 l 1
- 76 0 l 2
- 76 1000 l 1
- 128 1000 l 1
+306 1000 m 1
+ 306 0 l 1
+ 254 0 l 2
+ 254 1000 l 1
+ 306 1000 l 1
+162 1000 m 1
+ 162 0 l 1
+ 110 0 l 2
+ 110 1000 l 1
+ 162 1000 l 1
 EndSplineSet
 EndChar

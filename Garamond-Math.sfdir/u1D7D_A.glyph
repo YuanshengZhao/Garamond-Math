@@ -1,5 +1,5 @@
 StartChar: u1D7DA
-Encoding: 120794 120794 1247
+Encoding: 2012 120794 1247
 Width: 547
 GlyphClass: 2
 Flags: W
@@ -48,4 +48,5 @@ SplineSet
  425 44 430 47 432 53 c 2
  448 95 l 2
 EndSplineSet
+Substitution2: "'ss01' Style Set-1" u1D7DA.gm
 EndChar

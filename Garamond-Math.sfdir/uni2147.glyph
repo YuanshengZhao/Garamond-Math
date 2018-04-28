@@ -1,5 +1,5 @@
 StartChar: uni2147
-Encoding: 8519 8519 2716
+Encoding: 636 8519 2716
 Width: 515
 GlyphClass: 2
 Flags: W
@@ -49,4 +49,5 @@ SplineSet
  125 338 77 227 77 157 c 0
  77 124 89 93 105 65 c 0
 EndSplineSet
+Substitution2: "'ss01' Style Set-1" uni2147.gm
 EndChar

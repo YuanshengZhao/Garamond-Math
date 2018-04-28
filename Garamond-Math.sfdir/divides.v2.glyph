@@ -1,19 +1,19 @@
 StartChar: divides.v2
-Encoding: 1114738 -1 1911
-Width: 204
+Encoding: 2676 -1 1911
+Width: 272
 GlyphClass: 2
 Flags: W
 IsExtendedShape: 1
-VStem: 76 52<-472.047 972.047>
+VStem: 110 52<-472.047 972.047>
 LayerCount: 2
 Fore
 SplineSet
-128 -459 m 2
- 128 -467 121 -475 115 -475 c 0
- 95 -475 76 -464 76 -444 c 2
- 76 959 l 2
- 76 967 83 975 89 975 c 0
- 109 975 128 964 128 944 c 2
- 128 -459 l 2
+162 -459 m 2
+ 162 -467 155 -475 149 -475 c 0
+ 129 -475 110 -464 110 -444 c 2
+ 110 959 l 2
+ 110 967 117 975 123 975 c 0
+ 143 975 162 964 162 944 c 2
+ 162 -459 l 2
 EndSplineSet
 EndChar

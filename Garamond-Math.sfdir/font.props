@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1524888964
+ModificationTime: 1524930731
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -122,14 +122,13 @@ MATH:RadicalKernBeforeDegree: 40
 MATH:RadicalKernAfterDegree: -355 
 MATH:RadicalDegreeBottomRaisePercent: 55
 MATH:MinConnectorOverlap: 26
-Encoding: UnicodeFull
-Compacted: 1
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 972 54 15
+WinInfo: 270 54 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

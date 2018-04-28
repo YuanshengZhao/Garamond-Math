@@ -1,5 +1,5 @@
 StartChar: u1D7DE
-Encoding: 120798 120798 1251
+Encoding: 2016 120798 1251
 Width: 540
 GlyphClass: 2
 Flags: W
@@ -47,4 +47,5 @@ SplineSet
  86 439 72 357 72 298 c 0
  72 233 85 163 126 111 c 0
 EndSplineSet
+Substitution2: "'ss01' Style Set-1" u1D7DE.gm
 EndChar

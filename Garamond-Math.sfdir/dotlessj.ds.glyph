@@ -1,5 +1,5 @@
 StartChar: dotlessj.ds
-Encoding: 1114122 -1 1295
+Encoding: 2060 -1 1295
 Width: 305
 GlyphClass: 2
 Flags: W
@@ -31,4 +31,5 @@ SplineSet
  151 -150 154 -152 160 -148 c 0
  190 -129 206 -94 206 -58 c 2
 EndSplineSet
+Substitution2: "'ss01' Style Set-1" dotlessj.dsgm
 EndChar

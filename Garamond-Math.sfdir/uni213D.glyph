@@ -1,5 +1,5 @@
 StartChar: uni213D
-Encoding: 8509 8509 2712
+Encoding: 630 8509 2712
 Width: 540
 GlyphClass: 2
 Flags: W
@@ -46,4 +46,5 @@ SplineSet
  302 -177 301 -133 301 -118 c 0
  301 -84 290 -17 272 11 c 0
 EndSplineSet
+Substitution2: "'ss01' Style Set-1" uni213D.gm
 EndChar
