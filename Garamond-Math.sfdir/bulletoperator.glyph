@@ -1,0 +1,18 @@
+StartChar: bulletoperator
+Encoding: 8729 8729 324
+Width: 460
+GlyphClass: 2
+Flags: W
+TeX: 400 -100
+HStem: 100 300<152.15 307.85>
+VStem: 80 300<172.15 327.85>
+LayerCount: 2
+Fore
+SplineSet
+380 250 m 0
+ 380 167 313 100 230 100 c 0
+ 147 100 80 167 80 250 c 0
+ 80 333 147 400 230 400 c 0
+ 313 400 380 333 380 250 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,39 @@
+StartChar: uni27E7
+Encoding: 10215 10215 550
+Width: 481
+GlyphClass: 2
+Flags: W
+TeX: 728 300
+GlyphVariantsVertical: uni27E7 uni27E7.v1 uni27E7.v2 uni27E7.v3 uni27E7.v4 uni27E7.v5 uni27E7.v6 uni27E7.v7 uni27E7.v8 uni27E7.v9 uni27E7.v10 uni27E7.v11 uni27E7.v12 uni27E7.v13 uni27E7.v14 uni27E7.v15 uni27E7.v16 uni27E7.v17 uni27E7.v18 uni27E7.v19 uni27E7.v20
+GlyphCompositionVertical: 3  uni27E7.bt%0,0,500,2357 uni27E7.ex%1,1000,1000,1000 uni27E7.tp%0,500,0,2359
+HStem: -200 33<20.0906 88.5385> 673 29<20.0377 125>
+VStem: 148 73<-153.642 666.782> 298 73<-153.78 666.782>
+LayerCount: 2
+Fore
+SplineSet
+340 -200 m 4
+ 46 -200 l 4
+ 34 -200 20 -197 20 -185 c 0
+ 20 -173 33 -169 46 -167 c 2
+ 125 -154 l 2
+ 137 -152 148 -139 148 -121 c 2
+ 148 642 l 2
+ 148 653 134 666 125 667 c 2
+ 46 673 l 2
+ 33 674 20 678 20 688 c 0
+ 20 698 29 702 38 702 c 0
+ 333 702 l 0
+ 365 702 371 702 371 668 c 2
+ 371 -175 l 2
+ 371 -199 363 -200 340 -200 c 4
+221 661 m 2
+ 221 -153 l 0
+ 221 -160 224 -162 231 -161 c 2
+ 275 -154 l 2
+ 287 -152 298 -139 298 -121 c 2
+ 298 642 l 2
+ 298 653 284 666 275 667 c 2
+ 231 670 l 0
+ 224 671 221 668 221 661 c 2
+EndSplineSet
+EndChar

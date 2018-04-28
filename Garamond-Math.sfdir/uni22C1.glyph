@@ -1,0 +1,25 @@
+StartChar: uni22C1
+Encoding: 8897 8897 394
+Width: 960
+GlyphClass: 2
+Flags: W
+TeX: 695 203
+IsExtendedShape: 1
+GlyphVariantsVertical: uni22C1 uni22C1.v1
+LayerCount: 2
+Fore
+SplineSet
+875 678 m 2
+ 515 -177 l 2
+ 508 -194 486 -203 468 -203 c 0
+ 462 -203 453 -196 450 -189 c 2
+ 85 678 l 2
+ 81 686 85 695 92 695 c 0
+ 114 695 141 684 150 663 c 2
+ 476 -111 l 2
+ 479 -117 481 -117 484 -111 c 2
+ 810 663 l 2
+ 819 684 846 695 868 695 c 0
+ 875 695 879 686 875 678 c 2
+EndSplineSet
+EndChar

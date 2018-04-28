@@ -1,0 +1,23 @@
+StartChar: uni22C0.v1
+Encoding: 1114764 -1 1937
+Width: 1040
+GlyphClass: 2
+Flags: W
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+956 -314 m 2
+ 959 -323 955 -332 947 -332 c 0
+ 924 -332 896 -320 888 -297 c 2
+ 523 730 l 2
+ 521 736 519 736 517 730 c 2
+ 152 -297 l 2
+ 144 -320 116 -332 93 -332 c 0
+ 85 -332 81 -323 84 -314 c 2
+ 486 817 l 2
+ 492 835 514 844 532 844 c 0
+ 538 844 546 837 549 830 c 2
+ 956 -314 l 2
+EndSplineSet
+EndChar

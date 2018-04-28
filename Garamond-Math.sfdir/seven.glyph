@@ -1,0 +1,33 @@
+StartChar: seven
+Encoding: 55 55 23
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 626 32
+TopAccentHorizontal: 263
+HStem: 551 65<85.9778 405.578>
+LayerCount: 2
+Fore
+SplineSet
+127 -32 m 0
+ 112 -32 106 -21 106 -6 c 0
+ 106 -2 118 19 127 35 c 2
+ 410 541 l 2
+ 412 545 415 550 400 551 c 2
+ 144 551 l 2
+ 112 551 89 542 67 505 c 0
+ 63 498 53 480 43 480 c 0
+ 37 480 36 489 36 494 c 0
+ 36 501 39 511 40 516 c 0
+ 47 545 53 590 56 615 c 0
+ 57 624 63 626 66 626 c 0
+ 69 626 108 617 150 617 c 0
+ 180 617 202 616 249 616 c 0
+ 347 616 460 618 479 621 c 0
+ 482 621 485 613 485 608 c 0
+ 485 592 457 555 447 538 c 2
+ 146 -5 l 2
+ 140 -16 131 -32 127 -32 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" seven.s seven.ss
+EndChar

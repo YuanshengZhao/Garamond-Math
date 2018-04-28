@@ -1,0 +1,33 @@
+StartChar: u1D471
+Encoding: 119921 119921 726
+Width: 499
+GlyphClass: 2
+Flags: W
+TeX: 655 200
+ItalicCorrection: 52
+TopAccentHorizontal: 366
+HStem: -200 39<-86.5567 31.3913> 619 36<201.056 256.203 447.361 521.998>
+LayerCount: 2
+Fore
+SplineSet
+-38 -200 m 0
+ -133 -200 -167 -176 -168 -143 c 0
+ -168 -104 -152 -75 -130 -75 c 0
+ -113 -75 -91 -96 -68 -118 c 0
+ -44 -139 -20 -161 0 -161 c 0
+ 33 -161 56 -109 95 20 c 2
+ 259 551 l 2
+ 272 595 263 607 215 619 c 0
+ 203 622 198 629 201 640 c 0
+ 202 649 215 655 224 655 c 0
+ 270 655 325 650 366 650 c 0
+ 404 650 466 654 510 654 c 0
+ 521 654 525 649 523 640 c 0
+ 520 627 511 623 496 619 c 0
+ 438 604 425 591 412 550 c 2
+ 263 68 l 2
+ 238 -16 193 -77 135 -126 c 0
+ 85 -170 25 -200 -38 -200 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D471.s u1D471.ss
+EndChar

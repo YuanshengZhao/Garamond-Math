@@ -1,0 +1,19 @@
+StartChar: dotlessi.ss
+Encoding: 1114112 -1 1285
+Width: 214
+GlyphClass: 2
+Flags: W
+TeX: 482 0
+TopAccentHorizontal: 108
+HStem: 0 21G<69 146>
+VStem: 69 77<0 482>
+LayerCount: 2
+Fore
+SplineSet
+146 0 m 1
+ 69 0 l 1
+ 69 482 l 1
+ 146 482 l 1
+ 146 0 l 1
+EndSplineSet
+EndChar

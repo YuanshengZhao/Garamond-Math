@@ -1,0 +1,32 @@
+StartChar: u1D715
+Encoding: 120597 120597 1169
+Width: 415
+GlyphClass: 2
+Flags: W
+TeX: 705 14
+ItalicCorrection: 40
+TopAccentHorizontal: 306
+HStem: -14 30<134.149 200.667> 384 30<257.297 325.316> 678 27<188.038 243.101>
+VStem: 57 64<30.5807 194.315> 364 63<400.39 564.935>
+LayerCount: 2
+Fore
+SplineSet
+152 -14 m 0
+ 112 -14 57 28 57 104 c 0
+ 57 224 155 414 305 414 c 0
+ 319 414 333 410 343 404 c 0
+ 347 402 352 398 355 398 c 0
+ 359 398 364 418 364 454 c 0
+ 364 566 308 659 201 678 c 0
+ 196 679 188 684 188 692 c 0
+ 188 705 201 705 214 705 c 0
+ 351 705 427 582 427 442 c 0
+ 427 235 327 -14 152 -14 c 0
+164 16 m 0
+ 244 16 338 211 338 304 c 0
+ 338 354 329 384 295 384 c 0
+ 215 384 121 189 121 96 c 0
+ 121 46 130 16 164 16 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D715.s u1D715.ss
+EndChar

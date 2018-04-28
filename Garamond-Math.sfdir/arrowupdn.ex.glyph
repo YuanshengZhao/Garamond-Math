@@ -1,0 +1,18 @@
+StartChar: arrowupdn.ex
+Encoding: 1114202 -1 1375
+Width: 520
+GlyphClass: 2
+Flags: W
+TeX: 300 0
+HStem: 0 300<234 286>
+VStem: 234 52<0 300>
+LayerCount: 2
+Fore
+SplineSet
+286 0 m 1
+ 234 0 l 1
+ 234 300 l 1
+ 286 300 l 1
+ 286 0 l 1
+EndSplineSet
+EndChar

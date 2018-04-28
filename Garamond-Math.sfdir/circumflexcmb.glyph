@@ -1,0 +1,26 @@
+StartChar: circumflexcmb
+Encoding: 770 770 177
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 748 -547
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: circumflexcmb circumflexcmb.h1 circumflexcmb.h2 circumflexcmb.h3 circumflexcmb.h4 circumflexcmb.h5 circumflexcmb.h6 circumflexcmb.h7 circumflexcmb.h8 circumflexcmb.h9 circumflexcmb.h10 circumflexcmb.h11 circumflexcmb.h12 circumflexcmb.h13 circumflexcmb.h14 circumflexcmb.h15 circumflexcmb.h16 circumflexcmb.h17 circumflexcmb.h18 circumflexcmb.h19 circumflexcmb.h20 circumflexcmb.h21 circumflexcmb.h22 circumflexcmb.h23 circumflexcmb.h24 circumflexcmb.h25 circumflexcmb.h26 circumflexcmb.h27 circumflexcmb.h28 circumflexcmb.h29 circumflexcmb.h30 circumflexcmb.h31
+HStem: 547 201
+LayerCount: 2
+Fore
+SplineSet
+-100 547 m 0
+ -108 547 -111 559 -103 577 c 0
+ -86 616 -36 703 -21 730 c 0
+ -16 739 -8 748 0 748 c 0
+ 8 748 15 739 20 730 c 0
+ 35 703 83 615 102 577 c 0
+ 111 559 107 547 99 547 c 0
+ 91 547 76 560 69 569 c 0
+ 57 585 28 623 3 653 c 0
+ 0 657 -1 657 -4 653 c 0
+ -27 622 -58 585 -70 569 c 0
+ -77 560 -92 547 -100 547 c 0
+EndSplineSet
+EndChar

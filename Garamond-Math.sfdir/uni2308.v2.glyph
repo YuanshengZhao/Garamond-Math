@@ -1,0 +1,25 @@
+StartChar: uni2308.v2
+Encoding: 1114562 -1 1735
+Width: 341
+GlyphClass: 2
+Flags: W
+TeX: 960 465
+IsExtendedShape: 1
+HStem: 931 28<206 320.916>
+VStem: 110 73<-457.147 924.788>
+LayerCount: 2
+Fore
+SplineSet
+110 -443 m 2
+ 110 926 l 2
+ 110 960 116 960 148 960 c 2
+ 303 959 l 2
+ 312 959 321 956 321 946 c 0
+ 321 936 308 932 295 931 c 2
+ 206 925 l 2
+ 197 924 183 912 183 900 c 2
+ 183 -422 l 2
+ 183 -450 155 -466 128 -466 c 0
+ 119 -466 110 -454 110 -443 c 2
+EndSplineSet
+EndChar

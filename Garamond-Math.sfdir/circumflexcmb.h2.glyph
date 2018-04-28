@@ -1,0 +1,22 @@
+StartChar: circumflexcmb.h2
+Encoding: 1114488 -1 1661
+Width: 610
+GlyphClass: 2
+Flags: W
+TeX: 695 -500
+LayerCount: 2
+Fore
+SplineSet
+596 582 m 2
+ 605 576 610 563 610 553 c 0
+ 610 550 607 549 604 550 c 4
+ 314 671 l 2
+ 308 674 302 674 296 671 c 0
+ 6 550 l 2
+ 3 549 0 550 0 553 c 0
+ 0 563 5 576 14 582 c 0
+ 279 741 l 2
+ 296 751 314 751 331 741 c 0
+ 596 582 l 2
+EndSplineSet
+EndChar

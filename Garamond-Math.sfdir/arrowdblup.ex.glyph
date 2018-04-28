@@ -1,0 +1,23 @@
+StartChar: arrowdblup.ex
+Encoding: 1114362 -1 1535
+Width: 520
+GlyphClass: 2
+Flags: W
+TeX: 252 0
+HStem: 0 252<158 210 310 362>
+VStem: 158 52<0 252> 310 52<0 252>
+LayerCount: 2
+Fore
+SplineSet
+210 0 m 1
+ 158 0 l 1
+ 158 252 l 1
+ 210 252 l 1
+ 210 0 l 1
+362 0 m 1
+ 310 0 l 1
+ 310 252 l 1
+ 362 252 l 1
+ 362 0 l 1
+EndSplineSet
+EndChar

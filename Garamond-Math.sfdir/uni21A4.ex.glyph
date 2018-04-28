@@ -1,0 +1,18 @@
+StartChar: uni21A4.ex
+Encoding: 1114238 -1 1411
+Width: 252
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+HStem: 224 52<0 252>
+VStem: 0 252<224 276>
+LayerCount: 2
+Fore
+SplineSet
+252 276 m 1
+ 252 224 l 1
+ 0 224 l 1
+ 0 276 l 1
+ 252 276 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,28 @@
+StartChar: uni21BD
+Encoding: 8637 8637 2751
+Width: 868
+GlyphClass: 2
+Flags: W
+TeX: 276 -70
+GlyphVariantsHorizontal: uni21BD uni21BD.h1
+GlyphCompositionHorizontal: 3  uni21BD.lft%0,0,125,375 uni21BD.ex%1,250,250,250 uni21BD.rt%0,125,0,375
+HStem: 224 52<237 790.047>
+LayerCount: 2
+Fore
+SplineSet
+108 276 m 1
+ 224 276 l 1
+ 777 276 l 2
+ 785 276 793 269 793 263 c 0
+ 793 243 782 224 762 224 c 2
+ 237 224 l 2
+ 230 224 230 222 234 217 c 0
+ 264 184 296 138 314 93 c 0
+ 322 75 318 70 310 70 c 0
+ 301 70 289 75 283 81 c 0
+ 226 140 169 210 92 250 c 0
+ 90 251 89 252 88 253 c 0
+ 75 268 90 276 110 276 c 2
+ 108 276 l 1
+EndSplineSet
+EndChar

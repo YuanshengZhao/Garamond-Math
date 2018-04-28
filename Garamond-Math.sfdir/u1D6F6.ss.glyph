@@ -1,0 +1,38 @@
+StartChar: u1D6F6.ss
+Encoding: 1116123 -1 3986
+Width: 645
+GlyphClass: 2
+Flags: W
+TeX: 664 5
+ItalicCorrection: 105
+TopAccentHorizontal: 412
+HStem: -5 31<80.6246 159.182 317.07 373.9> 607 57<158.836 256.918> 616 48<566.181 712.105>
+LayerCount: 2
+Fore
+SplineSet
+101 -5 m 0xa0
+ 87 -5 77 -1 79 7 c 0
+ 82 17 93 22 114 26 c 0
+ 164 35 196 60 210 106 c 2
+ 268 296 l 2
+ 313 445 306 607 202 607 c 0
+ 157 607 109 583 78 561 c 0
+ 72 557 67 560 67 566 c 0
+ 67 594 166 664 247 664 c 0xc0
+ 357 664 373 566 370 480 c 0
+ 370 477 373 477 375 480 c 0
+ 459 615 565 664 639 664 c 0
+ 693 664 735 636 746 597 c 0
+ 749 584 739 579 732 585 c 0
+ 705 609 672 616 643 616 c 0
+ 568 616 492 553 440 475 c 0
+ 408 427 377 347 364 302 c 2
+ 304 106 l 2
+ 291 63 307 36 352 26 c 0
+ 370 22 377 18 374 8 c 0
+ 372 0 361 -4 346 -4 c 0
+ 298 -4 271 0 229 0 c 0
+ 185 0 149 -5 101 -5 c 0xa0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6F6.s u1D6F6.ss
+EndChar

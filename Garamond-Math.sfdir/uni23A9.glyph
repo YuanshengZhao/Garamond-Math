@@ -1,0 +1,21 @@
+StartChar: uni23A9
+Encoding: 9129 9129 476
+Width: 596
+GlyphClass: 2
+Flags: W
+TeX: 1437 0
+HStem: -0 27<467.927 542.974>
+VStem: 240 85<267.997 1734>
+LayerCount: 2
+Fore
+SplineSet
+325 1734 m 0
+ 325 1176 325 994 325 426 c 0
+ 325 253 353 42 517 27 c 0
+ 528 26 543 25 543 14 c 0
+ 543 5 534 -1 525 -0 c 0
+ 331 12 240 236 240 430 c 0
+ 240 1000 240 1172 240 1734 c 4
+ 325 1734 l 0
+EndSplineSet
+EndChar

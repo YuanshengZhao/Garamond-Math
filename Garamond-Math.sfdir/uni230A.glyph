@@ -1,0 +1,26 @@
+StartChar: uni230A
+Encoding: 8970 8970 450
+Width: 331
+GlyphClass: 2
+Flags: W
+TeX: 708 200
+GlyphVariantsVertical: uni230A uni230A.v1 uni230A.v2 uni230A.v3 uni230A.v4 uni230A.v5 uni230A.v6 uni230A.v7 uni230A.v8 uni230A.v9 uni230A.v10 uni230A.v11 uni230A.v12 uni230A.v13 uni230A.v14 uni230A.v15 uni230A.v16 uni230A.v17 uni230A.v18 uni230A.v19 uni230A.v20
+GlyphCompositionVertical: 3  uni23A3%0,0,500,2357 uni23A2%1,1000,1000,810 uni230A.tp%0,500,0,2359
+HStem: -200 33<242.462 310.909>
+VStem: 110 73<-153.78 699.554>
+LayerCount: 2
+Fore
+SplineSet
+183 685 m 2
+ 183 -121 l 2
+ 183 -139 194 -152 206 -154 c 2
+ 285 -167 l 2
+ 298 -169 311 -173 311 -185 c 0
+ 311 -197 297 -200 285 -200 c 2
+ 141 -200 l 2
+ 118 -200 110 -199 110 -175 c 2
+ 110 665 l 2
+ 110 693 138 708 165 708 c 0
+ 174 708 183 696 183 685 c 2
+EndSplineSet
+EndChar

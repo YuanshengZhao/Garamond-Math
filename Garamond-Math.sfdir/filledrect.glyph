@@ -1,0 +1,21 @@
+StartChar: filledrect
+Encoding: 9644 9644 509
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 375 -125
+HStem: 125 250<80.7324 579.268>
+LayerCount: 2
+Fore
+SplineSet
+550 375 m 2
+ 570 375 580 365 580 345 c 2
+ 580 155 l 2
+ 580 135 570 125 550 125 c 2
+ 110 125 l 2
+ 90 125 80 135 80 155 c 2
+ 80 345 l 2
+ 80 365 90 375 110 375 c 2
+ 550 375 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,24 @@
+StartChar: brevecmb
+Encoding: 774 774 180
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 708 -578
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: brevecmb brevecmb.h1 brevecmb.h2 brevecmb.h3 brevecmb.h4 brevecmb.h5 brevecmb.h6
+HStem: 578 60<-62.6001 62.6001>
+VStem: -107 30<660.36 707.992> 77 30<660.36 707.992>
+LayerCount: 2
+Fore
+SplineSet
+0 578 m 0
+ -70 578 -107 634 -107 684 c 0
+ -107 697 -102 708 -92 708 c 0
+ -82 708 -79 697 -77 687 c 0
+ -72 662 -50 638 0 638 c 0
+ 50 638 72 662 77 687 c 0
+ 79 697 82 708 92 708 c 0
+ 102 708 107 697 107 684 c 0
+ 107 634 70 578 0 578 c 0
+EndSplineSet
+EndChar

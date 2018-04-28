@@ -1,0 +1,28 @@
+StartChar: u1D7FD
+Encoding: 120829 120829 1282
+Width: 600
+GlyphClass: 2
+Flags: W
+TeX: 604 1
+TopAccentHorizontal: 292
+HStem: -1 21G<289.5 300> 500 104<105.328 145.674> 563 41<146 437>
+VStem: 105 41<500.007 563> 437 41<522.556 563>
+LayerCount: 2
+Fore
+SplineSet
+478 539 m 1xb8
+ 315 20 l 2
+ 310 4 305 -1 295 -1 c 0
+ 284 -1 275 8 275 19 c 0
+ 275 22 276 28 277 32 c 2
+ 437 545 l 1
+ 437 563 l 1
+ 146 563 l 1xb8
+ 146 528 l 2
+ 146 509 139 500 126 500 c 0xd8
+ 112 500 105 509 105 528 c 2
+ 105 604 l 1
+ 478 604 l 1
+ 478 539 l 1xb8
+EndSplineSet
+EndChar

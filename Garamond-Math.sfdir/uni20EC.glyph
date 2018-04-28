@@ -1,0 +1,29 @@
+StartChar: uni20EC
+Encoding: 8428 8428 2674
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: -150 286
+TopAccentHorizontal: -115
+GlyphVariantsHorizontal: uni20EC uni20EC.h1
+GlyphCompositionHorizontal: 3  uni20EC.lft%0,0,55,164 uni20EC.ex%1,109,109,109 uni20EC.rt%0,55,0,165
+HStem: -194 44<-403.53 -195> -171 21<-94.7258 -69.9241>
+LayerCount: 2
+Fore
+SplineSet
+-94 -150 m 1x40
+ -96 -150 l 2
+ -76 -150 -59 -157 -74 -170 c 0
+ -75 -170 -75 -171 -76 -171 c 0x40
+ -138 -203 -152 -230 -198 -277 c 0
+ -203 -282 -213 -286 -220 -286 c 0
+ -226 -286 -229 -282 -223 -268 c 0
+ -209 -233 -209 -221 -191 -201 c 0
+ -187 -196 -188 -194 -195 -194 c 2
+ -392 -194 l 2
+ -399 -194 -405 -189 -405 -183 c 0
+ -405 -167 -396 -150 -379 -150 c 2x80
+ -183 -150 l 1
+ -94 -150 l 1x40
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: backslash
+Encoding: 92 92 34
+Width: 466
+GlyphClass: 2
+Flags: W
+TeX: 725 300
+GlyphVariantsVertical: backslash backslash.v1 backslash.v2 backslash.v3 backslash.v4 backslash.v5 backslash.v6 backslash.v7 backslash.v8 backslash.v9 backslash.v10 backslash.v11 backslash.v12 backslash.v13 backslash.v14 backslash.v15 backslash.v16 backslash.v17 backslash.v18 backslash.v19 backslash.v20
+VStem: 79 308
+LayerCount: 2
+Fore
+SplineSet
+79 709 m 2
+ 77 717 81 725 88 725 c 0
+ 108 725 131 714 137 694 c 0
+ 387 -209 l 2
+ 389 -217 385 -225 378 -225 c 0
+ 358 -225 335 -214 329 -194 c 0
+ 79 709 l 2
+EndSplineSet
+EndChar

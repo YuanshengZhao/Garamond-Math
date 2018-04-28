@@ -1,0 +1,22 @@
+StartChar: dotlessj.ss
+Encoding: 1114113 -1 1286
+Width: 207
+GlyphClass: 2
+Flags: W
+TeX: 482 201
+TopAccentHorizontal: 101
+VStem: 63 76<-125.808 482>
+LayerCount: 2
+Fore
+SplineSet
+139 -100 m 2
+ 139 -166 94 -201 8 -201 c 0
+ -4 -201 -9 -200 -18 -198 c 1
+ -18 -132 l 1
+ 0 -133 l 2
+ 47 -136 63 -116 63 -70 c 2
+ 63 482 l 1
+ 139 482 l 1
+ 139 -100 l 2
+EndSplineSet
+EndChar

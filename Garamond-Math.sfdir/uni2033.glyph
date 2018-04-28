@@ -1,0 +1,29 @@
+StartChar: uni2033
+Encoding: 8243 8243 267
+Width: 315
+GlyphClass: 2
+Flags: W
+TeX: 676 -444
+HStem: 444 232
+VStem: 40 245
+LayerCount: 2
+Fore
+SplineSet
+51 444 m 0
+ 41 444 40 452 40 461 c 0
+ 40 478 74 614 79 633 c 0
+ 87 663 112 676 137 676 c 0
+ 147 676 148 669 148 657 c 0
+ 148 631 102 516 75 469 c 0
+ 69 458 61 444 51 444 c 0
+188 444 m 0
+ 178 444 177 452 177 461 c 0
+ 177 478 211 614 216 633 c 0
+ 224 663 249 676 274 676 c 0
+ 284 676 285 669 285 657 c 0
+ 285 631 239 516 212 469 c 0
+ 206 458 198 444 188 444 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni2033.st uni2033.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" uni2033.st uni2033.sts
+EndChar

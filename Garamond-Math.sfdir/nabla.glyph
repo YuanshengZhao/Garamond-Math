@@ -1,0 +1,37 @@
+StartChar: nabla
+Encoding: 8711 8711 316
+Width: 676
+GlyphClass: 2
+Flags: W
+TeX: 643 27
+TopAccentHorizontal: 380
+HStem: 588 55<174.004 560.988>
+LayerCount: 2
+Fore
+SplineSet
+628 643 m 2
+ 639 643 643 635 643 626 c 0
+ 643 622 642 619 641 616 c 2
+ 383 73 l 2
+ 379 64 376 55 373 43 c 0
+ 370 32 371 16 369 15 c 0
+ 357 11 350 10 339 5 c 0
+ 324 -2 314 -27 309 -27 c 0
+ 304 -27 302 -22 299 -13 c 2
+ 61 616 l 2
+ 60 618 60 620 60 623 c 0
+ 60 633 66 643 75 643 c 2
+ 628 643 l 2
+525 588 m 2
+ 191 588 l 2
+ 179 588 174 584 174 576 c 0
+ 174 566 181 549 190 523 c 2
+ 336 104 l 2
+ 340 92 342 86 345 86 c 0
+ 347 86 350 92 355 103 c 2
+ 552 539 l 2
+ 558 553 561 562 561 569 c 0
+ 561 587 544 588 525 588 c 2
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nabla.s nabla.ss
+EndChar

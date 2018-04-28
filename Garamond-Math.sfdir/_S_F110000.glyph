@@ -1,0 +1,19 @@
+StartChar: SF110000
+Encoding: 9474 9474 493
+Width: 500
+GlyphClass: 2
+Flags: W
+TeX: 655 155
+VStem: 224 52<-152.047 652.047>
+LayerCount: 2
+Fore
+SplineSet
+276 -124 m 2
+ 276 -144 257 -155 237 -155 c 0
+ 231 -155 224 -147 224 -139 c 2
+ 224 624 l 2
+ 224 644 243 655 263 655 c 0
+ 269 655 276 647 276 639 c 2
+ 276 -124 l 2
+EndSplineSet
+EndChar

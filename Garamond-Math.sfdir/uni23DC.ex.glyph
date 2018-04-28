@@ -1,0 +1,17 @@
+StartChar: uni23DC.ex
+Encoding: 1114683 -1 1856
+Width: 500
+GlyphClass: 2
+Flags: W
+TeX: -758 674
+HStem: 776 64<0 500>
+LayerCount: 2
+Fore
+SplineSet
+500 840 m 0
+ 500 776 l 0
+ 0 776 l 0
+ 0 840 l 0
+ 500 840 l 0
+EndSplineSet
+EndChar

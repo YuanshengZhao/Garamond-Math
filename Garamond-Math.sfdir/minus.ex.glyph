@@ -1,0 +1,18 @@
+StartChar: minus.ex
+Encoding: 1114729 -1 1902
+Width: 166
+GlyphClass: 2
+Flags: W
+TeX: 273 -221
+HStem: 221 52<0 166>
+VStem: 0 166<221 273>
+LayerCount: 2
+Fore
+SplineSet
+166 273 m 1
+ 166 221 l 1
+ 0 221 l 1
+ 0 273 l 1
+ 166 273 l 1
+EndSplineSet
+EndChar

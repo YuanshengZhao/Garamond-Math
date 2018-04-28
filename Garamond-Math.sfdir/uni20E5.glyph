@@ -1,0 +1,20 @@
+StartChar: uni20E5
+Encoding: 8421 8421 2668
+Width: 466
+GlyphClass: 2
+Flags: W
+TeX: 725 225
+TopAccentHorizontal: -250
+VStem: 79 308
+LayerCount: 2
+Fore
+SplineSet
+387 -209 m 2
+ 389 -217 385 -225 378 -225 c 0
+ 358 -225 335 -214 329 -194 c 2
+ 79 709 l 2
+ 77 717 81 725 88 725 c 0
+ 108 725 131 714 137 694 c 2
+ 387 -209 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,39 @@
+StartChar: two
+Encoding: 50 50 18
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 630 3
+ItalicCorrection: 3
+TopAccentHorizontal: 237
+HStem: 3 58<128.004 417.369> 566 64<159.539 283.763>
+VStem: 327 84<373.602 521.928>
+LayerCount: 2
+Fore
+SplineSet
+419 -3 m 0
+ 399 -3 334 3 284 3 c 0
+ 234 3 72 -2 52 -2 c 0
+ 47 -2 32 9 32 15 c 0
+ 32 21 34 22 40 28 c 2
+ 211 205 l 2
+ 278 274 327 364 327 452 c 0
+ 327 523 277 566 220 566 c 0
+ 165 566 116 533 88 485 c 0
+ 84 477 77 471 71 471 c 0
+ 66 471 56 483 56 501 c 0
+ 56 532 138 630 251 630 c 0
+ 351 630 411 562 411 465 c 0
+ 411 411 380 341 338 290 c 0
+ 293 236 128 76 128 71 c 0
+ 128 66 134 65 142 64 c 0
+ 164 62 193 61 230 61 c 0
+ 268 61 308 62 344 64 c 0
+ 401 67 414 71 439 111 c 0
+ 444 119 453 134 464 134 c 0
+ 470 134 471 127 471 122 c 0
+ 471 112 451 71 441 21 c 0
+ 437 0 426 -3 419 -3 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" two.s two.ss
+EndChar

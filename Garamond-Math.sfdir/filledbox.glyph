@@ -1,0 +1,22 @@
+StartChar: filledbox
+Encoding: 9632 9632 505
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 500 0
+HStem: 0 500<80.7324 579.268>
+VStem: 80 500<0.732422 499.268>
+LayerCount: 2
+Fore
+SplineSet
+550 500 m 2
+ 570 500 580 490 580 470 c 2
+ 580 30 l 2
+ 580 10 570 0 550 0 c 2
+ 110 0 l 2
+ 90 0 80 10 80 30 c 2
+ 80 470 l 2
+ 80 490 90 500 110 500 c 2
+ 550 500 l 2
+EndSplineSet
+EndChar

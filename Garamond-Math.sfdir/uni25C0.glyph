@@ -1,0 +1,21 @@
+StartChar: uni25C0
+Encoding: 9664 9664 517
+Width: 768
+GlyphClass: 2
+Flags: W
+TeX: 591 91
+LayerCount: 2
+Fore
+SplineSet
+688 -71 m 2
+ 688 -84 684 -91 676 -91 c 0
+ 672 -91 668 -89 662 -86 c 2
+ 106 235 l 2
+ 97 240 93 245 93 250 c 0
+ 93 255 97 260 106 265 c 2
+ 662 586 l 2
+ 668 589 672 591 676 591 c 0
+ 684 591 688 584 688 571 c 2
+ 688 -71 l 2
+EndSplineSet
+EndChar

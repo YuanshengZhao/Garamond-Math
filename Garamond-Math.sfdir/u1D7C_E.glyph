@@ -1,0 +1,25 @@
+StartChar: u1D7CE
+Encoding: 120782 120782 1235
+Width: 529
+GlyphClass: 2
+Flags: W
+TeX: 631 14
+ItalicCorrection: 4
+TopAccentHorizontal: 240
+HStem: -14 45<233.017 314.613> 586 45<217.82 295.809>
+VStem: 26 143<168.085 441.051> 365 142<177.339 449.384>
+LayerCount: 2
+Fore
+SplineSet
+261 -14 m 0
+ 101 -14 26 154 26 302 c 0
+ 26 455 98 631 272 631 c 0
+ 431 631 507 462 507 317 c 0
+ 507 166 435 -14 261 -14 c 0
+276 31 m 0
+ 340 31 365 158 365 299 c 0
+ 365 439 327 586 256 586 c 0
+ 191 586 169 459 169 319 c 0
+ 169 179 204 31 276 31 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,31 @@
+StartChar: uni20E9
+Encoding: 8425 8425 2671
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 726 -544
+TopAccentHorizontal: -250
+GlyphVariantsHorizontal: uni20E9 uni23B4.h1 uni23B4.h2 uni23B4.h3 uni23B4.h4 uni23B4.h5 uni23B4.h6
+GlyphCompositionHorizontal: 3  uni23B4.lft%0,0,438,1313 uni23B4.ex%1,875,875,875 uni23B4.rt%0,438,0,1312
+HStem: 674 52<-402 -99>
+VStem: -438 36<545.293 674> -99 36<545.293 674>
+LayerCount: 2
+Fore
+SplineSet
+-93 726 m 2
+ -73 726 -63 716 -63 696 c 2
+ -63 566 l 2
+ -63 552 -76 544 -90 544 c 0
+ -94 544 -99 550 -99 556 c 2
+ -99 664 l 2
+ -99 671 -102 674 -109 674 c 2
+ -392 674 l 2
+ -399 674 -402 671 -402 664 c 2
+ -402 566 l 2
+ -402 552 -415 544 -429 544 c 0
+ -433 544 -438 550 -438 556 c 2
+ -438 696 l 2
+ -438 716 -428 726 -408 726 c 2
+ -93 726 l 2
+EndSplineSet
+EndChar

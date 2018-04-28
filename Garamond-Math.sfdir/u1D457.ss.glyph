@@ -1,0 +1,38 @@
+StartChar: u1D457.ss
+Encoding: 1115829 -1 3507
+Width: 374
+GlyphClass: 2
+Flags: W
+TeX: 613 290
+ItalicCorrection: 51
+TopAccentHorizontal: 340
+HStem: -290 44<-44.7587 25.4326> 511 112<312.435 380.809>
+VStem: 295 102<527.141 605.881>
+LayerCount: 2
+Fore
+SplineSet
+335 511 m 0
+ 312 511 295 533 295 555 c 0
+ 295 591 323 623 359 623 c 0
+ 383 623 397 598 397 575 c 0
+ 397 541 369 511 335 511 c 0
+-42 -290 m 0
+ -95 -290 -124 -265 -124 -244 c 0
+ -123 -223 -99 -199 -81 -199 c 0
+ -67 -199 -57 -211 -46 -223 c 0
+ -36 -235 -22 -246 0 -246 c 0
+ 35 -246 57 -203 77 -141 c 2
+ 216 282 l 2
+ 224 308 220 318 208 318 c 0
+ 195 318 174 309 146 295 c 0
+ 140 292 129 293 129 301 c 0
+ 129 307 133 311 142 319 c 0
+ 201 370 253 392 306 419 c 0
+ 322 424 344 404 339 390 c 0
+ 327 357 312 319 299 278 c 2
+ 171 -110 l 2
+ 142 -199 21 -290 -42 -290 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D457.s u1D457.ss
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" u1D6A5
+EndChar

@@ -1,0 +1,26 @@
+StartChar: uni2308
+Encoding: 8968 8968 448
+Width: 331
+GlyphClass: 2
+Flags: W
+TeX: 702 207
+GlyphVariantsVertical: uni2308 uni2308.v1 uni2308.v2 uni2308.v3 uni2308.v4 uni2308.v5 uni2308.v6 uni2308.v7 uni2308.v8 uni2308.v9 uni2308.v10 uni2308.v11 uni2308.v12 uni2308.v13 uni2308.v14 uni2308.v15 uni2308.v16 uni2308.v17 uni2308.v18 uni2308.v19 uni2308.v20
+GlyphCompositionVertical: 3  uni2308.bt%0,0,500,2357 uni23A2%1,1000,1000,1000 uni23A1%0,500,0,2359
+HStem: 673 28<206 310.916>
+VStem: 110 73<-198.554 666.782>
+LayerCount: 2
+Fore
+SplineSet
+110 -184 m 2
+ 110 668 l 2
+ 110 702 116 702 148 702 c 2
+ 293 701 l 2
+ 302 701 311 698 311 688 c 0
+ 311 678 298 674 285 673 c 2
+ 206 667 l 2
+ 197 666 183 653 183 642 c 2
+ 183 -164 l 2
+ 183 -192 155 -207 128 -207 c 0
+ 119 -207 110 -195 110 -184 c 2
+EndSplineSet
+EndChar

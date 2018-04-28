@@ -1,0 +1,34 @@
+StartChar: radical
+Encoding: 8730 8730 325
+Width: 599
+GlyphClass: 2
+Flags: W
+TeX: 616 97
+GlyphVariantsVertical: radical.v1 radical.v2 radical.v3 radical.v4 radical.v5 radical.v6 radical.v7 radical.v8 radical.v9 radical.v10 radical.v11 radical.v12 radical.v13 radical.v14 radical.v15 radical.v16 radical.v17 radical.v18 radical.v19 radical.v20
+GlyphCompositionVertical: 3  uni23B7%0,0,750,3650 radical.ex%1,1500,1500,1500 radical.tp%0,750,0,1166
+HStem: 122 44<116.505 191.25> 564 52<579.656 631.73>
+LayerCount: 2
+Fore
+SplineSet
+603 564 m 2
+ 596 564 l 2
+ 589 564 585 561 583 555 c 2
+ 369 -76 l 2
+ 365 -87 353 -98 344 -98 c 0
+ 317 -98 282 -84 270 -59 c 2
+ 186 113 l 2
+ 183 119 178 122 171 122 c 2
+ 129 122 l 2
+ 122 122 115 127 115 133 c 0
+ 115 149 124 166 141 166 c 2
+ 232 166 l 2
+ 252 166 267 157 276 139 c 2
+ 337 13 l 2
+ 340 7 343 8 345 14 c 2
+ 539 588 l 2
+ 545 607 559 616 579 616 c 2
+ 618 616 l 2
+ 626 616 635 609 635 603 c 0
+ 635 583 623 564 603 564 c 2
+EndSplineSet
+EndChar

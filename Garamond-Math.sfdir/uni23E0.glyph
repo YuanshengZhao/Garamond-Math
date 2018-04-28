@@ -1,0 +1,31 @@
+StartChar: uni23E0
+Encoding: 9184 9184 489
+Width: 493
+VWidth: 1003
+GlyphClass: 2
+Flags: W
+TeX: 717 -563
+ItalicCorrection: 28
+GlyphVariantsHorizontal: uni23E0 uni23E0.h1 uni23E0.h2 uni23E0.h3 uni23E0.h4 uni23E0.h5 uni23E0.h6 uni23E0.h7 uni23E0.h8 uni23E0.h9 uni23E0.h10 uni23E0.h11 uni23E0.h12 uni23E0.h13 uni23E0.h14 uni23E0.h15 uni23E0.h16 uni23E0.h17 uni23E0.h18 uni23E0.h19 uni23E0.h20
+GlyphCompositionHorizontal: 3  uni23E0.lft%0,0,500,2350 uni23E0.ex%1,100,1000,1000 uni23E0.rt%0,500,0,2350
+HStem: 631 51<61.5625 431.624>
+LayerCount: 2
+Fore
+SplineSet
+421 682 m 2
+ 441 682 455 673 464 655 c 0
+ 513 555 l 2
+ 515 552 514 548 511 548 c 0
+ 502 548 490 552 484 558 c 0
+ 417 624 l 2
+ 412 629 407 631 400 631 c 0
+ 93 631 l 2
+ 86 631 81 629 76 624 c 0
+ 10 558 l 2
+ 4 552 -8 548 -17 548 c 0
+ -20 548 -21 552 -19 555 c 0
+ 29 655 l 2
+ 38 673 52 682 72 682 c 0
+ 421 682 l 2
+EndSplineSet
+EndChar

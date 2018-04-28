@@ -1,0 +1,22 @@
+StartChar: minute
+Encoding: 8242 8242 266
+Width: 178
+GlyphClass: 2
+Flags: W
+TeX: 676 -444
+HStem: 444 232
+VStem: 40 108
+LayerCount: 2
+Fore
+SplineSet
+51 444 m 0
+ 41 444 40 452 40 461 c 0
+ 40 478 74 614 79 633 c 0
+ 87 663 112 676 137 676 c 0
+ 147 676 148 669 148 657 c 0
+ 148 631 102 516 75 469 c 0
+ 69 458 61 444 51 444 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" minute.st minute.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" minute.st minute.sts
+EndChar

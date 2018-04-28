@@ -1,0 +1,21 @@
+StartChar: brevecmb.h1
+Encoding: 1114472 -1 1645
+Width: 444
+GlyphClass: 2
+Flags: W
+TeX: 712 -578
+HStem: 579 55<94.7772 349.531>
+LayerCount: 2
+Fore
+SplineSet
+1 700 m 0
+ -2 706 1 712 6 712 c 0
+ 20 712 39 704 46 691 c 0
+ 78 636 115 634 222 634 c 0
+ 329 634 367 636 399 691 c 0
+ 406 704 424 712 438 712 c 0
+ 443 712 446 706 443 700 c 0
+ 404 616 349 579 222 579 c 0
+ 95 579 40 616 1 700 c 0
+EndSplineSet
+EndChar

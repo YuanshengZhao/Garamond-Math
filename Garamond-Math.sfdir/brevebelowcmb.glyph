@@ -1,0 +1,24 @@
+StartChar: brevebelowcmb
+Encoding: 814 814 185
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: -85 215
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: brevebelowcmb brevebelowcmb.h1 brevebelowcmb.h2 brevebelowcmb.h3 brevebelowcmb.h4 brevebelowcmb.h5 brevebelowcmb.h6
+HStem: -215 60<-62.6001 62.6001>
+VStem: -107 30<-132.64 -85.008> 77 30<-132.64 -85.008>
+LayerCount: 2
+Fore
+SplineSet
+0 -215 m 0
+ -70 -215 -107 -159 -107 -109 c 0
+ -107 -96 -102 -85 -92 -85 c 0
+ -82 -85 -79 -96 -77 -106 c 0
+ -72 -131 -50 -155 0 -155 c 0
+ 50 -155 72 -131 77 -106 c 0
+ 79 -96 82 -85 92 -85 c 0
+ 102 -85 107 -96 107 -109 c 0
+ 107 -159 70 -215 0 -215 c 0
+EndSplineSet
+EndChar

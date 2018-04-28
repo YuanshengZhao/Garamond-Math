@@ -1,0 +1,34 @@
+StartChar: J
+Encoding: 74 74 2977
+Width: 340
+GlyphClass: 2
+Flags: W
+TeX: 653 200
+ItalicCorrection: 9
+TopAccentHorizontal: 178
+HStem: -200 41<26.5867 94.2663> 622 31<32.1602 107.232 225.944 298.926>
+VStem: 130 80<-51.6008 606.023>
+LayerCount: 2
+Fore
+SplineSet
+34 -200 m 0
+ -34 -200 -69 -182 -69 -151 c 0
+ -69 -128 -45 -104 -30 -104 c 0
+ -13 -104 3 -111 17 -129 c 0
+ 34 -151 47 -159 64 -159 c 0
+ 111 -159 130 -98 130 -1 c 2
+ 130 551 l 2
+ 130 597 112 613 64 622 c 0
+ 42 626 31 633 31 642 c 0
+ 31 650 43 653 60 653 c 0
+ 114 653 131 650 177 650 c 0
+ 214 650 217 653 271 653 c 0
+ 288 653 300 650 300 642 c 0
+ 300 633 290 626 267 622 c 0
+ 217 613 210 597 210 551 c 2
+ 210 47 l 2
+ 210 -37 163 -108 131 -146 c 0
+ 104 -178 73 -200 34 -200 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" J.s J.ss
+EndChar

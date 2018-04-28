@@ -1,0 +1,36 @@
+StartChar: j.ss
+Encoding: 1115497 -1 3175
+Width: 241
+GlyphClass: 2
+Flags: W
+TeX: 617 287
+TopAccentHorizontal: 124
+HStem: -287 30<-19.5185 21.1792> 510 116<80.2549 170.068>
+VStem: 67 116<522.848 612.661> 89 87<-117.171 338.658>
+LayerCount: 2
+Fore
+SplineSet
+125 510 m 0xe0
+ 93 510 67 535 67 567 c 0
+ 67 600 93 626 125 626 c 0
+ 158 626 183 600 183 567 c 0
+ 183 535 158 510 125 510 c 0xe0
+6 -287 m 0
+ -6 -287 -20 -283 -20 -275 c 0
+ -20 -267 -12 -260 -7 -257 c 0
+ 17 -250 39 -235 57 -196 c 0
+ 86 -136 89 -3 89 64 c 2
+ 89 280 l 2xd0
+ 89 318 76 344 43 351 c 0
+ 37 352 34 358 34 365 c 0
+ 34 371 37 378 42 379 c 0
+ 97 392 138 419 160 431 c 0
+ 168 435 173 438 175 438 c 0
+ 180 438 183 435 183 431 c 0xe0
+ 179 391 175 324 175 278 c 2
+ 176 91 l 2xd0
+ 176 29 174 -72 143 -152 c 0
+ 117 -220 50 -287 6 -287 c 0
+EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj
+EndChar

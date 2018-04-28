@@ -1,0 +1,20 @@
+StartChar: minus
+Encoding: 8722 8722 321
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+GlyphCompositionHorizontal: 3  minus.lft%0,0,83,167 minus.ex%1,166,166,166 minus.rt%0,83,0,167
+HStem: 224 52<77.9531 582.047>
+LayerCount: 2
+Fore
+SplineSet
+554 224 m 2
+ 91 224 l 2
+ 83 224 75 231 75 237 c 0
+ 75 257 86 276 106 276 c 2
+ 569 276 l 2
+ 577 276 585 269 585 263 c 0
+ 585 243 574 224 554 224 c 2
+EndSplineSet
+EndChar

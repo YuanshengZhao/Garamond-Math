@@ -1,0 +1,22 @@
+StartChar: caronbelowcmb.h1
+Encoding: 1114477 -1 1650
+Width: 410
+GlyphClass: 2
+Flags: W
+TeX: 98 -291
+LayerCount: 2
+Fore
+SplineSet
+397 -138 m 2
+ 227 -290 l 0
+ 212 -303 198 -303 183 -290 c 2
+ 14 -138 l 0
+ 5 -130 0 -114 0 -102 c 0
+ 0 -99 4 -97 7 -99 c 2
+ 197 -215 l 0
+ 203 -218 208 -218 214 -215 c 2
+ 403 -99 l 0
+ 406 -97 410 -99 410 -102 c 0
+ 410 -114 406 -130 397 -138 c 2
+EndSplineSet
+EndChar

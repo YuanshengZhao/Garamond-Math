@@ -1,0 +1,21 @@
+StartChar: uni23DD.lft
+Encoding: 1114685 -1 1858
+Width: 2562
+GlyphClass: 2
+Flags: W
+TeX: -87 308
+HStem: -392 64<2042.66 2562>
+LayerCount: 2
+Fore
+SplineSet
+2562 -392 m 4
+ 2261 -392 l 4
+ 659 -392 120 -252 7 -174 c 4
+ 3 -170 0 -163 0 -157 c 4
+ 0 -153 5 -144 10 -144 c 4
+ 11 -144 20 -151 21 -152 c 4
+ 134 -224 652 -328 2254 -328 c 4
+ 2562 -328 l 4
+ 2562 -392 l 4
+EndSplineSet
+EndChar

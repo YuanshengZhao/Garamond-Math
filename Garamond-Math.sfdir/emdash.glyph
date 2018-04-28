@@ -1,0 +1,20 @@
+StartChar: emdash
+Encoding: 8212 8212 249
+Width: 1000
+GlyphClass: 2
+Flags: W
+TeX: 250 -201
+ItalicCorrection: 28
+HStem: 201 49<-2.38212 1002.38>
+LayerCount: 2
+Fore
+SplineSet
+976 201 m 2
+ 10 201 l 2
+ 2 201 -5 207 -5 213 c 0
+ -5 231 5 250 24 250 c 2
+ 990 250 l 2
+ 998 250 1005 244 1005 238 c 0
+ 1005 220 995 201 976 201 c 2
+EndSplineSet
+EndChar

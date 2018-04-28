@@ -1,0 +1,23 @@
+StartChar: uni0300
+Encoding: 768 768 2633
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 749 -557
+TopAccentHorizontal: 0
+HStem: 557 192
+VStem: -78 157
+LayerCount: 2
+Fore
+SplineSet
+71 557 m 0
+ 64 557 54 564 40 578 c 0
+ 14 604 -44 672 -68 707 c 0
+ -74 716 -78 720 -78 728 c 0
+ -78 742 -54 749 -29 749 c 0
+ -19 749 -8 741 -2 731 c 0
+ 14 704 61 621 75 584 c 0
+ 78 576 79 570 79 566 c 0
+ 79 559 76 557 71 557 c 0
+EndSplineSet
+EndChar

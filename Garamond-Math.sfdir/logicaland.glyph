@@ -1,0 +1,25 @@
+StartChar: logicaland
+Encoding: 8743 8743 330
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 511 6
+HStem: -5 21G<88.5 102.5>
+LayerCount: 2
+Fore
+SplineSet
+575 11 m 2
+ 579 3 575 -5 568 -5 c 1
+ 569 -5 569 -6 569 -6 c 0
+ 569 -8 519 7 511 26 c 2
+ 334 427 l 2
+ 331 433 329 433 326 427 c 2
+ 149 26 l 2
+ 140 6 113 -5 92 -5 c 0
+ 85 -5 81 3 85 11 c 2
+ 295 485 l 2
+ 302 502 324 511 342 511 c 0
+ 348 511 357 505 360 498 c 2
+ 575 11 l 2
+EndSplineSet
+EndChar

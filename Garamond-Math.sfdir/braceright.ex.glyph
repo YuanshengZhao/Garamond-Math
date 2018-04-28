@@ -1,0 +1,18 @@
+StartChar: braceright.ex
+Encoding: 1114655 -1 1828
+Width: 596
+GlyphClass: 2
+Flags: W
+TeX: 596 0
+HStem: 0 21G<271 356>
+VStem: 271 85<0 800>
+LayerCount: 2
+Fore
+SplineSet
+356 0 m 9
+ 271 0 l 21
+ 271 558 271 232 271 800 c 9
+ 356 800 l 17
+ 356 230 356 562 356 0 c 9
+EndSplineSet
+EndChar

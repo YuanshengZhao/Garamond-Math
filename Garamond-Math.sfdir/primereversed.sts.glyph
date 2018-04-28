@@ -1,0 +1,19 @@
+StartChar: primereversed.sts
+Encoding: 1114790 -1 1963
+Width: 253
+VWidth: 950
+GlyphClass: 2
+Flags: W
+VStem: -13 124<382.734 491.947>
+LayerCount: 2
+Fore
+SplineSet
+161 101 m 0
+ 143 101 129 126 118 146 c 0
+ 69 231 -13 411 -13 458 c 0
+ -13 480 32 519 68 519 c 0
+ 82 519 97 495 111 441 c 0
+ 120 407 181 163 181 132 c 0
+ 181 116 179 101 161 101 c 0
+EndSplineSet
+EndChar

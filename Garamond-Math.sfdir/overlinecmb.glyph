@@ -1,0 +1,22 @@
+StartChar: overlinecmb
+Encoding: 773 773 179
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 673 -623
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: overlinecmb overlinecmb.h1
+GlyphCompositionHorizontal: 3  overlinecmb.lft%0,0,83,167 overlinecmb.ex%1,166,166,166 overlinecmb.rt%0,83,0,167
+HStem: 623 50<-196.896 197.469>
+LayerCount: 2
+Fore
+SplineSet
+-186 623 m 2
+ -193 623 -200 629 -200 635 c 0
+ -200 644 -194 673 -176 673 c 2
+ 187 673 l 2
+ 193 673 200 667 200 661 c 0
+ 200 639 188 623 169 623 c 2
+ -186 623 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: macron
+Encoding: 175 175 2588
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 555 -500
+ItalicCorrection: 17
+TopAccentHorizontal: 167
+HStem: 500 55<33.6605 266.414>
+VStem: 30 240<501.575 554.782>
+LayerCount: 2
+Fore
+SplineSet
+44 500 m 2
+ 37 500 30 506 30 512 c 0
+ 30 521 35 555 54 555 c 2
+ 257 555 l 2
+ 263 555 270 549 270 543 c 0
+ 270 521 260 500 239 500 c 2
+ 44 500 l 2
+EndSplineSet
+EndChar

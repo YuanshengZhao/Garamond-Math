@@ -1,0 +1,21 @@
+StartChar: brevebelowcmb.h3
+Encoding: 1114493 -1 1666
+Width: 877
+GlyphClass: 2
+Flags: W
+TeX: -80 214
+HStem: -214 58<219.411 658.019>
+LayerCount: 2
+Fore
+SplineSet
+1 -92 m 0
+ -2 -86 1 -80 6 -80 c 0
+ 21 -80 58 -108 71 -115 c 0
+ 144 -156 301 -156 439 -156 c 0
+ 576 -156 734 -156 807 -115 c 0
+ 820 -108 856 -80 871 -80 c 0
+ 876 -80 879 -86 876 -92 c 0
+ 823 -204 615 -214 439 -214 c 0
+ 262 -214 54 -204 1 -92 c 0
+EndSplineSet
+EndChar

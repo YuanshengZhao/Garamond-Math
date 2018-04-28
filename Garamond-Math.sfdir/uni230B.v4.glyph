@@ -1,0 +1,25 @@
+StartChar: uni230B.v4
+Encoding: 1114609 -1 1782
+Width: 351
+GlyphClass: 2
+Flags: W
+TeX: 1216 708
+IsExtendedShape: 1
+HStem: -708 33<20.2487 99.3077>
+VStem: 168 73<-661.783 1208.15>
+LayerCount: 2
+Fore
+SplineSet
+168 1173 m 2
+ 168 1201 196 1217 223 1217 c 0
+ 232 1217 241 1205 241 1194 c 2
+ 241 -684 l 2
+ 241 -708 233 -708 210 -708 c 2
+ 46 -708 l 2
+ 34 -708 20 -706 20 -694 c 0
+ 20 -682 33 -677 46 -675 c 2
+ 145 -662 l 2
+ 157 -660 168 -648 168 -630 c 2
+ 168 1173 l 2
+EndSplineSet
+EndChar

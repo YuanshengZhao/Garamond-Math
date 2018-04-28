@@ -1,0 +1,33 @@
+StartChar: gamma
+Encoding: 947 947 193
+Width: 430
+GlyphClass: 2
+Flags: W
+TeX: 426 285
+TopAccentHorizontal: 237
+HStem: 330 84<22.8839 107.088>
+VStem: 197 33<-42.1174 32.73> 352 63<322.773 413.545>
+LayerCount: 2
+Fore
+SplineSet
+183 -285 m 0
+ 161 -285 132 -254 132 -228 c 0
+ 132 -160 176 -54 188 -26 c 0
+ 202 7 199 53 197 84 c 0
+ 186 231 131 327 52 330 c 0
+ 12 331 -13 307 -20 307 c 0
+ -27 307 -30 309 -30 319 c 0
+ -30 346 20 414 87 414 c 0
+ 176 414 223 261 223 107 c 0
+ 223 102 223 94 228 94 c 0
+ 232 94 235 96 237 100 c 0
+ 291 192 338 332 352 406 c 0
+ 354 414 359 426 367 426 c 0
+ 389 426 415 398 415 363 c 0
+ 415 327 310 165 237 19 c 0
+ 232 8 230 -7 230 -11 c 0
+ 229 -40 215 -232 211 -254 c 0
+ 208 -273 194 -285 183 -285 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" gamma.s gamma.ss
+EndChar

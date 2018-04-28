@@ -1,0 +1,28 @@
+StartChar: u1D484
+Encoding: 119940 119940 745
+Width: 404
+GlyphClass: 2
+Flags: W
+TeX: 433 14
+TopAccentHorizontal: 239
+HStem: -14 110<92 203.376> 390 43<191.582 291.533>
+VStem: -5 122<115.011 232.013>
+LayerCount: 2
+Fore
+SplineSet
+129 -14 m 0
+ 55 -14 -7 47 -5 122 c 0
+ -1 284 115 433 266 433 c 0
+ 317 433 352 407 352 373 c 0
+ 352 347 330 317 311 317 c 0
+ 300 317 295 323 281 347 c 0
+ 268 370 250 390 233 390 c 0
+ 177 390 119 277 117 174 c 0
+ 116 125 143 96 187 96 c 0
+ 224 96 255 114 278 142 c 0
+ 283 150 291 154 297 154 c 0
+ 303 154 307 149 307 143 c 0
+ 307 77 211 -14 129 -14 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D484.s u1D484.ss
+EndChar

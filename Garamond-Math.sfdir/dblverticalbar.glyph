@@ -1,0 +1,28 @@
+StartChar: dblverticalbar
+Encoding: 8214 8214 251
+Width: 356
+GlyphClass: 2
+Flags: W
+TeX: 725 300
+GlyphVariantsVertical: dblverticalbar parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6 parallel.v7 parallel.v8 parallel.v9 parallel.v10 parallel.v11 parallel.v12 parallel.v13 parallel.v14 parallel.v15 parallel.v16 parallel.v17 parallel.v18 parallel.v19 parallel.v20
+GlyphCompositionVertical: 3  parallel.bt%0,0,500,2375 parallel.ex%1,1000,1000,1000 parallel.tp%0,500,0,2375
+VStem: 80 52<-222.047 722.047> 224 52<-222.047 722.047>
+LayerCount: 2
+Fore
+SplineSet
+276 -209 m 2
+ 276 -217 269 -225 263 -225 c 0
+ 243 -225 224 -214 224 -194 c 2
+ 224 709 l 2
+ 224 717 231 725 237 725 c 0
+ 257 725 276 714 276 694 c 2
+ 276 -209 l 2
+132 -209 m 2
+ 132 -217 125 -225 119 -225 c 0
+ 99 -225 80 -214 80 -194 c 2
+ 80 709 l 2
+ 80 717 87 725 93 725 c 0
+ 113 725 132 714 132 694 c 2
+ 132 -209 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni20D7.lft
+Encoding: 1114146 -1 1319
+Width: 168
+GlyphClass: 2
+Flags: W
+TeX: 644 -600
+HStem: 600 44<-2.52972 170.53>
+VStem: -4 176<600.433 643.567>
+LayerCount: 2
+Fore
+SplineSet
+146 600 m 2
+ 9 600 l 2
+ 2 600 -4 605 -4 611 c 0
+ -4 627 5 644 22 644 c 2
+ 159 644 l 2
+ 166 644 172 639 172 633 c 0
+ 172 617 163 600 146 600 c 2
+EndSplineSet
+EndChar

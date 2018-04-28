@@ -1,0 +1,32 @@
+StartChar: arrowright
+Encoding: 8594 8594 303
+Width: 878
+GlyphClass: 2
+Flags: W
+TeX: 430 -70
+GlyphVariantsHorizontal: arrowright uni27F6
+GlyphCompositionHorizontal: 3  arrowright.lft%0,0,126,379 arrowright.ex%1,252,252,252 arrowright.rt%0,126,0,379
+HStem: 224 52<77.9531 641>
+LayerCount: 2
+Fore
+SplineSet
+644 217 m 0
+ 648 222 648 224 641 224 c 2
+ 91 224 l 2
+ 83 224 75 231 75 237 c 0
+ 75 257 86 276 106 276 c 2
+ 641 276 l 2
+ 648 276 648 278 644 283 c 0
+ 614 316 582 362 564 407 c 0
+ 556 425 560 430 568 430 c 0
+ 577 430 589 425 595 419 c 0
+ 652 360 709 303 786 263 c 0
+ 795 258 798 256 798 250 c 0
+ 798 244 798 243 785 237 c 0
+ 708 197 651 140 594 81 c 0
+ 588 75 576 70 567 70 c 0
+ 561 70 557 72 557 77 c 0
+ 557 78 557 79 558 81 c 0
+ 580 137 613 182 644 217 c 0
+EndSplineSet
+EndChar

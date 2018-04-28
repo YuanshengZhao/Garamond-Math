@@ -1,0 +1,18 @@
+StartChar: uni219A.ex
+Encoding: 1114189 -1 1362
+Width: 72
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+HStem: 224 52<0 72>
+VStem: 0 72<224 276>
+LayerCount: 2
+Fore
+SplineSet
+72 224 m 1
+ 0 224 l 1
+ 0 276 l 1
+ 72 276 l 1
+ 72 224 l 1
+EndSplineSet
+EndChar

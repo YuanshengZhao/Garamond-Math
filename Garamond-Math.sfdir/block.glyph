@@ -1,0 +1,24 @@
+StartChar: block
+Encoding: 9608 9608 504
+Width: 800
+GlyphClass: 2
+Flags: W
+TeX: 800 0
+ItalicCorrection: 28
+IsExtendedShape: 1
+HStem: 0 800<0.732422 799.268>
+VStem: 0 800<0.732422 799.268>
+LayerCount: 2
+Fore
+SplineSet
+800 30 m 2
+ 800 10 790 0 770 0 c 2
+ 30 0 l 2
+ 10 0 0 10 0 30 c 2
+ 0 770 l 2
+ 0 790 10 800 30 800 c 2
+ 770 800 l 2
+ 790 800 800 790 800 770 c 2
+ 800 30 l 2
+EndSplineSet
+EndChar

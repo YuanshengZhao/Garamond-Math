@@ -1,0 +1,37 @@
+StartChar: u1D48B
+Encoding: 119947 119947 752
+Width: 374
+GlyphClass: 2
+Flags: W
+TeX: 649 290
+ItalicCorrection: 34
+TopAccentHorizontal: 327
+HStem: -290 53<-128.5 -20.9315> 506 143<274.897 351.546>
+VStem: 246 134<533.773 619.834>
+LayerCount: 2
+Fore
+SplineSet
+298 506 m 0
+ 268 506 246 534 246 563 c 0
+ 246 608 282 649 330 649 c 0
+ 362 649 380 617 380 588 c 0
+ 380 545 343 506 298 506 c 0
+-94 -290 m 0
+ -163 -290 -190 -263 -189 -236 c 0
+ -186 -202 -153 -177 -136 -177 c 0
+ -115 -177 -102 -196 -90 -211 c 0
+ -78 -225 -67 -237 -47 -237 c 0
+ -13 -237 12 -187 36 -116 c 2
+ 160 267 l 2
+ 171 302 165 311 153 311 c 0
+ 137 311 121 303 101 294 c 0
+ 87 288 76 291 76 302 c 0
+ 76 313 84 317 96 327 c 0
+ 155 375 266 415 301 431 c 0
+ 320 439 345 416 339 399 c 0
+ 331 375 311 333 295 286 c 2
+ 181 -62 l 2
+ 139 -190 -25 -290 -94 -290 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D48B.s u1D48B.ss
+EndChar

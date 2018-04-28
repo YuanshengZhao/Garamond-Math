@@ -1,0 +1,20 @@
+StartChar: uni21A1.tp
+Encoding: 1114228 -1 1401
+Width: 520
+GlyphClass: 2
+Flags: W
+TeX: 451 5
+HStem: -5 21G<244 257> 431 20G<263 276>
+VStem: 234 52<-2.04688 448.047>
+LayerCount: 2
+Fore
+SplineSet
+286 435 m 2
+ 286 26 l 2
+ 286 6 267 -5 247 -5 c 0
+ 241 -5 234 3 234 11 c 2
+ 234 420 l 2
+ 234 440 253 451 273 451 c 0
+ 279 451 286 443 286 435 c 2
+EndSplineSet
+EndChar

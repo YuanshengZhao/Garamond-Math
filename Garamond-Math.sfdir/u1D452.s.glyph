@@ -1,0 +1,33 @@
+StartChar: u1D452.s
+Encoding: 1115820 -1 3498
+Width: 404
+GlyphClass: 2
+Flags: W
+TeX: 414 15
+TopAccentHorizontal: 278
+HStem: -15 60<123.555 210.845> 390 26<246.956 303.089>
+VStem: 31 79<57.628 200.784> 309 63<306.998 389.207>
+LayerCount: 2
+Fore
+SplineSet
+128 -15 m 0
+ 84 -15 31 41 31 91 c 0
+ 31 229 152 416 293 416 c 0
+ 344 416 372 394 372 359 c 0
+ 372 274 252 239 143 218 c 0
+ 135 216 132 216 129 208 c 0
+ 120 181 110 148 110 120 c 0
+ 110 73 129 45 166 45 c 0
+ 213 45 244 74 267 99 c 0
+ 274 107 280 110 285 110 c 0
+ 291 110 295 106 295 100 c 0
+ 295 98 295 94 293 91 c 0
+ 253 25 197 -15 128 -15 c 0
+150 243 m 0
+ 183 245 308 279 309 358 c 0
+ 309 375 299 390 282 390 c 0
+ 228 390 144 285 143 249 c 0
+ 143 243 145 243 150 243 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D452.s u1D452.ss
+EndChar

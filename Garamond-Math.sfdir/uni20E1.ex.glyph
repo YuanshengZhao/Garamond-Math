@@ -1,0 +1,18 @@
+StartChar: uni20E1.ex
+Encoding: 1114151 -1 1324
+Width: 130
+GlyphClass: 2
+Flags: W
+TeX: 644 -600
+HStem: 600 44<0 130>
+VStem: 0 130<600 644>
+LayerCount: 2
+Fore
+SplineSet
+130 600 m 1
+ 0 600 l 1
+ 0 644 l 1
+ 130 644 l 1
+ 130 600 l 1
+EndSplineSet
+EndChar

@@ -1,0 +1,29 @@
+StartChar: dbllowlinecmb
+Encoding: 819 819 189
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: -92 248
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: dbllowlinecmb dbllowlinecmb.h1
+GlyphCompositionHorizontal: 3  dbllowlinecmb.lft%0,0,83,167 dbllowlinecmb.ex%1,166,166,166 dbllowlinecmb.rt%0,83,0,167
+HStem: -248 50<-196.896 197.469> -142 50<-196.896 197.469>
+LayerCount: 2
+Fore
+SplineSet
+-186 -142 m 2
+ -193 -142 -200 -136 -200 -130 c 0
+ -200 -121 -194 -92 -176 -92 c 2
+ 187 -92 l 2
+ 193 -92 200 -98 200 -104 c 0
+ 200 -126 188 -142 169 -142 c 2
+ -186 -142 l 2
+-186 -248 m 2
+ -193 -248 -200 -242 -200 -236 c 0
+ -200 -227 -194 -198 -176 -198 c 2
+ 187 -198 l 2
+ 193 -198 200 -204 200 -210 c 0
+ 200 -232 188 -248 169 -248 c 2
+ -186 -248 l 2
+EndSplineSet
+EndChar

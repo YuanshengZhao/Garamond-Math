@@ -1,0 +1,18 @@
+StartChar: H18533
+Encoding: 9679 9679 521
+Width: 796
+GlyphClass: 2
+Flags: W
+TeX: 568 68
+HStem: -68 636<288.511 507.489>
+VStem: 80 636<140.511 359.489>
+LayerCount: 2
+Fore
+SplineSet
+716 250 m 0
+ 716 74 574 -68 398 -68 c 0
+ 222 -68 80 74 80 250 c 0
+ 80 426 222 568 398 568 c 0
+ 574 568 716 426 716 250 c 0
+EndSplineSet
+EndChar

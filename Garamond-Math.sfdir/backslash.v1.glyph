@@ -1,0 +1,19 @@
+StartChar: backslash.v1
+Encoding: 1114733 -1 1906
+Width: 486
+GlyphClass: 2
+Flags: W
+TeX: 778 278
+VStem: 79 329
+LayerCount: 2
+Fore
+SplineSet
+79 834 m 2
+ 77 842 81 850 88 850 c 0
+ 108 850 131 839 136 819 c 0
+ 408 -334 l 2
+ 410 -342 405 -350 398 -350 c 0
+ 378 -350 355 -339 350 -319 c 0
+ 79 834 l 2
+EndSplineSet
+EndChar

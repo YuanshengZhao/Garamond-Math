@@ -1,0 +1,27 @@
+StartChar: caron
+Encoding: 711 711 170
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 748 -555
+ItalicCorrection: 17
+TopAccentHorizontal: 150
+HStem: 555 193
+VStem: 42 216<722 744>
+LayerCount: 2
+Fore
+SplineSet
+150 555 m 0
+ 142 555 135 565 130 573 c 0
+ 110 604 42 722 42 735 c 0
+ 42 744 42 748 51 748 c 0
+ 59 748 73 735 81 726 c 0
+ 94 711 125 671 147 641 c 0
+ 150 637 151 637 154 641 c 0
+ 176 671 207 711 220 726 c 0
+ 228 735 241 748 249 748 c 0
+ 258 748 258 744 258 735 c 0
+ 258 722 190 604 170 573 c 0
+ 165 565 158 555 150 555 c 0
+EndSplineSet
+EndChar

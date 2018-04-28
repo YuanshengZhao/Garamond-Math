@@ -1,0 +1,18 @@
+StartChar: uni2B0C.ex
+Encoding: 1114450 -1 1623
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 326 -174
+HStem: 174 152<0 300>
+VStem: 0 300<174 326>
+LayerCount: 2
+Fore
+SplineSet
+300 326 m 1
+ 300 174 l 1
+ 0 174 l 1
+ 0 326 l 1
+ 300 326 l 1
+EndSplineSet
+EndChar

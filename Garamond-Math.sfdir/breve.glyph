@@ -1,0 +1,23 @@
+StartChar: breve
+Encoding: 728 728 171
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 708 -578
+TopAccentHorizontal: 150
+HStem: 578 60<87.3999 212.6>
+VStem: 43 30<660.36 707.992> 227 30<660.36 707.992>
+LayerCount: 2
+Fore
+SplineSet
+150 578 m 0
+ 80 578 43 634 43 684 c 0
+ 43 697 48 708 58 708 c 0
+ 68 708 71 697 73 687 c 0
+ 78 662 100 638 150 638 c 0
+ 200 638 222 662 227 687 c 0
+ 229 697 232 708 242 708 c 0
+ 252 708 257 697 257 684 c 0
+ 257 634 220 578 150 578 c 0
+EndSplineSet
+EndChar

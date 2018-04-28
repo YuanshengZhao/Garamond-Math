@@ -1,0 +1,29 @@
+StartChar: uni23E0.h1
+Encoding: 1114552 -1 1725
+Width: 743
+VWidth: 1003
+GlyphClass: 2
+Flags: W
+TeX: 734 -543
+ItalicCorrection: 28
+HStem: 634 51<64.9844 679.016>
+LayerCount: 2
+Fore
+SplineSet
+669 685 m 2
+ 689 685 703 676 712 658 c 0
+ 763 555 l 2
+ 765 552 763 548 760 548 c 0
+ 751 548 740 552 734 558 c 0
+ 665 627 l 2
+ 660 632 655 634 648 634 c 0
+ 96 634 l 2
+ 89 634 84 632 79 627 c 0
+ 10 558 l 2
+ 4 552 -8 548 -17 548 c 0
+ -20 548 -21 552 -19 555 c 0
+ 32 658 l 2
+ 41 676 55 685 75 685 c 0
+ 669 685 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: nine
+Encoding: 57 57 25
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 629 31
+TopAccentHorizontal: 241
+HStem: -31 18<53.0803 109.994> 304 53<190.63 278.77> 593 36<190.541 288.348>
+VStem: 65 75<410.459 512.556> 378 85<271.972 485.838>
+LayerCount: 2
+Fore
+SplineSet
+67 -31 m 0
+ 56 -31 53 -27 53 -23 c 0
+ 53 -16 60 -13 67 -13 c 0
+ 127 -13 225 52 289 134 c 0
+ 353 217 378 292 378 389 c 0
+ 378 485 311 593 238 593 c 0
+ 173 593 140 531 140 482 c 0
+ 140 421 190 357 243 357 c 0
+ 284 357 298 371 323 383 c 0
+ 328 385 332 376 330 372 c 0
+ 323 359 308 345 297 337 c 0
+ 282 326 242 304 205 304 c 0
+ 136 304 65 358 65 430 c 0
+ 65 521 150 629 271 629 c 0
+ 368 629 463 515 463 400 c 0
+ 463 275 410 186 319 87 c 0
+ 246 7 137 -31 67 -31 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nine.s nine.ss
+EndChar

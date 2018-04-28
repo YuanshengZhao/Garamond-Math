@@ -1,0 +1,34 @@
+StartChar: five
+Encoding: 53 53 21
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 627 38
+TopAccentHorizontal: 427
+HStem: -38 31<73.0547 204.271>
+VStem: 341 79<110.457 244.355>
+LayerCount: 2
+Fore
+SplineSet
+109 -38 m 0
+ 94 -38 72 -35 72 -26 c 0
+ 72 -16 96 -7 108 -7 c 0
+ 266 -7 341 93 341 179 c 0
+ 341 256 278 305 101 351 c 1
+ 83 366 77 379 77 397 c 0
+ 77 433 111 512 125 556 c 0
+ 132 576 145 587 166 592 c 0
+ 227 608 295 620 373 627 c 0
+ 383 628 389 619 384 610 c 2
+ 367 577 l 2
+ 358 557 347 547 330 545 c 0
+ 278 539 188 532 158 527 c 0
+ 144 525 115 464 114 448 c 0
+ 113 439 115 432 127 429 c 0
+ 202 407 263 386 309 362 c 0
+ 383 323 420 274 420 193 c 0
+ 420 120 372 53 298 10 c 0
+ 245 -20 180 -38 109 -38 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" five.s five.ss
+EndChar

@@ -1,0 +1,23 @@
+StartChar: uni27E9
+Encoding: 10217 10217 552
+Width: 287
+GlyphClass: 2
+Flags: W
+TeX: 724 300
+GlyphVariantsVertical: uni27E9 uni27E9.v1 uni27E9.v2 uni27E9.v3 uni27E9.v4 uni27E9.v5 uni27E9.v6 uni27E9.v7 uni27E9.v8 uni27E9.v9 uni27E9.v10 uni27E9.v11 uni27E9.v12 uni27E9.v13 uni27E9.v14 uni27E9.v15 uni27E9.v16 uni27E9.v17 uni27E9.v18 uni27E9.v19 uni27E9.v20
+LayerCount: 2
+Fore
+SplineSet
+51 -212 m 2
+ 188 240 l 2
+ 190 246 190 254 188 260 c 2
+ 51 712 l 2
+ 49 718 52 725 57 725 c 0
+ 73 725 93 716 99 700 c 2
+ 243 278 l 2
+ 249 259 249 241 243 222 c 2
+ 99 -200 l 2
+ 93 -216 73 -225 57 -225 c 0
+ 52 -225 49 -218 51 -212 c 2
+EndSplineSet
+EndChar

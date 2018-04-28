@@ -1,0 +1,18 @@
+StartChar: bullet
+Encoding: 8226 8226 261
+Width: 348
+GlyphClass: 2
+Flags: W
+TeX: 489 -231
+HStem: 231 258<101.543 246.457>
+VStem: 45 258<287.543 432.457>
+LayerCount: 2
+Fore
+SplineSet
+174 231 m 0
+ 102 231 45 288 45 360 c 0
+ 45 432 102 489 174 489 c 0
+ 246 489 303 432 303 360 c 0
+ 303 288 246 231 174 231 c 0
+EndSplineSet
+EndChar

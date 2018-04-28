@@ -1,0 +1,31 @@
+StartChar: partialdiff
+Encoding: 8706 8706 313
+Width: 487
+GlyphClass: 2
+Flags: W
+TeX: 705 14
+TopAccentHorizontal: 286
+HStem: -14 30<199.521 297.095> 380 34<177.791 300.116> 678 27<64.1382 127.491>
+VStem: 25 83<113.216 278.98> 378 78<137.076 313.091>
+LayerCount: 2
+Fore
+SplineSet
+231 -14 m 0
+ 119 -14 25 66 25 186 c 0
+ 25 310 133 414 256 414 c 0
+ 288 414 315 406 343 391 c 0
+ 352 387 353 390 351 400 c 0
+ 310 551 222 648 84 678 c 0
+ 76 680 64 683 64 693 c 0
+ 64 702 76 705 90 705 c 0
+ 300 705 456 518 456 250 c 0
+ 456 133 381 -14 231 -14 c 0
+252 16 m 0
+ 322 16 378 111 378 219 c 0
+ 378 265 369 304 345 329 c 0
+ 317 359 277 380 236 380 c 0
+ 151 380 108 293 108 210 c 0
+ 108 111 172 16 252 16 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" partialdiff.s partialdiff.ss
+EndChar

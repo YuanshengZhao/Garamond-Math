@@ -1,0 +1,40 @@
+StartChar: i
+Encoding: 105 105 47
+Width: 245
+GlyphClass: 2
+Flags: W
+TeX: 617 3
+ItalicCorrection: 3
+TopAccentHorizontal: 125
+HStem: -3 27<24.3057 79.6694 171.375 225.674> 516 101<83.1171 165.823>
+VStem: 74 101<525.117 607.823> 90 70<31.0813 341.886>
+LayerCount: 2
+Fore
+SplineSet
+124 516 m 0xe0
+ 96 516 74 538 74 566 c 0
+ 74 595 96 617 124 617 c 0
+ 153 617 175 595 175 566 c 0
+ 175 538 153 516 124 516 c 0xe0
+44 -3 m 0
+ 32 -3 24 0 24 8 c 0
+ 24 18 36 21 47 24 c 0
+ 75 31 90 38 90 62 c 2
+ 90 279 l 2
+ 90 315 79 347 45 352 c 0
+ 38 353 35 357 35 365 c 0
+ 35 372 38 376 44 377 c 0
+ 97 389 132 413 149 427 c 0
+ 154 431 159 434 163 434 c 0
+ 167 434 169 432 169 429 c 0
+ 169 413 160 339 160 294 c 2
+ 160 62 l 2xd0
+ 160 39 176 31 203 24 c 0
+ 214 21 226 18 226 8 c 0
+ 226 0 219 -3 206 -3 c 0
+ 168 -3 160 2 125 2 c 0
+ 90 2 83 -3 44 -3 c 0
+EndSplineSet
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" i.s i.ss
+EndChar

@@ -1,0 +1,24 @@
+StartChar: uni27E9.v6
+Encoding: 1114725 -1 1898
+Width: 350
+GlyphClass: 2
+Flags: W
+TeX: 1475 975
+IsExtendedShape: 1
+VStem: 50 257
+LayerCount: 2
+Fore
+SplineSet
+50 -962 m 2
+ 249 240 l 2
+ 250 247 250 253 249 260 c 2
+ 50 1462 l 2
+ 49 1468 53 1475 58 1475 c 0
+ 74 1475 91 1466 94 1450 c 2
+ 307 280 l 2
+ 311 260 311 240 307 220 c 2
+ 94 -950 l 2
+ 91 -966 74 -975 58 -975 c 0
+ 53 -975 49 -968 50 -962 c 2
+EndSplineSet
+EndChar

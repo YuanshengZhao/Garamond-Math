@@ -1,0 +1,25 @@
+StartChar: parenright
+Encoding: 41 41 9
+Width: 315
+GlyphClass: 2
+Flags: W
+TeX: 810 310
+GlyphVariantsVertical: parenright parenright.v1 parenright.v2 parenright.v3 parenright.v4 parenright.v5 parenright.v6 parenright.v7 parenright.v8 parenright.v9 parenright.v10 parenright.v11 parenright.v12 parenright.v13 parenright.v14 parenright.v15 parenright.v16 parenright.v17 parenright.v18 parenright.v19 parenright.v20
+GlyphCompositionVertical: 3  uni23A0%0,0,250,3194 uni239F%1,500,500,500 uni239E%0,250,0,2376
+VStem: 192 83<128.565 416.674>
+LayerCount: 2
+Fore
+SplineSet
+78 -210 m 0
+ 65 -210 51 -202 51 -188 c 0
+ 51 -186 65 -170 66 -168 c 0
+ 127 -97 192 116 192 286 c 0
+ 192 456 124 603 63 674 c 0
+ 61 676 50 692 50 694 c 0
+ 50 703 65 710 72 710 c 0
+ 82 710 93 704 99 698 c 0
+ 170 627 275 444 275 274 c 0
+ 275 104 166 -131 95 -202 c 0
+ 90 -207 84 -210 78 -210 c 0
+EndSplineSet
+EndChar

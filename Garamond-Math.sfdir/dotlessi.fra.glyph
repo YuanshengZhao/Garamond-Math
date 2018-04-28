@@ -1,0 +1,31 @@
+StartChar: dotlessi.fra
+Encoding: 1114127 -1 1300
+Width: 337
+GlyphClass: 2
+Flags: W
+TeX: 445 25
+TopAccentHorizontal: 169
+VStem: 130 64<52.0124 349.89>
+LayerCount: 2
+Fore
+SplineSet
+257 62 m 1
+ 176 -25 l 1
+ 167 -25 l 1
+ 160 -3 149 15 130 25 c 1
+ 130 326 l 2
+ 130 341 125 350 119 350 c 0
+ 112 350 100 346 91 335 c 1
+ 80 347 l 1
+ 166 445 l 1
+ 172 441 181 431 181 431 c 1
+ 170 415 l 1
+ 185 398 201 387 224 377 c 1
+ 224 360 l 1
+ 196 347 194 335 194 326 c 2
+ 194 86 l 2
+ 194 69 202 52 216 52 c 1
+ 244 74 l 1
+ 257 62 l 1
+EndSplineSet
+EndChar

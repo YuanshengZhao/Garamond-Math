@@ -1,0 +1,19 @@
+StartChar: slash.v1
+Encoding: 1114732 -1 1905
+Width: 486
+GlyphClass: 2
+Flags: W
+TeX: 778 278
+VStem: 79 329
+LayerCount: 2
+Fore
+SplineSet
+408 834 m 2
+ 136 -319 l 2
+ 131 -339 108 -350 88 -350 c 0
+ 81 -350 77 -342 79 -334 c 0
+ 350 819 l 2
+ 355 839 378 850 398 850 c 0
+ 405 850 410 842 408 834 c 2
+EndSplineSet
+EndChar

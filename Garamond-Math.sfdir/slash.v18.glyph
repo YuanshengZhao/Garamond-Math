@@ -1,0 +1,17 @@
+StartChar: slash.v18
+Encoding: 1115183 -1 2356
+Width: 826
+Flags: W
+VStem: 77 56<-2470.28 -2397.61>
+LayerCount: 2
+Fore
+SplineSet
+749 2959 m 2
+ 133 -2443 l 2
+ 131 -2464 109 -2475 89 -2475 c 0
+ 82 -2475 76 -2467 77 -2459 c 0
+ 693 2943 l 2
+ 695 2964 717 2975 737 2975 c 0
+ 744 2975 750 2967 749 2959 c 2
+EndSplineSet
+EndChar

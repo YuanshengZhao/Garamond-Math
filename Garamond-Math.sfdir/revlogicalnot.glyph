@@ -1,0 +1,24 @@
+StartChar: revlogicalnot
+Encoding: 8976 8976 452
+Width: 686
+GlyphClass: 2
+Flags: W
+TeX: 276 5
+HStem: -5 21G<90 103> 224 52<132 608.047>
+VStem: 80 52<-2.04688 224>
+LayerCount: 2
+Fore
+SplineSet
+580 224 m 2
+ 142 224 l 2
+ 135 224 132 221 132 214 c 2
+ 132 26 l 2
+ 132 6 113 -5 93 -5 c 0
+ 87 -5 80 3 80 11 c 2
+ 80 246 l 2
+ 80 266 90 276 110 276 c 2
+ 595 276 l 2
+ 603 276 611 269 611 263 c 0
+ 611 243 600 224 580 224 c 2
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: uni20EB
+Encoding: 8427 8427 2673
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 725 225
+ItalicCorrection: 7
+TopAccentHorizontal: -250
+LayerCount: 2
+Fore
+SplineSet
+-19 709 m 2
+ -269 -194 l 2
+ -275 -214 -298 -225 -318 -225 c 0
+ -325 -225 -329 -217 -327 -209 c 2
+ -77 694 l 2
+ -71 714 -48 725 -28 725 c 0
+ -21 725 -17 717 -19 709 c 2
+-171 709 m 2
+ -421 -194 l 2
+ -427 -214 -450 -225 -470 -225 c 0
+ -477 -225 -481 -217 -479 -209 c 2
+ -229 694 l 2
+ -223 714 -200 725 -180 725 c 0
+ -173 725 -169 717 -171 709 c 2
+EndSplineSet
+EndChar

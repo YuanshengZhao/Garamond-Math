@@ -1,0 +1,31 @@
+StartChar: integral
+Encoding: 8747 8747 333
+Width: 690
+GlyphClass: 2
+Flags: W
+TeX: 799 296
+ItalicCorrection: 260
+IsExtendedShape: 1
+GlyphVariantsVertical: integral integral.v1
+GlyphCompositionVertical: 1  uni23AE%1,580,580,580
+HStem: -296 40<154.363 229.231> 758 41<446.985 527.741>
+LayerCount: 2
+Fore
+SplineSet
+169 -296 m 0
+ 118 -296 80 -278 80 -244 c 0
+ 80 -224 102 -204 114 -204 c 0
+ 124 -204 134 -218 149 -232 c 0
+ 163 -245 180 -256 204 -256 c 0
+ 242 -256 268 -235 278 -121 c 2
+ 347 586 l 2
+ 365 732 435 799 507 799 c 0
+ 571 799 610 765 610 719 c 0
+ 610 692 591 678 575 678 c 0
+ 565 678 555 695 543 717 c 0
+ 528 744 508 758 486 758 c 0
+ 441 758 424 705 415 639 c 0
+ 411 608 356 40 341 -116 c 0
+ 331 -223 225 -296 169 -296 c 0
+EndSplineSet
+EndChar

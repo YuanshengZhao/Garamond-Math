@@ -1,0 +1,24 @@
+StartChar: breveinvertedbelowcmb
+Encoding: 815 815 186
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: -85 215
+TopAccentHorizontal: 0
+GlyphVariantsHorizontal: breveinvertedbelowcmb breveinvertedbelowcmb.h1 breveinvertedbelowcmb.h2 breveinvertedbelowcmb.h3 breveinvertedbelowcmb.h4 breveinvertedbelowcmb.h5 breveinvertedbelowcmb.h6
+HStem: -145 60<-62.6001 62.6001>
+VStem: -107 30<-214.992 -167.36> 77 30<-214.992 -167.36>
+LayerCount: 2
+Fore
+SplineSet
+0 -85 m 0
+ 70 -85 107 -141 107 -191 c 0
+ 107 -204 102 -215 92 -215 c 0
+ 82 -215 79 -204 77 -194 c 0
+ 72 -169 50 -145 0 -145 c 0
+ -50 -145 -72 -169 -77 -194 c 0
+ -79 -204 -82 -215 -92 -215 c 0
+ -102 -215 -107 -204 -107 -191 c 0
+ -107 -141 -70 -85 0 -85 c 0
+EndSplineSet
+EndChar

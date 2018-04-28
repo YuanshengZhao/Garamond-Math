@@ -1,0 +1,29 @@
+StartChar: dbloverlinecmb
+Encoding: 831 831 190
+Width: 0
+GlyphClass: 2
+Flags: W
+TeX: 746 -588
+TopAccentHorizontal: -250
+GlyphVariantsHorizontal: dbloverlinecmb dbloverlinecmb.h1
+GlyphCompositionHorizontal: 3  dbloverlinecmb.lft%0,0,83,167 dbloverlinecmb.ex%1,166,166,166 dbloverlinecmb.rt%0,83,0,167
+HStem: 588 44<-418.53 -80.4703> 702 44<-418.53 -80.4703>
+LayerCount: 2
+Fore
+SplineSet
+-105 588 m 2
+ -407 588 l 2
+ -414 588 -420 593 -420 599 c 0
+ -420 615 -411 632 -394 632 c 2
+ -92 632 l 2
+ -85 632 -79 627 -79 621 c 0
+ -79 605 -88 588 -105 588 c 2
+-105 702 m 2
+ -407 702 l 2
+ -414 702 -420 707 -420 713 c 0
+ -420 729 -411 746 -394 746 c 2
+ -92 746 l 2
+ -85 746 -79 741 -79 735 c 0
+ -79 719 -88 702 -105 702 c 2
+EndSplineSet
+EndChar

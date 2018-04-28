@@ -1,0 +1,29 @@
+StartChar: uni2B05
+Encoding: 11013 11013 598
+Width: 1030
+GlyphClass: 2
+Flags: W
+TeX: 457 -42
+GlyphVariantsHorizontal: uni2B05 uni2B05.h1
+GlyphCompositionHorizontal: 3  uni2B05.lft%0,0,149,446 uni2B05.ex%1,298,298,298 uni2B05.rt%0,149,0,446
+HStem: 174 152<300 949.268>
+LayerCount: 2
+Fore
+SplineSet
+950 204 m 2
+ 950 184 940 174 920 174 c 2
+ 310 174 l 2
+ 303 174 300 171 300 164 c 2
+ 300 60 l 2
+ 300 40 293 37 279 51 c 2
+ 101 229 l 2
+ 87 243 87 257 101 271 c 2
+ 279 449 l 2
+ 293 463 300 460 300 440 c 2
+ 300 336 l 2
+ 300 329 303 326 310 326 c 2
+ 920 326 l 2
+ 940 326 950 316 950 296 c 2
+ 950 204 l 2
+EndSplineSet
+EndChar

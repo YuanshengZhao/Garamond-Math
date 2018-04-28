@@ -1,0 +1,33 @@
+StartChar: u1D6C4
+Encoding: 120516 120516 1088
+Width: 481
+GlyphClass: 2
+Flags: W
+TeX: 444 284
+TopAccentHorizontal: 234
+HStem: 300 133<53.9061 146.374>
+VStem: 124 142<-249.063 -113.65> 218 35<129.006 192.402> 372 95<357.611 413.125>
+LayerCount: 2
+Fore
+SplineSet
+224 -284 m 0xd0
+ 176 -284 124 -243 124 -203 c 0xd0
+ 124 -136 188 -19 203 13 c 0
+ 213 36 218 67 218 89 c 0
+ 216 184 180 299 84 300 c 0
+ 38 300 15 277 4 277 c 0
+ -6 277 -10 279 -10 294 c 0
+ -10 360 45 433 121 433 c 0
+ 222 433 253 274 253 142 c 0xb0
+ 253 137 255 129 260 129 c 0
+ 265 129 267 131 272 143 c 0
+ 312 231 353 359 372 427 c 0
+ 374 435 387 444 397 444 c 0
+ 434 444 467 391 467 356 c 0
+ 467 321 369 172 291 31 c 0
+ 282 16 280 -1 280 -5 c 0
+ 278 -33 267 -221 266 -244 c 0
+ 265 -272 242 -284 224 -284 c 0xd0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6C4.s u1D6C4.ss
+EndChar

@@ -1,0 +1,24 @@
+StartChar: parenright.v2
+Encoding: 1114555 -1 1728
+Width: 335
+GlyphClass: 2
+Flags: W
+TeX: 940 449
+IsExtendedShape: 1
+VStem: 212 83<37.2527 506.531>
+LayerCount: 2
+Fore
+SplineSet
+78 -460 m 0
+ 65 -460 51 -452 51 -438 c 0
+ 51 -436 65 -420 66 -418 c 0
+ 134 -340 212 -34 212 286 c 0
+ 212 606 131 846 63 924 c 0
+ 61 926 50 942 50 944 c 0
+ 50 953 65 960 72 960 c 0
+ 82 960 93 954 99 948 c 0
+ 177 870 295 594 295 274 c 0
+ 295 -46 173 -374 95 -452 c 0
+ 90 -457 84 -460 78 -460 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni20EE.rt
+Encoding: 1114165 -1 1338
+Width: 167
+GlyphClass: 2
+Flags: W
+TeX: -150 194
+HStem: -194 44<-2.52972 169.53>
+VStem: -4 175<-193.567 -150.433>
+LayerCount: 2
+Fore
+SplineSet
+145 -194 m 2
+ 9 -194 l 2
+ 2 -194 -4 -189 -4 -183 c 0
+ -4 -167 5 -150 22 -150 c 2
+ 158 -150 l 2
+ 165 -150 171 -155 171 -161 c 0
+ 171 -177 162 -194 145 -194 c 2
+EndSplineSet
+EndChar

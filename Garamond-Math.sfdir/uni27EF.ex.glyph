@@ -1,0 +1,18 @@
+StartChar: uni27EF.ex
+Encoding: 1114650 -1 1823
+Width: 400
+GlyphClass: 2
+Flags: W
+TeX: 794 0
+HStem: 0 21G<277 360>
+VStem: 277 83<0 500>
+LayerCount: 2
+Fore
+SplineSet
+277 500 m 29
+ 360 500 l 29
+ 360 0 l 29
+ 277 0 l 29
+ 277 500 l 29
+EndSplineSet
+EndChar

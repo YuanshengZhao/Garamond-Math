@@ -1,0 +1,22 @@
+StartChar: H18543
+Encoding: 9642 9642 507
+Width: 460
+GlyphClass: 2
+Flags: W
+TeX: 400 -100
+HStem: 100 300<80.7324 379.268>
+VStem: 80 300<100.732 399.268>
+LayerCount: 2
+Fore
+SplineSet
+350 400 m 2
+ 370 400 380 390 380 370 c 2
+ 380 130 l 2
+ 380 110 370 100 350 100 c 2
+ 110 100 l 2
+ 90 100 80 110 80 130 c 2
+ 80 370 l 2
+ 80 390 90 400 110 400 c 2
+ 350 400 l 2
+EndSplineSet
+EndChar

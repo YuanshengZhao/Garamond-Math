@@ -1,0 +1,35 @@
+StartChar: equivalence
+Encoding: 8801 8801 343
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 468 -32
+GlyphCompositionHorizontal: 3  equivalence.lft%0,0,83,167 equivalence.ex%1,166,166,166 equivalence.rt%0,83,0,167
+HStem: 32 52<77.9531 582.047> 224 52<77.9531 582.047> 416 52<77.9531 582.047>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+554 416 m 2
+ 91 416 l 2
+ 83 416 75 423 75 429 c 0
+ 75 449 86 468 106 468 c 2
+ 569 468 l 2
+ 577 468 585 461 585 455 c 0
+ 585 435 574 416 554 416 c 2
+554 224 m 2
+ 91 224 l 2
+ 83 224 75 231 75 237 c 0
+ 75 257 86 276 106 276 c 2
+ 569 276 l 2
+ 577 276 585 269 585 263 c 0
+ 585 243 574 224 554 224 c 2
+554 32 m 2
+ 91 32 l 2
+ 83 32 75 39 75 45 c 0
+ 75 65 86 84 106 84 c 2
+ 569 84 l 2
+ 577 84 585 77 585 71 c 0
+ 585 51 574 32 554 32 c 2
+EndSplineSet
+EndChar

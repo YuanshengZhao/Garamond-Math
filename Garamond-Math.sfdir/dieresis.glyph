@@ -1,0 +1,25 @@
+StartChar: dieresis
+Encoding: 168 168 2581
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 608 -508
+ItalicCorrection: 11
+TopAccentHorizontal: 167
+HStem: 508 100<22.7018 101.298 199.702 278.298>
+VStem: 12 100<518.702 597.298> 189 100<518.702 597.298>
+LayerCount: 2
+Fore
+SplineSet
+62 508 m 0
+ 37 508 12 533 12 558 c 0
+ 12 583 37 608 62 608 c 0
+ 87 608 112 583 112 558 c 0
+ 112 533 87 508 62 508 c 0
+239 508 m 0
+ 214 508 189 533 189 558 c 0
+ 189 583 214 608 239 608 c 0
+ 264 608 289 583 289 558 c 0
+ 289 533 264 508 239 508 c 0
+EndSplineSet
+EndChar

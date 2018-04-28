@@ -1,0 +1,23 @@
+StartChar: uni21E8.ex
+Encoding: 1114414 -1 1587
+Width: 308
+GlyphClass: 2
+Flags: W
+TeX: 344 -156
+HStem: 156 36<0 308> 308 36<0 308>
+VStem: 0 308<156 192 308 344>
+LayerCount: 2
+Fore
+SplineSet
+308 344 m 1
+ 308 308 l 1
+ 0 308 l 1
+ 0 344 l 1
+ 308 344 l 1
+308 192 m 1
+ 308 156 l 1
+ 0 156 l 1
+ 0 192 l 1
+ 308 192 l 1
+EndSplineSet
+EndChar

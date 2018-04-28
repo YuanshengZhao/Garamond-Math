@@ -1,0 +1,22 @@
+StartChar: circumflexcmb.h7
+Encoding: 1115306 -1 2479
+Width: 1609
+VWidth: 1110
+Flags: W
+HStem: 551 24<1.56879 41.3723 1566.63 1607.2>
+LayerCount: 2
+Fore
+SplineSet
+1595 575 m 2
+ 1603 573 1609 563 1609 555 c 0
+ 1609 552 1605 550 1602 551 c 0
+ 814 694 l 2
+ 807 695 801 695 794 694 c 0
+ 6 551 l 2
+ 3 550 0 552 0 555 c 0
+ 0 563 5 573 13 575 c 0
+ 775 763 l 2
+ 794 768 814 768 833 763 c 0
+ 1595 575 l 2
+EndSplineSet
+EndChar

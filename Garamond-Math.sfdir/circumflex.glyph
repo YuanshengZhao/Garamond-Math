@@ -1,0 +1,27 @@
+StartChar: circumflex
+Encoding: 710 710 169
+Width: 300
+GlyphClass: 2
+Flags: W
+TeX: 748 -555
+ItalicCorrection: 17
+TopAccentHorizontal: 150
+HStem: 555 193
+VStem: 42 216<559 581>
+LayerCount: 2
+Fore
+SplineSet
+150 748 m 0
+ 158 748 165 738 170 730 c 0
+ 190 699 258 581 258 568 c 0
+ 258 559 258 555 249 555 c 0
+ 241 555 228 568 220 577 c 0
+ 207 592 176 632 154 662 c 0
+ 151 666 150 666 147 662 c 0
+ 125 632 94 592 81 577 c 0
+ 73 568 59 555 51 555 c 0
+ 42 555 42 559 42 568 c 0
+ 42 581 110 699 130 730 c 0
+ 135 738 142 748 150 748 c 0
+EndSplineSet
+EndChar

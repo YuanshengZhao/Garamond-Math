@@ -1,0 +1,31 @@
+StartChar: nu
+Encoding: 957 957 202
+Width: 405
+GlyphClass: 2
+Flags: W
+TeX: 418 14
+TopAccentHorizontal: 228
+HStem: -14 21G<151 162> 328 86<33.0993 114.412>
+VStem: 152 34<94.0058 262.72> 317 53<227.858 397.685>
+LayerCount: 2
+Fore
+SplineSet
+156 -14 m 0
+ 146 -14 147 1 147 20 c 0
+ 147 23 152 49 152 84 c 0
+ 152 286 122 328 63 328 c 0
+ 32 328 12 318 5 318 c 0
+ -2 318 -5 320 -5 330 c 0
+ -5 362 35 414 96 414 c 0
+ 176 414 186 226 186 107 c 0
+ 186 102 186 94 191 94 c 0
+ 195 94 197 94 207 103 c 0
+ 241 134 317 226 317 314 c 0
+ 317 379 297 391 297 397 c 0
+ 297 412 309 418 319 418 c 0
+ 339 418 370 383 370 322 c 0
+ 370 199 274 89 210 24 c 0
+ 185 -1 168 -14 156 -14 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nu.s nu.ss
+EndChar

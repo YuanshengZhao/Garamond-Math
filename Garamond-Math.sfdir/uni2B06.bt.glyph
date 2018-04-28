@@ -1,0 +1,22 @@
+StartChar: uni2B06.bt
+Encoding: 1114442 -1 1615
+Width: 600
+GlyphClass: 2
+Flags: W
+TeX: 446 0
+HStem: 0 21G<244 356>
+VStem: 224 152<0.732422 445.268>
+LayerCount: 2
+Fore
+SplineSet
+346 446 m 2
+ 366 446 376 436 376 416 c 2
+ 376 30 l 2
+ 376 10 366 0 346 0 c 2
+ 254 0 l 2
+ 234 0 224 10 224 30 c 2
+ 224 416 l 2
+ 224 436 234 446 254 446 c 2
+ 346 446 l 2
+EndSplineSet
+EndChar

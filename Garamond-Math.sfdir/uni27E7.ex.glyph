@@ -1,0 +1,23 @@
+StartChar: uni27E7.ex
+Encoding: 1114668 -1 1841
+Width: 581
+GlyphClass: 2
+Flags: W
+TeX: 810 0
+HStem: 0 21G<248 321 398 471>
+VStem: 248 73<0 1000> 398 73<0 1000>
+LayerCount: 2
+Fore
+SplineSet
+471 0 m 1
+ 398 0 l 1
+ 398 1000 l 5
+ 471 1000 l 5
+ 471 0 l 1
+321 0 m 0
+ 248 0 l 1
+ 248 1000 l 5
+ 321 1000 l 5
+ 321 0 l 0
+EndSplineSet
+EndChar

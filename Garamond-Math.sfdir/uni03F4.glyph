@@ -1,0 +1,30 @@
+StartChar: uni03F4
+Encoding: 1012 1012 2653
+Width: 763
+GlyphClass: 2
+Flags: W
+TeX: 664 14
+TopAccentHorizontal: 382
+HStem: -14 40<296.49 491.695> 315 39<143 618> 622 42<268.656 467.094>
+VStem: 45 96<214.274 315 354 437.716> 622 96<211.183 430.477>
+LayerCount: 2
+Fore
+SplineSet
+386 664 m 0
+ 562 664 718 532 718 335 c 0
+ 718 155 599 -14 377 -14 c 0
+ 201 -14 45 118 45 315 c 0
+ 45 495 164 664 386 664 c 0
+370 622 m 0
+ 219 622 141 521 141 365 c 2
+ 141 354 l 1
+ 618 354 l 1
+ 599 507 516 622 370 622 c 0
+392 26 m 0
+ 545 26 622 129 622 286 c 0
+ 622 296 622 305 621 315 c 1
+ 143 315 l 1
+ 157 152 240 26 392 26 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni03F4.s uni03F4.ss
+EndChar

@@ -1,0 +1,20 @@
+StartChar: uni20EF.lft
+Encoding: 1114166 -1 1339
+Width: 168
+GlyphClass: 2
+Flags: W
+TeX: -150 194
+HStem: -194 44<-2.52972 170.53>
+VStem: -4 176<-193.567 -150.433>
+LayerCount: 2
+Fore
+SplineSet
+146 -194 m 2
+ 9 -194 l 2
+ 2 -194 -4 -189 -4 -183 c 0
+ -4 -167 5 -150 22 -150 c 2
+ 159 -150 l 2
+ 166 -150 172 -155 172 -161 c 0
+ 172 -177 163 -194 146 -194 c 2
+EndSplineSet
+EndChar

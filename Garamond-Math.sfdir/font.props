@@ -1,0 +1,145 @@
+SplineFontDB: 3.0
+FontName: Garamond-Math
+FullName: Garamond-Math
+FamilyName: Garamond-Math
+Weight: Regular
+Copyright: Copyright (C) 2018 Yuansheng Zhao and Xiangdong Zeng
+Version: 0.2
+ItalicAngle: 0
+UnderlinePosition: -200
+UnderlineWidth: 40
+Ascent: 782
+Descent: 218
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 70 263418660 10072]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1522080000
+ModificationTime: 1524888964
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 200
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 782
+OS2TypoAOffset: 0
+OS2TypoDescent: -218
+OS2TypoDOffset: 0
+OS2TypoLinegap: 200
+OS2WinAscent: 2274
+OS2WinAOffset: 0
+OS2WinDescent: 1774
+OS2WinDOffset: 0
+HheadAscent: 782
+HheadAOffset: 0
+HheadDescent: -218
+HheadDOffset: 0
+OS2SubXSize: 650
+OS2SubYSize: 699
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 650
+OS2SupYSize: 699
+OS2SupXOff: 0
+OS2SupYOff: 479
+OS2StrikeYSize: 49
+OS2StrikeYPos: 258
+OS2CapHeight: 662
+OS2XHeight: 450
+OS2Vendor: 'PfEd'
+OS2CodePages: 60000193.0dd40000
+OS2UnicodeRanges: a10000ef.4201f9ee.02000000.00000000
+Lookup: 1 0 0 "'ss01' Style Set" { "'ss01' Style Set-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0" { "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable"  } ['aalt' ('math' <'dflt' > ) ]
+Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
+Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
+Lookup: 258 0 0 "mkn" { "mkn-1"  } []
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
+OtfFeatName: 'ss01' 1033 "garamondbb"
+MATH:ScriptPercentScaleDown: 74
+MATH:ScriptScriptPercentScaleDown: 55
+MATH:DelimitedSubFormulaMinHeight: 1300
+MATH:DisplayOperatorMinHeight: 1300
+MATH:MathLeading: 140 
+MATH:AxisHeight: 250 
+MATH:AccentBaseHeight: 470 
+MATH:FlattenedAccentBaseHeight: 642 
+MATH:SubscriptShiftDown: 222 
+MATH:SubscriptTopMax: 313 
+MATH:SubscriptBaselineDropMin: 111 
+MATH:SuperscriptShiftUp: 339 
+MATH:SuperscriptShiftUpCramped: 284 
+MATH:SuperscriptBottomMin: 188 
+MATH:SuperscriptBaselineDropMax: 222 
+MATH:SubSuperscriptGapMin: 140 
+MATH:SuperscriptBottomMaxWithSubscript: 320 
+MATH:SpaceAfterScript: 40 
+MATH:UpperLimitGapMin: 100 
+MATH:UpperLimitBaselineRiseMin: 100 
+MATH:LowerLimitGapMin: 100 
+MATH:LowerLimitBaselineDropMin: 433 
+MATH:StackTopShiftUp: 430 
+MATH:StackTopDisplayStyleShiftUp: 634 
+MATH:StackBottomShiftDown: 266 
+MATH:StackBottomDisplayStyleShiftDown: 598 
+MATH:StackGapMin: 100 
+MATH:StackDisplayStyleGapMin: 140 
+MATH:StretchStackTopShiftUp: 100 
+MATH:StretchStackBottomShiftDown: 433 
+MATH:StretchStackGapAboveMin: 100 
+MATH:StretchStackGapBelowMin: 100 
+MATH:FractionNumeratorShiftUp: 430 
+MATH:FractionNumeratorDisplayStyleShiftUp: 634 
+MATH:FractionDenominatorShiftDown: 266 
+MATH:FractionDenominatorDisplayStyleShiftDown: 598 
+MATH:FractionNumeratorGapMin: 100 
+MATH:FractionNumeratorDisplayStyleGapMin: 140 
+MATH:FractionRuleThickness: 52 
+MATH:FractionDenominatorGapMin: 100 
+MATH:FractionDenominatorDisplayStyleGapMin: 140 
+MATH:SkewedFractionHorizontalGap: 300 
+MATH:SkewedFractionVerticalGap: 70 
+MATH:OverbarVerticalGap: 100 
+MATH:OverbarRuleThickness: 50 
+MATH:OverbarExtraAscender: 40 
+MATH:UnderbarVerticalGap: 100 
+MATH:UnderbarRuleThickness: 50 
+MATH:UnderbarExtraDescender: 40 
+MATH:RadicalVerticalGap: 140 
+MATH:RadicalDisplayStyleVerticalGap: 140 
+MATH:RadicalRuleThickness: 52 
+MATH:RadicalExtraAscender: 140 
+MATH:RadicalKernBeforeDegree: 40 
+MATH:RadicalKernAfterDegree: -355 
+MATH:RadicalDegreeBottomRaisePercent: 55
+MATH:MinConnectorOverlap: 26
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 972 54 15
+BeginPrivate: 9
+BlueValues 23 [-15 0 450 460 662 676]
+OtherBlues 11 [-218 -217]
+BlueScale 7 0.04546
+BlueShift 1 6
+BlueFuzz 1 0
+StdHW 4 [52]
+StdVW 4 [52]
+StemSnapH 22 [19 25 30 36 41 52 58]
+StemSnapV 34 [36 40 44 52 58 84 93 102 112 119]
+EndPrivate
+TeXData: 2 0 0 262144 131072 87381 424673 1048576 87381 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+EndSplineFont

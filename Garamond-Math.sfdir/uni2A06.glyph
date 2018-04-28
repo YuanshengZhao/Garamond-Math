@@ -1,0 +1,30 @@
+StartChar: uni2A06
+Encoding: 10758 10758 577
+Width: 896
+GlyphClass: 2
+Flags: W
+TeX: 681 203
+IsExtendedShape: 1
+GlyphVariantsVertical: uni2A06 uni2A06.v1
+HStem: -203 53<134 762>
+VStem: 80 54<-150 677.808> 762 54<-150 677.808>
+LayerCount: 2
+Fore
+SplineSet
+816 649 m 2
+ 816 -173 l 2
+ 816 -193 806 -203 786 -203 c 2
+ 110 -203 l 2
+ 90 -203 80 -193 80 -173 c 2
+ 80 665 l 2
+ 80 673 87 681 94 681 c 0
+ 114 681 134 670 134 649 c 2
+ 134 -140 l 2
+ 134 -147 137 -150 144 -150 c 2
+ 752 -150 l 2
+ 759 -150 762 -147 762 -140 c 2
+ 762 665 l 2
+ 762 673 769 681 776 681 c 0
+ 796 681 816 670 816 649 c 2
+EndSplineSet
+EndChar

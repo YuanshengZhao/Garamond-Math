@@ -1,0 +1,32 @@
+StartChar: arrowdown
+Encoding: 8595 8595 304
+Width: 520
+GlyphClass: 2
+Flags: W
+TeX: 595 128
+GlyphVariantsVertical: arrowdown arrowdown.v1
+GlyphCompositionVertical: 3  arrowdown.bt%0,0,126,379 arrowdown.ex%1,252,252,252 arrowdown.tp%0,126,0,379
+VStem: 234 52<29 592.047>
+LayerCount: 2
+Fore
+SplineSet
+227 26 m 0
+ 232 22 234 22 234 29 c 2
+ 234 564 l 2
+ 234 584 253 595 273 595 c 0
+ 279 595 286 587 286 579 c 2
+ 286 29 l 2
+ 286 22 288 22 293 26 c 0
+ 326 57 373 89 429 111 c 0
+ 433 113 440 113 440 102 c 0
+ 440 93 435 81 429 75 c 0
+ 370 18 313 -39 273 -116 c 0
+ 268 -125 266 -128 260 -128 c 0
+ 254 -128 253 -128 247 -115 c 0
+ 207 -38 150 19 91 76 c 0
+ 85 82 80 94 80 103 c 0
+ 80 109 82 113 87 113 c 0
+ 88 113 95 113 101 110 c 0
+ 156 83 194 56 227 26 c 0
+EndSplineSet
+EndChar

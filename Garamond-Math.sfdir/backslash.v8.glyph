@@ -1,0 +1,16 @@
+StartChar: backslash.v8
+Encoding: 1115187 -1 2360
+Width: 626
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+78 1709 m 2
+ 77 1717 82 1725 89 1725 c 0
+ 109 1725 131 1714 134 1693 c 0
+ 548 -1209 l 2
+ 549 -1217 544 -1225 537 -1225 c 0
+ 517 -1225 495 -1214 492 -1193 c 0
+ 78 1709 l 2
+EndSplineSet
+EndChar

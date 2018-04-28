@@ -1,0 +1,25 @@
+StartChar: u1D70A.s
+Encoding: 1116162 -1 4025
+Width: 389
+GlyphClass: 2
+Flags: W
+TeX: 414 14
+TopAccentHorizontal: 236
+HStem: -14 82<85.5159 188.123> 339 78<195.847 310.513>
+VStem: 35 36<87.6504 196.87> 322 32<223.952 320.265>
+LayerCount: 2
+Fore
+SplineSet
+127 -14 m 0
+ 86 -14 35 44 35 101 c 0
+ 35 227 140 417 263 417 c 0
+ 323 417 354 353 354 296 c 0
+ 354 177 266 -14 127 -14 c 0
+126 68 m 0
+ 209 68 326 209 322 286 c 0
+ 321 315 297 339 264 339 c 0
+ 163 339 70 205 71 128 c 0
+ 72 99 95 68 126 68 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D70A.s u1D70A.ss
+EndChar

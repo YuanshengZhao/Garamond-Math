@@ -1,0 +1,35 @@
+StartChar: lambda
+Encoding: 955 955 200
+Width: 469
+GlyphClass: 2
+Flags: W
+TeX: 699 18
+TopAccentHorizontal: 144
+HStem: -15 87<342.121 433.023> 628 71<49.8352 148.088>
+LayerCount: 2
+Fore
+SplineSet
+87 -18 m 0
+ 73 -18 29 0 29 18 c 0
+ 29 32 29 29 39 44 c 0
+ 90 120 198 281 228 377 c 0
+ 234 396 235 396 233 412 c 0
+ 219 526 180 628 82 628 c 0
+ 63 628 42 620 21 605 c 0
+ 11 598 4 595 -1 595 c 0
+ -8 595 -10 596 -10 606 c 0
+ -10 632 55 699 110 699 c 0
+ 209 699 240 563 276 355 c 0
+ 289 280 306 196 327 122 c 0
+ 339 80 370 72 386 72 c 0
+ 422 71 446 88 454 88 c 0
+ 459 88 465 84 465 79 c 0
+ 465 26 424 -15 381 -15 c 0
+ 348 -15 319 -2 304 48 c 0
+ 284 114 263 219 254 288 c 0
+ 253 293 250 294 248 289 c 0
+ 224 229 156 100 110 18 c 0
+ 107 12 95 -18 87 -18 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" lambda.s lambda.ss
+EndChar

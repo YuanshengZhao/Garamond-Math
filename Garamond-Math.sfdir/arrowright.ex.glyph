@@ -1,0 +1,20 @@
+StartChar: arrowright.ex
+Encoding: 1114177 -1 1350
+Width: 252
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+HStem: 224 52<-2.04688 254.047>
+VStem: -5 262<225.592 274.408>
+LayerCount: 2
+Fore
+SplineSet
+241 276 m 2
+ 249 276 257 269 257 263 c 0
+ 257 243 246 224 226 224 c 2
+ 11 224 l 2
+ 3 224 -5 231 -5 237 c 0
+ -5 257 6 276 26 276 c 2
+ 241 276 l 2
+EndSplineSet
+EndChar

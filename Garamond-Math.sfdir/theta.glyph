@@ -1,0 +1,32 @@
+StartChar: theta
+Encoding: 952 952 197
+Width: 430
+GlyphClass: 2
+Flags: W
+TeX: 697 14
+TopAccentHorizontal: 225
+HStem: -14 74<157.639 248.758> 339 48<102.957 323.468> 620 77<174.078 274.23>
+VStem: 45 45<183.487 392.664> 334 51<307.814 516.318>
+LayerCount: 2
+Fore
+SplineSet
+207 -14 m 0
+ 115 -14 45 196 45 331 c 0
+ 45 507 136 697 223 697 c 0
+ 311 697 385 510 385 375 c 0
+ 385 220 324 -14 207 -14 c 0
+113 387 m 2
+ 322 387 l 2
+ 329 387 334 393 334 400 c 0
+ 334 537 307 620 231 620 c 0
+ 174 620 135 586 103 400 c 0
+ 102 394 106 387 113 387 c 2
+201 60 m 0
+ 280 60 313 198 324 323 c 0
+ 325 334 323 338 311 338 c 2
+ 102 339 l 2
+ 94 339 90 331 90 324 c 0
+ 90 169 119 60 201 60 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" theta.s theta.ss
+EndChar

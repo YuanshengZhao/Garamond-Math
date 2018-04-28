@@ -1,0 +1,24 @@
+StartChar: acute
+Encoding: 180 180 77
+Width: 200
+GlyphClass: 2
+Flags: W
+TeX: 649 -457
+ItalicCorrection: 12
+TopAccentHorizontal: 205
+HStem: 457 192
+VStem: 22 157
+LayerCount: 2
+Fore
+SplineSet
+30 457 m 0
+ 25 457 22 459 22 466 c 0
+ 22 470 23 476 26 484 c 0
+ 40 521 87 604 103 631 c 0
+ 109 641 120 649 130 649 c 0
+ 155 649 179 642 179 628 c 0
+ 179 620 175 616 169 607 c 0
+ 145 572 87 504 61 478 c 0
+ 47 464 37 457 30 457 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,32 @@
+StartChar: six
+Encoding: 54 54 22
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 641 16
+TopAccentHorizontal: 402
+HStem: -16 38<213.991 333.807> 260 53<247.125 339.463> 614 27<401.183 448.194>
+VStem: 47 86<106.064 313.5> 379 78<100.208 216.742>
+LayerCount: 2
+Fore
+SplineSet
+252 -16 m 0
+ 149 -16 47 53 47 193 c 0
+ 47 342 130 439 168 477 c 0
+ 218 528 312 608 435 641 c 0
+ 447 644 455 638 453 634 c 0
+ 447 622 434 617 427 614 c 0
+ 337 575 276 529 225 456 c 0
+ 192 408 133 299 133 195 c 0
+ 135 84 210 23 276 22 c 0
+ 330 21 379 59 379 142 c 0
+ 379 203 341 260 288 260 c 0
+ 253 260 231 257 208 245 c 0
+ 196 239 194 248 201 256 c 0
+ 211 267 217 272 228 280 c 0
+ 243 291 289 313 326 313 c 0
+ 395 313 457 262 457 190 c 0
+ 457 65 349 -16 252 -16 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" six.s six.ss
+EndChar

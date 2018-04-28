@@ -1,0 +1,22 @@
+StartChar: triagdn
+Encoding: 9660 9660 515
+Width: 862
+GlyphClass: 2
+Flags: W
+TeX: 453 143
+HStem: 433 20G<103.5 758.5>
+LayerCount: 2
+Fore
+SplineSet
+752 453 m 2
+ 765 453 772 449 772 441 c 0
+ 772 437 770 433 767 427 c 2
+ 446 -130 l 2
+ 441 -139 436 -143 431 -143 c 0
+ 426 -143 421 -139 416 -130 c 2
+ 95 427 l 2
+ 92 433 90 437 90 441 c 0
+ 90 449 97 453 110 453 c 2
+ 752 453 l 2
+EndSplineSet
+EndChar

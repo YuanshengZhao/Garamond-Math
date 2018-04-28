@@ -1,0 +1,35 @@
+StartChar: u1D463
+Encoding: 119907 119907 712
+Width: 389
+GlyphClass: 2
+Flags: W
+TeX: 418 14
+ItalicCorrection: 10
+TopAccentHorizontal: 229
+HStem: -14 57<69.5 169> 333 85<94.5 170.719>
+VStem: 319 52<220.119 382.481>
+LayerCount: 2
+Fore
+SplineSet
+93 -14 m 0
+ 46 -14 14 57 36 115 c 2
+ 101 288 l 2
+ 111 315 115 333 99 333 c 0
+ 90 333 62 309 41 286 c 0
+ 34 278 30 278 28 278 c 0
+ 23 278 21 281 21 283 c 0
+ 21 291 23 299 33 313 c 0
+ 82 380 133 418 162 418 c 0
+ 178 418 194 398 188 379 c 2
+ 98 119 l 2
+ 83 73 94 43 128 43 c 0
+ 225 43 319 165 319 280 c 0
+ 319 302 310 327 295 344 c 0
+ 286 354 283 365 283 377 c 0
+ 283 395 314 418 342 418 c 0
+ 356 418 371 395 371 349 c 0
+ 371 261 345 176 276 96 c 0
+ 213 22 147 -14 93 -14 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D463.s u1D463.ss
+EndChar

@@ -1,0 +1,21 @@
+StartChar: breveinvertedcmb.h1
+Encoding: 1114474 -1 1647
+Width: 444
+GlyphClass: 2
+Flags: W
+TeX: 712 -578
+HStem: 657 55<94.7772 349.531>
+LayerCount: 2
+Fore
+SplineSet
+443 590 m 0
+ 446 584 443 579 438 579 c 0
+ 424 579 406 587 399 600 c 0
+ 367 655 329 657 222 657 c 0
+ 115 657 78 655 46 600 c 0
+ 39 587 20 579 6 579 c 0
+ 1 579 -2 584 1 590 c 0
+ 40 674 95 712 222 712 c 0
+ 349 712 404 674 443 590 c 0
+EndSplineSet
+EndChar

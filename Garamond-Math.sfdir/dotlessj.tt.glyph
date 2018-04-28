@@ -1,0 +1,27 @@
+StartChar: dotlessj.tt
+Encoding: 1114132 -1 1305
+Width: 600
+GlyphClass: 2
+Flags: W
+TeX: 417 186
+TopAccentHorizontal: 300
+HStem: -186 41<147.007 367.391> 376 41<149.007 417>
+VStem: 417 41<-94.9023 376>
+LayerCount: 2
+Fore
+SplineSet
+458 -28 m 2
+ 458 -121 394 -186 303 -186 c 2
+ 174 -186 l 2
+ 156 -186 147 -179 147 -165 c 0
+ 147 -152 156 -145 174 -145 c 2
+ 302 -145 l 2
+ 368 -145 417 -96 417 -28 c 2
+ 417 376 l 1
+ 176 376 l 2
+ 158 376 149 383 149 397 c 0
+ 149 410 158 417 176 417 c 2
+ 458 417 l 1
+ 458 -28 l 2
+EndSplineSet
+EndChar

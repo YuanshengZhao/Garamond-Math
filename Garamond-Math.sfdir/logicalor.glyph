@@ -1,0 +1,24 @@
+StartChar: logicalor
+Encoding: 8744 8744 331
+Width: 660
+GlyphClass: 2
+Flags: W
+TeX: 505 11
+HStem: -11 21G<315 327>
+LayerCount: 2
+Fore
+SplineSet
+575 489 m 2
+ 365 15 l 2
+ 358 -2 336 -11 318 -11 c 0
+ 312 -11 303 -5 300 2 c 2
+ 85 489 l 2
+ 81 497 85 505 92 505 c 0
+ 113 505 140 494 149 474 c 2
+ 326 73 l 2
+ 329 67 331 67 334 73 c 2
+ 511 474 l 2
+ 520 494 547 505 568 505 c 0
+ 575 505 579 497 575 489 c 2
+EndSplineSet
+EndChar

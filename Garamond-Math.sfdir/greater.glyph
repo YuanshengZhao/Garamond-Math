@@ -1,0 +1,23 @@
+StartChar: greater
+Encoding: 62 62 30
+Width: 666
+GlyphClass: 2
+Flags: W
+TeX: 511 11
+LayerCount: 2
+Fore
+SplineSet
+566 214 m 2
+ 91 -10 l 2
+ 83 -14 75 -10 75 -3 c 0
+ 75 19 86 45 106 55 c 2
+ 510 246 l 2
+ 516 249 516 251 510 254 c 2
+ 106 445 l 2
+ 86 455 75 481 75 503 c 0
+ 75 510 83 514 91 510 c 2
+ 578 280 l 2
+ 585 277 591 268 591 262 c 0
+ 591 244 583 222 566 214 c 2
+EndSplineSet
+EndChar

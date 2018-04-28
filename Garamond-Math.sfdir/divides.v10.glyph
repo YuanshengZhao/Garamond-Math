@@ -1,0 +1,18 @@
+StartChar: divides.v10
+Encoding: 1114909 -1 2082
+Width: 204
+GlyphClass: 2
+Flags: W
+VStem: 76 52<-1472.05 1972.05>
+LayerCount: 2
+Fore
+SplineSet
+128 -1459 m 2
+ 128 -1467 121 -1475 115 -1475 c 0
+ 95 -1475 76 -1464 76 -1444 c 2
+ 76 1959 l 2
+ 76 1967 83 1975 89 1975 c 0
+ 109 1975 128 1964 128 1944 c 2
+ 128 -1459 l 2
+EndSplineSet
+EndChar

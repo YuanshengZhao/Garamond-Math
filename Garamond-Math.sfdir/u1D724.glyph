@@ -1,0 +1,34 @@
+StartChar: u1D724
+Encoding: 120612 120612 1184
+Width: 473
+GlyphClass: 2
+Flags: W
+TeX: 655 3
+ItalicCorrection: 45
+TopAccentHorizontal: 334
+HStem: -3 35<-29.5527 48.2172 244.933 306.544> 619 36<165.101 220.121 413.978 488.956>
+LayerCount: 2
+Fore
+SplineSet
+-16 -3 m 0
+ -26 -3 -34 2 -31 11 c 0
+ -28 22 -18 29 -4 32 c 0
+ 50 44 70 55 83 97 c 2
+ 224 551 l 2
+ 237 595 228 606 179 619 c 0
+ 166 622 161 629 165 640 c 0
+ 167 649 179 655 189 655 c 0
+ 234 655 289 650 330 650 c 0
+ 369 650 433 654 477 654 c 0
+ 488 654 493 649 490 640 c 0
+ 487 627 478 623 462 619 c 0
+ 404 603 388 591 376 550 c 2
+ 248 134 l 2
+ 225 59 231 48 276 36 c 0
+ 305 29 311 24 307 12 c 0
+ 305 2 296 -3 285 -3 c 0
+ 241 -3 170 2 130 2 c 0
+ 89 2 29 -3 -16 -3 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D724.s u1D724.ss
+EndChar

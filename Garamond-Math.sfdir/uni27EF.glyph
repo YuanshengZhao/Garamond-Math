@@ -1,0 +1,25 @@
+StartChar: uni27EF
+Encoding: 10223 10223 556
+Width: 245
+GlyphClass: 2
+Flags: W
+TeX: 709 300
+GlyphVariantsVertical: uni27EF uni27EF.v1 uni27EF.v2 uni27EF.v3 uni27EF.v4 uni27EF.v5 uni27EF.v6 uni27EF.v7 uni27EF.v8 uni27EF.v9 uni27EF.v10 uni27EF.v11 uni27EF.v12 uni27EF.v13 uni27EF.v14 uni27EF.v15 uni27EF.v16 uni27EF.v17 uni27EF.v18 uni27EF.v19 uni27EF.v20
+GlyphCompositionVertical: 3  uni27EF.bt%0,0,250,3194 uni27EF.ex%1,500,500,500 uni27EF.tp%0,250,0,2736
+VStem: 122 83<35.1872 499.734>
+LayerCount: 2
+Fore
+SplineSet
+78 -210 m 0
+ 65 -210 51 -202 51 -188 c 0
+ 51 -186 65 -170 66 -168 c 0
+ 127 -97 122 116 122 286 c 0
+ 122 456 124 603 63 674 c 0
+ 61 676 50 692 50 694 c 0
+ 50 703 65 710 72 710 c 0
+ 82 710 93 704 99 698 c 0
+ 170 627 205 444 205 274 c 0
+ 205 104 166 -131 95 -202 c 0
+ 90 -207 84 -210 78 -210 c 0
+EndSplineSet
+EndChar

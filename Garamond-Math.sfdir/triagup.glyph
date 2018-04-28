@@ -1,0 +1,21 @@
+StartChar: triagup
+Encoding: 9650 9650 511
+Width: 862
+GlyphClass: 2
+Flags: W
+TeX: 643 -47
+LayerCount: 2
+Fore
+SplineSet
+767 73 m 2
+ 770 67 772 63 772 59 c 0
+ 772 51 765 47 752 47 c 2
+ 110 47 l 2
+ 97 47 90 51 90 59 c 0
+ 90 63 92 67 95 73 c 2
+ 416 630 l 2
+ 421 639 426 643 431 643 c 0
+ 436 643 441 639 446 630 c 2
+ 767 73 l 2
+EndSplineSet
+EndChar

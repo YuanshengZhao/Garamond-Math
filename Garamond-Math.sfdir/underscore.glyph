@@ -1,0 +1,20 @@
+StartChar: underscore
+Encoding: 95 95 4217
+Width: 500
+GlyphClass: 2
+Flags: W
+TeX: -132 182
+ItalicCorrection: 28
+HStem: -182 50<3.10421 495.543>
+LayerCount: 2
+Fore
+SplineSet
+487 -132 m 2
+ 493 -132 501 -137 501 -143 c 0
+ 501 -157 485 -182 469 -182 c 2
+ 14 -182 l 2
+ 7 -182 0 -176 0 -170 c 0
+ 0 -161 6 -132 24 -132 c 2
+ 487 -132 l 2
+EndSplineSet
+EndChar

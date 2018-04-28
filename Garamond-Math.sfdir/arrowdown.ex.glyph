@@ -1,0 +1,18 @@
+StartChar: arrowdown.ex
+Encoding: 1114185 -1 1358
+Width: 520
+GlyphClass: 2
+Flags: W
+TeX: 252 0
+HStem: 0 252<234 286>
+VStem: 234 52<0 252>
+LayerCount: 2
+Fore
+SplineSet
+286 252 m 1
+ 286 0 l 1
+ 234 0 l 1
+ 234 252 l 1
+ 286 252 l 1
+EndSplineSet
+EndChar

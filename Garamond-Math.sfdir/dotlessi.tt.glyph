@@ -1,0 +1,28 @@
+StartChar: dotlessi.tt
+Encoding: 1114131 -1 1304
+Width: 600
+GlyphClass: 2
+Flags: W
+TeX: 417 0
+TopAccentHorizontal: 300
+HStem: 0 41<92.0066 279 320 507.993> 376 41<134.007 279>
+VStem: 279 41<41 376>
+LayerCount: 2
+Fore
+SplineSet
+508 21 m 0
+ 508 7 498 0 480 0 c 2
+ 119 0 l 2
+ 101 0 92 7 92 21 c 0
+ 92 34 101 41 119 41 c 2
+ 279 41 l 1
+ 279 376 l 1
+ 161 376 l 2
+ 143 376 134 383 134 397 c 0
+ 134 410 143 417 161 417 c 2
+ 320 417 l 1
+ 320 41 l 1
+ 480 41 l 2
+ 499 41 508 34 508 21 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,30 @@
+StartChar: u1D6B9
+Encoding: 120505 120505 1077
+Width: 760
+GlyphClass: 2
+Flags: W
+TeX: 664 14
+TopAccentHorizontal: 380
+HStem: -14 46<316.557 469.188> 308 53<197 560> 617 47<289.797 442.926>
+VStem: 29 165<211.485 308 361 437.716> 565 166<212.284 308 361 438.515>
+LayerCount: 2
+Fore
+SplineSet
+384 664 m 0
+ 569 664 731 532 731 335 c 0
+ 731 155 607 -14 375 -14 c 0
+ 191 -14 29 118 29 315 c 0
+ 29 495 153 664 384 664 c 0
+365 617 m 0
+ 252 617 194 514 194 367 c 2
+ 194 361 l 1
+ 560 361 l 1
+ 544 497 481 617 365 617 c 0
+393 32 m 0
+ 507 32 565 135 565 284 c 2
+ 565 308 l 1
+ 197 308 l 1
+ 210 164 272 32 393 32 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6B9.s u1D6B9.ss
+EndChar

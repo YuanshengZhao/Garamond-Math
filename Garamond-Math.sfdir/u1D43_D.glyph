@@ -1,0 +1,33 @@
+StartChar: u1D43D
+Encoding: 119869 119869 675
+Width: 414
+GlyphClass: 2
+Flags: W
+TeX: 653 200
+ItalicCorrection: 75
+TopAccentHorizontal: 343
+HStem: -200 38<-48.6179 30.7677> 622 31<211.593 272.256 382.47 459.649>
+LayerCount: 2
+Fore
+SplineSet
+-43 -200 m 0
+ -103 -200 -132 -169 -132 -147 c 0
+ -132 -119 -125 -102 -108 -102 c 0
+ -97 -102 -81 -120 -60 -135 c 0
+ -44 -147 -22 -162 0 -162 c 0
+ 39 -162 67 -134 106 -5 c 2
+ 275 551 l 2
+ 289 597 280 613 236 622 c 0
+ 216 626 211 633 211 642 c 0
+ 211 650 226 653 242 653 c 0
+ 292 653 306 650 349 650 c 0
+ 383 650 388 653 438 653 c 0
+ 454 653 461 650 461 642 c 0
+ 461 633 448 626 425 622 c 0
+ 376 613 365 597 350 551 c 2
+ 225 142 l 2
+ 161 -68 129 -94 91 -134 c 0
+ 54 -173 12 -200 -43 -200 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D43D.s u1D43D.ss
+EndChar

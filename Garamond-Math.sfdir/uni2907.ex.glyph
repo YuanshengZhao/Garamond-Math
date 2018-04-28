@@ -1,0 +1,23 @@
+StartChar: uni2907.ex
+Encoding: 1114397 -1 1570
+Width: 298
+GlyphClass: 2
+Flags: W
+TeX: 352 -148
+HStem: 148 52<0 298> 300 52<0 298>
+VStem: 0 298<148 200 300 352>
+LayerCount: 2
+Fore
+SplineSet
+298 300 m 1
+ 0 300 l 1
+ 0 352 l 1
+ 298 352 l 1
+ 298 300 l 1
+298 200 m 1
+ 298 148 l 1
+ 0 148 l 1
+ 0 200 l 1
+ 298 200 l 1
+EndSplineSet
+EndChar

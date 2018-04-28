@@ -1,0 +1,30 @@
+StartChar: u1D710
+Encoding: 120592 120592 1164
+Width: 516
+GlyphClass: 2
+Flags: W
+TeX: 422 14
+TopAccentHorizontal: 308
+HStem: -14 73<142.949 244.68> 342 72<147.594 228.767>
+VStem: 401 49<246.756 407.287>
+LayerCount: 2
+Fore
+SplineSet
+164 -14 m 0
+ 108 -14 68 52 77 82 c 0
+ 93 132 153 229 170 273 c 0
+ 186 314 181 342 149 342 c 0
+ 118 342 100 311 93 311 c 0
+ 86 311 84 313 87 323 c 0
+ 97 355 157 414 208 414 c 0
+ 247 414 259 389 249 358 c 0
+ 231 307 147 166 136 131 c 0
+ 124 90 148 59 192 59 c 0
+ 299 59 401 230 401 350 c 0
+ 401 377 394 390 391 408 c 0
+ 390 415 398 422 402 422 c 0
+ 424 422 450 392 450 336 c 0
+ 450 180 306 -14 164 -14 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D710.s u1D710.ss
+EndChar

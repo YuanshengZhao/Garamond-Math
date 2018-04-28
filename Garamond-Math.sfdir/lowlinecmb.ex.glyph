@@ -1,0 +1,18 @@
+StartChar: lowlinecmb.ex
+Encoding: 1114458 -1 1631
+Width: 166
+GlyphClass: 2
+Flags: W
+TeX: -70 114
+HStem: -114 44<0 166>
+VStem: 0 166<-114 -70>
+LayerCount: 2
+Fore
+SplineSet
+166 -70 m 1
+ 166 -114 l 1
+ 0 -114 l 1
+ 0 -70 l 1
+ 166 -70 l 1
+EndSplineSet
+EndChar

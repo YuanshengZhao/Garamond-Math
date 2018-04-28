@@ -1,0 +1,22 @@
+StartChar: primereversed
+Encoding: 8245 8245 269
+Width: 178
+GlyphClass: 2
+Flags: W
+TeX: 676 -444
+HStem: 444 232
+VStem: 30 69<576.018 668.2>
+LayerCount: 2
+Fore
+SplineSet
+127 444 m 0
+ 117 444 109 458 103 469 c 0
+ 76 516 30 616 30 642 c 0
+ 30 654 55 676 75 676 c 0
+ 83 676 91 663 99 633 c 0
+ 104 614 138 478 138 461 c 0
+ 138 452 137 444 127 444 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" primereversed.st primereversed.sts
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" primereversed.st primereversed.sts
+EndChar

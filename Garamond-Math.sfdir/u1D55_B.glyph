@@ -1,0 +1,54 @@
+StartChar: u1D55B
+Encoding: 120155 120155 937
+Width: 305
+GlyphClass: 2
+Flags: W
+TeX: 683 217
+HStem: -217 45<-5.14362 104.936> 406 44<151 206> 537 44<151 206> 639 44<151 206>
+VStem: 107 44<-143 406 581 639> 206 44<-124.659 406 581 639>
+LayerCount: 2
+Fore
+SplineSet
+250 567 m 2
+ 250 547 240 537 220 537 c 2
+ 137 537 l 2
+ 117 537 107 547 107 567 c 2
+ 107 653 l 2
+ 107 673 117 683 137 683 c 2
+ 220 683 l 2
+ 240 683 250 673 250 653 c 2
+ 250 567 l 2
+196 581 m 2
+ 203 581 206 584 206 591 c 2
+ 206 629 l 2
+ 206 636 203 639 196 639 c 2
+ 161 639 l 2
+ 154 639 151 636 151 629 c 2
+ 151 591 l 2
+ 151 584 154 581 161 581 c 2
+ 196 581 l 2
+58 -172 m 0
+ 76 -172 107 -173 107 -153 c 2
+ 107 420 l 2
+ 107 440 117 450 137 450 c 2
+ 220 450 l 2
+ 240 450 250 440 250 420 c 2
+ 250 -41 l 2
+ 250 -149 176 -217 69 -217 c 0
+ 50 -217 31 -215 13 -210 c 0
+ -5 -205 -12 -185 -12 -167 c 0
+ -12 -161 -5 -158 2 -160 c 0
+ 20 -167 39 -172 58 -172 c 0
+206 -58 m 2
+ 206 396 l 2
+ 206 403 203 406 196 406 c 2
+ 161 406 l 2
+ 154 406 151 403 151 396 c 2
+ 151 -143 l 2
+ 151 -150 154 -152 160 -148 c 0
+ 190 -129 206 -94 206 -58 c 2
+EndSplineSet
+Substitution2: "'ss01' Style Set-1" u1D55B.gm
+Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj.ds
+AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessj.ds
+EndChar

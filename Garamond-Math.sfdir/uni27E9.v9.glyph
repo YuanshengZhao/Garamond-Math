@@ -1,0 +1,22 @@
+StartChar: uni27E9.v9
+Encoding: 1114950 -1 2123
+Width: 380
+GlyphClass: 2
+Flags: W
+VStem: 50 288
+LayerCount: 2
+Fore
+SplineSet
+50 -1337 m 2
+ 279 240 l 2
+ 280 247 280 253 279 260 c 2
+ 50 1837 l 2
+ 49 1843 54 1850 59 1850 c 0
+ 75 1850 91 1841 94 1825 c 2
+ 338 280 l 2
+ 341 260 341 240 338 220 c 2
+ 94 -1325 l 2
+ 91 -1341 75 -1350 59 -1350 c 0
+ 54 -1350 49 -1343 50 -1337 c 2
+EndSplineSet
+EndChar

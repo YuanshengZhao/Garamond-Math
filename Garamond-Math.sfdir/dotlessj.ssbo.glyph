@@ -1,0 +1,23 @@
+StartChar: dotlessj.ssbo
+Encoding: 1114119 -1 1292
+Width: 257
+GlyphClass: 2
+Flags: W
+TeX: 497 201
+ItalicCorrection: 66
+TopAccentHorizontal: 232
+HStem: -201 104<-18.2565 44.1399>
+LayerCount: 2
+Fore
+SplineSet
+295 497 m 1
+ 171 -86 l 2
+ 154 -167 114 -201 36 -201 c 0
+ 18 -201 -13 -199 -38 -196 c 1
+ -16 -93 l 1
+ -7 -96 -3 -97 5 -97 c 0
+ 32 -97 45 -86 51 -58 c 2
+ 169 497 l 1
+ 295 497 l 1
+EndSplineSet
+EndChar

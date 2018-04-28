@@ -1,0 +1,24 @@
+StartChar: iota.ss
+Encoding: 1115593 -1 3271
+Width: 252
+GlyphClass: 2
+Flags: W
+TeX: 411 14
+TopAccentHorizontal: 118
+HStem: -14 91<110.5 190.836>
+VStem: 64 70<80.0979 323.744> 67 95<192.436 414.522>
+LayerCount: 2
+Fore
+SplineSet
+130 -14 m 0xc0
+ 91 -14 63 22 64 93 c 2xc0
+ 67 397 l 2
+ 67 411 78 417 129 417 c 0
+ 159 417 162 409 162 396 c 0xa0
+ 162 357 134 167 134 106 c 0
+ 134 82 150 77 166 77 c 0
+ 187 77 212 89 217 89 c 0
+ 226 89 229 84 229 72 c 0
+ 229 40 188 -14 130 -14 c 0xc0
+EndSplineSet
+EndChar

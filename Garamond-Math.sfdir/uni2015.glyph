@@ -1,0 +1,19 @@
+StartChar: uni2015
+Encoding: 8213 8213 4233
+Width: 1160
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+HStem: 224 52<77.9531 1082.05>
+LayerCount: 2
+Fore
+SplineSet
+1054 224 m 2
+ 91 224 l 2
+ 83 224 75 231 75 237 c 0
+ 75 257 86 276 106 276 c 2
+ 1069 276 l 2
+ 1077 276 1085 269 1085 263 c 0
+ 1085 243 1074 224 1054 224 c 2
+EndSplineSet
+EndChar

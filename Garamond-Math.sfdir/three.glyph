@@ -1,0 +1,35 @@
+StartChar: three
+Encoding: 51 51 19
+Width: 480
+GlyphClass: 2
+Flags: W
+TeX: 630 38
+TopAccentHorizontal: 244
+HStem: -38 38<149.136 267.92> 570 60<159.498 274.237>
+VStem: 312 79<442.858 531.332> 354 85<108.194 238.565>
+LayerCount: 2
+Fore
+SplineSet
+161 -38 m 0xd0
+ 114 -38 50 -11 50 5 c 0
+ 50 19 79 51 94 51 c 0
+ 109 51 120 41 133 31 c 0
+ 150 16 171 0 208 0 c 0
+ 281 0 354 63 354 146 c 0xd0
+ 354 223 315 304 238 304 c 0
+ 223 304 196 302 173 289 c 0
+ 166 285 154 291 156 298 c 0
+ 161 315 173 326 186 332 c 0
+ 209 343 312 395 312 466 c 0
+ 312 521 272 570 218 570 c 0
+ 115 570 99 481 84 481 c 0
+ 79 481 68 490 68 500 c 0
+ 68 535 125 630 261 630 c 0
+ 327 630 391 584 391 516 c 0xe0
+ 391 468 364 411 286 366 c 0
+ 282 364 282 360 287 360 c 0
+ 372 360 439 288 439 203 c 0
+ 439 53 297 -38 161 -38 c 0xd0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" three.s three.ss
+EndChar

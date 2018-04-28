@@ -1,0 +1,23 @@
+StartChar: uni21F3.ex
+Encoding: 1114426 -1 1599
+Width: 600
+GlyphClass: 2
+Flags: W
+TeX: 312 0
+HStem: 0 312<206 242 358 394>
+VStem: 206 36<0 312> 358 36<0 312>
+LayerCount: 2
+Fore
+SplineSet
+242 0 m 1
+ 206 0 l 1
+ 206 312 l 1
+ 242 312 l 1
+ 242 0 l 1
+394 312 m 1
+ 394 0 l 1
+ 358 0 l 1
+ 358 312 l 1
+ 394 312 l 1
+EndSplineSet
+EndChar

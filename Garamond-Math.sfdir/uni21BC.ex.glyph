@@ -1,0 +1,18 @@
+StartChar: uni21BC.ex
+Encoding: 1114276 -1 1449
+Width: 250
+GlyphClass: 2
+Flags: W
+TeX: 276 -224
+HStem: 224 52<0 250>
+VStem: 0 250<224 276>
+LayerCount: 2
+Fore
+SplineSet
+250 276 m 1
+ 250 224 l 1
+ 0 224 l 1
+ 0 276 l 1
+ 250 276 l 1
+EndSplineSet
+EndChar

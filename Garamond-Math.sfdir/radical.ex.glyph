@@ -1,0 +1,17 @@
+StartChar: radical.ex
+Encoding: 1114813 -1 1986
+Width: 950
+GlyphClass: 2
+Flags: W
+HStem: 0 21G<489 541>
+VStem: 489 52<0 1500>
+LayerCount: 2
+Fore
+SplineSet
+541 1500 m 1
+ 541 0 l 1
+ 489 0 l 1
+ 489 1500 l 5
+ 541 1500 l 1
+EndSplineSet
+EndChar
