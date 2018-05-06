@@ -18,4 +18,4 @@
 *.woff binary
 
 # Mark documentation
-docs/* linguist-documentation=true
+docs/*.tex linguist-documentation=false
