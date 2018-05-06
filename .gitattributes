@@ -16,3 +16,6 @@
 *.pdf  binary
 *.png  binary
 *.woff binary
+
+# Mark documentation
+docs/* linguist-documentation=false
