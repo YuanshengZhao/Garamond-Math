@@ -1,11 +1,11 @@
 *.nb
-*.otf
 *.pdf
 *.txt
 *.ttf
 *.aux
 *.fdb_latexmk
 *.fls
+*.g2n
 *.log
 *.out
 *.synctex.gz
