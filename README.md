@@ -4,7 +4,7 @@ An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGa
 
 ## Notes
 
-- *Blackboard* (`\mathbb`): glyphs based on [XITS Math](https://github.com/khaledhosny/xits) will be loaded by default. However, the crossings and endpoints of strokes are rounded to fit the style of EB Garamond. `StylisticSet=1` will load the EB-Garamond-based glyphs (as in the sample below).
+- *Blackboard* (`\mathbb`): glyphs based on [XITS Math](https://github.com/khaledhosny/xits) will be loaded by default. However, the crossings and endpoints of strokes are rounded to fit the style of EB Garamond. `StylisticSet=1` will load the EB-Garamond based glyphs (as in the sample below).
 
 - *Script* (`\mathscr`): from XITS Math. The weight (especially for bold) and crossings and endpoints of strokes are modified.
 
@@ -22,7 +22,7 @@ An OTF math font matching the [EB Garamond](https://github.com/octaviopardo/EBGa
 
 ## Sample
 
-![sample](sample.svg)
+![sample](images/sample.svg)
 
 ## License
 

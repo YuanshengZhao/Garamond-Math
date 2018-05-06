@@ -1,11 +1,6 @@
-*.nb
-*.pdf
-*.txt
-*.ttf
 *.aux
 *.fdb_latexmk
 *.fls
-*.g2n
 *.log
 *.out
 *.synctex.gz
@@ -13,7 +8,14 @@
 *.xdv
 *.synctex
 
+*.g2n
+
+*.nb
+*.pdf
+*.txt
+*.otf
+*.ttf
+
+.vscode/
 GTSymbol/
 EBGaramond/
-
-
