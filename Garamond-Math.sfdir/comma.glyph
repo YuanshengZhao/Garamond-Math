@@ -1,9 +1,7 @@
 StartChar: comma
-Encoding: 12 44 12
+Encoding: 44 44 4125
 Width: 230
-GlyphClass: 2
 Flags: W
-TeX: 117 147
 HStem: -147 23<20.0329 67.1406> 29 88<52.4428 122.388>
 VStem: 130 52<-60.0924 49.1868>
 LayerCount: 2

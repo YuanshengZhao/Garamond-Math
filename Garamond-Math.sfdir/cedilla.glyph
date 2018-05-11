@@ -1,9 +1,7 @@
 StartChar: cedilla
-Encoding: 116 184 78
+Encoding: 184 184 396
 Width: 200
-GlyphClass: 2
 Flags: W
-TeX: 8 274
 HStem: -274 49<30.6023 108.545>
 VStem: 128 50<-205.712 -133.987>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: u1D77C
-Encoding: 1985 120700 4201
+Encoding: 120700 120700 3601
 Width: 524
 GlyphClass: 2
-Flags: MW
+Flags: W
 TopAccentHorizontal: 262
-HStem: 370 37 422 20G<201 204.25>
+HStem: 370 37<19.8281 59>
 VStem: 408 92<269.25 401>
 LayerCount: 2
 Fore

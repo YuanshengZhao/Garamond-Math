@@ -1,0 +1,18 @@
+StartChar: uni0336
+Encoding: 822 822 12
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 356 44<-222.986 223.596>
+LayerCount: 2
+Fore
+SplineSet
+-211 356 m 2
+ -218 356 -225 362 -225 368 c 0
+ -225 377 -217 400 -201 400 c 2
+ 212 400 l 2
+ 218 400 225 394 225 388 c 0
+ 225 368 211 356 194 356 c 2
+ -211 356 l 2
+EndSplineSet
+EndChar

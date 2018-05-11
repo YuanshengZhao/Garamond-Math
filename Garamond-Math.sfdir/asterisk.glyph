@@ -1,10 +1,7 @@
 StartChar: asterisk
-Encoding: 10 42 10
+Encoding: 42 42 4203
 Width: 340
-GlyphClass: 2
 Flags: W
-TeX: 670 -372
-TopAccentHorizontal: 221
 HStem: 372 298<166.594 174.406>
 VStem: 140 34<602.462 669.992> 167 34<372.008 439.538>
 LayerCount: 2

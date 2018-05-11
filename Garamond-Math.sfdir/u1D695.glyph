@@ -1,11 +1,11 @@
 StartChar: u1D695
-Encoding: 1756 120469 1043
+Encoding: 120469 120469 960
 Width: 524
 GlyphClass: 2
 Flags: W
 TeX: 604 0
 TopAccentHorizontal: 228
-HStem: 1 60<58.5425 228.001 297 456.027> 620 61<67.9612 228.001>
+HStem: 0 61<58.6795 228.001 297 456.027> 620 61<67.9612 228.001>
 VStem: 228.001 68.999<61 620>
 LayerCount: 2
 Fore

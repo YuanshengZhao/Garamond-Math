@@ -1,18 +1,18 @@
 StartChar: uni2309.bt
-Encoding: 2757 -1 1992
-Width: 431
+Encoding: 1114472 -1 1558
+Width: 521
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<261.5 279.5>
-VStem: 248 73<8.85254 2357>
+HStem: 0 21G<351.5 369.5>
+VStem: 338 73<8.85254 2357>
 LayerCount: 2
 Fore
 SplineSet
-321 44 m 2
- 321 16 293 0 266 0 c 0
- 257 0 248 12 248 23 c 2
- 248 2357 l 1
- 321 2357 l 1
- 321 44 l 2
+411 44 m 2
+ 411 16 383 0 356 0 c 0
+ 347 0 338 12 338 23 c 2
+ 338 2357 l 1
+ 411 2357 l 1
+ 411 44 l 2
 EndSplineSet
 EndChar

@@ -1,5 +1,5 @@
 StartChar: h.ss
-Encoding: 3431 -1 3171
+Encoding: 1115146 -1 2571
 Width: 528
 GlyphClass: 2
 Flags: W
@@ -47,5 +47,5 @@ SplineSet
  170 -3 161 2 126 2 c 0
  91 2 79 -3 39 -3 c 0
 EndSplineSet
-Kerns2: 34 782 "mkn-1"
+Kerns2: 33 782 "mkn-1"
 EndChar

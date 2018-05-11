@@ -1,9 +1,7 @@
 StartChar: logicalnot
-Encoding: 107 172 2587
+Encoding: 172 172 4158
 Width: 600
-GlyphClass: 2
 Flags: W
-TeX: 382 -43
 HStem: 322 60<53.8933 490>
 VStem: 490 60<46.8933 322>
 LayerCount: 2

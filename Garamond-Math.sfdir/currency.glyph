@@ -1,10 +1,7 @@
 StartChar: currency
-Encoding: 99 164 73
+Encoding: 164 164 3769
 Width: 506
-GlyphClass: 2
 Flags: W
-TeX: 483 -57
-ItalicCorrection: 50
 HStem: 75 50<178.617 327.383> 415 50<179.424 327.383>
 VStem: 61 50<194.664 345.223> 395 50<194.664 345.336>
 LayerCount: 2

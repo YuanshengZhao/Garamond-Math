@@ -1,18 +1,18 @@
 StartChar: uni23A5
-Encoding: 977 9125 472
-Width: 431
+Encoding: 9125 9125 458
+Width: 521
 GlyphClass: 2
 Flags: W
 TeX: 810 0
-HStem: 0 21G<248 321>
-VStem: 248 73<0 1000>
+HStem: 0 21G<338 411>
+VStem: 338 73<0 1000>
 LayerCount: 2
 Fore
 SplineSet
-321 0 m 1
- 248 0 l 5
- 248 1000 l 1
- 321 1000 l 1
- 321 0 l 1
+411 0 m 1
+ 338 0 l 5
+ 338 1000 l 1
+ 411 1000 l 1
+ 411 0 l 1
 EndSplineSet
 EndChar

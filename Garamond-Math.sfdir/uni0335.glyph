@@ -1,0 +1,19 @@
+StartChar: uni0335
+Encoding: 821 821 11
+Width: 0
+GlyphClass: 4
+Flags: W
+HStem: 356 44<-147.986 148.596>
+VStem: -150 300<357.29 399.847>
+LayerCount: 2
+Fore
+SplineSet
+-136 356 m 2
+ -143 356 -150 362 -150 368 c 0
+ -150 377 -142 400 -126 400 c 2
+ 137 400 l 2
+ 143 400 150 394 150 388 c 0
+ 150 368 136 356 119 356 c 2
+ -136 356 l 2
+EndSplineSet
+EndChar

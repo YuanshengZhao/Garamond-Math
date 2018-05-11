@@ -1,9 +1,7 @@
 StartChar: quotesingle
-Encoding: 7 39 7
+Encoding: 39 39 288
 Width: 200
-GlyphClass: 2
 Flags: W
-TeX: 676 -444
 HStem: 444 232<80.2416 89.4949>
 VStem: 65 73<538.333 659.629>
 LayerCount: 2

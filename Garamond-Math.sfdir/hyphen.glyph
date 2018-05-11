@@ -1,9 +1,7 @@
 StartChar: hyphen
-Encoding: 13 45 13
+Encoding: 45 45 2
 Width: 274
-GlyphClass: 2
 Flags: W
-TeX: 255 -170
 HStem: 170 85
 VStem: 29 216<195.001 230.422>
 LayerCount: 2

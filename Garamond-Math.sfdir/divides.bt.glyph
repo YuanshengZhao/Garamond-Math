@@ -1,18 +1,18 @@
 StartChar: divides.bt
-Encoding: 2694 -1 1929
-Width: 272
+Encoding: 1114418 -1 1504
+Width: 478
 GlyphClass: 2
 Flags: W
-HStem: 0 21G<139 152>
-VStem: 110 52<2.95312 2375>
+HStem: 0 21G<242 255>
+VStem: 213 52<2.95312 2375>
 LayerCount: 2
 Fore
 SplineSet
-162 16 m 2
- 162 8 155 0 149 0 c 0
- 129 0 110 11 110 31 c 2
- 110 2375 l 1
- 162 2375 l 1
- 162 16 l 2
+265 16 m 2
+ 265 8 258 0 252 0 c 0
+ 232 0 213 11 213 31 c 2
+ 213 2375 l 1
+ 265 2375 l 1
+ 265 16 l 2
 EndSplineSet
 EndChar

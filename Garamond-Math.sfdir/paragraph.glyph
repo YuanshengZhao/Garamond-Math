@@ -1,10 +1,7 @@
 StartChar: paragraph
-Encoding: 114 182 2602
+Encoding: 182 182 345
 Width: 595
-GlyphClass: 2
 Flags: W
-TeX: 648 289
-ItalicCorrection: 25
 HStem: -289 35<229.879 339.411> -135 74<206.47 296.908> 608 40<295 546.972>
 VStem: 45 380<278.13 490.796> 158 42<-229.852 -140.213> 386 39<-201.484 119>
 LayerCount: 2

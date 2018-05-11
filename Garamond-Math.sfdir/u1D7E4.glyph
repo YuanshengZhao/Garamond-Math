@@ -1,12 +1,12 @@
 StartChar: u1D7E4
-Encoding: 2022 120804 1257
+Encoding: 120804 120804 1174
 Width: 465
 GlyphClass: 2
 Flags: W
 TeX: 652 0
 TopAccentHorizontal: 282
-HStem: 0 65 459 21G 553 57
-VStem: 327.8 85.9
+HStem: 0.000976562 65.001<161.703 422.297> 459.001 21G<87.8037 107.803> 553 57.001<146.835 281.563>
+VStem: 327.801 85.9023<362.987 505.892>
 LayerCount: 2
 Fore
 SplineSet

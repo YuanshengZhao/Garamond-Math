@@ -1,12 +1,12 @@
 StartChar: summation
-Encoding: 735 8721 320
+Encoding: 8721 8721 319
 Width: 989
 GlyphClass: 2
 Flags: W
 TeX: 750 234
 IsExtendedShape: 1
 GlyphVariantsVertical: summation summation.v1
-HStem: -227 69<212.68 830.54> 686 41<223.003 757.783>
+HStem: -227 68<212.68 830.54> 686 41<223.003 757.783>
 VStem: 803 32<573.388 634.511>
 LayerCount: 2
 Fore
@@ -30,7 +30,8 @@ SplineSet
  585 278 578 271 574 266 c 2
  213 -137 l 2
  206 -145 210 -153 221 -154 c 0
- 281 -162 674 -158 761 -158 c 0
+ 251 -158 364.25 -159 480.875 -159 c 0
+ 597.5 -159 717.5 -158 761 -158 c 0
  818 -158 847 -132 875 -79 c 0
  884 -63 893 -47 906 -47 c 0
  911 -47 915 -51 915 -56 c 0

@@ -1,9 +1,7 @@
 StartChar: dollar
-Encoding: 4 36 4
+Encoding: 36 36 3972
 Width: 441
-GlyphClass: 2
 Flags: W
-TeX: 712 82
 HStem: 16 37<212.172 272.57> 595 37<172.311 233.894>
 VStem: 40 33<132.141 185.953> 56 78<444.875 547.894> 319 79<107.954 229.529>
 LayerCount: 2

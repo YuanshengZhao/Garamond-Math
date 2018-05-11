@@ -1,9 +1,7 @@
 StartChar: guillemotleft
-Encoding: 106 171 2585
+Encoding: 171 171 3969
 Width: 595
-GlyphClass: 2
 Flags: W
-TeX: 400 -19
 LayerCount: 2
 Fore
 SplineSet
@@ -24,7 +22,7 @@ SplineSet
 524 19 m 0
  511 19 499 32 494 37 c 0
  425 104 348 155 289 182 c 0
- 279 187 271 202 271 211 c 0
+ 279 187 271 202 271 211 c 4
  271 214 272 217 274 218 c 0
  376 279 431 316 500 382 c 0
  505 387 517 400 529 400 c 0

@@ -1,10 +1,7 @@
 StartChar: grave
-Encoding: 64 96 38
+Encoding: 96 96 398
 Width: 200
-GlyphClass: 2
 Flags: W
-TeX: 649 -457
-TopAccentHorizontal: 128
 HStem: 457 192
 VStem: 22 157
 LayerCount: 2

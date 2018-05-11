@@ -1,12 +1,12 @@
 StartChar: u1D632
-Encoding: 1657 120370 3767
+Encoding: 120370 120370 3167
 Width: 488
 GlyphClass: 2
-Flags: MW
+Flags: W
 ItalicCorrection: 43
 TopAccentHorizontal: 356
-HStem: -235 21G -10 48 397 42
-VStem: 74.8 92.5
+HStem: -9.99902 47.999<206.236 328.093> 397.001 42<256.931 379.417>
+VStem: 74.8018 92.499<78.4365 262.889>
 LayerCount: 2
 Fore
 SplineSet

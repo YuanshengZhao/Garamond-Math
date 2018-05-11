@@ -1,5 +1,5 @@
 StartChar: u1D53E
-Encoding: 1419 120126 914
+Encoding: 120126 120126 831
 Width: 706
 GlyphClass: 2
 Flags: W
@@ -51,5 +51,5 @@ SplineSet
  116 485 89 407 89 333 c 0
  89 256 117 186 163 127 c 0
 EndSplineSet
-Substitution2: "'ss01' Style Set-1" u1D53D.gm
+Substitution2: "'ss01' Style Set-1" u1D53E.gm
 EndChar

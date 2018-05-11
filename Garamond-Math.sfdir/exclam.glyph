@@ -1,9 +1,7 @@
 StartChar: exclam
-Encoding: 1 33 1
+Encoding: 33 33 4206
 Width: 250
-GlyphClass: 2
 Flags: W
-TeX: 649 14
 HStem: -14 120<78.7454 171.255>
 VStem: 65 120<-0.254639 92.2546> 79 92<337.922 639.994>
 LayerCount: 2

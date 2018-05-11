@@ -1,9 +1,10 @@
 StartChar: u1D646
-Encoding: 1677 120390 3787
+Encoding: 120390 120390 3187
 Width: 712
 GlyphClass: 2
 Flags: W
 ItalicCorrection: 154
+HStem: -3 21G<81 81.3076 246.308 249 480.121 521.154 692.671 697.154> 319 35<318.728 330.799>
 LayerCount: 2
 Fore
 SplineSet

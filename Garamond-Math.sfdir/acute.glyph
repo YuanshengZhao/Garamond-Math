@@ -1,11 +1,7 @@
 StartChar: acute
-Encoding: 112 180 77
+Encoding: 180 180 395
 Width: 200
-GlyphClass: 2
 Flags: W
-TeX: 649 -457
-ItalicCorrection: 12
-TopAccentHorizontal: 205
 HStem: 457 192
 VStem: 22 157
 LayerCount: 2

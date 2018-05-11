@@ -1,10 +1,7 @@
 StartChar: asciicircum
-Encoding: 62 94 36
+Encoding: 94 94 355
 Width: 500
-GlyphClass: 2
 Flags: W
-TeX: 603 -284
-ItalicCorrection: 5
 HStem: 284 319
 LayerCount: 2
 Fore

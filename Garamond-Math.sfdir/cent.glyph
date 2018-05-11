@@ -1,9 +1,7 @@
 StartChar: cent
-Encoding: 97 162 71
+Encoding: 162 162 4216
 Width: 422
-GlyphClass: 2
 Flags: W
-TeX: 579 13
 HStem: -13 21G<197.5 206.5> 76 59<235.234 317.67> 474 28<184.969 235>
 VStem: 35 67<214.871 372.833>
 LayerCount: 2

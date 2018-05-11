@@ -1,10 +1,8 @@
 StartChar: uni2126
-Encoding: 612 8486 2696
+Encoding: 8486 8486 4121
 Width: 830
 GlyphClass: 2
 Flags: W
-TeX: 664 5
-TopAccentHorizontal: 428
 HStem: 0 70<96.4899 276.953 547 725.851> 631 33<338.707 479.931>
 VStem: 100 100<238.683 455.811> 630 100<255.249 454.984>
 LayerCount: 2

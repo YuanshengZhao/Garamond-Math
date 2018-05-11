@@ -1,0 +1,16 @@
+StartChar: dotmath
+Encoding: 8901 8901 4115
+Width: 210
+Flags: W
+HStem: 195 110<61.8467 148.153>
+VStem: 50 110<206.847 293.153>
+LayerCount: 2
+Fore
+SplineSet
+105 195 m 0
+ 75 195 50 220 50 250 c 0
+ 50 280 75 305 105 305 c 0
+ 135 305 160 280 160 250 c 0
+ 160 220 135 195 105 195 c 0
+EndSplineSet
+EndChar

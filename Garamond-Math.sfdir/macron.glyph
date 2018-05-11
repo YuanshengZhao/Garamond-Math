@@ -1,11 +1,7 @@
 StartChar: macron
-Encoding: 109 175 2588
+Encoding: 175 175 399
 Width: 300
-GlyphClass: 2
 Flags: W
-TeX: 555 -500
-ItalicCorrection: 17
-TopAccentHorizontal: 167
 HStem: 500 55<33.6605 266.414>
 VStem: 30 240<501.575 554.782>
 LayerCount: 2

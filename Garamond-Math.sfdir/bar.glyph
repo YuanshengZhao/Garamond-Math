@@ -1,21 +1,21 @@
 StartChar: bar
-Encoding: 92 124 66
-Width: 272
+Encoding: 124 124 3752
+Width: 352
 GlyphClass: 2
 Flags: W
 TeX: 725 300
 GlyphVariantsVertical: bar divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6 divides.v7 divides.v8 divides.v9 divides.v10 divides.v11 divides.v12 divides.v13 divides.v14 divides.v15 divides.v16 divides.v17 divides.v18 divides.v19 divides.v20
 GlyphCompositionVertical: 3  divides.bt%0,0,1000,2375 divides.ex%1,500,500,500 divides.tp%0,1000,0,2375
-VStem: 110 52<-222.047 722.047>
+VStem: 150 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet
-162 -209 m 2
- 162 -217 155 -225 149 -225 c 0
- 129 -225 110 -214 110 -194 c 2
- 110 709 l 2
- 110 717 117 725 123 725 c 0
- 143 725 162 714 162 694 c 2
- 162 -209 l 2
+202 -209 m 2
+ 202 -217 195 -225 189 -225 c 0
+ 169 -225 150 -214 150 -194 c 2
+ 150 709 l 2
+ 150 717 157 725 163 725 c 0
+ 183 725 202 714 202 694 c 2
+ 202 -209 l 2
 EndSplineSet
 EndChar

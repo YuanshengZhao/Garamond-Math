@@ -1,9 +1,7 @@
 StartChar: question
-Encoding: 31 63 31
+Encoding: 63 63 7
 Width: 376
-GlyphClass: 2
 Flags: W
-TeX: 661 14
 HStem: -14 120<103.745 196.255> 573 88<78.3613 180.784>
 VStem: 90 120<-0.254639 92.2546> 98 53<195.696 274.776> 260 51<415.721 503.256>
 LayerCount: 2
