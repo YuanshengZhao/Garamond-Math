@@ -1,5 +1,5 @@
 StartChar: daggerdbl
-Encoding: 8225 8225 4184
+Encoding: 8225 8225 4183
 Width: 440
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  235 -26 255 -23 255 -88 c 0
  255 -106 237 -118 220 -118 c 0x44
 EndSplineSet
+Validated: 1
 EndChar

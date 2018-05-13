@@ -1,5 +1,5 @@
 StartChar: Beta.s
-Encoding: 1115185 -1 2610
+Encoding: 1115185 -1 2609
 Width: 594
 GlyphClass: 2
 Flags: W
@@ -44,4 +44,5 @@ SplineSet
  215 109 l 2
  215 55 242 39 291 39 c 0x7a
 EndSplineSet
+Validated: 1
 EndChar

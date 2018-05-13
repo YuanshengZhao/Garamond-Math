@@ -34,5 +34,6 @@ SplineSet
  333 130 368 59 368 20 c 0
  368 -46 236 -192 137 -198 c 0xbe
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D73B.s u1D73B.ss
 EndChar

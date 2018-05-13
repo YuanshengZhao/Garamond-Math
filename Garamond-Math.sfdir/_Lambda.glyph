@@ -1,5 +1,5 @@
 StartChar: Lambda
-Encoding: 923 923 2384
+Encoding: 923 923 2383
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -38,5 +38,6 @@ SplineSet
  220 -1 184 1 147 1 c 0
  103 1 60 -5 27 -5 c 0
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Lambda.s Lambda.ss
 EndChar

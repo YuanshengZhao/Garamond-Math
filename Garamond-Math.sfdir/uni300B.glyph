@@ -1,5 +1,5 @@
 StartChar: uni300B
-Encoding: 12299 12299 4122
+Encoding: 12299 12299 4121
 Width: 604
 Flags: W
 LayerCount: 2
@@ -28,4 +28,5 @@ SplineSet
  152.625976562 -216 132.625976562 -225 116.625976562 -225 c 0
  111.625976562 -225 108.625976562 -218 110.625976562 -212 c 2
 EndSplineSet
+Validated: 33
 EndChar

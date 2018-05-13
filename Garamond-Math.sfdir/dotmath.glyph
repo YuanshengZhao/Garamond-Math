@@ -1,5 +1,5 @@
 StartChar: dotmath
-Encoding: 8901 8901 4115
+Encoding: 8901 8901 4114
 Width: 210
 Flags: W
 HStem: 195 110<61.8467 148.153>
@@ -13,4 +13,5 @@ SplineSet
  135 305 160 280 160 250 c 0
  160 220 135 195 105 195 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: seven.s
-Encoding: 1115073 -1 2498
+Encoding: 1115073 -1 2497
 Width: 486
 Flags: W
 TopAccentHorizontal: 266
@@ -27,4 +27,5 @@ SplineSet
  152 -4 l 2
  146 -15 136 -32 132 -32 c 0
 EndSplineSet
+Validated: 1
 EndChar

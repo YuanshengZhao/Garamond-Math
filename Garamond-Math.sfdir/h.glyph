@@ -1,5 +1,5 @@
 StartChar: h
-Encoding: 104 104 4090
+Encoding: 104 104 4089
 Width: 515
 GlyphClass: 2
 Flags: W
@@ -47,6 +47,7 @@ SplineSet
  156 -3 155 2 120 2 c 0
  85 2 79 -3 39 -3 c 0
 EndSplineSet
+Validated: 1
 Kerns2: 46 782 "mkn-1"
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" h.s h.ss
 EndChar

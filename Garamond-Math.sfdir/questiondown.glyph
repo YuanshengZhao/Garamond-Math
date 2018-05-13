@@ -1,5 +1,5 @@
 StartChar: questiondown
-Encoding: 191 191 4164
+Encoding: 191 191 4163
 Width: 376
 Flags: W
 HStem: -181 88<195.216 297.639> 374 120<179.745 272.255>
@@ -29,4 +29,5 @@ SplineSet
  221 215 224 244 225 276 c 0xe8
  225 286 230 299 240 299 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: three.s
-Encoding: 1115065 -1 2490
+Encoding: 1115065 -1 2489
 Width: 479
 Flags: W
 TopAccentHorizontal: 244
@@ -29,4 +29,5 @@ SplineSet
  372 360 440 290 440 203 c 0
  440 54 298 -38 160 -38 c 0xd0
 EndSplineSet
+Validated: 1
 EndChar

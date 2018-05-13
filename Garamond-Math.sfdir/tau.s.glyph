@@ -1,5 +1,5 @@
 StartChar: tau.s
-Encoding: 1115267 -1 2692
+Encoding: 1115267 -1 2691
 Width: 415
 GlyphClass: 2
 Flags: W
@@ -33,4 +33,5 @@ SplineSet
  336 94 336 89 336 77 c 0
  336 42 288 -14 236 -14 c 0xd8
 EndSplineSet
+Validated: 33
 EndChar

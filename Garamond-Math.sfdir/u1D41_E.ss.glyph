@@ -1,5 +1,5 @@
 StartChar: u1D41E.ss
-Encoding: 1115370 -1 2795
+Encoding: 1115370 -1 2794
 Width: 425
 Flags: W
 ItalicCorrection: 10
@@ -30,4 +30,5 @@ SplineSet
  193 394 154 353 156 314 c 0
  156 305 162 300 171 300 c 2
 EndSplineSet
+Validated: 33
 EndChar

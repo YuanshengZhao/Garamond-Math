@@ -1,5 +1,5 @@
 StartChar: uni2C6E
-Encoding: 11374 11374 4017
+Encoding: 11374 11374 4016
 Width: 884
 GlyphClass: 2
 Flags: W
@@ -53,4 +53,5 @@ SplineSet
  581 -151 594 -159 611 -159 c 0
  658 -159 671 -97 671 0 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar

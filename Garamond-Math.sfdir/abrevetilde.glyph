@@ -1,5 +1,5 @@
 StartChar: abrevetilde
-Encoding: 7861 7861 4175
+Encoding: 7861 7861 4174
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -59,4 +59,5 @@ SplineSet
  226 169 220 168 215 166 c 0
  138 140 115 110 115 87 c 0
 EndSplineSet
+Validated: 33
 EndChar

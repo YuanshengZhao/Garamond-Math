@@ -1,5 +1,5 @@
 StartChar: Tbar
-Encoding: 358 358 2441
+Encoding: 358 358 2440
 Width: 670
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  573 642 600 647 622 657 c 0
  638 665 645 677 661 677 c 0
 EndSplineSet
+Validated: 1
 EndChar

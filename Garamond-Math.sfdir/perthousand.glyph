@@ -1,5 +1,5 @@
 StartChar: perthousand
-Encoding: 8240 8240 4262
+Encoding: 8240 8240 4261
 Width: 963
 GlyphClass: 2
 Flags: W
@@ -50,4 +50,5 @@ SplineSet
  750 297 738 218 738 156 c 0
  738 85 745 -8 816 -8 c 0xb7f8
 EndSplineSet
+Validated: 1
 EndChar

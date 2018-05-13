@@ -1,5 +1,5 @@
 StartChar: kappa
-Encoding: 954 954 3880
+Encoding: 954 954 3879
 Width: 468
 GlyphClass: 2
 Flags: W
@@ -38,5 +38,6 @@ SplineSet
  470 96 472 91 472 87 c 0
  472 24 410 -15 365 -15 c 0xa8
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" kappa.s kappa.ss
 EndChar

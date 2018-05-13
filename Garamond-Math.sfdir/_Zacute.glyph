@@ -1,5 +1,5 @@
 StartChar: Zacute
-Encoding: 377 377 2480
+Encoding: 377 377 2479
 Width: 603
 GlyphClass: 2
 Flags: W
@@ -53,4 +53,5 @@ SplineSet
  588 147 562 36 551 12 c 0
  547 4 543 -5 533 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

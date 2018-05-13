@@ -1,5 +1,5 @@
 StartChar: lozenge
-Encoding: 9674 9674 4058
+Encoding: 9674 9674 4057
 Width: 593
 Flags: W
 HStem: -154 50<262.172 344.038> 573 50<263.473 340.929>
@@ -36,4 +36,5 @@ SplineSet
  371.002 -144.836 357 -154 337 -154 c 0
  271 -154 l 2
 EndSplineSet
+Validated: 1
 EndChar

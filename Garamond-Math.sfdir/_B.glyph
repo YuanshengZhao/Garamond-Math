@@ -1,5 +1,5 @@
 StartChar: B
-Encoding: 66 66 2323
+Encoding: 66 66 2322
 Width: 587
 GlyphClass: 2
 Flags: W
@@ -44,5 +44,6 @@ SplineSet
  208 108 l 2
  208 52 236 37 287 37 c 0x7a
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" B.s B.ss
 EndChar

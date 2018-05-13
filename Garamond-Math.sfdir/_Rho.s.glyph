@@ -1,5 +1,5 @@
 StartChar: Rho.s
-Encoding: 1115213 -1 2638
+Encoding: 1115213 -1 2637
 Width: 559
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  237 -5 222 2 184 2 c 0
  134 2 105 -5 52 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

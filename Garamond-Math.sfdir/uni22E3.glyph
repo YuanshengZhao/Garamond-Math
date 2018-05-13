@@ -1,5 +1,5 @@
 StartChar: uni22E3
-Encoding: 8931 8931 3892
+Encoding: 8931 8931 3891
 Width: 559
 VWidth: 1006
 Flags: W
@@ -61,4 +61,5 @@ SplineSet
  451 424 440 437 415 437 c 2
  412 437 l 2
 EndSplineSet
+Validated: 1
 EndChar

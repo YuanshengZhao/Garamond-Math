@@ -1,5 +1,5 @@
 StartChar: tildecomb
-Encoding: 771 771 3830
+Encoding: 771 771 3829
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  -76 600 -90 588 -101 578 c 0
  -110 570 -120 558 -124 558 c 0x60
 EndSplineSet
+Validated: 1
 EndChar

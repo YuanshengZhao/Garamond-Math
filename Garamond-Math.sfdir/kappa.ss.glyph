@@ -1,5 +1,5 @@
 StartChar: kappa.ss
-Encoding: 1115248 -1 2673
+Encoding: 1115248 -1 2672
 Width: 481
 GlyphClass: 2
 Flags: W
@@ -38,4 +38,5 @@ SplineSet
  483 106 485 100 485 96 c 0
  485 24 422 -15 377 -15 c 0xa8
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: eth
-Encoding: 240 240 4255
+Encoding: 240 240 4254
 Width: 487
 GlyphClass: 2
 Flags: W
@@ -36,4 +36,5 @@ SplineSet
  151 380 108 293 108 210 c 0
  108 111 172 16 252 16 c 0
 EndSplineSet
+Validated: 1
 EndChar

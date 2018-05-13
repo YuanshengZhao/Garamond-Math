@@ -1,5 +1,5 @@
 StartChar: uni25C8
-Encoding: 9672 9672 4139
+Encoding: 9672 9672 4138
 Width: 683
 Flags: W
 LayerCount: 2
@@ -35,4 +35,5 @@ SplineSet
  419.793 -25.3964 494.143 84.7122 578 230 c 0
  580 234 578 237 576 240 c 0
 EndSplineSet
+Validated: 33
 EndChar

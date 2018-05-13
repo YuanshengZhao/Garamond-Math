@@ -1,5 +1,5 @@
 StartChar: ogonek
-Encoding: 731 731 3890
+Encoding: 731 731 3889
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  247 -200 251 -201 251 -207 c 0
  251 -226 207 -287 151 -287 c 0
 EndSplineSet
+Validated: 1
 EndChar

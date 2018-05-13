@@ -1,5 +1,5 @@
 StartChar: chi.s
-Encoding: 1115273 -1 2698
+Encoding: 1115273 -1 2697
 Width: 439
 GlyphClass: 2
 Flags: W
@@ -39,4 +39,5 @@ SplineSet
  109 -159 l 2
  63 -245 72 -289 52 -289 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: nacute
-Encoding: 324 324 3843
+Encoding: 324 324 3842
 Width: 528
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  166 -3 160 2 125 2 c 0
  90 2 84 -3 44 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

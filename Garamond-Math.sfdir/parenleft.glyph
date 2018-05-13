@@ -1,5 +1,5 @@
 StartChar: parenleft
-Encoding: 40 40 4266
+Encoding: 40 40 4265
 Width: 445
 Flags: W
 TeX: 810 310
@@ -21,4 +21,5 @@ SplineSet
  320 -170 334 -186 334 -188 c 0
  334 -202 320 -210 307 -210 c 0
 EndSplineSet
+Validated: 1
 EndChar

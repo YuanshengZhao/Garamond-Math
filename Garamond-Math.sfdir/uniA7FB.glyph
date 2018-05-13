@@ -1,5 +1,5 @@
 StartChar: uniA7FB
-Encoding: 43003 43003 3952
+Encoding: 43003 43003 3951
 Width: 512
 GlyphClass: 2
 Flags: W
@@ -49,4 +49,5 @@ SplineSet
  472 20 482 15 482 6 c 0
  482 -2 470 -5 453 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

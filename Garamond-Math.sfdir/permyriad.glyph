@@ -1,5 +1,5 @@
 StartChar: permyriad
-Encoding: 8241 8241 3822
+Encoding: 8241 8241 3821
 Width: 1276
 GlyphClass: 2
 Flags: W
@@ -60,4 +60,5 @@ SplineSet
  750 297 738 218 738 156 c 0
  738 85 745 -8 816 -8 c 0xb7fe
 EndSplineSet
+Validated: 1
 EndChar

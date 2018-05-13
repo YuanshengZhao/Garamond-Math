@@ -1,5 +1,5 @@
 StartChar: u1D478.ss
-Encoding: 1115548 -1 2973
+Encoding: 1115548 -1 2972
 Width: 792
 Flags: W
 TopAccentHorizontal: 444
@@ -34,4 +34,5 @@ SplineSet
  326 622 197 357 197 179 c 0
  197 99 224 24 327 23 c 2
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: y
-Encoding: 121 121 3636
+Encoding: 121 121 3635
 Width: 438
 GlyphClass: 2
 Flags: W
@@ -46,5 +46,6 @@ SplineSet
  221 -22 170 -148 129 -244 c 0
  117 -271 93 -285 64 -285 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" y.s y.ss
 EndChar

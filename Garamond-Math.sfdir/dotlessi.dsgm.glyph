@@ -1,5 +1,5 @@
 StartChar: dotlessi.dsgm
-Encoding: 1116029 -1 3711
+Encoding: 1116029 -1 3710
 Width: 294
 Flags: W
 HStem: -3 27<24.3057 79.6694 220.375 274.674> 2 42<130.083 169.036> 352 25<35.0088 70.5029>
@@ -36,4 +36,5 @@ SplineSet
  132 62 l 2
  132 55.81640625 131.6953125 51.21484375 130.083007812 43.5576171875 c 1
 EndSplineSet
+Validated: 1
 EndChar

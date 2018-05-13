@@ -1,5 +1,5 @@
 StartChar: Idotaccent
-Encoding: 304 304 2368
+Encoding: 304 304 2367
 Width: 340
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  239 -5 222 0 176 0 c 0
  126 0 102 -5 48 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

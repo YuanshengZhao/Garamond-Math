@@ -30,5 +30,6 @@ SplineSet
  420 120 372 53 298 10 c 0
  245 -20 180 -38 109 -38 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" five.s five.ss
 EndChar

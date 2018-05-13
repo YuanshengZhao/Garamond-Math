@@ -1,5 +1,5 @@
 StartChar: ohorn
-Encoding: 417 417 4072
+Encoding: 417 417 4071
 Width: 506
 GlyphClass: 2
 Flags: W
@@ -31,4 +31,5 @@ SplineSet
  122 309 117 258 117 210 c 0
  117 111 175 16 255 16 c 0
 EndSplineSet
+Validated: 1
 EndChar

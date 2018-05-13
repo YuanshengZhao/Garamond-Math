@@ -1,5 +1,5 @@
 StartChar: figuredash
-Encoding: 8210 8210 4036
+Encoding: 8210 8210 4035
 Width: 660
 GlyphClass: 2
 Flags: W
@@ -16,4 +16,5 @@ SplineSet
  577 357 585 350 585 344 c 0
  585 324 574 305 554 305 c 2
 EndSplineSet
+Validated: 1
 EndChar

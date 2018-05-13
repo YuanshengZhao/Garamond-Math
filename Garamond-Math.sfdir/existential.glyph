@@ -1,5 +1,5 @@
 StartChar: existential
-Encoding: 8707 8707 4169
+Encoding: 8707 8707 4168
 Width: 692
 Flags: W
 HStem: -4.93941 49.9394<88.7386 375> 298 50<98.737 375> 603 49.857<88.4597 375>
@@ -30,4 +30,5 @@ SplineSet
  432 651.057 442 641 442 621 c 2
  442 27 l 2
 EndSplineSet
+Validated: 33
 EndChar

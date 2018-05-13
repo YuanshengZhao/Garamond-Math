@@ -1,5 +1,5 @@
 StartChar: partialdiff.ss
-Encoding: 1115298 -1 2723
+Encoding: 1115298 -1 2722
 Width: 494
 Flags: W
 TopAccentHorizontal: 290
@@ -25,4 +25,5 @@ SplineSet
  165 381 124 300 124 213 c 0
  124 115 183 20 256 20 c 0
 EndSplineSet
+Validated: 1
 EndChar

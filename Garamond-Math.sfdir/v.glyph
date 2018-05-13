@@ -1,5 +1,5 @@
 StartChar: v
-Encoding: 118 118 3633
+Encoding: 118 118 3632
 Width: 438
 GlyphClass: 2
 Flags: W
@@ -41,5 +41,6 @@ SplineSet
  242 24 227 -12 220 -21 c 1
  214 -21 l 2
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" v.s v.ss
 EndChar

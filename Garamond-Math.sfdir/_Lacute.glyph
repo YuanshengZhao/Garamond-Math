@@ -1,5 +1,5 @@
 StartChar: Lacute
-Encoding: 313 313 2383
+Encoding: 313 313 2382
 Width: 584
 GlyphClass: 2
 Flags: W
@@ -45,4 +45,5 @@ SplineSet
  399 -5 290 0 190 0 c 0
  140 0 55 -5 55 -5 c 2x78
 EndSplineSet
+Validated: 1
 EndChar

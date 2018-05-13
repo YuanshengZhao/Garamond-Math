@@ -1,5 +1,5 @@
 StartChar: product
-Encoding: 8719 8719 4012
+Encoding: 8719 8719 4011
 Width: 1024
 GlyphClass: 2
 Flags: W
@@ -45,4 +45,5 @@ SplineSet
  647 -211 657 -205 680 -201 c 0
  730 -192 760 -168 760 -126 c 2xb8
 EndSplineSet
+Validated: 1
 EndChar

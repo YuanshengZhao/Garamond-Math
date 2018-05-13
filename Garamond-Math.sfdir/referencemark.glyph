@@ -1,5 +1,5 @@
 StartChar: referencemark
-Encoding: 8251 8251 3975
+Encoding: 8251 8251 3974
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -53,4 +53,5 @@ SplineSet
  434 281 460 306 490 306 c 0
  521 306 546 281 546 250 c 0
 EndSplineSet
+Validated: 33
 EndChar

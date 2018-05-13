@@ -1,5 +1,5 @@
 StartChar: utilde
-Encoding: 361 361 2289
+Encoding: 361 361 2288
 Width: 527
 GlyphClass: 2
 Flags: W
@@ -59,4 +59,5 @@ SplineSet
  451 14 415 -1 386 -13 c 0
  382 -15 372 -19 366 -19 c 0xb3
 EndSplineSet
+Validated: 1
 EndChar

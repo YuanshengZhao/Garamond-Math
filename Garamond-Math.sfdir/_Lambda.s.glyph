@@ -1,5 +1,5 @@
 StartChar: Lambda.s
-Encoding: 1115201 -1 2626
+Encoding: 1115201 -1 2625
 Width: 694
 GlyphClass: 2
 Flags: W
@@ -38,4 +38,5 @@ SplineSet
  218 -1 183 1 146 1 c 0
  102 1 61 -5 27 -5 c 0
 EndSplineSet
+Validated: 33
 EndChar

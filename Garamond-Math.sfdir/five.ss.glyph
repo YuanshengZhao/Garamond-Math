@@ -1,5 +1,5 @@
 StartChar: five.ss
-Encoding: 1115070 -1 2495
+Encoding: 1115070 -1 2494
 Width: 484
 Flags: W
 TopAccentHorizontal: 429
@@ -28,4 +28,5 @@ SplineSet
  425 122 377 52 303 10 c 0
  254 -18 184 -38 112 -38 c 0
 EndSplineSet
+Validated: 1
 EndChar

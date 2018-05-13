@@ -1,5 +1,5 @@
 StartChar: pi
-Encoding: 960 960 3759
+Encoding: 960 960 3758
 Width: 521
 GlyphClass: 2
 Flags: W
@@ -42,5 +42,6 @@ SplineSet
  177 44 180 23 182 10 c 0
  185 -8 186 -17 172 -17 c 0xae
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" pi.s pi.ss
 EndChar

@@ -1,5 +1,5 @@
 StartChar: P
-Encoding: 80 80 2423
+Encoding: 80 80 2422
 Width: 552
 GlyphClass: 2
 Flags: W
@@ -36,5 +36,6 @@ SplineSet
  227 -5 221 2 183 2 c 0
  132 2 107 -5 53 -5 c 0xdc
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" P.s P.ss
 EndChar

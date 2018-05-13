@@ -1,5 +1,5 @@
 StartChar: Amacron
-Encoding: 256 256 3642
+Encoding: 256 256 3641
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  241 294 240 291 240 289 c 0
  240 282 248 282 261 282 c 2
 EndSplineSet
+Validated: 1
 EndChar

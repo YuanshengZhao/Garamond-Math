@@ -1,5 +1,5 @@
 StartChar: bulletoperator
-Encoding: 8729 8729 4217
+Encoding: 8729 8729 4216
 Width: 460
 GlyphClass: 2
 Flags: W
@@ -15,4 +15,5 @@ SplineSet
  80 333 147 400 230 400 c 0
  313 400 380 333 380 250 c 0
 EndSplineSet
+Validated: 1
 EndChar

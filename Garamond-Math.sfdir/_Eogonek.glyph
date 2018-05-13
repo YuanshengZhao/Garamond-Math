@@ -1,5 +1,5 @@
 StartChar: Eogonek
-Encoding: 280 280 2348
+Encoding: 280 280 2347
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -62,4 +62,5 @@ SplineSet
  353 -190 384 -216 419 -216 c 0
  454 -216 492 -181 501 -176 c 0xdf80
 EndSplineSet
+Validated: 1
 EndChar

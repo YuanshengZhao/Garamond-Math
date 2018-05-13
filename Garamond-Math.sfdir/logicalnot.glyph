@@ -1,5 +1,5 @@
 StartChar: logicalnot
-Encoding: 172 172 4158
+Encoding: 172 172 4157
 Width: 600
 Flags: W
 HStem: 322 60<53.8933 490>
@@ -19,4 +19,5 @@ SplineSet
  550 67 l 2
  550 46 511 43 502 43 c 0
 EndSplineSet
+Validated: 1
 EndChar

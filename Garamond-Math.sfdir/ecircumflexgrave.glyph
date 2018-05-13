@@ -1,5 +1,5 @@
 StartChar: ecircumflexgrave
-Encoding: 7873 7873 4037
+Encoding: 7873 7873 4036
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -49,4 +49,5 @@ SplineSet
  107 -14 30 70 30 203 c 0
  30 316 116 414 229 414 c 0
 EndSplineSet
+Validated: 1
 EndChar

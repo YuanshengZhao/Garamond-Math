@@ -1,5 +1,5 @@
 StartChar: ecaron
-Encoding: 283 283 4080
+Encoding: 283 283 4079
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  162 385 109 338 109 298 c 0
  109 291 113 288 121 288 c 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: nu.s
-Encoding: 1115253 -1 2678
+Encoding: 1115253 -1 2677
 Width: 412
 GlyphClass: 2
 Flags: W
@@ -27,4 +27,5 @@ SplineSet
  378 199 281 87 215 23 c 0
  189 -2 173 -14 161 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

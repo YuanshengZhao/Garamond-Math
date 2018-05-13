@@ -1,5 +1,5 @@
 StartChar: uni20DE
-Encoding: 8414 8414 3882
+Encoding: 8414 8414 3881
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -28,4 +28,5 @@ SplineSet
  95 -98 98 -95 98 -88 c 2
  98 588 l 2
 EndSplineSet
+Validated: 1
 EndChar

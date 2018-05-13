@@ -1,5 +1,5 @@
 StartChar: Uhornacute
-Encoding: 7912 7912 2455
+Encoding: 7912 7912 2454
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -48,4 +48,5 @@ SplineSet
  720 650 730 674 730 680 c 0
  730 699 684 699 684 724 c 0
 EndSplineSet
+Validated: 1
 EndChar

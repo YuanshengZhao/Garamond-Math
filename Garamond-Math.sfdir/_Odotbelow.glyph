@@ -1,5 +1,5 @@
 StartChar: Odotbelow
-Encoding: 7884 7884 2407
+Encoding: 7884 7884 2406
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -25,4 +25,5 @@ SplineSet
  545 25 621 134 621 305 c 0
  621 495 535 625 375 625 c 0
 EndSplineSet
+Validated: 1
 EndChar

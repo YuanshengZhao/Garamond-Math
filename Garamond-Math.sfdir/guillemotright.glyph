@@ -1,5 +1,5 @@
 StartChar: guillemotright
-Encoding: 187 187 3877
+Encoding: 187 187 3876
 Width: 595
 Flags: W
 LayerCount: 2
@@ -34,4 +34,5 @@ SplineSet
  458 155 381 104 312 37 c 0
  307 32 295 19 282 19 c 0
 EndSplineSet
+Validated: 1
 EndChar

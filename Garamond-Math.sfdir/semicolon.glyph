@@ -1,5 +1,5 @@
 StartChar: semicolon
-Encoding: 59 59 4099
+Encoding: 59 59 4098
 Width: 228
 Flags: W
 HStem: -147 23<20.0329 67.1406> 29 88<52.4428 122.388> 263 110<61.8467 148.153>
@@ -22,4 +22,5 @@ SplineSet
  147 117 182 76 182 20 c 0xe8
  182 -81 89 -147 38 -147 c 0
 EndSplineSet
+Validated: 1
 EndChar

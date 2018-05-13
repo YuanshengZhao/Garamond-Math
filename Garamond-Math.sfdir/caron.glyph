@@ -1,5 +1,5 @@
 StartChar: caron
-Encoding: 711 711 3849
+Encoding: 711 711 3848
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -24,4 +24,5 @@ SplineSet
  258 722 190 604 170 573 c 0
  165 565 158 555 150 555 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Delta.ss
-Encoding: 1115302 -1 2727
+Encoding: 1115302 -1 2726
 Width: 675
 Flags: W
 TopAccentHorizontal: 330
@@ -32,4 +32,5 @@ SplineSet
  120 91 117 82 117 75 c 0
  117 57 133 57 152 57 c 2
 EndSplineSet
+Validated: 33
 EndChar

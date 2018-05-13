@@ -1,5 +1,5 @@
 StartChar: u1D738.ss
-Encoding: 1115908 -1 3518
+Encoding: 1115908 -1 3517
 Width: 496
 Flags: W
 ItalicCorrection: 92
@@ -31,4 +31,5 @@ SplineSet
  226 -33 154 -243 145 -266 c 0
  137 -288 121 -296 98 -296 c 0
 EndSplineSet
+Validated: 1
 EndChar

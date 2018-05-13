@@ -1,5 +1,5 @@
 StartChar: weierstrass
-Encoding: 8472 8472 2291
+Encoding: 8472 8472 2290
 Width: 710
 GlyphClass: 2
 Flags: W
@@ -40,4 +40,5 @@ SplineSet
  124 -73 146 -146 189 -146 c 0
  239 -146 247 -98 247 -61 c 0xed
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Ecircumflextilde
-Encoding: 7876 7876 2340
+Encoding: 7876 7876 2339
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -74,4 +74,5 @@ SplineSet
  221 320 210 317 210 294 c 2
  210 102 l 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: greatermuch
-Encoding: 8811 8811 3809
+Encoding: 8811 8811 3808
 Width: 851
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  352 421 347 451 347 460 c 0
  347 473 360 472 367 469 c 2
 EndSplineSet
+Validated: 1
 EndChar

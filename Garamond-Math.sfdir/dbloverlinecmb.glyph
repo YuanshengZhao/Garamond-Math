@@ -1,5 +1,5 @@
 StartChar: dbloverlinecmb
-Encoding: 831 831 3782
+Encoding: 831 831 3781
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  -85 746 -79 741 -79 735 c 0
  -79 719 -88 702 -105 702 c 2
 EndSplineSet
+Validated: 513
 EndChar

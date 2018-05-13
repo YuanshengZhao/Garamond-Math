@@ -1,5 +1,5 @@
 StartChar: servicemark
-Encoding: 8480 8480 3998
+Encoding: 8480 8480 3997
 Width: 904
 GlyphClass: 2
 Flags: W
@@ -71,4 +71,5 @@ SplineSet
  573 278 l 2
  570 272 568 271 565 278 c 0
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: equivalence
-Encoding: 8801 8801 4011
+Encoding: 8801 8801 4010
 Width: 566
 Flags: W
 HStem: 97 50<53.1042 510.543> 225 50<53.1042 510.543> 353 50<53.1042 510.543>
@@ -29,4 +29,5 @@ SplineSet
  516 122 500 97 484 97 c 2
  64 97 l 2
 EndSplineSet
+Validated: 1
 EndChar

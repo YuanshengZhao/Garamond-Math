@@ -1,5 +1,5 @@
 StartChar: Dcaron
-Encoding: 270 270 3648
+Encoding: 270 270 3647
 Width: 754
 GlyphClass: 2
 Flags: W
@@ -42,4 +42,5 @@ SplineSet
  209 121 l 2
  209 40 284 28 359 28 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Racute
-Encoding: 340 340 2429
+Encoding: 340 340 2428
 Width: 713
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  211 500 210 444 210 364 c 0
  210 331 230 329 263 329 c 0
 EndSplineSet
+Validated: 1
 EndChar

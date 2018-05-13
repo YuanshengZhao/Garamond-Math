@@ -1,5 +1,5 @@
 StartChar: omacron
-Encoding: 333 333 3800
+Encoding: 333 333 3799
 Width: 495
 GlyphClass: 2
 Flags: W
@@ -29,4 +29,5 @@ SplineSet
  122 309 117 258 117 210 c 0
  117 111 175 16 255 16 c 0
 EndSplineSet
+Validated: 1
 EndChar

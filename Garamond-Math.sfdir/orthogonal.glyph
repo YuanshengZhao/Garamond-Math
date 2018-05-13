@@ -1,5 +1,5 @@
 StartChar: orthogonal
-Encoding: 8735 8735 4140
+Encoding: 8735 8735 4139
 Width: 655
 Flags: W
 HStem: 0 50<104.21 497.757>
@@ -19,4 +19,5 @@ SplineSet
  494 50 502 45 502 39 c 0
  502 21 486 0 470 0 c 2
 EndSplineSet
+Validated: 1
 EndChar

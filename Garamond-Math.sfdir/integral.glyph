@@ -1,5 +1,5 @@
 StartChar: integral
-Encoding: 8747 8747 4007
+Encoding: 8747 8747 4006
 Width: 690
 GlyphClass: 2
 Flags: W
@@ -28,4 +28,5 @@ SplineSet
  411 608 356 40 341 -116 c 0
  331 -223 225 -296 169 -296 c 0
 EndSplineSet
+Validated: 513
 EndChar

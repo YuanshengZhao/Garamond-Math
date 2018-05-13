@@ -1,5 +1,5 @@
 StartChar: psi
-Encoding: 968 968 3879
+Encoding: 968 968 3878
 Width: 560
 GlyphClass: 2
 Flags: W
@@ -35,5 +35,6 @@ SplineSet
  316 -188 365 -245 365 -254 c 0
  365 -263 339 -285 324 -285 c 0xa8
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" psi.s psi.ss
 EndChar

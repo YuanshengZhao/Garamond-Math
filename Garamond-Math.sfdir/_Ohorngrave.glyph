@@ -1,5 +1,5 @@
 StartChar: Ohorngrave
-Encoding: 7900 7900 2413
+Encoding: 7900 7900 2412
 Width: 792
 GlyphClass: 2
 Flags: W
@@ -37,4 +37,5 @@ SplineSet
  757 721 777 684 777 661 c 0
  777 584 702 547 667 547 c 0
 EndSplineSet
+Validated: 1
 EndChar

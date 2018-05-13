@@ -1,5 +1,5 @@
 StartChar: Aogonek
-Encoding: 260 260 3643
+Encoding: 260 260 3642
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -58,4 +58,5 @@ SplineSet
  240 282 248 282 261 282 c 2
  416 282 l 2
 EndSplineSet
+Validated: 1
 EndChar

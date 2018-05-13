@@ -1,5 +1,5 @@
 StartChar: Ecircumflex
-Encoding: 202 202 2335
+Encoding: 202 202 2334
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -66,4 +66,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7e
 EndSplineSet
+Validated: 1
 EndChar

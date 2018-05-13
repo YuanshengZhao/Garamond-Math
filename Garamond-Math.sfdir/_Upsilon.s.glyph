@@ -1,5 +1,5 @@
 StartChar: Upsilon.s
-Encoding: 1115219 -1 2644
+Encoding: 1115219 -1 2643
 Width: 739
 GlyphClass: 2
 Flags: W
@@ -38,4 +38,5 @@ SplineSet
  440 -5 417 0 372 0 c 0
  323 0 294 -5 241 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

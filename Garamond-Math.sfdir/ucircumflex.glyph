@@ -1,5 +1,5 @@
 StartChar: ucircumflex
-Encoding: 251 251 3614
+Encoding: 251 251 3613
 Width: 527
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  451 14 415 -1 386 -13 c 0
  382 -15 372 -19 366 -19 c 0xbc
 EndSplineSet
+Validated: 1
 EndChar

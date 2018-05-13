@@ -1,5 +1,5 @@
 StartChar: uni22C7
-Encoding: 8903 8903 3870
+Encoding: 8903 8903 3869
 Width: 553
 Flags: W
 HStem: 67 94<234.642 313.606> 231 51<52.7871 198 362 498.99> 352 94<233.642 312.606>
@@ -55,4 +55,5 @@ SplineSet
  213.642578125 228.642578125 212.666992188 231 206 231 c 2
  64 231 l 2
 EndSplineSet
+Validated: 1
 EndChar

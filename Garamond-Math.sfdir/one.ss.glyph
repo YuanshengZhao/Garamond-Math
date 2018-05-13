@@ -1,5 +1,5 @@
 StartChar: one.ss
-Encoding: 1115062 -1 2487
+Encoding: 1115062 -1 2486
 Width: 490
 Flags: W
 TopAccentHorizontal: 261
@@ -27,4 +27,5 @@ SplineSet
  361 -3 312 2 262 2 c 0
  211 2 160 -3 108 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

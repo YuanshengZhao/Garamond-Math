@@ -1,5 +1,5 @@
 StartChar: quoteright
-Encoding: 8217 8217 4195
+Encoding: 8217 8217 4194
 Width: 242
 GlyphClass: 2
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  168 690 203 649 203 593 c 0
  203 492 110 426 59 426 c 0
 EndSplineSet
+Validated: 1
 EndChar

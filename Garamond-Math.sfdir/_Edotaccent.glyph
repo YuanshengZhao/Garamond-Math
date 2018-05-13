@@ -1,5 +1,5 @@
 StartChar: Edotaccent
-Encoding: 278 278 2342
+Encoding: 278 278 2341
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -59,4 +59,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7f80
 EndSplineSet
+Validated: 1
 EndChar

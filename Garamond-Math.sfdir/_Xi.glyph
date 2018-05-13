@@ -1,5 +1,5 @@
 StartChar: Xi
-Encoding: 926 926 2470
+Encoding: 926 926 2469
 Width: 640
 GlyphClass: 2
 Flags: W
@@ -65,5 +65,6 @@ SplineSet
  129 0 l 2x7e40
  79 0 44 -8 44 -8 c 2xbe40
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Xi.s Xi.ss
 EndChar

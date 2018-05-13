@@ -1,5 +1,5 @@
 StartChar: uni00B5
-Encoding: 181 181 4052
+Encoding: 181 181 4051
 Width: 537
 Flags: W
 HStem: -15 90<405.215 494.146> -15 68<175.168 267.64>
@@ -35,4 +35,5 @@ SplineSet
  123 -217 202 -236 202 -254 c 0
  202 -274 172 -285 153 -285 c 0x4c
 EndSplineSet
+Validated: 1
 EndChar

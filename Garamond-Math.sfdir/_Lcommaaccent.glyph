@@ -1,5 +1,5 @@
 StartChar: Lcommaaccent
-Encoding: 315 315 2386
+Encoding: 315 315 2385
 Width: 584
 GlyphClass: 2
 Flags: W
@@ -45,4 +45,5 @@ SplineSet
  338 -57 378 -98 378 -158 c 0
  378 -232 304 -275 270 -275 c 0
 EndSplineSet
+Validated: 1
 EndChar

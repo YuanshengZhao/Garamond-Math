@@ -1,5 +1,5 @@
 StartChar: dotlessj.dsgm
-Encoding: 1116030 -1 3712
+Encoding: 1116030 -1 3711
 Width: 276
 Flags: W
 TopAccentHorizontal: 148
@@ -34,4 +34,5 @@ SplineSet
  131 69 l 2
  131 8.34375 129.859375 -100.10546875 108.358398438 -177.96875 c 1
 EndSplineSet
+Validated: 33
 EndChar

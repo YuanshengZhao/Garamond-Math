@@ -50,6 +50,7 @@ SplineSet
  -71 -237 -44 -258 -11 -258 c 3
  27 -258 84 -246 127 -165 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessj.cal
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj.cal
 EndChar

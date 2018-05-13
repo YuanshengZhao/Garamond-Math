@@ -1,5 +1,5 @@
 StartChar: Gbreve
-Encoding: 286 286 2356
+Encoding: 286 286 2355
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -50,4 +50,5 @@ SplineSet
  644 67 644 55 630 53 c 0
  610 50 519 -14 392 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

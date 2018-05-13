@@ -1,5 +1,5 @@
 StartChar: Scedilla
-Encoding: 350 350 2436
+Encoding: 350 350 2435
 Width: 465
 GlyphClass: 2
 Flags: W
@@ -45,4 +45,5 @@ SplineSet
  347 327 422 280 422 180 c 0
  422 80 360 9 262 -11 c 1xee
 EndSplineSet
+Validated: 1
 EndChar

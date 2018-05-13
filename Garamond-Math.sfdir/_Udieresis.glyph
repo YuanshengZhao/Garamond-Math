@@ -1,5 +1,5 @@
 StartChar: Udieresis
-Encoding: 220 220 2450
+Encoding: 220 220 2449
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -46,4 +46,5 @@ SplineSet
  638 432 638 342 635 250 c 0xfd
  630 95 519 -14 372 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

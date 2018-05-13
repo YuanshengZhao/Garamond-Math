@@ -1,5 +1,5 @@
 StartChar: hbar
-Encoding: 295 295 3747
+Encoding: 295 295 3746
 Width: 519
 GlyphClass: 2
 Flags: W
@@ -56,4 +56,5 @@ SplineSet
  432 68 l 2
  432 41 453 30 473 24 c 0
 EndSplineSet
+Validated: 1
 EndChar

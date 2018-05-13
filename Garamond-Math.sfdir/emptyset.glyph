@@ -1,5 +1,5 @@
 StartChar: emptyset
-Encoding: 8709 8709 4119
+Encoding: 8709 8709 4118
 Width: 691
 GlyphClass: 2
 Flags: W
@@ -35,5 +35,6 @@ SplineSet
  282 77 l 1
  298 73 314 71 331 71 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" emptyset.s emptyset.ss
 EndChar

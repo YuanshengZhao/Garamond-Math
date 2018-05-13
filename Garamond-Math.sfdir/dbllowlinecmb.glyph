@@ -1,5 +1,5 @@
 StartChar: dbllowlinecmb
-Encoding: 819 819 3956
+Encoding: 819 819 3955
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  200 -232 188 -248 169 -248 c 2
  -186 -248 l 2
 EndSplineSet
+Validated: 513
 EndChar

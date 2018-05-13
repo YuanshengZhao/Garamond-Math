@@ -1,5 +1,5 @@
 StartChar: x
-Encoding: 120 120 3635
+Encoding: 120 120 3634
 Width: 430
 GlyphClass: 2
 Flags: W
@@ -60,5 +60,6 @@ SplineSet
  139 -1 113 1 97 1 c 0
  60 1 48 -4 30 -4 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" x.s x.ss
 EndChar

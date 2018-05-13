@@ -1,5 +1,5 @@
 StartChar: Ebreve
-Encoding: 276 276 2333
+Encoding: 276 276 2332
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -62,4 +62,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7f
 EndSplineSet
+Validated: 1
 EndChar

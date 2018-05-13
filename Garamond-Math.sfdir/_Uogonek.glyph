@@ -1,5 +1,5 @@
 StartChar: Uogonek
-Encoding: 370 370 2462
+Encoding: 370 370 2461
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -44,4 +44,5 @@ SplineSet
  573 651 589 650 618 650 c 0
  650 650 676 653 699 653 c 0xfc
 EndSplineSet
+Validated: 1
 EndChar

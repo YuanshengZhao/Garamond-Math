@@ -1,5 +1,5 @@
 StartChar: dong
-Encoding: 8363 8363 4064
+Encoding: 8363 8363 4063
 Width: 468
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  85 -56 91 -27 109 -27 c 2
  417 -27 l 2
 EndSplineSet
+Validated: 1
 EndChar

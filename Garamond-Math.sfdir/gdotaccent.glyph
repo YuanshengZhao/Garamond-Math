@@ -1,5 +1,5 @@
 StartChar: gdotaccent
-Encoding: 289 289 4148
+Encoding: 289 289 4147
 Width: 435
 GlyphClass: 2
 Flags: W
@@ -51,4 +51,5 @@ SplineSet
  249 -250 280 -241 304 -223 c 0
  337 -198 357 -155 357 -109 c 0xcd40
 EndSplineSet
+Validated: 1
 EndChar

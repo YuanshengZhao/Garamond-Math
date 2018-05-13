@@ -1,5 +1,5 @@
 StartChar: G
-Encoding: 71 71 2354
+Encoding: 71 71 2353
 Width: 729
 GlyphClass: 2
 Flags: W
@@ -42,5 +42,6 @@ SplineSet
  644 67 644 55 630 53 c 0
  610 50 519 -14 392 -14 c 0xf8
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" G.s G.ss
 EndChar

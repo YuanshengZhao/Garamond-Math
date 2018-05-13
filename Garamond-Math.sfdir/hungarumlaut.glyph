@@ -1,5 +1,5 @@
 StartChar: hungarumlaut
-Encoding: 733 733 3863
+Encoding: 733 733 3862
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -30,4 +30,5 @@ SplineSet
  255 671 197 604 173 578 c 0
  165 569 151 556 143 556 c 0
 EndSplineSet
+Validated: 1
 EndChar

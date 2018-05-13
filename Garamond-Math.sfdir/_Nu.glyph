@@ -1,5 +1,5 @@
 StartChar: Nu
-Encoding: 925 925 2396
+Encoding: 925 925 2395
 Width: 792
 GlyphClass: 2
 Flags: W
@@ -46,5 +46,6 @@ SplineSet
  684 57 689 21 689 8 c 0
  689 -13 678 -17 668 -17 c 0xd8
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Nu.s Nu.ss
 EndChar

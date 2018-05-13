@@ -1,5 +1,5 @@
 StartChar: Sigma
-Encoding: 931 931 2438
+Encoding: 931 931 2437
 Width: 603
 GlyphClass: 2
 Flags: W
@@ -45,5 +45,6 @@ SplineSet
  233 1 194 1 158 0 c 0x68
  108 -1 94 -6 46 -6 c 0xa8
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Sigma.s Sigma.ss
 EndChar

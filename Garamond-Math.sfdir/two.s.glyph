@@ -1,5 +1,5 @@
 StartChar: two.s
-Encoding: 1115063 -1 2488
+Encoding: 1115063 -1 2487
 Width: 480
 Flags: W
 ItalicCorrection: 3
@@ -33,4 +33,5 @@ SplineSet
  471 112 450 67 441 21 c 0
  437 1 426 -3 420 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

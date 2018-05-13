@@ -1,5 +1,5 @@
 StartChar: nabla
-Encoding: 8711 8711 4166
+Encoding: 8711 8711 4165
 Width: 676
 GlyphClass: 2
 Flags: W
@@ -33,5 +33,6 @@ SplineSet
  558 553 561 562 561 569 c 0
  561 587 544 588 525 588 c 2
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nabla.s nabla.ss
 EndChar

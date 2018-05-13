@@ -1,5 +1,5 @@
 StartChar: epsilon.ss
-Encoding: 1115238 -1 2663
+Encoding: 1115238 -1 2662
 Width: 345
 GlyphClass: 2
 Flags: W
@@ -31,4 +31,5 @@ SplineSet
  320 124 323 120 323 107 c 0
  323 44 245 -14 166 -14 c 0xe8
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: four.ss
-Encoding: 1115068 -1 2493
+Encoding: 1115068 -1 2492
 Width: 494
 Flags: W
 TopAccentHorizontal: 351
@@ -46,4 +46,5 @@ SplineSet
  399 -3 377 2 332 2 c 0
  283 2 263 -3 211 -3 c 0xb0
 EndSplineSet
+Validated: 1
 EndChar

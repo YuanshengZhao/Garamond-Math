@@ -1,5 +1,5 @@
 StartChar: similar
-Encoding: 8764 8764 3912
+Encoding: 8764 8764 3911
 Width: 566
 Flags: W
 HStem: 192 51<312.745 444.999> 260 51<111.946 255.555>
@@ -16,4 +16,5 @@ SplineSet
  501 314 516 307 516 294 c 0
  516 253 452 192 386 192 c 0
 EndSplineSet
+Validated: 1
 EndChar

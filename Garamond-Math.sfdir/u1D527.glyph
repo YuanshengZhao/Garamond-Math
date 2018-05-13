@@ -34,6 +34,7 @@ SplineSet
  188 398 204 387 228 377 c 1
  228 360 l 1
 EndSplineSet
+Validated: 1
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj.fra
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessj.fra
 EndChar

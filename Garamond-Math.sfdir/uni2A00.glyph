@@ -1,7 +1,8 @@
 StartChar: uni2A00
-Encoding: 10752 10752 3728
+Encoding: 10752 10752 3727
 Width: 936
 Flags: W
+GlyphVariantsVertical: uni2A00.v1
 HStem: -168 50<346.855 589.145> 195 110<424.847 511.153> 618 50<346.855 589.145>
 VStem: 50 50<128.855 371.145> 413 110<206.847 293.153> 836 50<128.855 371.145>
 CounterMasks: 1 fc
@@ -24,4 +25,5 @@ SplineSet
  100 47 265 -118 468 -118 c 0
  671 -118 836 47 836 250 c 0
 EndSplineSet
+Validated: 1
 EndChar

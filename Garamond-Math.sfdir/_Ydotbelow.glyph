@@ -1,5 +1,5 @@
 StartChar: Ydotbelow
-Encoding: 7924 7924 2475
+Encoding: 7924 7924 2474
 Width: 578
 GlyphClass: 2
 Flags: W
@@ -53,4 +53,5 @@ SplineSet
  153 15 163 20 186 24 c 0
  236 33 264 60 264 108 c 2xec
 EndSplineSet
+Validated: 1
 EndChar

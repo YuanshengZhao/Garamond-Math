@@ -1,5 +1,5 @@
 StartChar: quotedbl
-Encoding: 34 34 4234
+Encoding: 34 34 4233
 Width: 330
 Flags: W
 HStem: 444 232<80.2416 89.4949 210.242 219.495>
@@ -26,4 +26,5 @@ SplineSet
  268 592 236 505 221 469 c 0
  216 457 207 444 202 444 c 0
 EndSplineSet
+Validated: 1
 EndChar

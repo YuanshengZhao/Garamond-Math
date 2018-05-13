@@ -1,5 +1,5 @@
 StartChar: uni219B
-Encoding: 8603 8603 3825
+Encoding: 8603 8603 3824
 Width: 1000
 Flags: W
 HStem: 227 46<51.8946 421.975 510.238 796>
@@ -39,4 +39,5 @@ SplineSet
  729 430 741 425 747 419 c 0
  804 360 861 303 938 263 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: u1D6BF.ss
-Encoding: 1115666 -1 3276
+Encoding: 1115666 -1 3275
 Width: 882
 Flags: W
 TopAccentHorizontal: 440
@@ -46,4 +46,5 @@ SplineSet
  550 -2 478 2 439 2 c 0
  399 2 333 -3 289 -3 c 0xe8
 EndSplineSet
+Validated: 1
 EndChar

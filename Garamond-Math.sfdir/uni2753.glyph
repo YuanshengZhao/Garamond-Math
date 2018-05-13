@@ -1,5 +1,5 @@
 StartChar: uni2753
-Encoding: 10067 10067 3940
+Encoding: 10067 10067 3939
 Width: 370
 Flags: W
 HStem: -29 150<103.375 207.625> 548 115<95.4658 202.655>
@@ -27,4 +27,5 @@ SplineSet
  200 121 230 85 230 46 c 0xe8
  230 2 195 -29 156 -29 c 0
 EndSplineSet
+Validated: 1
 EndChar

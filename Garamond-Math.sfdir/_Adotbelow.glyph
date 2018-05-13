@@ -1,5 +1,5 @@
 StartChar: Adotbelow
-Encoding: 7840 7840 2316
+Encoding: 7840 7840 2315
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  687 24 697 14 697 5 c 0
  697 -3 685 -5 668 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

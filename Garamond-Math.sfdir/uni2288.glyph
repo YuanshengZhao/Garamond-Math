@@ -1,5 +1,5 @@
 StartChar: uni2288
-Encoding: 8840 8840 4253
+Encoding: 8840 8840 4252
 Width: 555
 VWidth: 1006
 Flags: W
@@ -56,4 +56,5 @@ SplineSet
  181 437 105 401 105 303 c 0
  105 225.596679688 154.310546875 188.372070312 224.13671875 175.62109375 c 0
 EndSplineSet
+Validated: 1
 EndChar

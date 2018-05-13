@@ -1,5 +1,5 @@
 StartChar: caronbelowcmb
-Encoding: 812 812 4189
+Encoding: 812 812 4188
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -24,4 +24,5 @@ SplineSet
  108 -81 40 -199 20 -230 c 0
  15 -238 8 -248 0 -248 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -36,6 +36,7 @@ SplineSet
  286.014648438 664.999023438 304.1640625 649.590820312 308.999023438 622.999023438 c 0
  316.401367188 593.390625 291.587890625 570.288085938 267.999023438 565.999023438 c 1
 EndSplineSet
+Validated: 33
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi.tt
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessi.tt
 EndChar

@@ -1,5 +1,5 @@
 StartChar: contourintegral
-Encoding: 8750 8750 4023
+Encoding: 8750 8750 4022
 Width: 746
 GlyphClass: 2
 Flags: W
@@ -50,4 +50,5 @@ SplineSet
  295 85 298 87 299 94 c 2
  330 412 l 2
 EndSplineSet
+Validated: 1
 EndChar

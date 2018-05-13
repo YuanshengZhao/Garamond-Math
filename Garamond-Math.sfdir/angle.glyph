@@ -1,5 +1,5 @@
 StartChar: angle
-Encoding: 8736 8736 3889
+Encoding: 8736 8736 3888
 Width: 655
 Flags: W
 HStem: 1 50<139.97 497.757>
@@ -23,4 +23,5 @@ SplineSet
  494 51 502 46 502 40 c 0
  502 22 486 1 470 1 c 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: u1D752.ss
-Encoding: 1115960 -1 3570
+Encoding: 1115960 -1 3569
 Width: 567
 Flags: W
 ItalicCorrection: 46
@@ -37,4 +37,5 @@ SplineSet
  387 312 l 1
  442 395 492 434 530 434 c 0
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uniA72D
-Encoding: 42797 42797 3847
+Encoding: 42797 42797 3846
 Width: 492
 Flags: W
 HStem: -287 27<172.615 210.488> 43 61<116 259.185> 53 51<117.124 278 350.143 459.476>
@@ -40,4 +40,5 @@ SplineSet
  206 249 174 200 116 113 c 0
  114 110 112 104 116 104 c 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uni22CF
-Encoding: 8911 8911 3854
+Encoding: 8911 8911 3853
 Width: 572
 Flags: W
 HStem: 0 61<56.3646 103.449 469.382 515.635>
@@ -24,4 +24,5 @@ SplineSet
  434 39 385 85 353 141 c 0
  320 199 298 260 288 328 c 0
 EndSplineSet
+Validated: 1
 EndChar

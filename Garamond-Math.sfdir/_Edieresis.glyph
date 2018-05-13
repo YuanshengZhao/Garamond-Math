@@ -1,5 +1,5 @@
 StartChar: Edieresis
-Encoding: 203 203 2341
+Encoding: 203 203 2340
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -64,4 +64,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7cc0
 EndSplineSet
+Validated: 1
 EndChar

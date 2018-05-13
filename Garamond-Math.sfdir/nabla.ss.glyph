@@ -1,5 +1,5 @@
 StartChar: nabla.ss
-Encoding: 1115304 -1 2729
+Encoding: 1115304 -1 2728
 Width: 675
 Flags: W
 TopAccentHorizontal: 380
@@ -32,4 +32,5 @@ SplineSet
  557 552 560 561 560 568 c 0
  560 586 544 586 525 586 c 2
 EndSplineSet
+Validated: 33
 EndChar

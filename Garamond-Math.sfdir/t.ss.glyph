@@ -1,5 +1,5 @@
 StartChar: t.ss
-Encoding: 1115170 -1 2595
+Encoding: 1115170 -1 2594
 Width: 331
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  322 64 324 56 324 48 c 0
  324 37 264 -14 199 -14 c 0
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: uring
-Encoding: 367 367 2288
+Encoding: 367 367 2287
 Width: 527
 GlyphClass: 2
 Flags: W
@@ -55,4 +55,5 @@ SplineSet
  451 14 415 -1 386 -13 c 0
  382 -15 372 -19 366 -19 c 0xbf80
 EndSplineSet
+Validated: 1
 EndChar

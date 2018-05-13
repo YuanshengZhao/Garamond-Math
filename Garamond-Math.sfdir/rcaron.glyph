@@ -1,5 +1,5 @@
 StartChar: rcaron
-Encoding: 345 345 3959
+Encoding: 345 345 3958
 Width: 334
 GlyphClass: 2
 Flags: W
@@ -48,4 +48,5 @@ SplineSet
  177 -3 165 2 130 2 c 0
  95 2 89 -3 49 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

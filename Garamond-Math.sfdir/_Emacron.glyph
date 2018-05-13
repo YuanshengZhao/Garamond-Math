@@ -1,5 +1,5 @@
 StartChar: Emacron
-Encoding: 274 274 2346
+Encoding: 274 274 2345
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -61,4 +61,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7f
 EndSplineSet
+Validated: 1
 EndChar

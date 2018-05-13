@@ -1,5 +1,5 @@
 StartChar: guillemotleft
-Encoding: 171 171 3969
+Encoding: 171 171 3968
 Width: 595
 Flags: W
 LayerCount: 2
@@ -34,4 +34,5 @@ SplineSet
  532 37 533 34 533 31 c 0
  533 25 529 19 524 19 c 0
 EndSplineSet
+Validated: 1
 EndChar

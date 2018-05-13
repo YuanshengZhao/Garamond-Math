@@ -1,5 +1,5 @@
 StartChar: uni2E3A
-Encoding: 11834 11834 4061
+Encoding: 11834 11834 4060
 Width: 1750
 Flags: W
 HStem: 185 54<53.6248 1696.18>
@@ -14,4 +14,5 @@ SplineSet
  1700 207 1689 185 1669 185 c 2
  64 185 l 2
 EndSplineSet
+Validated: 1
 EndChar

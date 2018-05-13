@@ -1,5 +1,5 @@
 StartChar: u1D706.s
-Encoding: 1115807 -1 3417
+Encoding: 1115807 -1 3416
 Width: 479
 GlyphClass: 2
 Flags: W
@@ -33,5 +33,6 @@ SplineSet
  261 238 137 81 69 1 c 0
  59 -11 46 -17 35 -17 c 0
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D706.s u1D706.ss
 EndChar

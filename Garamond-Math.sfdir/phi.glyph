@@ -1,5 +1,5 @@
 StartChar: phi
-Encoding: 966 966 4171
+Encoding: 966 966 4170
 Width: 537
 GlyphClass: 2
 Flags: W
@@ -29,5 +29,6 @@ SplineSet
  462 282 425 342 365 342 c 0
  266 342 254 141 253 48 c 1
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" phi.s phi.ss
 EndChar

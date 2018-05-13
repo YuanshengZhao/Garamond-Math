@@ -1,5 +1,5 @@
 StartChar: Rcommaaccent
-Encoding: 342 342 2431
+Encoding: 342 342 2430
 Width: 713
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  400 -57 440 -98 440 -158 c 0x9c
  440 -232 366 -275 332 -275 c 0
 EndSplineSet
+Validated: 1
 EndChar

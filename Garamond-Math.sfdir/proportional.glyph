@@ -1,5 +1,5 @@
 StartChar: proportional
-Encoding: 8733 8733 3980
+Encoding: 8733 8733 3979
 Width: 605
 GlyphClass: 2
 Flags: W
@@ -35,5 +35,6 @@ SplineSet
  561.514648438 93.9632310047 549.309516599 72.626758489 525.823496016 72.626758489 c 0x70
  524.393791653 72.626758489 522.922283379 72.7058256656 521.409179688 72.8681640625 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" proportional.s proportional.ss
 EndChar

@@ -1,5 +1,5 @@
 StartChar: propersuperset
-Encoding: 8835 8835 3983
+Encoding: 8835 8835 3982
 Width: 554
 VWidth: 1019
 Flags: W
@@ -22,4 +22,5 @@ SplineSet
  449 350 369 418 269 418 c 2
  64 418 l 2
 EndSplineSet
+Validated: 1
 EndChar

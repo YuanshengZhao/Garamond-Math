@@ -1,5 +1,5 @@
 StartChar: quotedblleft
-Encoding: 8220 8220 4178
+Encoding: 8220 8220 4177
 Width: 418
 GlyphClass: 2
 Flags: W
@@ -28,4 +28,5 @@ SplineSet
  252 426 217 467 217 523 c 0
  217 624 310 690 361 690 c 0
 EndSplineSet
+Validated: 1
 EndChar

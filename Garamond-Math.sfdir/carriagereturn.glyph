@@ -1,5 +1,5 @@
 StartChar: carriagereturn
-Encoding: 8629 8629 3997
+Encoding: 8629 8629 3996
 Width: 921
 Flags: W
 HStem: 230 46<244 825>
@@ -30,4 +30,5 @@ SplineSet
  272.022 189.104 305.379 142.552 324 96 c 0
  332 78 328 73 320 73 c 0
 EndSplineSet
+Validated: 1
 EndChar

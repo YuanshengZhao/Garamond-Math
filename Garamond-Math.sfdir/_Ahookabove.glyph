@@ -1,5 +1,5 @@
 StartChar: Ahookabove
-Encoding: 7842 7842 2318
+Encoding: 7842 7842 2317
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -64,4 +64,5 @@ SplineSet
  687 24 697 14 697 5 c 0
  697 -3 685 -5 668 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

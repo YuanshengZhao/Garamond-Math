@@ -1,5 +1,5 @@
 StartChar: Ygrave
-Encoding: 7922 7922 2476
+Encoding: 7922 7922 2475
 Width: 578
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  153 15 163 20 186 24 c 0
  236 33 264 60 264 108 c 2
 EndSplineSet
+Validated: 1
 EndChar

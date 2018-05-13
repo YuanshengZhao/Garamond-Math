@@ -1,5 +1,5 @@
 StartChar: uni2115
-Encoding: 8469 8469 4199
+Encoding: 8469 8469 4198
 Width: 698
 GlyphClass: 2
 Flags: W
@@ -43,5 +43,6 @@ SplineSet
  513 47 518 44 525 44 c 2
  574 44 l 2
 EndSplineSet
+Validated: 5
 Substitution2: "'ss01' Style Set-1" u1D545.gm
 EndChar

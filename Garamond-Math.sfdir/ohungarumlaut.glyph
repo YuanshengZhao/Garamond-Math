@@ -1,5 +1,5 @@
 StartChar: ohungarumlaut
-Encoding: 337 337 3799
+Encoding: 337 337 3798
 Width: 495
 GlyphClass: 2
 Flags: W
@@ -41,4 +41,5 @@ SplineSet
  122 309 117 258 117 210 c 0
  117 111 175 16 255 16 c 0
 EndSplineSet
+Validated: 1
 EndChar

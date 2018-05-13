@@ -1,5 +1,5 @@
 StartChar: u.s
-Encoding: 1115171 -1 2596
+Encoding: 1115171 -1 2595
 Width: 532
 GlyphClass: 2
 Flags: W
@@ -46,4 +46,5 @@ SplineSet
  454 15 416 -1 386 -13 c 0
  381 -15 371 -19 365 -19 c 0xb8
 EndSplineSet
+Validated: 1
 EndChar

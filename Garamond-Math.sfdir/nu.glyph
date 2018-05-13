@@ -27,5 +27,6 @@ SplineSet
  370 199 274 89 210 24 c 0
  185 -1 168 -14 156 -14 c 0
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nu.s nu.ss
 EndChar

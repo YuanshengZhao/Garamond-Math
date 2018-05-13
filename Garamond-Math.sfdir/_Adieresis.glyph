@@ -1,5 +1,5 @@
 StartChar: Adieresis
-Encoding: 196 196 2315
+Encoding: 196 196 2314
 Width: 692
 GlyphClass: 2
 Flags: W
@@ -60,4 +60,5 @@ SplineSet
  241 294 240 291 240 289 c 0
  240 282 248 282 261 282 c 2
 EndSplineSet
+Validated: 1
 EndChar

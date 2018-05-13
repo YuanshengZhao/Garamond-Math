@@ -1,5 +1,5 @@
 StartChar: breveinvertedcmb
-Encoding: 785 785 3781
+Encoding: 785 785 3780
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -21,4 +21,5 @@ SplineSet
  -60 657 -63 615 -75 593 c 0
  -80 584 -82 572 -92 572 c 0
 EndSplineSet
+Validated: 1
 EndChar

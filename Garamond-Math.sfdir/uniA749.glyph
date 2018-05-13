@@ -1,5 +1,5 @@
 StartChar: uniA749
-Encoding: 42825 42825 4186
+Encoding: 42825 42825 4185
 Width: 280
 GlyphClass: 2
 Flags: W
@@ -38,4 +38,5 @@ SplineSet
  245 584 250 579 250 564 c 0
  250 557 241 549 232 544 c 2
 EndSplineSet
+Validated: 1
 EndChar

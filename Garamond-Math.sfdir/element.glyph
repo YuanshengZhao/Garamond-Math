@@ -1,5 +1,5 @@
 StartChar: element
-Encoding: 8712 8712 3876
+Encoding: 8712 8712 3875
 Width: 554
 Flags: W
 HStem: 14 50<213.266 430.896> 225 50<112.135 430.896> 438 50<207.257 430.896>
@@ -26,4 +26,5 @@ SplineSet
  127.775 96.2193 233.495 64 325 64 c 2
  420 64 l 2
 EndSplineSet
+Validated: 1
 EndChar

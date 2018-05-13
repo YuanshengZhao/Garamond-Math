@@ -1,5 +1,5 @@
 StartChar: uniA730
-Encoding: 42800 42800 3888
+Encoding: 42800 42800 3887
 Width: 371
 Flags: W
 HStem: -3 27<17.0556 70.9702 163.03 216.944> 179 35<152.295 261.646> 369 35<153.622 314.305> 378 27<22.9241 72.2916>
@@ -44,4 +44,5 @@ SplineSet
  158 -3 150 2 116 2 c 0
  80 2 76 -3 36 -3 c 0xec
 EndSplineSet
+Validated: 1
 EndChar

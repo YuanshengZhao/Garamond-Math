@@ -1,7 +1,8 @@
 StartChar: uni22C2
-Encoding: 8898 8898 3784
+Encoding: 8898 8898 3783
 Width: 890
 Flags: W
+GlyphVariantsVertical: uni22C2.v1
 HStem: 681 50<319.724 572.443>
 VStem: 50 53<-239.339 436.206> 787 53<-239.339 445.795>
 LayerCount: 2
@@ -21,4 +22,5 @@ SplineSet
  236 681 103 531 103 291 c 2
  103 -229 l 2
 EndSplineSet
+Validated: 1
 EndChar

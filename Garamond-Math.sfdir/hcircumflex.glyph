@@ -1,5 +1,5 @@
 StartChar: hcircumflex
-Encoding: 293 293 4109
+Encoding: 293 293 4108
 Width: 515
 GlyphClass: 2
 Flags: W
@@ -57,4 +57,5 @@ SplineSet
  156 -3 155 2 120 2 c 0
  85 2 79 -3 39 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

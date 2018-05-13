@@ -1,5 +1,5 @@
 StartChar: infinity.ss
-Encoding: 1115308 -1 2733
+Encoding: 1115308 -1 2732
 Width: 770
 Flags: W
 HStem: 12 78<128.334 270.322 525.128 636.204> 318 79<136.823 246.864 500.837 644.949>
@@ -33,4 +33,5 @@ SplineSet
  651 88 704 140 704 201 c 0
  704 271 634 319 562 319 c 0
 EndSplineSet
+Validated: 1
 EndChar

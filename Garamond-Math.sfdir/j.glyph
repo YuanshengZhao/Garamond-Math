@@ -32,6 +32,7 @@ SplineSet
  159 29 158 -72 129 -152 c 0
  104 -220 41 -287 1 -287 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" j.s j.ss
 EndChar

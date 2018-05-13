@@ -1,5 +1,5 @@
 StartChar: quotesinglbase
-Encoding: 8218 8218 4157
+Encoding: 8218 8218 4156
 Width: 242
 GlyphClass: 2
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  168 117 203 76 203 20 c 0
  203 -81 110 -147 59 -147 c 0
 EndSplineSet
+Validated: 1
 EndChar

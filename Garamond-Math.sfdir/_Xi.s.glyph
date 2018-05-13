@@ -1,5 +1,5 @@
 StartChar: Xi.s
-Encoding: 1115207 -1 2632
+Encoding: 1115207 -1 2631
 Width: 645
 GlyphClass: 2
 Flags: W
@@ -65,4 +65,5 @@ SplineSet
  132 0 l 2x7c80
  81 0 44 -8 44 -8 c 2xbc80
 EndSplineSet
+Validated: 1
 EndChar

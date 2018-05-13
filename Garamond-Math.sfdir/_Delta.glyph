@@ -1,5 +1,5 @@
 StartChar: Delta
-Encoding: 916 916 2330
+Encoding: 916 916 2329
 Width: 676
 GlyphClass: 2
 Flags: W
@@ -33,5 +33,6 @@ SplineSet
  118 90 115 81 115 74 c 0
  115 56 132 55 151 55 c 2
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Delta.s Delta.ss
 EndChar

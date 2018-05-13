@@ -1,5 +1,5 @@
 StartChar: ellipsis
-Encoding: 8230 8230 4110
+Encoding: 8230 8230 4109
 Width: 686
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  601 96 626 71 626 41 c 0
  626 11 601 -14 571 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

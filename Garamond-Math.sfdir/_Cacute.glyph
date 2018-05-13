@@ -1,5 +1,5 @@
 StartChar: Cacute
-Encoding: 262 262 3644
+Encoding: 262 262 3643
 Width: 710
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  618 22 617 21 596 14 c 0
  547 -6 472 -15 407 -15 c 0
 EndSplineSet
+Validated: 33
 EndChar

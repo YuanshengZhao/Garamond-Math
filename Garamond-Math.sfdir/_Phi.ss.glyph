@@ -1,5 +1,5 @@
 StartChar: Phi.ss
-Encoding: 1115222 -1 2647
+Encoding: 1115222 -1 2646
 Width: 753
 GlyphClass: 2
 Flags: W
@@ -44,4 +44,5 @@ SplineSet
  608 460 547 532 429 544 c 1
  429 130 l 1
 EndSplineSet
+Validated: 1
 EndChar

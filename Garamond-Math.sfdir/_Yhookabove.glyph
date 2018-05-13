@@ -1,5 +1,5 @@
 StartChar: Yhookabove
-Encoding: 7926 7926 2477
+Encoding: 7926 7926 2476
 Width: 578
 GlyphClass: 2
 Flags: W
@@ -63,4 +63,5 @@ SplineSet
  153 15 163 20 186 24 c 0
  236 33 264 60 264 108 c 2xf6
 EndSplineSet
+Validated: 1
 EndChar

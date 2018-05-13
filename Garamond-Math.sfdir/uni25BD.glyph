@@ -1,5 +1,5 @@
 StartChar: uni25BD
-Encoding: 9661 9661 3755
+Encoding: 9661 9661 3754
 Width: 683
 Flags: W
 HStem: 632 50<135.011 376.108>
@@ -24,4 +24,5 @@ SplineSet
  93 681 l 1
  97 682 100 682 104 682 c 0
 EndSplineSet
+Validated: 33
 EndChar

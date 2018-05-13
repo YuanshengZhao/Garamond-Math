@@ -1,5 +1,5 @@
 StartChar: e
-Encoding: 101 101 4076
+Encoding: 101 101 4075
 Width: 390
 GlyphClass: 2
 Flags: W
@@ -32,5 +32,6 @@ SplineSet
  162 385 109 338 109 298 c 0
  109 291 113 288 121 288 c 2
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" e.s e.ss
 EndChar

@@ -1,5 +1,5 @@
 StartChar: psi.ss
-Encoding: 1115276 -1 2701
+Encoding: 1115276 -1 2700
 Width: 575
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  325 -189 378 -239 378 -251 c 0
  378 -264 352 -285 333 -285 c 0xa8
 EndSplineSet
+Validated: 33
 EndChar

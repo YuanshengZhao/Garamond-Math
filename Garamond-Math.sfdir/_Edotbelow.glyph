@@ -1,5 +1,5 @@
 StartChar: Edotbelow
-Encoding: 7864 7864 2343
+Encoding: 7864 7864 2342
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -58,4 +58,5 @@ SplineSet
  221 320 210 317 210 294 c 2
  210 102 l 2
 EndSplineSet
+Validated: 1
 EndChar

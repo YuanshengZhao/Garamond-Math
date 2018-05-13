@@ -1,5 +1,5 @@
 StartChar: because
-Encoding: 8757 8757 3901
+Encoding: 8757 8757 3900
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  80 390 105 415 136 415 c 0
  167 415 192 390 192 359 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Ecircumflexdotbelow
-Encoding: 7878 7878 2337
+Encoding: 7878 7878 2336
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -70,4 +70,5 @@ SplineSet
  221 320 210 317 210 294 c 2
  210 102 l 2
 EndSplineSet
+Validated: 1
 EndChar

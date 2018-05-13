@@ -1,5 +1,5 @@
 StartChar: omega.s
-Encoding: 1115277 -1 2702
+Encoding: 1115277 -1 2701
 Width: 567
 GlyphClass: 2
 Flags: W
@@ -33,4 +33,5 @@ SplineSet
  283 74 278 75 274 70 c 0
  260 51 227 -14 160 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,7 +1,8 @@
 StartChar: uni2A05
-Encoding: 10757 10757 4026
+Encoding: 10757 10757 4025
 Width: 890
 Flags: W
+GlyphVariantsVertical: uni2A05.v1
 HStem: 680 51<105.877 785>
 VStem: 50 54<-239.052 677.615> 785 55<-239.052 680>
 LayerCount: 2
@@ -23,4 +24,5 @@ SplineSet
  819 -243 785 -237 785 -219 c 2
  785 665 l 2
 EndSplineSet
+Validated: 1
 EndChar

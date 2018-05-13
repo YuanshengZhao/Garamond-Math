@@ -1,5 +1,5 @@
 StartChar: iota.ss
-Encoding: 1115246 -1 2671
+Encoding: 1115246 -1 2670
 Width: 252
 GlyphClass: 2
 Flags: W
@@ -21,4 +21,5 @@ SplineSet
  226 89 229 84 229 72 c 0
  229 40 188 -14 130 -14 c 0xc0
 EndSplineSet
+Validated: 33
 EndChar

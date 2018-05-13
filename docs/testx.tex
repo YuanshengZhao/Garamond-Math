@@ -3,7 +3,6 @@
 \usepackage{amsmath}
 \usepackage[no-math]{fontspec}
 \usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
-\usepackage{physics}
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
@@ -67,7 +66,12 @@
 \def\bm{\symbf}
 \newcommand{\innerprod}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
 \newcommand{\brakket}[3]{\left\langle{#1}\middle\vert{#2}\middle\vert{#3}\right\rangle}
-
+\newcommand{\ket}[1]{\left\lvert{#1}\right\rangle}
+\newcommand{\bra}[1]{\left\langle{#1}\right\rvert}
+\newcommand{\ip}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
+\newcommand{\op}[2]{\left\lvert{#1}\middle\rangle\middle\langle{#2}\right\rvert}
+\newcommand{\dd}{\,\mathrm{d}}
+\newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
 
 \begin{document}
 

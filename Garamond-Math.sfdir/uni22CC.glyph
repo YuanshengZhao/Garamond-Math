@@ -1,5 +1,5 @@
 StartChar: uni22CC
-Encoding: 8908 8908 3833
+Encoding: 8908 8908 3832
 Width: 472
 Flags: W
 LayerCount: 2
@@ -24,4 +24,5 @@ SplineSet
  420 111 422 107 422 102 c 0
  422 84 403 60 392 60 c 0
 EndSplineSet
+Validated: 1
 EndChar

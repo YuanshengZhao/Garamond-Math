@@ -1,5 +1,5 @@
 StartChar: Mu.s
-Encoding: 1115203 -1 2628
+Encoding: 1115203 -1 2627
 Width: 904
 GlyphClass: 2
 Flags: W
@@ -56,4 +56,5 @@ SplineSet
  181 -5 177 0 140 0 c 0
  103 0 95 -5 47 -5 c 0xe0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: u1D757
-Encoding: 120663 120663 3578
+Encoding: 120663 120663 3577
 Width: 675
 GlyphClass: 2
 Flags: W
@@ -36,4 +36,5 @@ SplineSet
  93 648 l 1
  93 648 143 645 177 645 c 0
 EndSplineSet
+Validated: 1
 EndChar

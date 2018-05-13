@@ -1,5 +1,5 @@
 StartChar: Egrave
-Encoding: 200 200 2344
+Encoding: 200 200 2343
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -63,4 +63,5 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7e
 EndSplineSet
+Validated: 1
 EndChar

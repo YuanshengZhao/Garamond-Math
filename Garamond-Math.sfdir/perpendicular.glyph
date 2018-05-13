@@ -1,5 +1,5 @@
 StartChar: perpendicular
-Encoding: 8869 8869 4057
+Encoding: 8869 8869 4056
 Width: 554
 Flags: W
 HStem: 5 50<53.1042 249 301 498.543>
@@ -22,4 +22,5 @@ SplineSet
  504 30 488 5 472 5 c 2
  64 5 l 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: Eta.s
-Encoding: 1115193 -1 2618
+Encoding: 1115193 -1 2617
 Width: 814
 GlyphClass: 2
 Flags: W
@@ -56,4 +56,5 @@ SplineSet
  247 -5 224 0 179 0 c 0
  136 0 117 -5 65 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

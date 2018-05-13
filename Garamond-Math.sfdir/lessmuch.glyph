@@ -1,5 +1,5 @@
 StartChar: lessmuch
-Encoding: 8810 8810 4247
+Encoding: 8810 8810 4246
 Width: 851
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  796 46 801 16 801 7 c 0
  801 -6 788 -5 781 -2 c 2
 EndSplineSet
+Validated: 1
 EndChar

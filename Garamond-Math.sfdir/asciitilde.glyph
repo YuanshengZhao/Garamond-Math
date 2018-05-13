@@ -1,5 +1,5 @@
 StartChar: asciitilde
-Encoding: 126 126 3771
+Encoding: 126 126 3770
 Width: 500
 Flags: W
 HStem: 260 59<274.792 386.981> 320 61<106.991 229.538>
@@ -18,4 +18,5 @@ SplineSet
  435 382 450 375 450 362 c 4
  450 321 386 260 337 260 c 4
 EndSplineSet
+Validated: 1
 EndChar

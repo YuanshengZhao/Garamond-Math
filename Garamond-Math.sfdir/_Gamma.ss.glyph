@@ -1,5 +1,5 @@
 StartChar: Gamma.ss
-Encoding: 1115188 -1 2613
+Encoding: 1115188 -1 2612
 Width: 520
 GlyphClass: 2
 Flags: W
@@ -36,4 +36,5 @@ SplineSet
  252 -4 222 0 178 0 c 0
  130 0 98 -5 46 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

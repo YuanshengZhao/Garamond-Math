@@ -1,5 +1,5 @@
 StartChar: zeta
-Encoding: 950 950 2301
+Encoding: 950 950 2300
 Width: 329
 GlyphClass: 2
 Flags: W
@@ -36,5 +36,6 @@ SplineSet
  276 81 315 42 315 4 c 0
  315 -93 226 -199 165 -199 c 0xba
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" zeta.s zeta.ss
 EndChar

@@ -1,5 +1,5 @@
 StartChar: theta.ss
-Encoding: 1115244 -1 2669
+Encoding: 1115244 -1 2668
 Width: 438
 GlyphClass: 2
 Flags: W
@@ -28,4 +28,5 @@ SplineSet
  96 328 93 321 93 314 c 0
  93 167 122 72 202 72 c 0
 EndSplineSet
+Validated: 1
 EndChar

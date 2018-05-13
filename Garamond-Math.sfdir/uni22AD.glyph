@@ -1,5 +1,5 @@
 StartChar: uni22AD
-Encoding: 8877 8877 3842
+Encoding: 8877 8877 3841
 Width: 553
 Flags: W
 HStem: 163 50<102 216.697 309.204 498.757> 294 50<102 272.796 364.739 497.543>
@@ -52,4 +52,5 @@ SplineSet
  102 216.333 105.333 213 112 213 c 2
  238 213 l 2
 EndSplineSet
+Validated: 1
 EndChar

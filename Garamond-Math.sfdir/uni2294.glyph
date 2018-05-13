@@ -1,5 +1,5 @@
 StartChar: uni2294
-Encoding: 8852 8852 3841
+Encoding: 8852 8852 3840
 Width: 543
 Flags: W
 HStem: -1 51<105 437.123>
@@ -23,4 +23,5 @@ SplineSet
  71 503 105 497 105 479 c 2
  105 65 l 2
 EndSplineSet
+Validated: 1
 EndChar

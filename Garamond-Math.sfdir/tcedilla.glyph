@@ -1,5 +1,5 @@
 StartChar: tcedilla
-Encoding: 355 355 3992
+Encoding: 355 355 3991
 Width: 314
 GlyphClass: 2
 Flags: W
@@ -48,4 +48,5 @@ SplineSet
  304 61 306 54 306 47 c 0
  306 37 260 -5 205 -13 c 1
 EndSplineSet
+Validated: 1
 EndChar

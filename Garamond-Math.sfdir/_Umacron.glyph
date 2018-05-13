@@ -1,5 +1,5 @@
 StartChar: Umacron
-Encoding: 362 362 2461
+Encoding: 362 362 2460
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  638 432 638 342 635 250 c 0xf4
  630 95 519 -14 372 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

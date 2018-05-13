@@ -1,5 +1,5 @@
 StartChar: Uhorn
-Encoding: 431 431 2454
+Encoding: 431 431 2453
 Width: 738
 GlyphClass: 2
 Flags: W
@@ -40,4 +40,5 @@ SplineSet
  638 432 638 346 635 254 c 0
  630 99 524 -14 380 -14 c 0xec
 EndSplineSet
+Validated: 1
 EndChar

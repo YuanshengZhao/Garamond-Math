@@ -1,5 +1,5 @@
 StartChar: Dcroat
-Encoding: 272 272 2329
+Encoding: 272 272 2328
 Width: 754
 GlyphClass: 2
 Flags: W
@@ -41,4 +41,5 @@ SplineSet
  209 121 l 2
  209 40 284 28 359 28 c 0
 EndSplineSet
+Validated: 1
 EndChar

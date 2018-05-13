@@ -1,5 +1,5 @@
 StartChar: Ldot
-Encoding: 319 319 2387
+Encoding: 319 319 2386
 Width: 584
 GlyphClass: 2
 Flags: W
@@ -40,4 +40,5 @@ SplineSet
  502 415 524 393 524 364 c 0
  524 336 502 314 473 314 c 0
 EndSplineSet
+Validated: 1
 EndChar

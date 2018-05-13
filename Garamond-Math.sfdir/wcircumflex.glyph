@@ -1,5 +1,5 @@
 StartChar: wcircumflex
-Encoding: 373 373 2290
+Encoding: 373 373 2289
 Width: 685
 GlyphClass: 2
 Flags: W
@@ -69,4 +69,5 @@ SplineSet
  234 -16 l 2
  232 -20 229 -23 226 -23 c 0
 EndSplineSet
+Validated: 1
 EndChar

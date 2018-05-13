@@ -1,5 +1,5 @@
 StartChar: tilde
-Encoding: 732 732 3866
+Encoding: 732 732 3865
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  70 600 56 588 45 578 c 0
  36 570 26 558 22 558 c 0x60
 EndSplineSet
+Validated: 1
 EndChar

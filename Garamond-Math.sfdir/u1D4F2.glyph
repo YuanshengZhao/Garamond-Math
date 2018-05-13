@@ -38,6 +38,7 @@ SplineSet
  362 623 408 660 445 660 c 0
  475 660 494 641 494 614 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi.calb
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessi.calb
 EndChar

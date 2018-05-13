@@ -1,5 +1,5 @@
 StartChar: infinity
-Encoding: 8734 8734 4135
+Encoding: 8734 8734 4134
 Width: 749
 Flags: W
 HStem: 72 72<123.631 262.165 505.137 616.968> 376 70<132.164 243.147 484.66 620.801>
@@ -33,4 +33,5 @@ SplineSet
  405 282 409 276 415 268 c 0
  455 210 508 140 570 140 c 0
 EndSplineSet
+Validated: 1
 EndChar

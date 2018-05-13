@@ -1,5 +1,5 @@
 StartChar: z
-Encoding: 122 122 3639
+Encoding: 122 122 3638
 Width: 377
 GlyphClass: 2
 Flags: W
@@ -38,5 +38,6 @@ SplineSet
  299 -5 228 0 119 0 c 0
  91 0 56 -5 39 -5 c 0
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" z.s z.ss
 EndChar

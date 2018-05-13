@@ -1,5 +1,5 @@
 StartChar: itilde
-Encoding: 297 297 3875
+Encoding: 297 297 3874
 Width: 245
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  168 -3 160 2 125 2 c 0
  90 2 83 -3 44 -3 c 0
 EndSplineSet
+Validated: 1
 EndChar

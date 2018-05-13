@@ -1,5 +1,5 @@
 StartChar: Uhorntilde
-Encoding: 7918 7918 2459
+Encoding: 7918 7918 2458
 Width: 748
 GlyphClass: 2
 Flags: W
@@ -48,4 +48,5 @@ SplineSet
  720 650 730 674 730 680 c 0
  730 699 684 699 684 724 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: i.ss
-Encoding: 1115148 -1 2573
+Encoding: 1115148 -1 2572
 Width: 260
 GlyphClass: 2
 Flags: W
@@ -35,5 +35,6 @@ SplineSet
  185 -3 168 2 133 2 c 0
  98 2 82 -3 43 -3 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi
 EndChar

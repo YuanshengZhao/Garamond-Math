@@ -1,5 +1,5 @@
 StartChar: arrowdblup
-Encoding: 8657 8657 3798
+Encoding: 8657 8657 3797
 Width: 438
 Flags: W
 VStem: 126 46<-218.757 409> 266 46<-218.757 410>
@@ -34,4 +34,5 @@ SplineSet
  172 -191 l 2
  172 -209 147 -223 137 -223 c 0
 EndSplineSet
+Validated: 1
 EndChar

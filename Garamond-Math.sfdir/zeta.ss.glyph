@@ -1,5 +1,5 @@
 StartChar: zeta.ss
-Encoding: 1115240 -1 2665
+Encoding: 1115240 -1 2664
 Width: 341
 GlyphClass: 2
 Flags: W
@@ -36,4 +36,5 @@ SplineSet
  285 91 327 44 327 6 c 0
  327 -91 241 -197 176 -197 c 0xba
 EndSplineSet
+Validated: 33
 EndChar

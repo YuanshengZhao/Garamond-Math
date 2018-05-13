@@ -1,5 +1,5 @@
 StartChar: breve
-Encoding: 728 728 3808
+Encoding: 728 728 3807
 Width: 300
 GlyphClass: 2
 Flags: W
@@ -20,4 +20,5 @@ SplineSet
  252 708 257 697 257 684 c 0
  257 634 220 578 150 578 c 0
 EndSplineSet
+Validated: 1
 EndChar

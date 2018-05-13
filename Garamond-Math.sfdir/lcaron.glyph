@@ -1,5 +1,5 @@
 StartChar: lcaron
-Encoding: 318 318 3913
+Encoding: 318 318 3912
 Width: 254
 GlyphClass: 2
 Flags: W
@@ -37,4 +37,5 @@ SplineSet
  277 638 262 574 244 537 c 0
  236 520 229 512 223 512 c 0
 EndSplineSet
+Validated: 1
 EndChar

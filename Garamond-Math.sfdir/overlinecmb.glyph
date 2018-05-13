@@ -1,5 +1,5 @@
 StartChar: overlinecmb
-Encoding: 773 773 4103
+Encoding: 773 773 4102
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  200 639 188 623 169 623 c 2
  -186 623 l 2
 EndSplineSet
+Validated: 513
 EndChar

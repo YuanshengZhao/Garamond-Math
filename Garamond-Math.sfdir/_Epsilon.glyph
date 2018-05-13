@@ -1,5 +1,5 @@
 StartChar: Epsilon
-Encoding: 917 917 2349
+Encoding: 917 917 2348
 Width: 564
 GlyphClass: 2
 Flags: W
@@ -54,5 +54,6 @@ SplineSet
  366 -5 281 1 181 1 c 0
  136 1 120 -5 66 -5 c 0x7e
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Epsilon.s Epsilon.ss
 EndChar

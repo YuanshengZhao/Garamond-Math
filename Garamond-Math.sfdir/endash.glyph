@@ -1,5 +1,5 @@
 StartChar: endash
-Encoding: 8211 8211 3867
+Encoding: 8211 8211 3866
 Width: 500
 GlyphClass: 2
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  498 250 505 244 505 238 c 0
  505 220 495 201 476 201 c 2
 EndSplineSet
+Validated: 1
 EndChar

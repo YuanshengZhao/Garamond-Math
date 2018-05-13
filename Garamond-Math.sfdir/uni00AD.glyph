@@ -1,5 +1,5 @@
 StartChar: uni00AD
-Encoding: 173 173 4087
+Encoding: 173 173 4086
 Width: 274
 Flags: W
 HStem: 170 85
@@ -15,4 +15,5 @@ SplineSet
  245 224 240 197 224 195 c 0
  164 186 103 176 35 170 c 0
 EndSplineSet
+Validated: 1
 EndChar

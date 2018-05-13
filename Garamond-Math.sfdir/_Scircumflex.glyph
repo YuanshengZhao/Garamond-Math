@@ -1,5 +1,5 @@
 StartChar: Scircumflex
-Encoding: 348 348 2437
+Encoding: 348 348 2436
 Width: 465
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  347 327 422 280 422 180 c 0
  422 61 335 -16 204 -16 c 0
 EndSplineSet
+Validated: 1
 EndChar

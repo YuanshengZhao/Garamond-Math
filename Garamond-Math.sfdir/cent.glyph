@@ -1,5 +1,5 @@
 StartChar: cent
-Encoding: 162 162 4216
+Encoding: 162 162 4215
 Width: 422
 Flags: W
 HStem: -13 21G<197.5 206.5> 76 59<235.234 317.67> 474 28<184.969 235>
@@ -36,4 +36,5 @@ SplineSet
  153 474 102 387 102 312 c 0
  102 225 142 165 200 143 c 1
 EndSplineSet
+Validated: 1
 EndChar

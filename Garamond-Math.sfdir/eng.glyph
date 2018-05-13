@@ -1,5 +1,5 @@
 StartChar: eng
-Encoding: 331 331 3776
+Encoding: 331 331 3775
 Width: 513
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  442 32 l 2
  442 -102 407 -272 296 -285 c 0xb4
 EndSplineSet
+Validated: 33
 EndChar

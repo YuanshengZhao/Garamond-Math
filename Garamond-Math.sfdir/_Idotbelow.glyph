@@ -1,5 +1,5 @@
 StartChar: Idotbelow
-Encoding: 7882 7882 2369
+Encoding: 7882 7882 2368
 Width: 340
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  102 33 130 51 130 98 c 2
  130 550 l 2xe8
 EndSplineSet
+Validated: 1
 EndChar

@@ -1,5 +1,5 @@
 StartChar: alpha.ss
-Encoding: 1115230 -1 2655
+Encoding: 1115230 -1 2654
 Width: 465
 GlyphClass: 2
 Flags: W
@@ -33,4 +33,5 @@ SplineSet
  152 318 81 201 81 108 c 0
  81 66 98 33 120 33 c 0x78
 EndSplineSet
+Validated: 1
 EndChar

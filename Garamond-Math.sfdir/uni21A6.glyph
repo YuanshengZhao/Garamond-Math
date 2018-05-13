@@ -1,5 +1,5 @@
 StartChar: uni21A6
-Encoding: 8614 8614 3995
+Encoding: 8614 8614 3994
 Width: 921
 Flags: W
 HStem: 227 46<136 717>
@@ -33,4 +33,5 @@ SplineSet
  136 81 123 70 103 70 c 0
  97 70 90 78 90 86 c 2
 EndSplineSet
+Validated: 1
 EndChar

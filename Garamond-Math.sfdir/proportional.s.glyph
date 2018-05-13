@@ -1,5 +1,5 @@
 StartChar: proportional.s
-Encoding: 1115305 -1 2730
+Encoding: 1115305 -1 2729
 Width: 614
 Flags: W
 HStem: 12 75<126.486 266.522> 12.9119 85.7356<503.203 563.282> 317 74<133.939 244.189 493.409 558.182>
@@ -32,4 +32,5 @@ SplineSet
  121 317 66 265 66 205 c 0
  66 134 135 87 207 87 c 0
 EndSplineSet
+Validated: 33
 EndChar

@@ -1,5 +1,5 @@
 StartChar: ncommaaccent
-Encoding: 326 326 4224
+Encoding: 326 326 4223
 Width: 528
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  292 -57 332 -98 332 -158 c 0
  332 -232 258 -275 224 -275 c 0
 EndSplineSet
+Validated: 1
 EndChar

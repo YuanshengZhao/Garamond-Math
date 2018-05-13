@@ -1,5 +1,5 @@
 StartChar: germandbls
-Encoding: 223 223 4165
+Encoding: 223 223 4164
 Width: 504
 GlyphClass: 2
 Flags: W
@@ -43,4 +43,5 @@ SplineSet
  463 205 474 179 474 140 c 0
  474 58 391 -15 314 -15 c 0xbd
 EndSplineSet
+Validated: 1
 EndChar

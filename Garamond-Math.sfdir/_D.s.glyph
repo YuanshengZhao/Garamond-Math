@@ -1,5 +1,5 @@
 StartChar: D.s
-Encoding: 1115085 -1 2510
+Encoding: 1115085 -1 2509
 Width: 757
 GlyphClass: 2
 Flags: W
@@ -31,4 +31,5 @@ SplineSet
  217 122 l 2
  217 43 288 30 362 30 c 0
 EndSplineSet
+Validated: 1
 EndChar

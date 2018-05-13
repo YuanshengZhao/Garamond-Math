@@ -1,5 +1,5 @@
 StartChar: bar
-Encoding: 124 124 3752
+Encoding: 124 124 3751
 Width: 352
 GlyphClass: 2
 Flags: W
@@ -18,4 +18,5 @@ SplineSet
  183 725 202 714 202 694 c 2
  202 -209 l 2
 EndSplineSet
+Validated: 1
 EndChar

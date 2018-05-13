@@ -1,7 +1,8 @@
 StartChar: uni22C1
-Encoding: 8897 8897 4235
+Encoding: 8897 8897 4234
 Width: 970
 Flags: W
+GlyphVariantsVertical: uni22C1.v1
 LayerCount: 2
 Fore
 SplineSet
@@ -18,4 +19,5 @@ SplineSet
  865.931640625 730 900.931640625 734 909.931640625 734 c 0
  922.931640625 734 921.931640625 721 918.931640625 714 c 2
 EndSplineSet
+Validated: 1
 EndChar

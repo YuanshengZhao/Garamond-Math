@@ -1,5 +1,5 @@
 StartChar: omicron.s
-Encoding: 1115257 -1 2682
+Encoding: 1115257 -1 2681
 Width: 404
 GlyphClass: 2
 Flags: W
@@ -21,4 +21,5 @@ SplineSet
  144 336 76 261 76 162 c 0
  76 114 108 63 157 63 c 0
 EndSplineSet
+Validated: 1
 EndChar

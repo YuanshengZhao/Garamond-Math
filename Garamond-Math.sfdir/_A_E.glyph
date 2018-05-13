@@ -1,5 +1,5 @@
 StartChar: AE
-Encoding: 198 198 2322
+Encoding: 198 198 2321
 Width: 872
 GlyphClass: 2
 Flags: W
@@ -75,4 +75,5 @@ SplineSet
  299 338 298 335 298 333 c 0
  298 329 303 328 314 328 c 2
 EndSplineSet
+Validated: 1
 EndChar

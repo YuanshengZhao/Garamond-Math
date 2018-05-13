@@ -1,5 +1,5 @@
 StartChar: exclam
-Encoding: 33 33 4206
+Encoding: 33 33 4205
 Width: 250
 Flags: W
 HStem: -14 120<78.7454 171.255>
@@ -20,4 +20,5 @@ SplineSet
  158 106 185 79 185 46 c 0xc0
  185 13 158 -14 125 -14 c 0
 EndSplineSet
+Validated: 1
 EndChar

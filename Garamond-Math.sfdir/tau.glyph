@@ -33,5 +33,6 @@ SplineSet
  330 89 331 84 331 73 c 0
  331 39 282 -14 232 -14 c 0xd8
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" tau.s tau.ss
 EndChar

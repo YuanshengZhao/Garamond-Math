@@ -1,5 +1,5 @@
 StartChar: Ihookabove
-Encoding: 7880 7880 2371
+Encoding: 7880 7880 2370
 Width: 340
 GlyphClass: 2
 Flags: W
@@ -45,4 +45,5 @@ SplineSet
  102 33 130 51 130 98 c 2
  130 550 l 2xf0
 EndSplineSet
+Validated: 1
 EndChar

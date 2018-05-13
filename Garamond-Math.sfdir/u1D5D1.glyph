@@ -1,5 +1,5 @@
 StartChar: u1D5D1
-Encoding: 120273 120273 3091
+Encoding: 120273 120273 3090
 Width: 455
 GlyphClass: 2
 Flags: W
@@ -26,4 +26,5 @@ SplineSet
  54 -0 37.7998046875 -1.2001953125 28 -3 c 1
  184.5 206.799804688 l 1
 EndSplineSet
+Validated: 1
 EndChar

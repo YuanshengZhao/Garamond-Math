@@ -1,5 +1,5 @@
 StartChar: uni220D
-Encoding: 8717 8717 4261
+Encoding: 8717 8717 4260
 Width: 554
 Flags: W
 HStem: 64 50<53.1042 258.031> 227 50<53.1042 313.716> 388 50<53.1042 256.05>
@@ -27,4 +27,5 @@ SplineSet
  299.991 374.04 217.753 388 129 388 c 2
  64 388 l 2
 EndSplineSet
+Validated: 1
 EndChar

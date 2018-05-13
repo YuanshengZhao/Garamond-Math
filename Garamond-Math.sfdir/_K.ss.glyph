@@ -1,5 +1,5 @@
 StartChar: K.ss
-Encoding: 1115100 -1 2525
+Encoding: 1115100 -1 2524
 Width: 707
 GlyphClass: 2
 Flags: W
@@ -59,4 +59,5 @@ SplineSet
  241 -5 227 2 189 2 c 0
  142 2 117 -5 60 -5 c 0
 EndSplineSet
+Validated: 1
 EndChar

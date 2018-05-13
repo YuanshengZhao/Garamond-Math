@@ -1,5 +1,5 @@
 StartChar: alpha
-Encoding: 945 945 4149
+Encoding: 945 945 4148
 Width: 452
 GlyphClass: 2
 Flags: W
@@ -33,5 +33,6 @@ SplineSet
  144 321 75 212 75 114 c 0
  75 68 93 31 114 31 c 0x78
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" alpha.s alpha.ss
 EndChar

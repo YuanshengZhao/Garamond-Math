@@ -1,5 +1,5 @@
 StartChar: kcommaaccent
-Encoding: 311 311 4248
+Encoding: 311 311 4247
 Width: 469
 GlyphClass: 2
 Flags: W
@@ -67,4 +67,5 @@ SplineSet
  260 -57 300 -98 300 -158 c 0
  300 -232 226 -275 192 -275 c 0
 EndSplineSet
+Validated: 1
 EndChar

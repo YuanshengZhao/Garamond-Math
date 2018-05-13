@@ -1,5 +1,5 @@
 StartChar: uni03D5.s
-Encoding: 1115281 -1 2706
+Encoding: 1115281 -1 2705
 Width: 518
 GlyphClass: 2
 Flags: W
@@ -38,4 +38,5 @@ SplineSet
  281 155 l 2
  280 120 281 85 281 52 c 1
 EndSplineSet
+Validated: 33
 EndChar

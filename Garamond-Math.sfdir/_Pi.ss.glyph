@@ -1,5 +1,5 @@
 StartChar: Pi.ss
-Encoding: 1115212 -1 2637
+Encoding: 1115212 -1 2636
 Width: 828
 GlyphClass: 2
 Flags: W
@@ -46,4 +46,5 @@ SplineSet
  269 -4 239 0 195 0 c 0
  147 0 114 -5 64 -5 c 0xd8
 EndSplineSet
+Validated: 33
 EndChar

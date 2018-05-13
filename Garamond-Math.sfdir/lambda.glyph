@@ -31,5 +31,6 @@ SplineSet
  224 229 156 100 110 18 c 0
  107 12 95 -18 87 -18 c 0
 EndSplineSet
+Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" lambda.s lambda.ss
 EndChar

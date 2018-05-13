@@ -1,5 +1,5 @@
 StartChar: asterisk
-Encoding: 42 42 4203
+Encoding: 42 42 4202
 Width: 340
 Flags: W
 HStem: 372 298<166.594 174.406>
@@ -35,4 +35,5 @@ SplineSet
  198 459 200 429 201 394 c 0
  201 383 196 372 184 372 c 0xa0
 EndSplineSet
+Validated: 1
 EndChar

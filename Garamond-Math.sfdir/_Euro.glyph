@@ -1,5 +1,5 @@
 StartChar: Euro
-Encoding: 8364 8364 4001
+Encoding: 8364 8364 4000
 Width: 707
 GlyphClass: 2
 Flags: W
@@ -49,4 +49,5 @@ SplineSet
  629 22 622 17 613 13 c 0
  571 -6 466 -15 411 -15 c 0xaf
 EndSplineSet
+Validated: 33
 EndChar

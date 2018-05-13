@@ -1,5 +1,5 @@
 StartChar: eight.ss
-Encoding: 1115076 -1 2501
+Encoding: 1115076 -1 2500
 Width: 495
 Flags: W
 TopAccentHorizontal: 256
@@ -34,4 +34,5 @@ SplineSet
  177 245 159 216 159 155 c 0xe4
  159 87 198 19 264 19 c 0
 EndSplineSet
+Validated: 1
 EndChar

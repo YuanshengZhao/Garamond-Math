@@ -1,5 +1,5 @@
 StartChar: circledivide
-Encoding: 8856 8856 3873
+Encoding: 8856 8856 3872
 Width: 796
 GlyphClass: 2
 Flags: W
@@ -29,4 +29,5 @@ SplineSet
  80 426 222 568 398 568 c 0
  574 568 716 426 716 250 c 0
 EndSplineSet
+Validated: 1
 EndChar

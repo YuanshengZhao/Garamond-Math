@@ -33,6 +33,7 @@ SplineSet
  242 98 l 2
  242 72 248 1 280 -48 c 1
 EndSplineSet
+Validated: 33
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj.frab
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessj.frab
 EndChar

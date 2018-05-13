@@ -1,5 +1,5 @@
 StartChar: aring
-Encoding: 229 229 4233
+Encoding: 229 229 4232
 Width: 399
 GlyphClass: 2
 Flags: W
@@ -54,4 +54,5 @@ SplineSet
  138 138 115 110 115 87 c 0
  115 52 140 34 164 34 c 0
 EndSplineSet
+Validated: 33
 EndChar

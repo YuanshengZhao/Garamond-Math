@@ -1,5 +1,5 @@
 StartChar: lowlinecmb
-Encoding: 818 818 4114
+Encoding: 818 818 4113
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -19,4 +19,5 @@ SplineSet
  200 -126 188 -142 169 -142 c 2
  -186 -142 l 2
 EndSplineSet
+Validated: 513
 EndChar

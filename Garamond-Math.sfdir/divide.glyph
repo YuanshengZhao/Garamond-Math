@@ -1,5 +1,5 @@
 StartChar: divide
-Encoding: 247 247 3844
+Encoding: 247 247 3843
 Width: 590
 Flags: W
 HStem: 67 94<254.642 333.606> 231 51<72.7871 518.99> 352 94<253.642 332.606>
@@ -26,4 +26,5 @@ SplineSet
  320 161 341 140 341 114 c 0
  341 88 320 67 294 67 c 0
 EndSplineSet
+Validated: 1
 EndChar

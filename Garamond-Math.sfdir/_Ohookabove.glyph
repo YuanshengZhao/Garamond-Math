@@ -1,5 +1,5 @@
 StartChar: Ohookabove
-Encoding: 7886 7886 2409
+Encoding: 7886 7886 2408
 Width: 763
 GlyphClass: 2
 Flags: W
@@ -35,4 +35,5 @@ SplineSet
  545 25 621 134 621 305 c 0
  621 495 535 625 375 625 c 0
 EndSplineSet
+Validated: 1
 EndChar

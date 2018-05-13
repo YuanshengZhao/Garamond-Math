@@ -1,5 +1,5 @@
 StartChar: uni21AF
-Encoding: 8623 8623 3729
+Encoding: 8623 8623 3728
 Width: 438
 Flags: W
 LayerCount: 2
@@ -38,4 +38,5 @@ SplineSet
  9.6393763407 565.274200357 9.43569601365 563.59755205 9 562 c 2
  -62.4015 296.657 l 2
 EndSplineSet
+Validated: 1
 EndChar

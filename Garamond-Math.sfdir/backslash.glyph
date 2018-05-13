@@ -1,5 +1,5 @@
 StartChar: backslash
-Encoding: 92 92 3807
+Encoding: 92 92 3806
 Width: 466
 GlyphClass: 2
 Flags: W
@@ -17,4 +17,5 @@ SplineSet
  358 -225 335 -214 329 -194 c 0
  79 709 l 2
 EndSplineSet
+Validated: 1
 EndChar

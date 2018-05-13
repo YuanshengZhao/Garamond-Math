@@ -1,5 +1,5 @@
 StartChar: nine.s
-Encoding: 1115077 -1 2502
+Encoding: 1115077 -1 2501
 Width: 487
 Flags: W
 TopAccentHorizontal: 244
@@ -26,4 +26,5 @@ SplineSet
  470 275 414 184 326 89 c 0
  254 11 140 -34 69 -34 c 0
 EndSplineSet
+Validated: 1
 EndChar

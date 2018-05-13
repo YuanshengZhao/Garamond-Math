@@ -1,5 +1,5 @@
 StartChar: zdotaccent
-Encoding: 380 380 2300
+Encoding: 380 380 2299
 Width: 377
 GlyphClass: 2
 Flags: W
@@ -42,4 +42,5 @@ SplineSet
  299 -5 228 0 119 0 c 0
  91 0 56 -5 39 -5 c 0
 EndSplineSet
+Validated: 33
 EndChar

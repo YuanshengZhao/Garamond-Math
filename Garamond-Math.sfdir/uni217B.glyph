@@ -1,5 +1,5 @@
 StartChar: uni217B
-Encoding: 8571 8571 4194
+Encoding: 8571 8571 4193
 Width: 858
 GlyphClass: 2
 Flags: W
@@ -103,4 +103,5 @@ SplineSet
  773 62 l 2xe2
  773 39 789 31 816 24 c 0
 EndSplineSet
+Validated: 1
 EndChar
