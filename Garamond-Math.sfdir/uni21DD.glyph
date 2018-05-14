@@ -1,6 +1,6 @@
 StartChar: uni21DD
 Encoding: 8669 8669 314
-Width: 1000
+Width: 944
 Flags: W
 HStem: 187 45<248.013 315.371 488.429 555.098> 267 46<116.511 196.501 369.345 437.371 606.043 690.939>
 LayerCount: 2
@@ -36,5 +36,4 @@ SplineSet
  50 235 52 239 54 241 c 0
  75 262 108 313 160 313 c 32
 EndSplineSet
-Validated: 1
 EndChar
