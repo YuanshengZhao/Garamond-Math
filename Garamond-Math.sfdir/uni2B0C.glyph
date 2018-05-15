@@ -4,8 +4,6 @@ Width: 1000
 GlyphClass: 2
 Flags: W
 TeX: 457 -42
-GlyphVariantsHorizontal: uni2B0C uni2B0C.h1
-GlyphCompositionHorizontal: 3  uni2B0C.lft%0,0,150,450 uni2B0C.ex%1,300,300,300 uni2B0C.rt%0,150,0,450
 HStem: 157 186<281.216 718.784>
 LayerCount: 2
 Fore

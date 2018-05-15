@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1526300935
+ModificationTime: 1526425544
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,6 +57,8 @@ OS2Vendor: 'PfEd'
 OS2CodePages: 60000193.0dd40000
 OS2UnicodeRanges: a10000ef.4201f9ee.02000000.00000000
 Lookup: 1 0 0 "'ss01' Style Set" { "'ss01' Style Set-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set" { "'ss02' Style Set-1"  } ['ss02' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Style Set" { "'ss03' Style Set-1"  } ['ss03' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0" { "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable"  } ['aalt' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
@@ -103,7 +105,7 @@ MATH:FractionDenominatorShiftDown: 266
 MATH:FractionDenominatorDisplayStyleShiftDown: 598 
 MATH:FractionNumeratorGapMin: 100 
 MATH:FractionNumeratorDisplayStyleGapMin: 140 
-MATH:FractionRuleThickness: 52 
+MATH:FractionRuleThickness: 50 
 MATH:FractionDenominatorGapMin: 100 
 MATH:FractionDenominatorDisplayStyleGapMin: 140 
 MATH:SkewedFractionHorizontalGap: 300 
@@ -116,7 +118,7 @@ MATH:UnderbarRuleThickness: 50
 MATH:UnderbarExtraDescender: 40 
 MATH:RadicalVerticalGap: 140 
 MATH:RadicalDisplayStyleVerticalGap: 140 
-MATH:RadicalRuleThickness: 52 
+MATH:RadicalRuleThickness: 50 
 MATH:RadicalExtraAscender: 140 
 MATH:RadicalKernBeforeDegree: 40 
 MATH:RadicalKernAfterDegree: -355 
@@ -129,7 +131,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1248 26 9
+WinInfo: 0 26 9
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

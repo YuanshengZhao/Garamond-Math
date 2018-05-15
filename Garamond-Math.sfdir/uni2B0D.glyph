@@ -4,8 +4,6 @@ Width: 438
 GlyphClass: 2
 Flags: W
 TeX: 679 179
-GlyphVariantsVertical: uni2B0D uni2B0D.v1
-GlyphCompositionVertical: 3  uni2B0D.bt%0,0,150,450 uni2B0D.ex%1,300,300,300 uni2B0D.tp%0,150,0,450
 VStem: 126 186<10.9585 385.042>
 LayerCount: 2
 Fore

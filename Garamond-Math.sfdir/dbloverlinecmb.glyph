@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: 746 -588
 TopAccentHorizontal: -250
-GlyphVariantsHorizontal: dbloverlinecmb dbloverlinecmb.h1
-GlyphCompositionHorizontal: 3  dbloverlinecmb.lft%0,0,83,167 dbloverlinecmb.ex%1,166,166,166 dbloverlinecmb.rt%0,83,0,167
 HStem: 588 44<-418.53 -80.4703> 702 44<-418.53 -80.4703>
 LayerCount: 2
 Fore

@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: -730 -230
 IsExtendedShape: 1
-GlyphVariantsHorizontal: uni2B31 uni2B31.h1
-GlyphCompositionHorizontal: 3  uni2B31.lft%0,0,65410,65157 uni2B31.ex%1,65284,65284,65284 uni2B31.rt%0,65410,0,65157
 HStem: -33 46<204 948.105> 80 90<255.285 287> 237 46<204 948.105> 497 46<204 948.105>
 LayerCount: 2
 Fore

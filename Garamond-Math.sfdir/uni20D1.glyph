@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: 736 -600
 TopAccentHorizontal: -236
-GlyphVariantsHorizontal: uni20D1 uni20D1.h1
-GlyphCompositionHorizontal: 3  uni20D1.lft%0,0,55,164 uni20D1.ex%1,109,109,109 uni20D1.rt%0,55,0,165
 HStem: 600 44<-403.53 -195> 600 21<-94.7258 -69.9241>
 LayerCount: 2
 Fore

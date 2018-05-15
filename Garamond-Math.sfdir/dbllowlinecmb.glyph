@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: -92 248
 TopAccentHorizontal: 0
-GlyphVariantsHorizontal: dbllowlinecmb dbllowlinecmb.h1
-GlyphCompositionHorizontal: 3  dbllowlinecmb.lft%0,0,83,167 dbllowlinecmb.ex%1,166,166,166 dbllowlinecmb.rt%0,83,0,167
 HStem: -248 50<-196.896 197.469> -142 50<-196.896 197.469>
 LayerCount: 2
 Fore

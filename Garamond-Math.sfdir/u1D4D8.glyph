@@ -5,7 +5,7 @@ GlyphClass: 2
 Flags: W
 TeX: 707 14
 ItalicCorrection: 86
-TopAccentHorizontal: 688
+TopAccentHorizontal: 568
 HStem: -21 39<63.3224 254.699> 593 65<712.469 800.174> 599 47<487.751 644.476>
 VStem: -39 148<87.2562 177.857> 289 86<345.352 497.964>
 LayerCount: 2
@@ -48,5 +48,5 @@ SplineSet
  441 599 375 508 375 410 c 0
  375 366 389 333 415 311 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "'ss03' Style Set-1" I.cb
 EndChar

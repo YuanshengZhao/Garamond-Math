@@ -5,7 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: 474 -25
 GlyphVariantsHorizontal: uni2906 uni27FD
-GlyphCompositionHorizontal: 3  uni2906.lft%0,0,65387,65090 uni2906.ex%1,65238,65238,65238 uni2906.rt%0,65387,0,65090
 HStem: 157 46<256 785> 297 46<257 785>
 VStem: 785 46<68.375 157 203 297 343 428.625>
 LayerCount: 2

@@ -1,22 +1,21 @@
 StartChar: divides
 Encoding: 8739 8739 3719
-Width: 272
+Width: 232
 GlyphClass: 2
 Flags: W
 TeX: 725 300
 GlyphVariantsVertical: divides divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6 divides.v7 divides.v8 divides.v9 divides.v10 divides.v11 divides.v12 divides.v13 divides.v14 divides.v15 divides.v16 divides.v17 divides.v18 divides.v19 divides.v20
 GlyphCompositionVertical: 3  divides.bt%0,0,398,796 divides.ex%1,796,796,796 divides.tp%0,398,0,796
-VStem: 110 52<-222.047 722.047>
+VStem: 90 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet
-162 -209 m 2
- 162 -217 155 -225 149 -225 c 0
- 129 -225 110 -214 110 -194 c 2
- 110 709 l 2
- 110 717 117 725 123 725 c 0
- 143 725 162 714 162 694 c 2
- 162 -209 l 2
+142 -209 m 2
+ 142 -217 135 -225 129 -225 c 0
+ 109 -225 90 -214 90 -194 c 2
+ 90 709 l 2
+ 90 717 97 725 103 725 c 0
+ 123 725 142 714 142 694 c 2
+ 142 -209 l 2
 EndSplineSet
-Validated: 1
 EndChar

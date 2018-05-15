@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: 673 -623
 TopAccentHorizontal: 0
-GlyphVariantsHorizontal: overlinecmb overlinecmb.h1
-GlyphCompositionHorizontal: 3  overlinecmb.lft%0,0,83,167 overlinecmb.ex%1,166,166,166 overlinecmb.rt%0,83,0,167
 HStem: 623 50<-196.896 197.469>
 LayerCount: 2
 Fore

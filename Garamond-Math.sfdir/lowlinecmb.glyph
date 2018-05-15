@@ -5,8 +5,6 @@ GlyphClass: 2
 Flags: W
 TeX: -92 142
 TopAccentHorizontal: 0
-GlyphVariantsHorizontal: lowlinecmb lowlinecmb.h1
-GlyphCompositionHorizontal: 3  lowlinecmb.lft%0,0,83,167 lowlinecmb.ex%1,166,166,166 lowlinecmb.rt%0,83,0,167
 HStem: -142 50<-196.896 197.469>
 LayerCount: 2
 Fore
