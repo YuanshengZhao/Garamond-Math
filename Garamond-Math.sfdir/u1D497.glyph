@@ -4,7 +4,7 @@ Width: 492
 GlyphClass: 2
 Flags: W
 TeX: 434 14
-TopAccentHorizontal: 270
+TopAccentHorizontal: 294
 HStem: -14 82<95 239.5> 314 120<97 229.048>
 VStem: 367 82<255.745 388.213>
 LayerCount: 2
@@ -30,6 +30,5 @@ SplineSet
  449 268 392 173 321 98 c 0
  261 34 196 -14 133 -14 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D497.s u1D497.ss
 EndChar

@@ -1,0 +1,17 @@
+StartChar: arrowup.ex
+Encoding: 1116111 -1 4359
+Width: 440
+Flags: W
+VStem: 197 46<-218.757 614.757>
+LayerCount: 2
+Fore
+SplineSet
+208 619 m 0
+ 218 619 243 605 243 587 c 2
+ 243 -191 l 2
+ 243 -209 218 -223 208 -223 c 0
+ 202 -223 197 -215 197 -209 c 2
+ 197 605 l 2
+ 197 611 202 619 208 619 c 0
+EndSplineSet
+EndChar

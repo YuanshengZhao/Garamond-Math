@@ -4,7 +4,7 @@ Width: 333
 GlyphClass: 2
 Flags: W
 TeX: 709 14
-ItalicCorrection: 29
+ItalicCorrection: 57
 TopAccentHorizontal: 281
 HStem: -14 59<77.5 147.804>
 VStem: 41 80<12.7088 75.4984> 243 91<628.404 697.792>
@@ -30,6 +30,5 @@ SplineSet
  269 160 269 155 269 147 c 0
  269 80 139 -14 86 -14 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D459.s u1D459.ss
 EndChar

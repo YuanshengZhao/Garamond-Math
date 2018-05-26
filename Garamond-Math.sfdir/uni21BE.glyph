@@ -2,6 +2,7 @@ StartChar: uni21BE
 Encoding: 8638 8638 291
 Width: 440
 Flags: W
+GlyphCompositionVertical: 2  arrowup.ex%1,810,810,810 uni21BE(↾)%0,284,0,852
 VStem: 197 46<-218.757 465>
 LayerCount: 2
 Fore
