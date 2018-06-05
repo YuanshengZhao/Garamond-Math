@@ -6,19 +6,19 @@
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
-\setmainfont{EBGaramond}[
-  Path = ../EBGaramond/,
-  Extension = .otf,
-  UprightFont = *-Regular,
-  BoldFont = *-bold,
-  ItalicFont = *-italic,
-  BoldItalicFont = *-bolditalic]
+\setmainfont{EB Garamond}%
+% [ Path = ../EBGaramond/,
+%   Extension = .otf,
+%   UprightFont = *-Regular,
+%   BoldFont = *-bold,
+%   ItalicFont = *-italic,
+%   BoldItalicFont = *-bolditalic]
 %\setsansfont{TeX Gyre Heros}
 %\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
 %\setmathfont{XITS Math}
 %\setmathfont{Libertinus Math}
-\setmathfont{Garamond-Math.otf}[Path=../, StylisticSet=1]
+\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -54,6 +54,8 @@
 \cs_new:Npn \fonttest_top_accent_map:Nn #1#2
   { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
 \cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
+\NewDocumentCommand \BRACKETMAP { m m }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
 \ExplSyntaxOff
 \def\OVERUNDERLINE#1{%
   #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
@@ -92,10 +94,22 @@
 \[ \symbfscr{\Latinalphabets \latinalphabets} \]
 \[ \symsf{\Latinalphabets \latinalphabets} \]
 \[ \symtt{\Latinalphabets \latinalphabets} \]
-\[SO(3)SU(2)LAETSQ_AWOWCVO LX UUTTXAT afggffg\]
+\[SO(3)SU(2)LAETSQJQ_AWOWCVO LX UUTTXAT afggffg\]
 \[\symbf{afggffg} \Omega f \lambda\kappa\vartheta\nu\varpi\upsilon\]
 % \TOPACCENTMAP{\symbf}{\imath\jmath}
 % \TOPACCENTMAP{\symup}{\imath\jmath}
+
+\BRACKETMAP{\symit}{\Latinalphabets}
+\setmathfont{XITS Math}
+\BRACKETMAP{\symit}{\Latinalphabets}
+\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
+
+\BRACKETMAP{\symit}{\latinalphabets}
+\setmathfont{XITS Math}
+\[x(t)()\]
+\BRACKETMAP{\symit}{\latinalphabets}
+\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
+\[x(t)()\]
 
 \section{Equation Tests}
 

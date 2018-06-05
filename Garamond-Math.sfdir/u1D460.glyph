@@ -1,10 +1,10 @@
 StartChar: u1D460
 Encoding: 119904 119904 626
-Width: 348
+Width: 354
 GlyphClass: 2
 Flags: W
 TeX: 414 14
-ItalicCorrection: 5
+ItalicCorrection: 11
 TopAccentHorizontal: 221
 HStem: -14 48<55 161.143> 368 46<214.801 275.411>
 VStem: 136 57<250.765 338.857> 195 61<63.8505 178.411>
@@ -29,6 +29,5 @@ SplineSet
  240 200 256 153 256 123 c 0
  256 44 150 -14 70 -14 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D460.s u1D460.ss
 EndChar

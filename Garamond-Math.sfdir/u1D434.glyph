@@ -1,10 +1,10 @@
 StartChar: u1D434
 Encoding: 119860 119860 583
-Width: 673
+Width: 651
 GlyphClass: 2
 Flags: W
 TeX: 676 5
-TopAccentHorizontal: 562
+TopAccentHorizontal: 548
 HStem: -5 34<-50.7961 29.3042 512.216 575.431> 0 32<155.714 203.31 302.119 386.057> 258 33<324.997 459.422> 656 20G<605.5 612>
 LayerCount: 2
 Fore
@@ -46,6 +46,5 @@ SplineSet
  325 312 l 2
  315 299 307 290 343 290 c 2
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D434.s u1D434.ss
 EndChar
