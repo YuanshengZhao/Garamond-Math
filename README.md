@@ -16,10 +16,10 @@ An open type math font matching the [EB Garamond](https://github.com/octaviopard
 
 - Stylistic sets: `StylisticSet={#1,#2,...}`
 
-    1. Garamond based Blackboard `\mathbb`
-    1. Curved `\partial`
-    1. CM `\mathcal` (lowercase unavailble)
-    1. Semi-bold
+    - `1` -> Garamond based Blackboard `\mathbb`
+    - `2` -> Curved `\partial`
+    - `3` -> CM `\mathcal` (lowercase unavailble)
+    - `4` -> Semi-bold
 
 ---
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.

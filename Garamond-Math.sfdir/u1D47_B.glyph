@@ -1,10 +1,10 @@
 StartChar: u1D47B
 Encoding: 119931 119931 653
-Width: 716
+Width: 663
 GlyphClass: 2
 Flags: W
 TeX: 694 3
-ItalicCorrection: 67
+ItalicCorrection: 115
 TopAccentHorizontal: 408
 HStem: -3 35<52.5781 135.329 336.045 392.9> 613 36<211.395 320.167 485.5 622.98>
 VStem: 646 42<493.661 582.294>
@@ -44,6 +44,5 @@ SplineSet
  325 -3 259 2 219 2 c 0
  178 2 114 -3 69 -3 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D47B.s u1D47B.ss
 EndChar

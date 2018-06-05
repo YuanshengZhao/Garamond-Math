@@ -1,6 +1,6 @@
 StartChar: u1D480
 Encoding: 119936 119936 658
-Width: 726
+Width: 718
 GlyphClass: 2
 Flags: W
 TeX: 656 6
@@ -46,6 +46,5 @@ SplineSet
  345 -5 282 2 243 2 c 0
  202 2 141 -6 96 -6 c 0xa0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D480.s u1D480.ss
 EndChar
