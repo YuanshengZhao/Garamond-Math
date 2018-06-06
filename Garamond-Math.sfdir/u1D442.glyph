@@ -1,26 +1,26 @@
 StartChar: u1D442
 Encoding: 119874 119874 597
-Width: 697
+AltUni2: 01d6f0.ffffffff.0
+Width: 719
 GlyphClass: 2
 Flags: W
 TeX: 664 14
-ItalicCorrection: 5
 TopAccentHorizontal: 436
-HStem: -14 31<209.188 345.837> 636 28<363.737 488.924>
-VStem: 44 85<120.993 344.408> 574 85<296.566 527.326>
+HStem: -14 31<217.188 353.837> 636 28<371.737 496.924>
+VStem: 52 85<120.993 344.408> 582 85<296.566 527.326>
 LayerCount: 2
 Fore
 SplineSet
-269 -14 m 0
- 113 -14 44 105 44 243 c 0
- 44 435 184 664 434 664 c 0
- 590 664 659 545 659 407 c 0
- 659 215 519 -14 269 -14 c 0
-272 17 m 0
- 453 17 574 251 574 445 c 0
- 574 539 533 636 431 636 c 0
- 258 636 129 399 129 205 c 0
- 129 111 170 17 272 17 c 0
+277 -14 m 0
+ 121 -14 52 105 52 243 c 0
+ 52 435 192 664 442 664 c 0
+ 598 664 667 545 667 407 c 0
+ 667 215 527 -14 277 -14 c 0
+280 17 m 0
+ 461 17 582 251 582 445 c 0
+ 582 539 541 636 439 636 c 0
+ 266 636 137 399 137 205 c 0
+ 137 111 178 17 280 17 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D442.s u1D442.ss
 EndChar

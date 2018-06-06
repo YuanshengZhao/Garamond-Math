@@ -1,10 +1,10 @@
 StartChar: u1D6FD
-Encoding: 120573 120573 1062
+Encoding: 120573 120573 1036
 Width: 549
 GlyphClass: 2
 Flags: W
 TeX: 705 285
-ItalicCorrection: 51
+ItalicCorrection: 43
 TopAccentHorizontal: 424
 HStem: -14 66<225.062 352.357> 230 102<286.867 339.239> 633 72<356.917 473.383>
 VStem: 451 37<147.241 266.399> 491 34<513.808 611.426>
@@ -40,6 +40,5 @@ SplineSet
  161 145 159 137 159 129 c 0
  159 103 204 52 278 52 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6FD.s u1D6FD.ss
 EndChar

@@ -1,10 +1,11 @@
 StartChar: u1D438
 Encoding: 119864 119864 587
+AltUni2: 01d6e6.ffffffff.0
 Width: 644
 GlyphClass: 2
 Flags: W
 TeX: 660 5
-ItalicCorrection: 51
+ItalicCorrection: 34
 TopAccentHorizontal: 449
 HStem: -5 31<-5.64868 86.9023 208.675 464.05> 322 27<290.297 454.349> 622 28<188.258 267.124 367.525 576.119>
 VStem: 466 26<237.015 309.096> 590 28<516.463 594.81>

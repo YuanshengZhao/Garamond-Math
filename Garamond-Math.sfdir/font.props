@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1528203053
+ModificationTime: 1528248068
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -63,16 +63,15 @@ Lookup: 1 0 0 "'ss04' Style Set SemiBold" { } ['ss04' ('DFLT' <'dflt' > 'grek' <
 Lookup: 3 0 0 "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0" { "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable"  } ['aalt' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
-Lookup: 258 0 0 "mkn" { "mkn-1"  } []
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss01' 1033 "garamondBB"
-OtfFeatName: 'ss02' 1033 "VarPartial"
-OtfFeatName: 'ss03' 1033 "ScrCal"
 OtfFeatName: 'ss04' 1033 "SemiBold"
-MATH:ScriptPercentScaleDown: 74
-MATH:ScriptScriptPercentScaleDown: 55
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss01' 1033 "garamondBB"
+MATH:ScriptPercentScaleDown: 70
+MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1300
 MATH:DisplayOperatorMinHeight: 1300
 MATH:MathLeading: 140 
@@ -129,13 +128,12 @@ MATH:RadicalKernAfterDegree: -355
 MATH:RadicalDegreeBottomRaisePercent: 55
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1464 12 9
+WinInfo: 120156 51 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
