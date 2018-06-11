@@ -1,9 +1,8 @@
 StartChar: uni27EB.v1
-Encoding: 1114372 -1 1419
+Encoding: 1114516 -1 1563
 Width: 615
 GlyphClass: 2
 Flags: W
-TeX: 850 310
 LayerCount: 2
 Fore
 SplineSet
@@ -30,5 +29,4 @@ SplineSet
  152.451171875 -341 134.451171875 -350 118.451171875 -350 c 0
  113.451171875 -350 108.451171875 -343 110.451171875 -337 c 2
 EndSplineSet
-Validated: 33
 EndChar

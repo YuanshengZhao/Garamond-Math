@@ -1,10 +1,10 @@
 StartChar: dotlessi.frab
-Encoding: 1114133 -1 1180
+Encoding: 1114132 -1 1179
 Width: 378
 GlyphClass: 2
 Flags: W
-TeX: 455 23
-TopAccentHorizontal: 188
+TeX: 445 177
+TopAccentHorizontal: 172
 HStem: 435 20G<166.739 193>
 VStem: 135 96<87.0952 320.926>
 LayerCount: 2
@@ -28,5 +28,4 @@ SplineSet
  240 93 253 101 263 109 c 1
  298 74 l 1
 EndSplineSet
-Validated: 33
 EndChar

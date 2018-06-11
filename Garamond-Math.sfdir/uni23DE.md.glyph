@@ -1,9 +1,7 @@
 StartChar: uni23DE.md
-Encoding: 1114339 -1 1386
+Encoding: 1114881 -1 1928
 Width: 2967
-GlyphClass: 2
 Flags: W
-TeX: -853 676
 HStem: 680 64<0 1267.95 1698.34 2968>
 LayerCount: 2
 Fore
@@ -23,5 +21,4 @@ SplineSet
  1522 768 1723 744 1858 744 c 0
  2395 744 2426 744 2968 744 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,7 +1,8 @@
 StartChar: caroncmb.h28
-Encoding: 1115005 -1 2052
+Encoding: 1114731 -1 1778
 Width: 5798
 VWidth: 1110
+GlyphClass: 2
 Flags: W
 HStem: 822.415 23<1.03961 88.2937 5716.52 5797.53>
 LayerCount: 2
@@ -19,5 +20,4 @@ SplineSet
  5793 846.415039062 5798 838.415039062 5798 829.415039062 c 0
  5798 826.415039062 5795 822.415039062 5791 822.415039062 c 2
 EndSplineSet
-Validated: 33
 EndChar

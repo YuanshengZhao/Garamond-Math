@@ -1,11 +1,8 @@
 StartChar: uni23E1.h3
-Encoding: 1114262 -1 1309
+Encoding: 1115024 -1 2071
 Width: 1243
 VWidth: 1003
-GlyphClass: 2
 Flags: W
-TeX: -95 288
-ItalicCorrection: 28
 HStem: -239 52<70.125 1173.88>
 LayerCount: 2
 Fore
@@ -26,5 +23,4 @@ SplineSet
  1263 -96 1265 -100 1263 -103 c 0
  1207 -212 l 2
 EndSplineSet
-Validated: 1
 EndChar

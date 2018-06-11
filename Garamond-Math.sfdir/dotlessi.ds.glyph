@@ -1,10 +1,10 @@
 StartChar: dotlessi.ds
-Encoding: 1114125 -1 1172
+Encoding: 1114124 -1 1171
 Width: 258
 GlyphClass: 2
 Flags: W
-TeX: 450 0
-TopAccentHorizontal: 268
+TeX: 962 461
+IsExtendedShape: 1
 HStem: 0 44<99 159> 406 44<99 159>
 VStem: 55 44<44 406> 159 44<44 406>
 LayerCount: 2
@@ -29,6 +29,5 @@ SplineSet
  99 47 102 44 109 44 c 2
  149 44 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'ss01' Style Set-1" dotlessi.dsgm
 EndChar

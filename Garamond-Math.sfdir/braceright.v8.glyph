@@ -1,8 +1,10 @@
 StartChar: braceright.v8
-Encoding: 1114518 -1 1565
+Encoding: 1114243 -1 1290
 Width: 606
 GlyphClass: 2
 Flags: W
+TeX: 1084 584
+IsExtendedShape: 1
 HStem: -1210 27<113.311 185.223> 1680 29<110.026 182.384>
 VStem: 265 85<-236.49 95.6802 402.706 734.49> 278 85<-1063.16 -718.243 1216.24 1558.37>
 LayerCount: 2
@@ -29,5 +31,4 @@ SplineSet
  350 -256 363 -688 363 -958 c 0
  363 -1092 265 -1201 131 -1210 c 0xd0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,9 @@
 StartChar: Q.c
-Encoding: 1116075 -1 4259
+Encoding: 1116070 -1 4254
 Width: 867
 Flags: W
-ItalicCorrection: 39
-TopAccentHorizontal: 546
+ItalicCorrection: 11
+TopAccentHorizontal: 513
 HStem: -110.5 54.5195<536.42 698.411> -19.3203 54.5205<186.431 308.345> 103.82 54.5195<298.326 429.619> 615.18 54.5205<453.859 600.767>
 VStem: 137.63 83.6602<236.929 381.198> 712.91 83.6602<314.679 498.888>
 LayerCount: 2

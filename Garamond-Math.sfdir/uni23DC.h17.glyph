@@ -1,7 +1,6 @@
 StartChar: uni23DC.h17
-Encoding: 1114793 -1 1840
+Encoding: 1114923 -1 1970
 Width: 4776
-GlyphClass: 2
 Flags: W
 HStem: 761 61<2192.61 2573.46>
 LayerCount: 2
@@ -19,5 +18,4 @@ SplineSet
  3764 822 4669 692 4772 619 c 0
  4775 616 4776 613 4776 609 c 0
 EndSplineSet
-Validated: 1
 EndChar

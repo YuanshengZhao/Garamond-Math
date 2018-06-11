@@ -1,8 +1,10 @@
 StartChar: uni230B.tp
-Encoding: 1114474 -1 1521
+Encoding: 1114387 -1 1434
 Width: 521
 GlyphClass: 2
 Flags: W
+TeX: 1350 850
+IsExtendedShape: 1
 HStem: 0 21G<338 411>
 VStem: 338 73<0 2351.15>
 LayerCount: 2
@@ -15,5 +17,4 @@ SplineSet
  338 0 l 1
  338 2316 l 2
 EndSplineSet
-Validated: 1
 EndChar

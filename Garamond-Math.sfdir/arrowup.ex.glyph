@@ -1,7 +1,9 @@
 StartChar: arrowup.ex
-Encoding: 1116111 -1 4295
+Encoding: 1116331 -1 4515
 Width: 440
 Flags: W
+ItalicCorrection: 100
+TopAccentHorizontal: 214
 VStem: 197 46<-218.757 614.757>
 LayerCount: 2
 Fore

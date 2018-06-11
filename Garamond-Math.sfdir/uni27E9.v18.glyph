@@ -1,5 +1,5 @@
 StartChar: uni27E9.v18
-Encoding: 1114612 -1 1659
+Encoding: 1114493 -1 1540
 Width: 600
 GlyphClass: 2
 Flags: W
@@ -18,5 +18,4 @@ SplineSet
  151.12890625 -2466 135.12890625 -2475 119.12890625 -2475 c 0
  114.12890625 -2475 109.12890625 -2468 110.12890625 -2462 c 2
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,8 +1,9 @@
 StartChar: M.cb
-Encoding: 1116097 -1 4281
+Encoding: 1116092 -1 4276
 Width: 1377
 Flags: W
-TopAccentHorizontal: 823
+ItalicCorrection: 40
+TopAccentHorizontal: 607
 HStem: -35.8398 130.66<121.118 216.049> -13.2803 83.6602<1087.73 1201> 651.04 20G<488.48 506.81 1202.41 1212.28>
 VStem: 400.12 121.26<564.894 635.412> 1046.84 122.2<72.4288 410.441>
 LayerCount: 2

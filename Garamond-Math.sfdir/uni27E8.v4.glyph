@@ -1,9 +1,9 @@
 StartChar: uni27E8.v4
-Encoding: 1114381 -1 1428
+Encoding: 1114459 -1 1506
 Width: 459
 GlyphClass: 2
 Flags: W
-TeX: 1225 725
+ItalicCorrection: 397
 IsExtendedShape: 1
 VStem: 304 45<-722.272 -674.562 1174.56 1222.27>
 LayerCount: 2
@@ -21,5 +21,4 @@ SplineSet
  170 253 170 247 171 240 c 2
  349 -712 l 2
 EndSplineSet
-Validated: 33
 EndChar

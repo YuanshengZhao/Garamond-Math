@@ -1,5 +1,5 @@
 StartChar: radical.v3
-Encoding: 1114462 -1 1509
+Encoding: 1114436 -1 1483
 Width: 667
 GlyphClass: 2
 Flags: W
@@ -28,5 +28,4 @@ SplineSet
  694 1019 702 1012 702 1006 c 4
  702 986 691 969 671 969 c 2
 EndSplineSet
-Validated: 1
 EndChar

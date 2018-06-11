@@ -1,7 +1,6 @@
 StartChar: uni2037.st
-Encoding: 1114440 -1 1487
+Encoding: 1115050 -1 2097
 Width: 639
-GlyphClass: 2
 Flags: W
 VStem: -124 125<432.734 541.947> 125 124<432.734 541.947> 373 124<432.734 541.947>
 LayerCount: 2
@@ -29,5 +28,4 @@ SplineSet
  506 457 568 213 568 182 c 0
  568 166 566 151 548 151 c 0
 EndSplineSet
-Validated: 1
 EndChar

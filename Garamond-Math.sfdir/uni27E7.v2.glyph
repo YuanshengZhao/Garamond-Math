@@ -1,9 +1,8 @@
 StartChar: uni27E7.v2
-Encoding: 1114232 -1 1279
+Encoding: 1114409 -1 1456
 Width: 581
 GlyphClass: 2
 Flags: W
-TeX: 940 440
 IsExtendedShape: 1
 HStem: -458 33<110.01 183.923> 930 29<110.149 225 321 375>
 VStem: 248 73<-411.716 923.749> 398 73<-411.778 923.794>
@@ -35,5 +34,4 @@ SplineSet
  331 927 l 0
  324 927 321 925 321 918 c 2
 EndSplineSet
-Validated: 33
 EndChar

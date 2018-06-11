@@ -1,8 +1,10 @@
 StartChar: braceleft.v7
-Encoding: 1114503 -1 1550
+Encoding: 1114222 -1 1269
 Width: 596
 GlyphClass: 2
 Flags: W
+TeX: 959 459
+IsExtendedShape: 1
 HStem: -1084 27<407.871 482.974> 1556 29<410.594 485.974>
 VStem: 238 85<-947.747 -603.596 1101.6 1443.52> 251 85<-226.768 106.774 393.866 724.768>
 LayerCount: 2
@@ -29,5 +31,4 @@ SplineSet
  468 -1058 483 -1059 483 -1070 c 0
  483 -1079 474 -1085 465 -1084 c 0xe0
 EndSplineSet
-Validated: 1
 EndChar

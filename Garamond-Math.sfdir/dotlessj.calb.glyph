@@ -1,9 +1,9 @@
 StartChar: dotlessj.calb
-Encoding: 1114130 -1 1177
+Encoding: 1114129 -1 1176
 Width: 465
 GlyphClass: 2
 Flags: W
-TeX: 411 291
+TeX: 411 14
 HStem: -286 34<-36.141 52.8262> -193 34<260.745 369.314> -128 34<-4.73656 115.139> 314 35<76.3837 238.54>
 VStem: -148 100<-243.205 -160.079>
 LayerCount: 2
@@ -44,5 +44,4 @@ SplineSet
  385 -174 355 -193 312 -193 c 0
  289 -193 265 -190 243 -186 c 0
 EndSplineSet
-Validated: 1
 EndChar

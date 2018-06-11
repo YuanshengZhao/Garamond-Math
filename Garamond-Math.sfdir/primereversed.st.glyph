@@ -1,7 +1,6 @@
 StartChar: primereversed.st
-Encoding: 1114436 -1 1483
+Encoding: 1115046 -1 2093
 Width: 253
-GlyphClass: 2
 Flags: W
 VStem: -13 124<432.734 541.947>
 LayerCount: 2
@@ -15,5 +14,4 @@ SplineSet
  120 457 181 213 181 182 c 0
  181 166 179 151 161 151 c 0
 EndSplineSet
-Validated: 1
 EndChar

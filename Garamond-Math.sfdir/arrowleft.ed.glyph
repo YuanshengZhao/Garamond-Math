@@ -1,7 +1,9 @@
 StartChar: arrowleft.ed
-Encoding: 1116044 -1 4205
+Encoding: 1116328 -1 4512
 Width: 520
 Flags: W
+ItalicCorrection: 100
+TopAccentHorizontal: 265
 HStem: 227 46<51.8946 468.105>
 LayerCount: 2
 Fore
@@ -14,5 +16,4 @@ SplineSet
  470 243 456 227 439 227 c 0
  63 227 l 0
 EndSplineSet
-Validated: 1
 EndChar

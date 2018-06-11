@@ -1,10 +1,7 @@
 StartChar: uni23DF.h5
-Encoding: 1114300 -1 1347
+Encoding: 1114887 -1 1934
 Width: 1770
-GlyphClass: 2
 Flags: W
-TeX: -108 319
-ItalicCorrection: 28
 HStem: -251 54<75.1029 726.386 1045.61 1696.47> -244 54<161.367 810.49 960.299 1610.63>
 VStem: 0 17<-147.595 -108.039>
 LayerCount: 2
@@ -31,5 +28,4 @@ SplineSet
  1755 -118 1754 -110 1761 -110 c 0
  1766 -110 1771 -116 1770 -121 c 0xa0
 EndSplineSet
-Validated: 1
 EndChar

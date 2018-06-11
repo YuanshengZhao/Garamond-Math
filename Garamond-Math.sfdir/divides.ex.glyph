@@ -1,5 +1,5 @@
 StartChar: divides.ex
-Encoding: 1114419 -1 1466
+Encoding: 1114557 -1 1604
 Width: 478
 GlyphClass: 2
 Flags: W
@@ -14,5 +14,4 @@ SplineSet
  213 1000 l 1
  265 1000 l 1
 EndSplineSet
-Validated: 1
 EndChar

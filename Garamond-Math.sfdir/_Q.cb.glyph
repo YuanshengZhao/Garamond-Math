@@ -1,9 +1,9 @@
 StartChar: Q.cb
-Encoding: 1116101 -1 4285
+Encoding: 1116096 -1 4280
 Width: 939
 Flags: W
-ItalicCorrection: 40
-TopAccentHorizontal: 549
+ItalicCorrection: 13
+TopAccentHorizontal: 532
 HStem: -124.11 81.7803<582.124 734.698> -32.9297 81.7793<206.189 317.223> 104.31 81.7803<272.3 480.756> 586.53 81.7793<483.99 687.266>
 VStem: 142.58 122.2<258.975 378.749> 730.08 122.2<320.764 470.415>
 LayerCount: 2

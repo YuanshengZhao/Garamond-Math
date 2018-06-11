@@ -1,7 +1,9 @@
 StartChar: arrowdblup.ex
-Encoding: 1116112 -1 4296
+Encoding: 1116332 -1 4516
 Width: 460
 Flags: W
+ItalicCorrection: 100
+TopAccentHorizontal: 337
 VStem: 137 46<-218.757 614.757> 277 46<-218.757 614.757>
 LayerCount: 2
 Fore

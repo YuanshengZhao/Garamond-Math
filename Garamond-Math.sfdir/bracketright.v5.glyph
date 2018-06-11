@@ -1,10 +1,9 @@
 StartChar: bracketright.v5
-Encoding: 1114292 -1 1339
+Encoding: 1114200 -1 1247
 Width: 446
 GlyphClass: 2
 Flags: W
-TeX: 1334 832
-IsExtendedShape: 1
+TeX: 834 334
 HStem: -832 33<110.249 192> 1306 28<110.009 240>
 VStem: 263 73<-785.783 1299.78>
 LayerCount: 2
@@ -26,5 +25,4 @@ SplineSet
  336 -808 l 2
  336 -832 328 -832 305 -832 c 2
 EndSplineSet
-Validated: 1
 EndChar

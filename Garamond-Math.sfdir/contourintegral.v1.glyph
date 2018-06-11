@@ -1,10 +1,8 @@
 StartChar: contourintegral.v1
-Encoding: 1114453 -1 1500
+Encoding: 1114639 -1 1686
 Width: 1007
 GlyphClass: 2
 Flags: W
-ItalicCorrection: 397
-IsExtendedShape: 1
 HStem: -717 54<186.198 280.356> 1166 55<686.581 783.078>
 VStem: 173 50<144.865 357.737> 759 50<142.048 355.236>
 LayerCount: 2
@@ -50,5 +48,4 @@ SplineSet
  420 -9 424 -6 425 1 c 2
  475 508 l 2
 EndSplineSet
-Validated: 1
 EndChar

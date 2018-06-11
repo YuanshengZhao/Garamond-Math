@@ -1,10 +1,10 @@
 StartChar: dotlessj.ds
-Encoding: 1114126 -1 1173
+Encoding: 1114125 -1 1172
 Width: 305
 GlyphClass: 2
 Flags: W
-TeX: 450 217
-TopAccentHorizontal: 369
+TeX: 450 0
+TopAccentHorizontal: 268
 HStem: -217 45<-5.14362 104.936> 406 44<151 206>
 VStem: 107 44<-143 406> 206 44<-124.659 406>
 LayerCount: 2
@@ -31,6 +31,5 @@ SplineSet
  151 -150 154 -152 160 -148 c 0
  190 -129 206 -94 206 -58 c 2
 EndSplineSet
-Validated: 33
 Substitution2: "'ss01' Style Set-1" dotlessj.dsgm
 EndChar

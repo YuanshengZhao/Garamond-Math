@@ -1,7 +1,9 @@
 StartChar: arrowdblleft.ed
-Encoding: 1116046 -1 4207
+Encoding: 1116330 -1 4514
 Width: 520
 Flags: W
+ItalicCorrection: 100
+TopAccentHorizontal: 263
 HStem: 157 46<54.2979 465.702> 297 46<54.2979 465.702>
 LayerCount: 2
 Fore

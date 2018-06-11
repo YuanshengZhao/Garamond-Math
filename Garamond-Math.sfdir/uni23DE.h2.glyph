@@ -1,10 +1,7 @@
 StartChar: uni23DE.h2
-Encoding: 1114233 -1 1280
+Encoding: 1114860 -1 1907
 Width: 1020
-GlyphClass: 2
 Flags: W
-TeX: 751 -557
-ItalicCorrection: 28
 HStem: 631 52<188.317 460.94 560.372 833.683> 639 52<48.7552 325.145 696.855 972.78>
 VStem: 0 17<557.039 599.222> 1004 16<559.107 600.761>
 LayerCount: 2
@@ -31,5 +28,4 @@ SplineSet
  702 683 820 691 912 691 c 0
  978 691 1016 631 1020 570 c 0x70
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,8 +1,9 @@
 StartChar: u1D417.sb
-Encoding: 1116136 -1 4320
+Encoding: 1116129 -1 4313
 Width: 735
 Flags: W
-TopAccentHorizontal: 404
+ItalicCorrection: 37
+TopAccentHorizontal: 374
 HStem: -6 35<-4.41016 63.6973 200.75 266.909 383.049 446.544 664.306 729.313> 619 35<18.721 82.3906 284.952 360.373 463.799 531.608 648.258 716.51>
 LayerCount: 2
 Fore

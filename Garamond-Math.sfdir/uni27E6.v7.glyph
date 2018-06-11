@@ -1,7 +1,9 @@
 StartChar: uni27E6.v7
-Encoding: 1114853 -1 1900
+Encoding: 1114394 -1 1441
 Width: 606
+GlyphClass: 2
 Flags: W
+TeX: 778 278
 HStem: -1082 33<408.615 495.751> 1556 28<192.005 260 356 495.991>
 VStem: 110 73<-1035.78 1549.78> 260 73<-1035.72 1549.77>
 LayerCount: 2
@@ -35,5 +37,4 @@ SplineSet
  257 -1043 260 -1040 260 -1033 c 0
  260 1542 l 2
 EndSplineSet
-Validated: 1
 EndChar

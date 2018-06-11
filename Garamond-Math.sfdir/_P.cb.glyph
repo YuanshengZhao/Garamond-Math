@@ -1,9 +1,9 @@
 StartChar: P.cb
-Encoding: 1116100 -1 4284
+Encoding: 1116095 -1 4279
 Width: 809
 Flags: W
-ItalicCorrection: 81
-TopAccentHorizontal: 490
+ItalicCorrection: 18
+TopAccentHorizontal: 443
 HStem: 202.99 81.7793<396.388 514.693> 572.41 81.7803<438.353 608.283>
 VStem: 318.38 117.5<429.349 572.41> 699.08 122.2<428.766 544.21>
 LayerCount: 2

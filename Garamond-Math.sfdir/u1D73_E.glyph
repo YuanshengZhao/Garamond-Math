@@ -1,28 +1,27 @@
 StartChar: u1D73E
 Encoding: 120638 120638 1088
-Width: 315
+Width: 320
 GlyphClass: 2
 Flags: W
 TeX: 433 15
 ItalicCorrection: 46
 TopAccentHorizontal: 218
-HStem: -15 110<101.5 192>
-VStem: 34 240
+HStem: -15 110<106.5 197>
+VStem: 39 240
 LayerCount: 2
 Fore
 SplineSet
-115 -15 m 0
- 88 -15 21 32 34 74 c 2
- 136 398 l 2
- 145 427 155 433 177 433 c 0
- 218 433 269 405 262 383 c 0
- 245 327 177 194 157 132 c 0
- 149 106 157 95 182 95 c 0
- 202 95 224 108 240 119 c 0
- 253 128 263 136 265 136 c 0
- 274 136 279 130 274 116 c 0
- 258 67 183 -15 115 -15 c 0
+120 -15 m 0
+ 93 -15 26 32 39 74 c 2
+ 141 398 l 2
+ 150 427 160 433 182 433 c 0
+ 223 433 274 405 267 383 c 0
+ 250 327 182 194 162 132 c 0
+ 154 106 162 95 187 95 c 0
+ 207 95 229 108 245 119 c 0
+ 258 128 268 136 270 136 c 0
+ 279 136 284 130 279 116 c 0
+ 263 67 188 -15 120 -15 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D73E.s u1D73E.ss
 EndChar

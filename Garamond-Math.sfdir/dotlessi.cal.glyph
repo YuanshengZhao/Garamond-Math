@@ -1,9 +1,10 @@
 StartChar: dotlessi.cal
-Encoding: 1114127 -1 1174
+Encoding: 1114126 -1 1173
 Width: 468
 GlyphClass: 2
 Flags: W
-TeX: 406 14
+TeX: 450 217
+TopAccentHorizontal: 369
 HStem: -11 27<204.897 274.321> 306 27<73.3924 182.263>
 VStem: 131 63<20.2496 149.737>
 LayerCount: 2
@@ -30,5 +31,4 @@ SplineSet
  131 108 155 181 181 244 c 0
  194 275 206 300 219 331 c 0
 EndSplineSet
-Validated: 1
 EndChar

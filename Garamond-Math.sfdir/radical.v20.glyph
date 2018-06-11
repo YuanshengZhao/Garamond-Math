@@ -1,8 +1,10 @@
 StartChar: radical.v20
-Encoding: 1114698 -1 1745
+Encoding: 1114453 -1 1500
 Width: 1049
 GlyphClass: 2
 Flags: W
+ItalicCorrection: 397
+IsExtendedShape: 1
 HStem: 22 44<116.505 182> 3264 50<1036 1082.45>
 LayerCount: 2
 Fore
@@ -28,5 +30,4 @@ SplineSet
  1076 3314 1085 3307 1085 3301 c 4
  1085 3281 1073 3264 1053 3264 c 2
 EndSplineSet
-Validated: 1
 EndChar

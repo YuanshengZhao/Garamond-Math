@@ -1,6 +1,7 @@
 StartChar: tildecomb.h7
-Encoding: 1114909 -1 1956
+Encoding: 1114803 -1 1850
 Width: 1600
+GlyphClass: 2
 Flags: W
 HStem: 568 59<968.947 1384.97> 658 61<215.382 634.396>
 LayerCount: 2
@@ -16,5 +17,4 @@ SplineSet
  1585 715 1600 708 1600 695 c 0
  1600 654 1436 568 1187 568 c 4
 EndSplineSet
-Validated: 1
 EndChar

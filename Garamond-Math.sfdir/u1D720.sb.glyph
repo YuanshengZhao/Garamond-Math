@@ -1,9 +1,9 @@
 StartChar: u1D720.sb
-Encoding: 1116279 -1 4463
+Encoding: 1116272 -1 4456
 Width: 656
 Flags: W
 ItalicCorrection: 100
-TopAccentHorizontal: 287
+TopAccentHorizontal: 268
 HStem: 0 33<-22.166 62.5661 229.06 447.162> 316 36<307.711 449.191> 621 33<166.896 230.54 386.449 560.359> 642 20G<622.106 630.606>
 VStem: 456.106 32<227.105 308.988> 584.106 31<501.128 594.795>
 LayerCount: 2

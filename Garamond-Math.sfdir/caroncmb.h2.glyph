@@ -1,9 +1,8 @@
 StartChar: caroncmb.h2
-Encoding: 1114151 -1 1198
+Encoding: 1114705 -1 1752
 Width: 610
 GlyphClass: 2
 Flags: W
-TeX: -695 500
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +18,4 @@ SplineSet
  607 749.125 610 748.125 610 745.125 c 0
  610 735.125 605 722.125 596 716.125 c 2
 EndSplineSet
-Validated: 33
 EndChar

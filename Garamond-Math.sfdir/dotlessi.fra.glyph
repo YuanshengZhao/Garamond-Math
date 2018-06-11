@@ -1,10 +1,9 @@
 StartChar: dotlessi.fra
-Encoding: 1114131 -1 1178
+Encoding: 1114130 -1 1177
 Width: 337
 GlyphClass: 2
 Flags: W
-TeX: 445 25
-TopAccentHorizontal: 169
+TeX: 411 291
 VStem: 130 64<52.0124 349.89>
 LayerCount: 2
 Fore
@@ -28,5 +27,4 @@ SplineSet
  244 74 l 1
  257 62 l 1
 EndSplineSet
-Validated: 1
 EndChar

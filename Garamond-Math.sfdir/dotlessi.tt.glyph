@@ -1,10 +1,10 @@
 StartChar: dotlessi.tt
-Encoding: 1114135 -1 1182
+Encoding: 1114134 -1 1181
 Width: 524
 GlyphClass: 2
 Flags: W
-TeX: 417 0
-TopAccentHorizontal: 267
+TeX: 455 169
+TopAccentHorizontal: 199
 HStem: 1 60<78.7904 240 309.999 453.987> 369 60.999<87.144 240>
 VStem: 240 69.999<61 369>
 LayerCount: 2
@@ -30,5 +30,4 @@ SplineSet
  107 369 110 370 106 371 c 0
  97 374 90 381 87 391 c 2
 EndSplineSet
-Validated: 33
 EndChar

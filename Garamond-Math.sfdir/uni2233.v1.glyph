@@ -1,10 +1,8 @@
 StartChar: uni2233.v1
-Encoding: 1114459 -1 1506
+Encoding: 1114645 -1 1692
 Width: 1007
 GlyphClass: 2
 Flags: W
-ItalicCorrection: 397
-IsExtendedShape: 1
 HStem: -717 54<186.198 280.356> 1166 55<686.581 783.078>
 LayerCount: 2
 Fore
@@ -62,5 +60,4 @@ SplineSet
  420 -9 424 -6 425 1 c 2
  475 508 l 2
 EndSplineSet
-Validated: 33
 EndChar

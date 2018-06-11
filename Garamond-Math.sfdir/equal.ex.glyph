@@ -1,7 +1,9 @@
 StartChar: equal.ex
-Encoding: 1116042 -1 4203
+Encoding: 1116326 -1 4510
 Width: 346
 Flags: W
+ItalicCorrection: 100
+TopAccentHorizontal: 241
 HStem: 143 50<-56.8958 401.757> 314 50<-56.8958 400.543>
 LayerCount: 2
 Fore
@@ -21,5 +23,4 @@ SplineSet
  406 164 390 143 374 143 c 2
  -46 143 l 2
 EndSplineSet
-Validated: 1
 EndChar

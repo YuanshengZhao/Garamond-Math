@@ -1,8 +1,10 @@
 StartChar: uni27EF.v19
-Encoding: 1114669 -1 1716
+Encoding: 1114296 -1 1343
 Width: 423
 GlyphClass: 2
 Flags: W
+TeX: 1341 833
+IsExtendedShape: 1
 VStem: 230 83<58.9631 500.66>
 LayerCount: 2
 Fore
@@ -19,5 +21,4 @@ SplineSet
  313 -1321 293 -2440 155 -2578 c 0
  150 -2583 144 -2584 138 -2584 c 0
 EndSplineSet
-Validated: 33
 EndChar

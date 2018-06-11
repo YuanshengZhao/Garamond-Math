@@ -1,9 +1,9 @@
 StartChar: F.cb
-Encoding: 1116090 -1 4274
+Encoding: 1116085 -1 4269
 Width: 814
 Flags: W
-ItalicCorrection: 124
-TopAccentHorizontal: 565
+ItalicCorrection: 81
+TopAccentHorizontal: 693
 HStem: -18.8896 134.42<90.7995 177.032> 269.69 95.8799<645.124 720.775> 283.79 81.7803<493.74 659.512> 549.81 105.28<780.44 856.534> 573.31 81.7803<367.311 440.16 548.295 779.777>
 VStem: 440.16 111.859<481.659 573.31>
 LayerCount: 2

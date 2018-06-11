@@ -1,9 +1,9 @@
 StartChar: uni2309.v4
-Encoding: 1114272 -1 1319
+Encoding: 1114327 -1 1374
 Width: 441
 GlyphClass: 2
 Flags: W
-TeX: 1210 715
+TeX: 2296 1796
 IsExtendedShape: 1
 HStem: 1182 28<110.009 235>
 VStem: 258 73<-707.147 1175.78>
@@ -22,5 +22,4 @@ SplineSet
  325 1210 331 1210 331 1176 c 2
  331 -672 l 2
 EndSplineSet
-Validated: 1
 EndChar

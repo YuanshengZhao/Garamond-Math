@@ -1,9 +1,9 @@
 StartChar: W.c
-Encoding: 1116081 -1 4265
+Encoding: 1116076 -1 4260
 Width: 1054
 Flags: W
-ItalicCorrection: 68
-TopAccentHorizontal: 628
+ItalicCorrection: 23
+TopAccentHorizontal: 511
 HStem: 561.46 90.2402<968.368 1008.1> 601.88 49.8203<80.9854 141.551>
 VStem: 220.2 74.2598<129.834 486.223> 585.86 82.7197<592.703 635.37> 1025.78 43.2393<444.122 589.19>
 LayerCount: 2

@@ -1,9 +1,9 @@
 StartChar: K.c
-Encoding: 1116069 -1 4253
+Encoding: 1116064 -1 4248
 Width: 807
 Flags: W
-ItalicCorrection: 46
-TopAccentHorizontal: 445
+ItalicCorrection: 123
+TopAccentHorizontal: 524
 HStem: -8.65039 44.1807<515.782 628.863> 628.67 44.1797<601.239 709.85>
 VStem: 258.18 62.9805<330.046 439.517> 684 62.9805<84.0003 130.234 577.989 625.351>
 LayerCount: 2

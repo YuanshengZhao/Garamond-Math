@@ -1,9 +1,8 @@
 StartChar: brevebelowcmb.h1
-Encoding: 1114138 -1 1185
+Encoding: 1114661 -1 1708
 Width: 444
 GlyphClass: 2
 Flags: W
-TeX: -81 214
 HStem: -214 55<94.7772 349.531>
 LayerCount: 2
 Fore
@@ -18,5 +17,4 @@ SplineSet
  404 -177 349 -214 222 -214 c 0
  95 -214 40 -177 1 -93 c 0
 EndSplineSet
-Validated: 1
 EndChar

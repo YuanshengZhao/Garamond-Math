@@ -1,10 +1,7 @@
 StartChar: uni23DC.h6
-Encoding: 1114345 -1 1392
+Encoding: 1114912 -1 1959
 Width: 2026
-GlyphClass: 2
 Flags: W
-TeX: 760 -592
-ItalicCorrection: 28
 HStem: 706 55<797.693 1207>
 LayerCount: 2
 Fore
@@ -21,5 +18,4 @@ SplineSet
  1564 761 1958 672 2022 619 c 0
  2025 616 2026 613 2026 609 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,10 @@
 StartChar: uni27EF.tp
-Encoding: 1114316 -1 1363
+Encoding: 1114303 -1 1350
 Width: 530
 GlyphClass: 2
 Flags: W
-TeX: 2034 0
+TeX: 694 -546
+ItalicCorrection: 28
 HStem: 0 21G<337 420>
 VStem: 337 83<0 527.943>
 LayerCount: 2
@@ -19,5 +20,4 @@ SplineSet
  301 2584 420 1970 420 300 c 4
  420 0 l 4
 EndSplineSet
-Validated: 1
 EndChar

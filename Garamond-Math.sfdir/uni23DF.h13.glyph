@@ -1,7 +1,6 @@
 StartChar: uni23DF.h13
-Encoding: 1114677 -1 1724
+Encoding: 1114895 -1 1942
 Width: 3770
-GlyphClass: 2
 Flags: W
 HStem: -276 59<152.396 1596.9 2175.1 3622.03> -269 59<290.858 1734.82 2034.28 3481.14>
 VStem: 0 17<-143.439 -108.039>
@@ -29,5 +28,4 @@ SplineSet
  3755 -118 3754 -110 3761 -110 c 0
  3766 -110 3771 -116 3770 -121 c 0xa0
 EndSplineSet
-Validated: 1
 EndChar

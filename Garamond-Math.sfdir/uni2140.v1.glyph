@@ -1,10 +1,8 @@
 StartChar: uni2140.v1
-Encoding: 1114124 -1 1171
+Encoding: 1114622 -1 1669
 Width: 1259
 GlyphClass: 2
 Flags: W
-TeX: 962 461
-IsExtendedShape: 1
 HStem: -461 60<140 359.109 426 1191.67> 903 60<145 369.938 436 1032.67>
 LayerCount: 2
 Fore
@@ -46,6 +44,5 @@ SplineSet
  748 247 747 252 744 258 c 2
  364 894 l 2
 EndSplineSet
-Validated: 33
-Substitution2: "'ss01' Style Set-1" uni2140.v1gm
+Substitution2: "Untitled1-Garamond-Math-'ss01' Style Set-1" uni2140.v1gm
 EndChar

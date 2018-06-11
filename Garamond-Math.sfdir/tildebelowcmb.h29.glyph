@@ -1,5 +1,5 @@
 StartChar: tildebelowcmb.h29
-Encoding: 1114956 -1 2003
+Encoding: 1114856 -1 1903
 Width: 6000
 VWidth: 1464
 Flags: W
@@ -17,5 +17,4 @@ SplineSet
  5985 -126.333007812 6000 -133.333007812 6000 -146.333007812 c 0
  6000 -187.333007812 5469.33007812 -365 4487 -365 c 0
 EndSplineSet
-Validated: 1
 EndChar

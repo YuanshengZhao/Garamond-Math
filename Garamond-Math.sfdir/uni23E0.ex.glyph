@@ -1,9 +1,7 @@
 StartChar: uni23E0.ex
-Encoding: 1114364 -1 1411
+Encoding: 1115020 -1 2067
 Width: 1000
-GlyphClass: 2
 Flags: W
-TeX: -748 664
 HStem: 681 59<0 1000>
 LayerCount: 2
 Fore
@@ -14,5 +12,4 @@ SplineSet
  0 740 l 1
  1000 740 l 5
 EndSplineSet
-Validated: 1
 EndChar

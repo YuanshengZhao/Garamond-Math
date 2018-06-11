@@ -1,6 +1,7 @@
 StartChar: circumflexbelowcmb.h15
-Encoding: 1115042 -1 2089
+Encoding: 1114749 -1 1796
 Width: 3204
+GlyphClass: 2
 Flags: W
 HStem: -347.25 23<1.14203 62.3801 3141.62 3202.86>
 LayerCount: 2
@@ -18,5 +19,4 @@ SplineSet
  1592 -100.25 1612 -100.25 1632 -103.25 c 0
  3191 -324.25 l 2
 EndSplineSet
-Validated: 33
 EndChar

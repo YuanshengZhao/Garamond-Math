@@ -1,5 +1,5 @@
 StartChar: uni23E0.h19
-Encoding: 1114907 -1 1954
+Encoding: 1115017 -1 2064
 Width: 5242
 VWidth: 1003
 Flags: W
@@ -23,5 +23,4 @@ SplineSet
  84 728 99 737 119 737 c 0
  5123 737 l 2
 EndSplineSet
-Validated: 1
 EndChar

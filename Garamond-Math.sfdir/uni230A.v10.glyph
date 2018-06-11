@@ -1,8 +1,10 @@
 StartChar: uni230A.v10
-Encoding: 1114730 -1 1777
+Encoding: 1114353 -1 1400
 Width: 471
 GlyphClass: 2
 Flags: W
+TeX: 697 -546
+ItalicCorrection: 28
 HStem: -1458 33<265.538 360.909>
 VStem: 110 73<-1411.78 1958.15>
 LayerCount: 2
@@ -20,5 +22,4 @@ SplineSet
  110 1951 138 1967 165 1967 c 0
  174 1967 183 1955 183 1944 c 2
 EndSplineSet
-Validated: 1
 EndChar

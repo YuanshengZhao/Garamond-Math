@@ -1,9 +1,8 @@
 StartChar: parallel.v1
-Encoding: 1114397 -1 1444
+Encoding: 1114559 -1 1606
 Width: 502
 GlyphClass: 2
 Flags: W
-TeX: 850 310
 VStem: 153 52<-347.047 847.047> 297 52<-347.047 847.047>
 LayerCount: 2
 Fore
@@ -23,5 +22,4 @@ SplineSet
  186 850 205 839 205 819 c 2
  205 -334 l 2
 EndSplineSet
-Validated: 1
 EndChar

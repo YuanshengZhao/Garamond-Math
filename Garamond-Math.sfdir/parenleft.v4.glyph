@@ -1,10 +1,9 @@
 StartChar: parenleft.v4
-Encoding: 1114263 -1 1310
+Encoding: 1114139 -1 1186
 Width: 425
 GlyphClass: 2
 Flags: W
-TeX: 1209 709
-IsExtendedShape: 1
+TeX: 712 -578
 VStem: 50 83<44.3191 520.829>
 LayerCount: 2
 Fore
@@ -21,5 +20,4 @@ SplineSet
  300 -670 314 -686 314 -688 c 0
  314 -702 300 -710 287 -710 c 0
 EndSplineSet
-Validated: 1
 EndChar

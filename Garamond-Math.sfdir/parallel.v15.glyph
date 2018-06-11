@@ -1,5 +1,5 @@
 StartChar: parallel.v15
-Encoding: 1114581 -1 1628
+Encoding: 1114573 -1 1620
 Width: 586
 GlyphClass: 2
 Flags: W
@@ -22,5 +22,4 @@ SplineSet
  228 2600 247 2589 247 2569 c 2
  247 -2084 l 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,7 +1,6 @@
 StartChar: uni23B4.h18
-Encoding: 1114822 -1 1869
+Encoding: 1114970 -1 2017
 Width: 5037
-GlyphClass: 2
 Flags: W
 HStem: 674 58<35.0556 4997.94>
 VStem: 0 29<546.026 659> 5007 30<546.007 637.667>
@@ -24,5 +23,4 @@ SplineSet
  5012 732 l 2
  5036 732 5037 727 5037 712 c 2
 EndSplineSet
-Validated: 1
 EndChar

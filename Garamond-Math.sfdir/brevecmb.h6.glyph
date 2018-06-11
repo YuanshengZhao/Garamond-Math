@@ -1,9 +1,8 @@
 StartChar: brevecmb.h6
-Encoding: 1114187 -1 1234
+Encoding: 1114654 -1 1701
 Width: 1528
 GlyphClass: 2
 Flags: W
-TeX: 716 -578
 HStem: 578 63<546.244 983.393>
 LayerCount: 2
 Fore
@@ -18,5 +17,4 @@ SplineSet
  1469 590 1059 578 765 578 c 0
  470 578 60 590 1 703 c 0
 EndSplineSet
-Validated: 1
 EndChar

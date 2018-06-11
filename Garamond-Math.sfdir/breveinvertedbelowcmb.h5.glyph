@@ -1,9 +1,8 @@
 StartChar: breveinvertedbelowcmb.h5
-Encoding: 1114180 -1 1227
+Encoding: 1114671 -1 1718
 Width: 1313
 GlyphClass: 2
 Flags: W
-TeX: -78 214
 HStem: -139 61<433.188 880.59>
 LayerCount: 2
 Fore
@@ -18,5 +17,4 @@ SplineSet
  58 -89 408 -78 657 -78 c 0
  906 -78 1255 -89 1312 -202 c 0
 EndSplineSet
-Validated: 1
 EndChar

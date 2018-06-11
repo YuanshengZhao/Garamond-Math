@@ -1,8 +1,9 @@
 StartChar: parenright.v19
-Encoding: 1114501 -1 1548
+Encoding: 1114174 -1 1221
 Width: 635
 GlyphClass: 2
 Flags: W
+TeX: -95 292
 VStem: 442 83<58.9631 500.66>
 LayerCount: 2
 Fore
@@ -19,5 +20,4 @@ SplineSet
  525 -1321 293 -2440 155 -2578 c 0
  150 -2583 144 -2584 138 -2584 c 0
 EndSplineSet
-Validated: 1
 EndChar

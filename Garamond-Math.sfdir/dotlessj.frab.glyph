@@ -1,10 +1,10 @@
 StartChar: dotlessj.frab
-Encoding: 1114134 -1 1181
+Encoding: 1114133 -1 1180
 Width: 360
 GlyphClass: 2
 Flags: W
-TeX: 455 169
-TopAccentHorizontal: 199
+TeX: 455 23
+TopAccentHorizontal: 188
 HStem: 435 20G<177.739 204>
 VStem: 146 96<-10.4514 320.926>
 LayerCount: 2
@@ -28,5 +28,4 @@ SplineSet
  242 98 l 2
  242 72 248 1 280 -48 c 1
 EndSplineSet
-Validated: 33
 EndChar

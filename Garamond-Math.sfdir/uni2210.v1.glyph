@@ -1,9 +1,8 @@
 StartChar: uni2210.v1
-Encoding: 1114469 -1 1516
+Encoding: 1114647 -1 1694
 Width: 1226
 GlyphClass: 2
 Flags: W
-IsExtendedShape: 1
 HStem: -443 36<90.5105 180.709 1042.66 1131.49> -440 47<310 913.559> 907 34<89.0787 181.978 356.062 443.921 780.079 868.695 1044.32 1136.92>
 VStem: 225 85<-371.767 871.806> 915 87<-373.426 873.258>
 LayerCount: 2
@@ -43,5 +42,4 @@ SplineSet
  445 918 433 912 406 907 c 0
  347 896 312 869 312 819 c 2xb8
 EndSplineSet
-Validated: 1
 EndChar

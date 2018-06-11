@@ -1,9 +1,7 @@
 StartChar: uni23B5.rt
-Encoding: 1114360 -1 1407
+Encoding: 1114998 -1 2045
 Width: 2570
-GlyphClass: 2
 Flags: W
-TeX: -93 308
 HStem: -288 59<0 2530.94>
 VStem: 2540 30<-191.556 -96.0066>
 LayerCount: 2
@@ -20,5 +18,4 @@ SplineSet
  2567 -96 2570 -105 2570 -113 c 6
  2570 -268 l 6
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,8 @@
 StartChar: uni2A01.v1
-Encoding: 1114433 -1 1480
+Encoding: 1114633 -1 1680
 Width: 1236
 GlyphClass: 2
 Flags: W
-IsExtendedShape: 1
 HStem: -325 64<476.168 759.832> 218 64<115.666 582 656 1117.98> 761 64<476.168 759.832>
 VStem: 43 64<108.168 391.832> 582 74<-242.094 218 282 748.203> 1129 64<108.168 391.832>
 CounterMasks: 1 e0

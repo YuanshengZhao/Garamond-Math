@@ -1,7 +1,8 @@
 StartChar: circumflexcmb.h24
-Encoding: 1114976 -1 2023
+Encoding: 1114696 -1 1743
 Width: 5000
 VWidth: 1110
+GlyphClass: 2
 Flags: W
 HStem: 552 23<0.865421 71.0394 4934.82 4999.53>
 LayerCount: 2
@@ -19,5 +20,4 @@ SplineSet
  2490 831 2510 831 2530 829 c 0
  4993 574 l 2
 EndSplineSet
-Validated: 33
 EndChar

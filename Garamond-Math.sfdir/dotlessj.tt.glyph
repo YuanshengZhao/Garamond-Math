@@ -1,10 +1,10 @@
 StartChar: dotlessj.tt
-Encoding: 1114136 -1 1183
+Encoding: 1114135 -1 1182
 Width: 524
 GlyphClass: 2
 Flags: W
-TeX: 417 186
-TopAccentHorizontal: 328
+TeX: 417 0
+TopAccentHorizontal: 267
 HStem: -241 65<135.118 262.711> 370 60<140.356 298.999>
 VStem: 53 83<-175.95 -125.135> 298.999 69<-136.122 369>
 LayerCount: 2
@@ -29,5 +29,4 @@ SplineSet
  123.041015625 376.435546875 119.84375 424.745117188 154 430 c 1
  346 430 l 2
 EndSplineSet
-Validated: 33
 EndChar

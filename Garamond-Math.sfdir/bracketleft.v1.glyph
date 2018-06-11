@@ -1,9 +1,9 @@
 StartChar: bracketleft.v1
-Encoding: 1114203 -1 1250
+Encoding: 1114176 -1 1223
 Width: 426
 GlyphClass: 2
 Flags: W
-TeX: 834 332
+TeX: -82 248
 HStem: -332 33<244.769 315.751> 806 28<206 315.991>
 VStem: 110 73<-285.783 799.782>
 LayerCount: 2
@@ -25,5 +25,4 @@ SplineSet
  316 -330 302 -332 290 -332 c 2
  141 -332 l 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,9 @@
 StartChar: braceright.v6
-Encoding: 1114318 -1 1365
+Encoding: 1114241 -1 1288
 Width: 586
 GlyphClass: 2
 Flags: W
-TeX: 1459 959
+TeX: 1084 584
 IsExtendedShape: 1
 HStem: -960 27<113.311 185.811> 1430 29<110.026 183.087>
 VStem: 255 85<-209.598 117.049 383.49 707.598> 268 85<-832.576 -494.449 992.449 1328.09>
@@ -31,5 +31,4 @@ SplineSet
  340 -176 353 -518 353 -738 c 0
  353 -862 255 -952 131 -960 c 0xd0
 EndSplineSet
-Validated: 1
 EndChar

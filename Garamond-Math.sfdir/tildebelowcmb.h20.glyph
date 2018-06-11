@@ -1,5 +1,5 @@
 StartChar: tildebelowcmb.h20
-Encoding: 1114947 -1 1994
+Encoding: 1114847 -1 1894
 Width: 4200
 VWidth: 1464
 Flags: W
@@ -17,5 +17,4 @@ SplineSet
  4185 -118.833007812 4200 -125.833007812 4200 -138.833007812 c 0
  4200 -179.833007812 3819.33007812 -320 3137 -320 c 0
 EndSplineSet
-Validated: 1
 EndChar
