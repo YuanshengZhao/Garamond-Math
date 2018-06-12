@@ -1,10 +1,10 @@
 StartChar: nu.ss
-Encoding: 1115254 -1 2626
-Width: 419
+Encoding: 1115254 -1 2600
+Width: 420
 GlyphClass: 2
 Flags: W
 TeX: 418 14
-TopAccentHorizontal: 235
+TopAccentHorizontal: 237
 HStem: -14 21G<161 172> 323 96<38.6729 118.755>
 VStem: 158 34<110.006 261.408> 324 61<237.536 399.531>
 LayerCount: 2

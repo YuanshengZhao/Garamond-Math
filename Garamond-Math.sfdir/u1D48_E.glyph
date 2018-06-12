@@ -49,5 +49,6 @@ SplineSet
  258.018554688 235 208.018554688 136 162.018554688 53 c 0
  138.018554688 9 117.018554688 -15 93.0185546875 -15 c 0
 EndSplineSet
+Substitution2: "'ss04' Style Set 1" u1D48E.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D48E.s u1D48E.ss
 EndChar

@@ -1,11 +1,10 @@
 StartChar: u1D43F.s
-Encoding: 1115435 -1 2807
-Width: 586
+Encoding: 1115435 -1 2781
+Width: 613
 GlyphClass: 2
 Flags: W
 TeX: 653 5
-ItalicCorrection: 31
-TopAccentHorizontal: 350
+TopAccentHorizontal: 349
 HStem: -5 36<-5.45134 92.125 224.214 444.429> 622 32<210.519 274.334 391.581 495.079>
 LayerCount: 2
 Fore

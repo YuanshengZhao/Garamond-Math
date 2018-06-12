@@ -1,10 +1,10 @@
 StartChar: u1D447.ss
-Encoding: 1115452 -1 2824
-Width: 629
+Encoding: 1115452 -1 2798
+Width: 587
 GlyphClass: 2
 Flags: W
 TeX: 666 5
-ItalicCorrection: 105
+ItalicCorrection: 125
 TopAccentHorizontal: 386
 HStem: -5 29<63.5944 142.908 302.348 360.944> 614 30<177.21 330.451 439.163 601.111> 654 20G<136.5 143.5 693 701>
 VStem: 626 29<496.026 568.841>

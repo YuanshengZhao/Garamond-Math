@@ -1,10 +1,10 @@
 StartChar: sigma.ss
-Encoding: 1115266 -1 2638
+Encoding: 1115266 -1 2612
 Width: 486
 GlyphClass: 2
 Flags: W
 TeX: 433 14
-TopAccentHorizontal: 264
+TopAccentHorizontal: 263
 HStem: -14 86<116.474 241.469> 334 80<330.965 450.91> 342 79<162.211 362.367>
 VStem: 35 46<100.847 251.941> 323 52<156.979 292.049>
 LayerCount: 2

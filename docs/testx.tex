@@ -18,7 +18,7 @@
 
 %\setmathfont{XITS Math}
 %\setmathfont{Libertinus Math}
-\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
+\setmathfont{Garamond-Math}[StylisticSet={1,2,4},Path=./]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -77,7 +77,7 @@
 
 \begin{document}
 
-\section{Alphabets}
+\section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
 
 \[ \Latinalphabets \latinalphabets \]
@@ -94,22 +94,30 @@
 \[ \symbfscr{\Latinalphabets \latinalphabets} \]
 \[ \symsf{\Latinalphabets \latinalphabets} \]
 \[ \symtt{\Latinalphabets \latinalphabets} \]
-\[SO(3)SU(2)LAETSQJQ_AWOWCVO LX UUTTXAT afggffg\]
-\[\symbf{afggffg} \Omega f \lambda\kappa\vartheta\nu\varpi\upsilon\]
+\[SO(3)SU(2)LAETSQJQ_AWOWCVO LX UUTTXAT afggffgxhxu[[f,g],x]=fgx-gfx-xfg+xgf\]
+\[\symbf{afggffgQJ[[f,g],x]=fgx-gfx-xfg+xgf} \Omega f \lambda\kappa\vartheta\nu\varpi\upsilon\]
 % \TOPACCENTMAP{\symbf}{\imath\jmath}
 % \TOPACCENTMAP{\symup}{\imath\jmath}
 
 \BRACKETMAP{\symit}{\Latinalphabets}
-\setmathfont{XITS Math}
-\BRACKETMAP{\symit}{\Latinalphabets}
-\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
+\BRACKETMAP{\symit}{\latinalphabets}
+\BRACKETMAP{\symbf}{\Latinalphabets}
+\BRACKETMAP{\symbf}{\latinalphabets}
+\BRACKETMAP{\symit}{\Greekalphabets}
+\BRACKETMAP{\symit}{\greekalphabets}
+\BRACKETMAP{\symbf}{\Greekalphabets}
+\BRACKETMAP{\symbf}{\greekalphabets}
 
-\BRACKETMAP{\symit}{\latinalphabets}
-\setmathfont{XITS Math}
-\[x(t)()\]
-\BRACKETMAP{\symit}{\latinalphabets}
-\setmathfont{Garamond-Math}[StylisticSet={1,2,3},Path=./]
-\[x(t)()\]
+\BRACKETMAP{\symup}{\Latinalphabets}
+\BRACKETMAP{\symup}{\latinalphabets}
+\BRACKETMAP{\symbfup}{\Latinalphabets}
+\BRACKETMAP{\symbfup}{\latinalphabets}
+\BRACKETMAP{\symup}{\Greekalphabets}
+\BRACKETMAP{\symup}{\greekalphabets}
+\BRACKETMAP{\symbfup}{\Greekalphabets}
+\BRACKETMAP{\symbfup}{\greekalphabets}
+
+
 
 \section{Equation Tests}
 
@@ -335,7 +343,7 @@
         \end{split}\]
   \item Nabla and partial
         \[ \rho\frac{\dd \symbf v}{\dd t}=\symbfscr{f}-\nabla p+\eta \symit{\nabla}^2 \symbf v+(\eta+\theta)\symbfup{\nabla}(\symbfit\nabla\cdot\symbf v)\]
-        \[\bar{\psi}(\leftharpoonaccent{\nabla}+\rightharpoonaccent{\symbfit{\nabla}})\psi+\partial_\mu(\symup\partial^\mu\phi)-\epsilon^{\lambda\mu\nu}\symbf\partial_\mu(A_\lambda\symbfup\partial_\nu f)\]
+        \[\bar{\psi}(\overleftarrow{\nabla}+\vec{\symbfit{\nabla}})\psi+\partial_\mu(\symup\partial^\mu\phi)-\epsilon^{\lambda\mu\nu}\symbf\partial_\mu(A_\lambda\symbfup\partial_\nu f)\]
   \item Over-/underline and over-/underbraces
         \[ \OVERUNDERLINE{\overline}     \quad \overline     {\LISTTEXT}   \]
         \[ \OVERUNDERLINE{\overparen}    \quad \overparen    {\LISTTEXT}^n \]

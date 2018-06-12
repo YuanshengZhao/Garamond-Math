@@ -1,9 +1,9 @@
 StartChar: u1D432.ss
-Encoding: 1115410 -1 2782
+Encoding: 1115410 -1 2756
 Width: 488
 Flags: W
 ItalicCorrection: 8
-TopAccentHorizontal: 250
+TopAccentHorizontal: 249
 HStem: -283 125<32.7812 118.968> 392 34<7.40292 50.0379 447.141 492.597>
 VStem: 10 176<-253.898 -171.245> 356 137<344 419.5>
 LayerCount: 2

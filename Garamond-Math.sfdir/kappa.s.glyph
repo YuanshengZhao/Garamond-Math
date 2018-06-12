@@ -1,10 +1,10 @@
 StartChar: kappa.s
-Encoding: 1115247 -1 2619
+Encoding: 1115247 -1 2593
 Width: 475
 GlyphClass: 2
 Flags: W
 TeX: 414 15
-TopAccentHorizontal: 248
+TopAccentHorizontal: 247
 HStem: -14 20G<127.5 140.5 354.5 393.5> 323 93<56.1543 126.753> 336 81<336.903 436.563>
 VStem: 90 70<-9.61887 95.7441> 130 39<199.626 318.16>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: b.s
 Encoding: 1115133 -1 2505
-Width: 518
+Width: 520
 GlyphClass: 2
 Flags: W
 TeX: 705 14
-TopAccentHorizontal: 116
+TopAccentHorizontal: 115
 HStem: -14 33<214.689 335.682> -4 21G<78.5 83.5> 373 44<220.539 333.262>
 VStem: 74 78<68.4404 346.283 359.051 621.287> 401 84<111.876 292.408>
 LayerCount: 2

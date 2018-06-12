@@ -1,10 +1,10 @@
 StartChar: chi.s
-Encoding: 1115273 -1 2645
+Encoding: 1115273 -1 2619
 Width: 439
 GlyphClass: 2
 Flags: W
 TeX: 414 290
-TopAccentHorizontal: 220
+TopAccentHorizontal: 219
 HStem: -269 93<316.117 399.351> 325 90<28.8916 134.611>
 VStem: 20 89<-206.191 -159>
 LayerCount: 2
@@ -16,7 +16,7 @@ SplineSet
  200 131 l 2
  199 135 199 142 198 146 c 0
  185 237 159 325 72 325 c 0
- 37 325 8 305 -0 305 c 0
+ 37 325 8 305 0 305 c 0
  -7 305 -10 307 -10 317 c 0
  -10 357 26 415 87 415 c 0
  159 415 196 317 209 246 c 1

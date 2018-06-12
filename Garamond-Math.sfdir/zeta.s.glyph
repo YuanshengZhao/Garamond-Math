@@ -1,10 +1,10 @@
 StartChar: zeta.s
-Encoding: 1115239 -1 2611
-Width: 334
+Encoding: 1115239 -1 2585
+Width: 335
 GlyphClass: 2
 Flags: W
 TeX: 721 199
-TopAccentHorizontal: 196
+TopAccentHorizontal: 197
 HStem: -198 76<130.858 204.126> -5 85<99.4917 250.732> 3 83<147.837 284.352> 550 28<143.288 168.996>
 VStem: 35 41<105.644 298.764> 54 73<586.974 687.603> 285 36<-55.5779 24>
 LayerCount: 2

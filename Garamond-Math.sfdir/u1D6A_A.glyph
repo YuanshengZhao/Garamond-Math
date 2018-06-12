@@ -37,5 +37,6 @@ SplineSet
  140 2 82 -3 36 -3 c 0xd8
 EndSplineSet
 Validated: 1
+Substitution2: "'ss04' Style Set 1" u1D6AA.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6AA.s u1D6AA.ss
 EndChar

@@ -1,11 +1,11 @@
 StartChar: k.ss
 Encoding: 1115152 -1 2524
-Width: 490
+Width: 491
 GlyphClass: 2
 Flags: W
 TeX: 705 3
 ItalicCorrection: 33
-TopAccentHorizontal: 132
+TopAccentHorizontal: 125
 HStem: -3 29<19.2818 73.377 177.879 225.719 264.161 304.996 442.704 500.59> 207 22<170 187.594> 382 23<282.026 319.708> 387 29<409.625 469.985>
 VStem: 84 86<33.5464 206.998 229.002 622.752>
 LayerCount: 2

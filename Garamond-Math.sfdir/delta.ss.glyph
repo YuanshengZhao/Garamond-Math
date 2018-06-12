@@ -1,10 +1,10 @@
 StartChar: delta.ss
-Encoding: 1115236 -1 2608
-Width: 429
+Encoding: 1115236 -1 2582
+Width: 430
 GlyphClass: 2
 Flags: W
 TeX: 701 14
-TopAccentHorizontal: 230
+TopAccentHorizontal: 231
 HStem: -14 63<128.451 227.389> 335 62<147 287.5> 616 85<126.031 242.403>
 VStem: 35 49<80.6738 223.541> 81 78<598.714 663> 312 77<145.338 323.421>
 LayerCount: 2

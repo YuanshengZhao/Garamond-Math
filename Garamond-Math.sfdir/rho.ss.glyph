@@ -1,10 +1,10 @@
 StartChar: rho.ss
-Encoding: 1115262 -1 2634
-Width: 430
+Encoding: 1115262 -1 2608
+Width: 432
 GlyphClass: 2
 Flags: W
 TeX: 414 285
-TopAccentHorizontal: 228
+TopAccentHorizontal: 229
 HStem: -13 82<156 265.567> 343 76<198.331 315.346>
 VStem: 60 97<-270.625 -130.344> 61 60<-172.935 34.7205 75.96 254.205> 353 44<156.576 316.243>
 LayerCount: 2

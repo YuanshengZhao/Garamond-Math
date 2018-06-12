@@ -1,7 +1,9 @@
 StartChar: u1D715.x
-Encoding: 1116048 -1 4232
+Encoding: 1116048 -1 4128
 Width: 415
 Flags: W
+ItalicCorrection: 40
+TopAccentHorizontal: 306
 HStem: -14 30<134.149 200.667> 384 30<257.297 325.316> 643.617 42.8984<214.629 311.499>
 VStem: 57 64<30.5807 194.315> 364 63<400.39 568.513>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: u1D44A.ss
-Encoding: 1115458 -1 2830
-Width: 1042
+Encoding: 1115458 -1 2804
+Width: 982
 GlyphClass: 2
 Flags: W
 TeX: 656 14
-ItalicCorrection: 101
-TopAccentHorizontal: 589
+ItalicCorrection: 145
+TopAccentHorizontal: 588
 HStem: -15 21G<99 124 464.5 493> 621 34<71.7036 152.144 278.129 361.724 445.864 523.456 660.734 749.821 850.045 902.128 1031.49 1113.54>
 VStem: 538 213<558.5 646.5>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: tau.ss
-Encoding: 1115268 -1 2640
+Encoding: 1115268 -1 2614
 Width: 421
 GlyphClass: 2
 Flags: W
 TeX: 430 14
-TopAccentHorizontal: 224
+TopAccentHorizontal: 223
 HStem: -14 100<235.47 297.223> 324 82<256.326 405.459> 337 77<70.8903 208.745>
 VStem: 15 23<261.124 294.218> 174 56<47 246.867>
 LayerCount: 2

@@ -1,7 +1,8 @@
 StartChar: infinity.ss
-Encoding: 1115308 -1 2680
-Width: 770
+Encoding: 1115308 -1 2654
+Width: 772
 Flags: W
+TopAccentHorizontal: -1
 HStem: 12 78<128.334 270.322 525.128 636.204> 318 79<136.823 246.864 500.837 644.949>
 VStem: 35 33<154.055 260.509> 704 33<145.262 254.324>
 LayerCount: 2

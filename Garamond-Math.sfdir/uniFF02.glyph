@@ -1,10 +1,10 @@
 StartChar: uniFF02
-Encoding: 65282 65282 4216
+Encoding: 65282 65282 4112
 Width: 330
 Flags: W
 HStem: 444 232<80.2416 89.4949 210.242 219.495>
 VStem: 65 73<538.333 659.629> 195 73<538.333 659.629>
 LayerCount: 2
 Fore
-Refer: 4169 34 N 1 0 0 1 0 0 2
+Refer: 4065 34 N 1 0 0 1 0 0 2
 EndChar

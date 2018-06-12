@@ -1,10 +1,10 @@
 StartChar: mu.s
-Encoding: 1115251 -1 2623
-Width: 541
+Encoding: 1115251 -1 2597
+Width: 542
 GlyphClass: 2
 Flags: W
 TeX: 415 285
-TopAccentHorizontal: 254
+TopAccentHorizontal: 253
 HStem: -15 94<409.115 498.134> -15 73<181.898 267.827>
 VStem: 85 97<223.455 405.5> 87 33<-174.667 63.9912> 344 94<259.514 401.472>
 LayerCount: 2

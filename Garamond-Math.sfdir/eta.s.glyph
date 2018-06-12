@@ -1,10 +1,10 @@
 StartChar: eta.s
-Encoding: 1115241 -1 2613
+Encoding: 1115241 -1 2587
 Width: 469
 GlyphClass: 2
 Flags: W
 TeX: 414 285
-TopAccentHorizontal: 230
+TopAccentHorizontal: 229
 HStem: -14 21G<120 134.5> 326 91<54.856 117.292> 336 81<284.398 353.549>
 VStem: 124 37<194.224 319.225> 303 97<-268.824 -120.331> 362 39<-75.5796 326.936>
 LayerCount: 2

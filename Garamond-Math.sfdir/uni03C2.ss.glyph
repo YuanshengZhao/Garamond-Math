@@ -1,10 +1,10 @@
 StartChar: uni03C2.ss
-Encoding: 1115264 -1 2636
-Width: 352
+Encoding: 1115264 -1 2610
+Width: 353
 GlyphClass: 2
 Flags: W
 TeX: 413 190
-TopAccentHorizontal: 182
+TopAccentHorizontal: 183
 HStem: -192 80<152.953 236.561> -6 91<107.502 283.143> 321 99<193.203 312.676>
 VStem: 35 43<114.49 251.535> 284 39<-65.9889 37>
 LayerCount: 2

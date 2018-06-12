@@ -1,10 +1,10 @@
 StartChar: omicron.ss
-Encoding: 1115258 -1 2630
-Width: 409
+Encoding: 1115258 -1 2604
+Width: 410
 GlyphClass: 2
 Flags: W
 TeX: 414 14
-TopAccentHorizontal: 204
+TopAccentHorizontal: 205
 HStem: -14 82<110.24 241.274> 333 86<160.223 291.514>
 VStem: 35 42<100.301 245.291> 333 42<159.267 294.646>
 LayerCount: 2

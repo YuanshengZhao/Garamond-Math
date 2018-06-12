@@ -1,7 +1,8 @@
 StartChar: u1D6DB.x.s
-Encoding: 1116046 -1 4207
+Encoding: 1116046 -1 4103
 Width: 516
 Flags: W
+TopAccentHorizontal: 248
 HStem: -14 48<223.077 308.656> 385 50<208.265 305.125> 621 62<125.875 243.251>
 VStem: 21 145<110.596 293.236> 341 145<144.076 345.577>
 LayerCount: 2

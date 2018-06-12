@@ -1,17 +1,17 @@
 StartChar: b.ss
 Encoding: 1115134 -1 2506
-Width: 524
+Width: 526
 GlyphClass: 2
 Flags: W
 TeX: 705 14
-TopAccentHorizontal: 118
+TopAccentHorizontal: 116
 HStem: -14 34<219.315 334.469> -4 21G<77 82.5> 373 46<223.983 332.974>
 VStem: 73 86<70.3661 348.454 364.051 620.834> 398 93<112.399 294.941>
 LayerCount: 2
 Fore
 SplineSet
 263 -14 m 0xb8
- 231 -14 200 -7 174 -0 c 0
+ 231 -14 200 -7 174 0 c 0
  147 7 125 14 117 14 c 0
  108 14 99 7 92 1 c 0
  88 -2 84 -4 81 -4 c 0x78

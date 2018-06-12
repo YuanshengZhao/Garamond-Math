@@ -1,10 +1,10 @@
 StartChar: Upsilon.ss
-Encoding: 1115220 -1 2592
-Width: 740
+Encoding: 1115220 -1 2568
+Width: 741
 GlyphClass: 2
 Flags: W
 TeX: 650 5
-TopAccentHorizontal: 372
+TopAccentHorizontal: 371
 HStem: -5 31<213.502 285.7 452.604 523.716> 596 57<95.4547 212.697 531.895 670.97>
 VStem: 318 100<51.1656 435.619>
 LayerCount: 2

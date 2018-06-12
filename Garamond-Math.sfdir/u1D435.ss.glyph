@@ -1,11 +1,11 @@
 StartChar: u1D435.ss
-Encoding: 1115416 -1 2788
-Width: 634
+Encoding: 1115416 -1 2762
+Width: 652
 GlyphClass: 2
 Flags: W
 TeX: 655 5
-ItalicCorrection: 5
-TopAccentHorizontal: 393
+ItalicCorrection: 21
+TopAccentHorizontal: 396
 HStem: -4 27<-7.37456 62.5383 189.123 329.688> 342 27<302.953 381.233> 625 29<366.15 465.982> 625 20<192.172 236.445 368.423 423.354>
 VStem: 454 101<129.789 278.759> 516 95<455.893 587.456>
 LayerCount: 2

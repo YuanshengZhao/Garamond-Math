@@ -43,5 +43,6 @@ SplineSet
  425.104492188 396 433.104492188 401 450.104492188 416 c 0
  458.104492188 423 471.104492188 434 482.104492188 434 c 0
 EndSplineSet
+Substitution2: "'ss04' Style Set 1" u1D49B.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D49B.s u1D49B.ss
 EndChar

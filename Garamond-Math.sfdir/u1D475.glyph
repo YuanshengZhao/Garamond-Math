@@ -50,5 +50,6 @@ SplineSet
  150 -3 140 1 107 1 c 0
  62 1 5 -3 -4 -3 c 0xa0
 EndSplineSet
+Substitution2: "'ss04' Style Set 1" u1D475.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D475.s u1D475.ss
 EndChar

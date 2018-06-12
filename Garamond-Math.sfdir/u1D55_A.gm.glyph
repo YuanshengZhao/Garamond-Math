@@ -1,5 +1,5 @@
 StartChar: u1D55A.gm
-Encoding: 1116001 -1 3618
+Encoding: 1116001 -1 3514
 Width: 294
 Flags: W
 ItalicCorrection: 3
@@ -48,5 +48,4 @@ SplineSet
  132 62 l 2x7b
  132 55.81640625 131.6953125 51.21484375 130.083007812 43.5576171875 c 1
 EndSplineSet
-Validated: 1
 EndChar

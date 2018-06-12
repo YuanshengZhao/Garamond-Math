@@ -1,10 +1,10 @@
 StartChar: gamma.ss
-Encoding: 1115234 -1 2606
-Width: 437
+Encoding: 1115234 -1 2580
+Width: 438
 GlyphClass: 2
 Flags: W
 TeX: 426 285
-TopAccentHorizontal: 240
+TopAccentHorizontal: 241
 HStem: 322 97<27.2918 111.651>
 VStem: 124 96<-264.375 -119.34> 197 41<-36.6295 42.3347> 352 71<333.593 413.833>
 LayerCount: 2

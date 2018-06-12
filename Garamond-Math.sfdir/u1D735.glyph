@@ -31,5 +31,6 @@ SplineSet
  634 544 640 554 640 561 c 0
  640 571 630 576 612 577 c 0
 EndSplineSet
+Substitution2: "'ss04' Style Set 1" u1D735.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D735.s u1D735.ss
 EndChar

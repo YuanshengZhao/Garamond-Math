@@ -1,10 +1,10 @@
 StartChar: j.ss
 Encoding: 1115150 -1 2522
-Width: 241
+Width: 242
 GlyphClass: 2
 Flags: W
 TeX: 617 287
-TopAccentHorizontal: 124
+TopAccentHorizontal: 127
 HStem: -287 30<-19.5185 21.1792> 510 116<80.2549 170.068>
 VStem: 67 116<522.848 612.661> 89 87<-117.171 338.658>
 LayerCount: 2

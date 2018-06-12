@@ -1,11 +1,11 @@
 StartChar: u1D443.s
-Encoding: 1115443 -1 2815
-Width: 635
+Encoding: 1115443 -1 2789
+Width: 636
 GlyphClass: 2
 Flags: W
 TeX: 656 5
 ItalicCorrection: 22
-TopAccentHorizontal: 404
+TopAccentHorizontal: 406
 HStem: -5 30<0.601562 80.5054 225.937 287.748> 251 27<312.032 394.061> 626 27<178.191 248.572 370.217 463.859>
 VStem: 538 92<386.728 560.911>
 LayerCount: 2

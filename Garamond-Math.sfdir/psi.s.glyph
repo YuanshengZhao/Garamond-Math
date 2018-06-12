@@ -1,10 +1,10 @@
 StartChar: psi.s
-Encoding: 1115275 -1 2647
+Encoding: 1115275 -1 2621
 Width: 568
 GlyphClass: 2
 Flags: W
 TeX: 616 285
-TopAccentHorizontal: 306
+TopAccentHorizontal: 305
 HStem: -17 90<227.353 279 321 348.579> 324 92<50.6445 122.86> 372 44<535.699 597.116>
 VStem: 275 72<338.356 613.688> 279 41<-183.967 -17 77 281.701>
 LayerCount: 2

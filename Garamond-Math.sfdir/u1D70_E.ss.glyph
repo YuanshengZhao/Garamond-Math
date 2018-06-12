@@ -1,11 +1,11 @@
 StartChar: u1D70E.ss
-Encoding: 1115824 -1 3381
-Width: 443
+Encoding: 1115824 -1 3303
+Width: 440
 GlyphClass: 2
 Flags: W
 TeX: 439 14
 ItalicCorrection: 102
-TopAccentHorizontal: 272
+TopAccentHorizontal: 271
 HStem: -14 86<88.1333 192.183> 337 82<200.34 322.059 348.955 501.64>
 VStem: 35 38<90.4125 199.695> 324 41<223.828 327.854> 324 25<288.348 330.743>
 LayerCount: 2

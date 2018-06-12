@@ -1,7 +1,8 @@
 StartChar: emptyset.s
-Encoding: 1115299 -1 2671
-Width: 693
+Encoding: 1115299 -1 2645
+Width: 694
 Flags: W
+TopAccentHorizontal: 0
 HStem: -20 54<284.38 434.777> 532 54<268.041 434.998>
 VStem: 45 73<161.013 368.297> 577 72<185.039 396.868>
 LayerCount: 2

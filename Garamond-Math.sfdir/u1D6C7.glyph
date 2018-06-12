@@ -37,5 +37,6 @@ SplineSet
  355 -84 275 -192 200 -192 c 0xb2
 EndSplineSet
 Validated: 33
+Substitution2: "'ss04' Style Set 1" u1D6C7.sb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6C7.s u1D6C7.ss
 EndChar

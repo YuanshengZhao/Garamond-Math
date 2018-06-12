@@ -1,11 +1,11 @@
 StartChar: u1D460.ss
-Encoding: 1115500 -1 2872
-Width: 362
+Encoding: 1115500 -1 2846
+Width: 368
 GlyphClass: 2
 Flags: W
 TeX: 414 14
-ItalicCorrection: 5
-TopAccentHorizontal: 228
+ItalicCorrection: 11
+TopAccentHorizontal: 230
 HStem: -14 49<62.5 170.333> 368 51<215.101 273.128>
 VStem: 129 66<265.239 336.691> 197 73<68.7758 161.187>
 LayerCount: 2

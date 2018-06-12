@@ -1,7 +1,8 @@
 StartChar: partialdiff.x.ss
-Encoding: 1116044 -1 4205
-Width: 494
+Encoding: 1116044 -1 4101
+Width: 496
 Flags: W
+TopAccentHorizontal: 291
 HStem: -14 34<204.515 302.77> 381 38<185.317 305.868> 629 48<119.643 244.915>
 VStem: 25 99<111.409 282.85> 370 95<141.365 320.466>
 LayerCount: 2

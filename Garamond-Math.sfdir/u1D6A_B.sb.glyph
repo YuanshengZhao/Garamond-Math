@@ -1,9 +1,8 @@
 StartChar: u1D6AB.sb
-Encoding: 1116213 -1 4397
+Encoding: 1116213 -1 4291
 Width: 650
 Flags: W
-ItalicCorrection: 100
-TopAccentHorizontal: 354
+TopAccentHorizontal: 309
 HStem: 0 59<109.012 455.996>
 VStem: 22 87<20 82.0902> 456 151<22 83.6611>
 LayerCount: 2

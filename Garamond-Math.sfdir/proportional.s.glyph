@@ -1,7 +1,8 @@
 StartChar: proportional.s
-Encoding: 1115305 -1 2677
+Encoding: 1115305 -1 2651
 Width: 614
 Flags: W
+TopAccentHorizontal: 0
 HStem: 12 75<126.486 266.522> 12.9119 85.7356<503.203 563.282> 317 74<133.939 244.189 493.409 558.182>
 VStem: 35 31<152.324 256.809>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: beta.s
-Encoding: 1115231 -1 2603
+Encoding: 1115231 -1 2577
 Width: 512
 GlyphClass: 2
 Flags: W
 TeX: 705 285
-TopAccentHorizontal: 247
+TopAccentHorizontal: 246
 HStem: -14 69<197.976 344.533> 632 73<186.813 314.417>
 VStem: 61 44<-149.642 70.9934 110.062 531.842> 355 34<431.707 582.769> 422 54<126.672 254.369>
 LayerCount: 2

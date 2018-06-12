@@ -73,4 +73,5 @@ SplineSet
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D416.s u1D416.ss
+Substitution2: "'ss04' Style Set 1" u1D416.sb
 EndChar

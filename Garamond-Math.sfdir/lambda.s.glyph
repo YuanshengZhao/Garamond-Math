@@ -1,10 +1,10 @@
 StartChar: lambda.s
-Encoding: 1115249 -1 2621
-Width: 477
+Encoding: 1115249 -1 2595
+Width: 479
 GlyphClass: 2
 Flags: W
 TeX: 699 18
-TopAccentHorizontal: 148
+TopAccentHorizontal: 147
 HStem: -15 93<349.071 441.454> 625 75<49.8272 149.856>
 LayerCount: 2
 Fore

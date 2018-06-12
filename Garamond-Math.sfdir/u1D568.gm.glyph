@@ -1,5 +1,5 @@
 StartChar: u1D568.gm
-Encoding: 1116015 -1 3632
+Encoding: 1116015 -1 3528
 Width: 718
 Flags: W
 TopAccentHorizontal: 364
@@ -79,5 +79,4 @@ SplineSet
  245.397460938 33.8330078125 l 1
  280.989257812 117.553710938 l 1
 EndSplineSet
-Validated: 37
 EndChar

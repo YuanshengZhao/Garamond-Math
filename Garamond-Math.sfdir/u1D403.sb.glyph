@@ -1,9 +1,8 @@
 StartChar: u1D403.sb
-Encoding: 1116109 -1 4293
+Encoding: 1116109 -1 4189
 Width: 756
 Flags: W
-ItalicCorrection: 80
-TopAccentHorizontal: 498
+TopAccentHorizontal: 332
 HStem: -7 46<221.728 454.779> -4 34<18.2818 90.479> 613 46<245.44 441.025> 620 34<18.2818 89.74>
 VStem: 110 130<67.4157 603.882> 586 144<222.006 444.532>
 LayerCount: 2
