@@ -5,7 +5,7 @@ GlyphClass: 2
 Flags: W
 TeX: 630 4
 ItalicCorrection: 6
-TopAccentHorizontal: 245
+TopAccentHorizontal: 265
 HStem: 1 98<191.005 440.737> 541 89<196.253 293.63>
 VStem: 323 126<378.687 512.166> 475 39<133.845 183.071>
 LayerCount: 2
@@ -35,5 +35,6 @@ SplineSet
  496 113 473 38 471 19 c 0
  470 3 454 -4 450 -4 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "'ss04' Style Set 4" u1D7D0.sb
+Substitution2: "'ss05' Style Set 5" u1D7D0.eb
 EndChar

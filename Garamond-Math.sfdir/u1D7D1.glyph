@@ -32,4 +32,6 @@ SplineSet
  470 55 325 -38 172 -38 c 0xe8
 EndSplineSet
 Validated: 1
+Substitution2: "'ss04' Style Set 4" u1D7D1.sb
+Substitution2: "'ss05' Style Set 5" u1D7D1.eb
 EndChar

@@ -39,6 +39,7 @@ SplineSet
  487 92 394 -14 237 -14 c 0xbe
 EndSplineSet
 Validated: 1
-Substitution2: "'ss04' Style Set 1" u1D47A.sb
+Substitution2: "'ss04' Style Set 4" u1D47A.sb
+Substitution2: "'ss05' Style Set 5" u1D47A.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D47A.s u1D47A.ss
 EndChar

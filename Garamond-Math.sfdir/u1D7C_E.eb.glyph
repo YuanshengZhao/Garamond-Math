@@ -1,0 +1,23 @@
+StartChar: u1D7CE.eb
+Encoding: 1116400 -1 4586
+Width: 544
+Flags: W
+ItalicCorrection: 4
+TopAccentHorizontal: 262
+HStem: -14 49<245 309 245 354> 583 48<229.5 293.5>
+VStem: 22 156<250 378.5> 363 155<241.5 368>
+LayerCount: 2
+Fore
+SplineSet
+268 -14 m 0
+ 103 -14 26 154 26 302 c 0
+ 26 455 100 631 280 631 c 0
+ 444 631 522 462 522 317 c 0
+ 522 166 448 -14 268 -14 c 0
+283 35 m 0
+ 343 35 367 160 367 299 c 0
+ 367 437 331 583 264 583 c 0
+ 203 583 182 457 182 319 c 0
+ 182 181 215 35 283 35 c 0
+EndSplineSet
+EndChar

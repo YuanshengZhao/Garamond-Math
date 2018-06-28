@@ -30,6 +30,7 @@ SplineSet
  315 145 l 1
  328 128 340 114 356 114 c 0
 EndSplineSet
-Substitution2: "'ss04' Style Set 1" u1D746.sb
+Substitution2: "'ss04' Style Set 4" u1D746.sb
+Substitution2: "'ss05' Style Set 5" u1D746.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D746.s u1D746.ss
 EndChar

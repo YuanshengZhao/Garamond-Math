@@ -47,7 +47,7 @@ SplineSet
  149 44 l 2
 EndSplineSet
 Validated: 1
-Substitution2: "'ss01' Style Set-1" u1D55A.gm
+Substitution2: "'ss01' Style Set 1" u1D55A.gm
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi.ds
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessi.ds
 EndChar

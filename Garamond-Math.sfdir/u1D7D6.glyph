@@ -4,7 +4,7 @@ Width: 529
 GlyphClass: 2
 Flags: W
 TeX: 629 13
-TopAccentHorizontal: 273
+TopAccentHorizontal: 283
 HStem: -13 43<233.252 334.974> 586 43<229.978 328.597>
 VStem: 60 134<72.3126 204.1> 80 128<449.354 546.925> 350 127<422.115 555.085> 365 133<91.2596 177.561>
 LayerCount: 2
@@ -36,5 +36,6 @@ SplineSet
  203 235 194 204 194 150 c 0xe4
  194 90 228 30 283 30 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "'ss04' Style Set 4" u1D7D6.sb
+Substitution2: "'ss05' Style Set 5" u1D7D6.eb
 EndChar

@@ -33,6 +33,7 @@ SplineSet
  311 269 184 82 137 21 c 0
  113 -11 98 -14 83 -14 c 0
 EndSplineSet
-Substitution2: "'ss04' Style Set 1" u1D740.sb
+Substitution2: "'ss04' Style Set 4" u1D740.sb
+Substitution2: "'ss05' Style Set 5" u1D740.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D740.s u1D740.ss
 EndChar

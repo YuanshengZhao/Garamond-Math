@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1528839353
+ModificationTime: 1530195883
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,20 +56,22 @@ OS2XHeight: 450
 OS2Vendor: 'PfEd'
 OS2CodePages: 60000193.0dd40000
 OS2UnicodeRanges: a10000ef.4201f9ee.02000000.00000000
-Lookup: 1 0 0 "'ss01' Style Set GaramondBB" { "'ss01' Style Set-1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss04' Style Set SemiBold" { "'ss04' Style Set 1"  } ['ss04' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss02' Style Set VarPartial" { "'ss02' Style Set-1"  } ['ss02' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "'ss03' Style Set ScrCal" { "'ss03' Style Set-1"  } ['ss03' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss06' Style Set 6 hbar" { "'ss06' Style Set 6"  } ['ss06' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss01' Style Set GaramondBB" { "'ss01' Style Set 1"  } ['ss01' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss04' Style Set SemiBold" { "'ss04' Style Set 4"  } ['ss04' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss05' Style Set ExtraBold" { "'ss05' Style Set 5"  } ['ss05' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss02' Style Set VarPartial" { "'ss02' Style Set 2"  } ['ss02' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss03' Style Set ScrCal" { "'ss03' Style Set 3"  } ['ss03' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0" { "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable"  } ['aalt' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss01' 1033 "garamondBB"
-OtfFeatName: 'ss02' 1033 "VarPartial"
-OtfFeatName: 'ss03' 1033 "ScrCal"
 OtfFeatName: 'ss04' 1033 "SemiBold"
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss01' 1033 "garamondBB"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1300
@@ -134,7 +136,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 408 51 15
+WinInfo: 1173 51 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
