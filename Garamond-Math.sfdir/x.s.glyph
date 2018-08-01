@@ -3,9 +3,9 @@ Encoding: 1115177 -1 2549
 Width: 441
 GlyphClass: 2
 Flags: W
-TeX: 405 4
-ItalicCorrection: 7
-TopAccentHorizontal: 223
+TeX: 194 2
+ItalicCorrection: 3
+TopAccentHorizontal: 107
 HStem: -4 28<11.0607 59.2356 225.04 270.679 386.775 435.279> 381 24<175.368 214.668 372.951 419.84>
 VStem: 278 158<2 57>
 LayerCount: 2
@@ -61,5 +61,4 @@ SplineSet
  138 -1 114 1 98 1 c 0
  63 1 51 -4 31 -4 c 0
 EndSplineSet
-Validated: 1
 EndChar
