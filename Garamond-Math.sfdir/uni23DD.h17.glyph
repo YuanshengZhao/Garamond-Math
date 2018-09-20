@@ -2,6 +2,7 @@ StartChar: uni23DD.h17
 Encoding: 1114946 -1 1993
 Width: 4776
 Flags: W
+IsExtendedShape: 1
 HStem: -375 62<2192.61 2573.46>
 LayerCount: 2
 Fore
@@ -18,4 +19,5 @@ SplineSet
  4753 -153 4762 -145 4763 -145 c 0
  4771 -145 4776 -153 4776 -161 c 0
 EndSplineSet
+Validated: 1
 EndChar

@@ -27,6 +27,7 @@ SplineSet
  176 380 133 293 133 210 c 0
  133 111 197 16 277 16 c 0
 EndSplineSet
+Validated: 1
 Substitution2: "'ss02' Style Set 2" partialdiff.x
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" partialdiff.s partialdiff.ss
 EndChar

@@ -7,7 +7,7 @@ VStem: 50 555<-4.5575 562.146>
 LayerCount: 2
 Fore
 SplineSet
-79 -5 m 6
+79 -5 m 2
  62 -5 50 0 50 8 c 0
  50 105 53 95 54 536 c 0
  54 558 63 563 83 563 c 2
@@ -15,7 +15,7 @@ SplineSet
  595 563 605 558 605 535 c 2
  605 30 l 2
  605 0 593 -5 576 -5 c 2
- 79 -5 l 6
+ 79 -5 l 2
 EndSplineSet
 Validated: 1
 EndChar

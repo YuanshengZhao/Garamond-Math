@@ -22,7 +22,7 @@ SplineSet
  184 558 181 559 179 560 c 0
  173 564 171 568 171 574 c 0
  171 581 174 591 180 601 c 0
- 208 647 267 687 329 687 c 4
+ 208 647 267 687 329 687 c 0
  418 687 502 612 502 460 c 0
  502 250 350 -14 168 -14 c 0
 189 25 m 0
@@ -33,5 +33,6 @@ SplineSet
  157 70 157 68 157 66 c 0
  157 39 169 25 189 25 c 0
 EndSplineSet
+Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D74F.x.s u1D74F.x.ss
 EndChar

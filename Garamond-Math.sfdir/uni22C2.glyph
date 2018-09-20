@@ -2,6 +2,7 @@ StartChar: uni22C2
 Encoding: 8898 8898 3615
 Width: 890
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni22C2.v1
 HStem: 681 50<319.724 572.443>
 VStem: 50 53<-239.339 436.206> 787 53<-239.339 445.795>

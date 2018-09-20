@@ -2,6 +2,7 @@ StartChar: uni22C0
 Encoding: 8896 8896 3722
 Width: 970
 Flags: W
+IsExtendedShape: 1
 GlyphVariantsVertical: uni22C0.v1
 LayerCount: 2
 Fore

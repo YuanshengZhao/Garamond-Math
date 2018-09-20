@@ -2,18 +2,20 @@ StartChar: uni23DF.lft
 Encoding: 1114903 -1 1950
 Width: 1486
 Flags: W
+IsExtendedShape: 1
 HStem: -295 64<224.149 1487>
 VStem: 0 17<-143.385 -108.026>
 LayerCount: 2
 Fore
 SplineSet
-1487 -294 m 4
+1487 -294 m 0
  950 -294 922 -295 380 -295 c 0
  224 -295 7 -222 0 -116 c 0
  0 -111 4 -108 9 -108 c 0
  16 -108 16 -117 17 -124 c 0
  34 -212 233 -231 377 -231 c 0
- 918 -231 952 -231 1487 -231 c 4
- 1487 -294 l 4
+ 918 -231 952 -231 1487 -231 c 0
+ 1487 -294 l 0
 EndSplineSet
+Validated: 1
 EndChar

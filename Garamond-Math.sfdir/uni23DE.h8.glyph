@@ -2,6 +2,7 @@ StartChar: uni23DE.h8
 Encoding: 1114866 -1 1913
 Width: 2520
 Flags: W
+IsExtendedShape: 1
 HStem: 646 56<849.358 1159.24 1363.6 1672.64> 654 56<102.97 416.361 2105.64 2418.77>
 VStem: 0 17<557.039 592.505> 2504 16<559.107 594.439>
 LayerCount: 2
@@ -28,4 +29,5 @@ SplineSet
  1692 702 2080 710 2322 710 c 0
  2418 710 2514 646 2520 570 c 0x70
 EndSplineSet
+Validated: 1
 EndChar

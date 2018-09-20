@@ -2,6 +2,7 @@ StartChar: uni23B5.h9
 Encoding: 1114984 -1 2031
 Width: 2787
 Flags: W
+IsExtendedShape: 1
 HStem: -256 54<35.0556 2747.94>
 VStem: 0 29<-187 -96.0261> 2757 30<-170.556 -96.0066>
 LayerCount: 2
@@ -23,4 +24,5 @@ SplineSet
  2784 -96 2787 -105 2787 -113 c 2
  2787 -236 l 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -5,6 +5,7 @@ GlyphClass: 2
 Flags: W
 TeX: 748 -538
 ItalicCorrection: 28
+IsExtendedShape: 1
 HStem: -2458 33<284 400.909>
 VStem: 110 73<-2411.78 2958.15>
 LayerCount: 2
@@ -22,4 +23,5 @@ SplineSet
  110 2951 138 2967 165 2967 c 0
  174 2967 183 2955 183 2944 c 2
 EndSplineSet
+Validated: 1
 EndChar

@@ -5,15 +5,17 @@ GlyphClass: 2
 Flags: W
 TeX: 743 -592
 ItalicCorrection: 28
+IsExtendedShape: 1
 HStem: 0 21G<331 416>
 VStem: 331 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-416 0 m 13
- 331 0 l 21
- 331 558 331 232 331 800 c 13
- 416 800 l 21
- 416 230 416 562 416 0 c 13
+416 0 m 9
+ 331 0 l 17
+ 331 558 331 232 331 800 c 9
+ 416 800 l 17
+ 416 230 416 562 416 0 c 9
 EndSplineSet
+Validated: 1
 EndChar

@@ -3,6 +3,7 @@ Encoding: 1114502 -1 1549
 Width: 676
 GlyphClass: 2
 Flags: W
+IsExtendedShape: 1
 VStem: 335.25 44<-1097.66 -1042.56 1542.56 1597.66> 522.25 44<-1097.66 -1042.56 1542.56 1597.66>
 LayerCount: 2
 Fore
@@ -30,4 +31,5 @@ SplineSet
  169.25 253 169.25 247 170.25 240 c 2
  379.25 -1087 l 2
 EndSplineSet
+Validated: 33
 EndChar

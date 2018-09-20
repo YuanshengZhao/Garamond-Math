@@ -4,6 +4,7 @@ Width: 521
 GlyphClass: 2
 Flags: W
 TeX: 718 -537
+IsExtendedShape: 1
 HStem: -2708 33<288.615 410.99> 3174 35<184.351 409.914>
 VStem: 110 73<-2661.78 3173.79>
 LayerCount: 2
@@ -25,4 +26,5 @@ SplineSet
  411 -2704 397 -2708 385 -2708 c 2
  141 -2708 l 2
 EndSplineSet
+Validated: 33
 EndChar

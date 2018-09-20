@@ -29,6 +29,7 @@ SplineSet
  238 397 185 324 175 253 c 0
  174 247 177 246 182 247 c 0
 EndSplineSet
+Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D486.sb
 Substitution2: "'ss05' Style Set 5" u1D486.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D486.s u1D486.ss

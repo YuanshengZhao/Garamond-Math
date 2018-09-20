@@ -4,6 +4,7 @@ Width: 4402
 VWidth: 1110
 GlyphClass: 2
 Flags: W
+IsExtendedShape: 1
 HStem: 795.5 24<1.29586 76.1358 4325.86 4400.7>
 LayerCount: 2
 Fore
@@ -20,4 +21,5 @@ SplineSet
  4398 819.5 4402 817.5 4402 814.5 c 0
  4402 806.5 4397 796.5 4388 795.5 c 2
 EndSplineSet
+Validated: 33
 EndChar

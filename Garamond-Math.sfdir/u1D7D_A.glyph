@@ -15,9 +15,8 @@ SplineSet
  473 28 l 2
  466 9 453 0 433 0 c 2
  78 0 l 2
- 58 0 48 10 48 30 c 2
- 48 20 l 2
- 48 40 56 57 70 71 c 2
+ 52.6499496022 0 48 13.8578643763 48 20 c 3
+ 48 42.0907220344 56 57 70 71 c 2
  312 305 l 2
  317 310 319 315 319 322 c 2
  319 609 l 2
@@ -48,6 +47,6 @@ SplineSet
  425 44 430 47 432 53 c 2
  448 95 l 2
 EndSplineSet
-Validated: 5
+Validated: 1
 Substitution2: "'ss01' Style Set 1" u1D7DA.gm
 EndChar
