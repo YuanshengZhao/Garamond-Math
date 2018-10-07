@@ -1,6 +1,6 @@
 StartChar: uni222D.v1
 Encoding: 1114637 -1 1684
-Width: 1781
+Width: 1782
 GlyphClass: 2
 Flags: W
 ItalicCorrection: 364
@@ -55,5 +55,5 @@ SplineSet
  600 933 485 -233 465 -444 c 0
  451 -588 306 -717 200 -717 c 0
 EndSplineSet
-Validated: 1
+Substitution2: "'ss07' Style Set 7" u222D.vv1
 EndChar

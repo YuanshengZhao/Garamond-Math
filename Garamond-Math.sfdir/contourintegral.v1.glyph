@@ -1,6 +1,6 @@
 StartChar: contourintegral.v1
 Encoding: 1114639 -1 1686
-Width: 1007
+Width: 982
 GlyphClass: 2
 Flags: W
 ItalicCorrection: 364
@@ -50,5 +50,5 @@ SplineSet
  420 -9 424 -6 425 1 c 2
  475 508 l 2
 EndSplineSet
-Validated: 1
+Substitution2: "'ss07' Style Set 7" u222E.vv1
 EndChar

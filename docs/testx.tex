@@ -6,6 +6,7 @@
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
+% \setmainfont{XITS}
 \setmainfont{EB Garamond}%
 % [ Path = ../EBGaramond/,
 %   Extension = .otf,
@@ -16,9 +17,9 @@
 %\setsansfont{TeX Gyre Heros}
 %\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
-%\setmathfont{XITS Math}
+% \setmathfont{xits-math.otf}
 %\setmathfont{Libertinus Math}
-\setmathfont{Garamond-Math}[StylisticSet={1,2},Path=./]
+\setmathfont{Garamond-Math}[StylisticSet={1,2,7},Path=./]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -228,15 +229,15 @@
 %         \end{itemize}
 
   \item Large operators
-  \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
+  \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\oint\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
       \[\oiint_{\partial\Omega}\symbf{E}\cdot\dd{\symbf S}=4\uppi \iiint_{\Omega}\rho\dd{V}\]
-      \setmathfont{Garamond-Math}[StylisticSet={1,2,5},Path=./]
-      \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
-      \setmathfont{Garamond-Math}[StylisticSet={1,2},Path=./]
-      \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
-      \setmathfont{Garamond-Math}[StylisticSet={1,2,4},Path=./]
-      \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
-      \setmathfont{Garamond-Math}[StylisticSet={1,2},Path=./]
+      % \setmathfont{Garamond-Math}[StylisticSet={1,2,5},Path=./]
+      % \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
+      % \setmathfont{Garamond-Math}[StylisticSet={1,2},Path=./]
+      % \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
+      % \setmathfont{Garamond-Math}[StylisticSet={1,2,4},Path=./]
+      % \[\oint_{\partial\Sigma}\symbf B\cdot \dd{\symbf{l}}=\frac{1}{c}\left(4\uppi\iint_{\Sigma}\symbf J\cdot \dd{\symbf S}+\frac{\dd}{\dd t}\iint_{\Sigma}\symbf E \cdot \dd{\symbf{S}}\right).\]
+      % \setmathfont{Garamond-Math}[StylisticSet={1,2},Path=./]
         \[
           \int\limits_0^\infty \int_0^\infty
           \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{k=i}^\infty
@@ -246,7 +247,7 @@
   \item Large operators (inline)
         $ \int\limits_0^\infty \int_0^\infty \iint \dd{x} \iiint \dd{y}
           \oint \dd{r} \oiint \dd{\theta} \oiiint \dd{\varphi}\varointclockwise \ointctrclockwise \awint \intclockwise
-          \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
+          \int\sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{i=i}^\infty $
 
   \item Fraction
         \[ \frac{1}{2} + \frac{1}{\frac{2}{3}+4} + \frac{\frac{1}{2}+3}{4} \]
