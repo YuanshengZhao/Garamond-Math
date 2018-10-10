@@ -22,6 +22,7 @@ An open type math font matching the [EB Garamond](https://github.com/octaviopard
     - `4` -> Use semi-bold for `\symbf`
     - `5` -> Use extra-bold for `\symbf`
     - `6` -> horizontal "bar" for `\hbar`
+    - `7` -> `\int` variant
 
 ---
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.

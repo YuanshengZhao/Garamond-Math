@@ -3,6 +3,7 @@ Encoding: 1116430 -1 4616
 Width: 746
 Flags: W
 ItalicCorrection: 280
+IsExtendedShape: 1
 GlyphVariantsVertical: u2A11.vv1
 HStem: -296 34<151.693 228.889> 37.5831 39.6125<387.646 453.232> 762 34<517.111 594.307>
 VStem: 72 79<-261.314 -176.652> 159.46 41.6937<165.843 298.128> 595 79<676.652 761.314>
