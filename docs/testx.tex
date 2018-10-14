@@ -45,6 +45,14 @@
   \dddot{#1}    \, \ddot{#1}  \, \dot{#1}   \, \grave{#1}   \, \hat{#1}       , \quad
   \mathring{#1} \, \tilde{#1} \, \vec{#1}   \, \widehat{#1} \, \widetilde{#1}
 }
+% 12345
+% 67890
+\def\CIRCLEDNUMA{%
+  \symbol{"2460}\symbol{"2461}\symbol{"2462}\symbol{"2463}\symbol{"2464}%
+  \symbol{"2465}\symbol{"2466}\symbol{"2467}\symbol{"2468}\symbol{"24EA}}
+\def\CIRCLEDNUMB{%
+  \symbol{"2776}\symbol{"2777}\symbol{"2778}\symbol{"2779}\symbol{"277A}%
+  \symbol{"277B}\symbol{"277C}\symbol{"277D}\symbol{"277E}\symbol{"24FF}}
 \def\MATRIXII{a\\b}
 \def\MATRIXIII{x\\y\\z}
 \def\MATRIXIV{\phi\\\chi\\\phi'\\\chi'}
@@ -117,8 +125,6 @@
 \BRACKETMAP{\symup}{\greekalphabets}
 \BRACKETMAP{\symbfup}{\Greekalphabets}
 \BRACKETMAP{\symbfup}{\greekalphabets}
-
-
 
 \section{Equation Tests}
 
@@ -364,8 +370,19 @@
         \[ \OVERUNDERLINE{\underbracket} \quad \underbracket {\LISTTEXT}_n \]
         \[ \OVERUNDERLINE{\underbrace}   \quad \underbrace   {\LISTTEXT}_n \]
 
-\item Others
-\[ \lim_{x\to\infty} x' x'' x''' x` x^{x'} x^{x''} x^{x'''} x^{x`} f' f'' \frac{1}{6}f'''(w)f` f^{f'} f^{f''} f^{f'''} f^{f`} g^{mn} g_{mn} T^{i}_{jk} \]
+  \item Circled numbers
+        \[
+          \CIRCLEDNUMA \CIRCLEDNUMB +
+          ABC^{\CIRCLEDNUMA} 123_{\CIRCLEDNUMB} XYZ
+        \]
+
+  \item Others
+        \[
+          \lim_{x\to\infty}
+          x' x'' x''' x` x^{x'} x^{x''} x^{x'''} x^{x`} f' f'' +
+          \frac{1}{6} f'''(w) f` f^{f'} f^{f''} f^{f'''} f^{f`}
+          g^{mn} g_{mn} T^{i}_{jk}
+        \]
 \end{itemize}
 \section{More Samples}
 

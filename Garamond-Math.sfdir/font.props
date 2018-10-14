@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1539187761
+ModificationTime: 1539516909
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -69,10 +69,10 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss01' 1033 "garamondBB"
-OtfFeatName: 'ss02' 1033 "VarPartial"
-OtfFeatName: 'ss03' 1033 "ScrCal"
 OtfFeatName: 'ss04' 1033 "SemiBold"
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss01' 1033 "garamondBB"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1300
@@ -131,13 +131,12 @@ MATH:RadicalKernAfterDegree: -355
 MATH:RadicalDegreeBottomRaisePercent: 55
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 4446 26 9
+WinInfo: 9288 27 9
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
