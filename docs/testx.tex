@@ -20,6 +20,7 @@
 % \setmathfont{xits-math.otf}
 %\setmathfont{Libertinus Math}
 \setmathfont{Garamond-Math}[StylisticSet={1,2,7},Path=./]
+\newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,2,7},Path=./]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -45,14 +46,6 @@
   \dddot{#1}    \, \ddot{#1}  \, \dot{#1}   \, \grave{#1}   \, \hat{#1}       , \quad
   \mathring{#1} \, \tilde{#1} \, \vec{#1}   \, \widehat{#1} \, \widetilde{#1}
 }
-% 12345
-% 67890
-\def\CIRCLEDNUMA{%
-  \symbol{"2460}\symbol{"2461}\symbol{"2462}\symbol{"2463}\symbol{"2464}%
-  \symbol{"2465}\symbol{"2466}\symbol{"2467}\symbol{"2468}\symbol{"24EA}}
-\def\CIRCLEDNUMB{%
-  \symbol{"2776}\symbol{"2777}\symbol{"2778}\symbol{"2779}\symbol{"277A}%
-  \symbol{"277B}\symbol{"277C}\symbol{"277D}\symbol{"277E}\symbol{"24FF}}
 \def\MATRIXII{a\\b}
 \def\MATRIXIII{x\\y\\z}
 \def\MATRIXIV{\phi\\\chi\\\phi'\\\chi'}
@@ -65,6 +58,38 @@
 \cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
+\NewDocumentCommand \CIRCLEDNUMA { s }
+  {
+    % with *:    0-50
+    % without *: 0-10
+    \symbol {"24EA}
+    \fonttest_circled_aux:nn {"2460} {"2469}
+    \IfBooleanT {#1}
+      {
+        \fonttest_circled_aux:nn {"246A} {"2473}
+        \fonttest_circled_aux:nn {"3251} {"325F}
+        \fonttest_circled_aux:nn {"32B1} {"32BF}
+      }
+  }
+\NewDocumentCommand \CIRCLEDNUMB { s }
+  {
+    % with *:    0-20
+    % without *: 0-10
+    \symbol {"24FF}
+    \fonttest_circled_aux:nn {"2776} {"277F}
+    \IfBooleanT {#1}
+      { \fonttest_circled_aux:nn {"24EB} {"24F4} }
+  }
+\NewDocumentCommand \CIRCLEDNUMC { }
+  { \fonttest_circled_aux:nn {"24F5} {"24FE} }
+\NewDocumentCommand \CIRCLEDLETTERA { }
+  { \fonttest_circled_aux:nn {"24B6} {"24CF} }
+\NewDocumentCommand \CIRCLEDLETTERB { }
+  { \fonttest_circled_aux:nn {"1F150} {"1F169} }
+\NewDocumentCommand \CIRCLEDLETTERC { }
+  { \fonttest_circled_aux:nn {"24D0} {"24E9} }
+\cs_new:Npn \fonttest_circled_aux:nn #1#2
+  { \int_step_inline:nnn {#1} {#2} { \symbol {##1} } }
 \ExplSyntaxOff
 \def\OVERUNDERLINE#1{%
   #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
@@ -370,11 +395,20 @@
         \[ \OVERUNDERLINE{\underbracket} \quad \underbracket {\LISTTEXT}_n \]
         \[ \OVERUNDERLINE{\underbrace}   \quad \underbrace   {\LISTTEXT}_n \]
 
-  \item Circled numbers
+  \item Circled numbers and letters
         \[
           \CIRCLEDNUMA \CIRCLEDNUMB +
           ABC^{\CIRCLEDNUMA} 123_{\CIRCLEDNUMB} XYZ
         \]
+        \begin{center}
+          \GaramondMath
+          \CIRCLEDNUMA*   \par
+          \CIRCLEDNUMB*   \par
+          \CIRCLEDNUMC    \par
+          \CIRCLEDLETTERA \par
+          \CIRCLEDLETTERB \par
+          \CIRCLEDLETTERC
+        \end{center}
 
   \item Others
         \[
