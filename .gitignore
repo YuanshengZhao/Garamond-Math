@@ -16,6 +16,8 @@
 *.otf
 *.ttf
 
+.ipynb_checkpoints
+
 .vscode/
 GTSymbol/
 EBGaramond/
