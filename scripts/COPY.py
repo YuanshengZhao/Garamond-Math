@@ -120,7 +120,7 @@ for path, subdirs, files in os.walk("./fname"):
             sourceGlyphInfo[3]-destGlyphInfo[3]
             )
         WriteGlyph("./Garamond-Math.sfdir/"+filename,tgtGlyphInfo[0],tgtGlyphInfo[1],tgtGlyphInfo[2],tgtGlyphInfo[3])
-        print filename, "Done!"
+        print(filename, "Done!")
 
 # print ReadGlyph("./Garamond-Math.sfdir/u1D72_E.s.glyph")
 # print ReadGlyph("./Garamond-Math.sfdir/u1D72_E.glyph")

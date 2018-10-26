@@ -17,6 +17,7 @@
 *.ttf
 
 .ipynb_checkpoints
+.DS_Store
 
 .vscode/
 GTSymbol/
