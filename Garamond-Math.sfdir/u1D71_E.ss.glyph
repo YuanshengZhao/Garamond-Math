@@ -1,11 +1,11 @@
 StartChar: u1D71E.ss
 Encoding: 1115774 -1 3330
-Width: 656
+Width: 613
 Flags: W
-ItalicCorrection: 72
+ItalicCorrection: 115
 TopAccentHorizontal: 441
-HStem: -3 36<-8.6848 70.4631 273.967 324.491> 616 34<189.735 244.482 428.791 593.479>
-VStem: 615.589 34<474.215 554.588>
+HStem: -3 36<-12.2737 66.8743 270.378 320.902> 616 34<186.146 240.893 425.202 589.891>
+VStem: 612 34<474.215 554.588>
 LayerCount: 2
 Fore
 SplineSet
@@ -35,5 +35,4 @@ SplineSet
  257 -3 191 2 151 2 c 0
  110 2 46 -3 1 -3 c 0
 EndSplineSet
-Validated: 33
 EndChar

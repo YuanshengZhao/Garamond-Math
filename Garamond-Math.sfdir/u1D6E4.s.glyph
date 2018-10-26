@@ -1,13 +1,13 @@
 StartChar: u1D6E4.s
 Encoding: 1115683 -1 3239
-Width: 633
+Width: 580
 GlyphClass: 2
 Flags: W
 TeX: 663 5
-ItalicCorrection: 62
+ItalicCorrection: 115
 TopAccentHorizontal: 438
-HStem: -5 30<7.60156 92.8008 257.031 317.75> 618 32<218.681 282.286 396.345 589.26> 642 20G<648 654>
-VStem: 604 29<503.557 578.377>
+HStem: -5 30<-7.39844 77.8008 242.031 302.75> 618 32<203.681 267.286 381.345 574.26> 642 20G<633 639>
+VStem: 589 29<503.557 578.377>
 LayerCount: 2
 Fore
 SplineSet
@@ -37,5 +37,4 @@ SplineSet
  225 -5 198 0 154 0 c 0
  102 0 64 -5 15 -5 c 0xd0
 EndSplineSet
-Validated: 33
 EndChar

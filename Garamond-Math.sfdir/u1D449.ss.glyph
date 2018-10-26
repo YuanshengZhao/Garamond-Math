@@ -1,12 +1,12 @@
 StartChar: u1D449.ss
 Encoding: 1115430 -1 2801
-Width: 608
+Width: 498
 GlyphClass: 2
 Flags: W
 TeX: 656 14
-ItalicCorrection: 143
+ItalicCorrection: 253
 TopAccentHorizontal: 404
-HStem: -15 21G<93.1885 114.188> 620 32<79.8733 144.523 278.948 357.269 492.914 539.016 659.278 734.508>
+HStem: -15 21G<93.5 114.5> 620 32<80.1849 144.835 279.26 357.581 493.225 539.328 659.59 734.819>
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +36,4 @@ SplineSet
  215 104 l 2
  171 53 123 -15 106 -15 c 0
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,10 +1,10 @@
 StartChar: u1D47D
 Encoding: 119933 119933 654
-Width: 626
+Width: 516
 GlyphClass: 2
 Flags: W
 TeX: 657 17
-ItalicCorrection: 162
+ItalicCorrection: 272
 TopAccentHorizontal: 426
 HStem: 619 35<70.2357 132.213 329.901 409.209 502.105 552.419 692.928 773.722>
 LayerCount: 2
@@ -36,8 +36,7 @@ SplineSet
  259 129 l 2
  212 75 130 -17 106 -17 c 0
 EndSplineSet
-Validated: 33
-Substitution2: "'ss04' Style Set 4" u1D47D.sb
-Substitution2: "'ss05' Style Set 5" u1D47D.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D47D.s u1D47D.ss
+Substitution2: "'ss05' Style Set 5" u1D47D.eb
+Substitution2: "'ss04' Style Set 4" u1D47D.sb
 EndChar

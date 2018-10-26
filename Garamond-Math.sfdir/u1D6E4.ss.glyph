@@ -1,13 +1,13 @@
 StartChar: u1D6E4.ss
 Encoding: 1115684 -1 3240
-Width: 639
+Width: 586
 GlyphClass: 2
 Flags: W
 TeX: 663 5
-ItalicCorrection: 62
+ItalicCorrection: 115
 TopAccentHorizontal: 442
-HStem: -5 31<8.96191 92.6826 263.106 321.504> 617 36<216.575 282.487 402.538 596.534>
-VStem: 609.075 29<499.506 573.393>
+HStem: -5 31<-7.11328 76.6074 247.031 305.429> 617 36<200.5 266.412 386.463 580.459>
+VStem: 593 29<499.506 573.393>
 LayerCount: 2
 Fore
 SplineSet
@@ -37,5 +37,4 @@ SplineSet
  231 -4 199 0 155 0 c 0
  104 0 63 -5 14 -5 c 0
 EndSplineSet
-Validated: 33
 EndChar
