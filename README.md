@@ -32,7 +32,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.
 
 ## Technical Staff
-- To build the font from source, please install [FontForge](https://github.com/fontforge/fontforge). Installation on Linux system is strongly recommanded.
+- To build the font from source, please install [FontForge](https://github.com/fontforge/fontforge). Installation on Linux system is strongly recommended.
 
 - This font is still under development, any components might be updated at any time. Issues, bug reports and other suggestions are welcome.
 

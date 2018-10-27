@@ -69,10 +69,10 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss01' 1033 "garamondBB"
-OtfFeatName: 'ss02' 1033 "VarPartial"
-OtfFeatName: 'ss03' 1033 "ScrCal"
 OtfFeatName: 'ss04' 1033 "SemiBold"
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss01' 1033 "garamondBB"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1300
