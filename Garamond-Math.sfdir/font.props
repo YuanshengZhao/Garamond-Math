@@ -69,28 +69,28 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss04' 1033 "SemiBold"
-OtfFeatName: 'ss03' 1033 "ScrCal"
-OtfFeatName: 'ss02' 1033 "VarPartial"
 OtfFeatName: 'ss01' 1033 "garamondBB"
-MATH:ScriptPercentScaleDown: 70
-MATH:ScriptScriptPercentScaleDown: 50
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss04' 1033 "SemiBold"
+MATH:ScriptPercentScaleDown: 80
+MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1300
 MATH:DisplayOperatorMinHeight: 1300
 MATH:MathLeading: 140 
 MATH:AxisHeight: 250 
-MATH:AccentBaseHeight: 470 
-MATH:FlattenedAccentBaseHeight: 642 
-MATH:SubscriptShiftDown: 222 
-MATH:SubscriptTopMax: 313 
-MATH:SubscriptBaselineDropMin: 111 
-MATH:SuperscriptShiftUp: 339 
-MATH:SuperscriptShiftUpCramped: 284 
-MATH:SuperscriptBottomMin: 188 
-MATH:SuperscriptBaselineDropMax: 222 
-MATH:SubSuperscriptGapMin: 140 
+MATH:AccentBaseHeight: 450 
+MATH:FlattenedAccentBaseHeight: 420 
+MATH:SubscriptShiftDown: 250 
+MATH:SubscriptTopMax: 320 
+MATH:SubscriptBaselineDropMin: 250 
+MATH:SuperscriptShiftUp: 405 
+MATH:SuperscriptShiftUpCramped: 300 
+MATH:SuperscriptBottomMin: 150 
+MATH:SuperscriptBaselineDropMax: 250 
+MATH:SubSuperscriptGapMin: 200 
 MATH:SuperscriptBottomMaxWithSubscript: 320 
-MATH:SpaceAfterScript: 40 
+MATH:SpaceAfterScript: 25 
 MATH:UpperLimitGapMin: 100 
 MATH:UpperLimitBaselineRiseMin: 100 
 MATH:LowerLimitGapMin: 100 
@@ -99,8 +99,8 @@ MATH:StackTopShiftUp: 430
 MATH:StackTopDisplayStyleShiftUp: 634 
 MATH:StackBottomShiftDown: 266 
 MATH:StackBottomDisplayStyleShiftDown: 598 
-MATH:StackGapMin: 100 
-MATH:StackDisplayStyleGapMin: 140 
+MATH:StackGapMin: 150 
+MATH:StackDisplayStyleGapMin: 350 
 MATH:StretchStackTopShiftUp: 100 
 MATH:StretchStackBottomShiftDown: 433 
 MATH:StretchStackGapAboveMin: 100 
@@ -110,25 +110,25 @@ MATH:FractionNumeratorDisplayStyleShiftUp: 634
 MATH:FractionDenominatorShiftDown: 266 
 MATH:FractionDenominatorDisplayStyleShiftDown: 598 
 MATH:FractionNumeratorGapMin: 100 
-MATH:FractionNumeratorDisplayStyleGapMin: 140 
+MATH:FractionNumeratorDisplayStyleGapMin: 150 
 MATH:FractionRuleThickness: 50 
 MATH:FractionDenominatorGapMin: 100 
-MATH:FractionDenominatorDisplayStyleGapMin: 140 
+MATH:FractionDenominatorDisplayStyleGapMin: 150 
 MATH:SkewedFractionHorizontalGap: 300 
 MATH:SkewedFractionVerticalGap: 70 
-MATH:OverbarVerticalGap: 100 
+MATH:OverbarVerticalGap: 150 
 MATH:OverbarRuleThickness: 50 
-MATH:OverbarExtraAscender: 40 
-MATH:UnderbarVerticalGap: 100 
+MATH:OverbarExtraAscender: 50 
+MATH:UnderbarVerticalGap: 150 
 MATH:UnderbarRuleThickness: 50 
-MATH:UnderbarExtraDescender: 40 
-MATH:RadicalVerticalGap: 140 
-MATH:RadicalDisplayStyleVerticalGap: 140 
+MATH:UnderbarExtraDescender: 50 
+MATH:RadicalVerticalGap: 65 
+MATH:RadicalDisplayStyleVerticalGap: 150 
 MATH:RadicalRuleThickness: 50 
-MATH:RadicalExtraAscender: 140 
+MATH:RadicalExtraAscender: 50 
 MATH:RadicalKernBeforeDegree: 40 
 MATH:RadicalKernAfterDegree: -355 
-MATH:RadicalDegreeBottomRaisePercent: 55
+MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
 Compacted: 1
@@ -137,7 +137,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 4495 29 12
+WinInfo: 0 29 12
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
