@@ -69,10 +69,10 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-OtfFeatName: 'ss01' 1033 "garamondBB"
-OtfFeatName: 'ss02' 1033 "VarPartial"
-OtfFeatName: 'ss03' 1033 "ScrCal"
 OtfFeatName: 'ss04' 1033 "SemiBold"
+OtfFeatName: 'ss03' 1033 "ScrCal"
+OtfFeatName: 'ss02' 1033 "VarPartial"
+OtfFeatName: 'ss01' 1033 "garamondBB"
 MATH:ScriptPercentScaleDown: 80
 MATH:ScriptScriptPercentScaleDown: 60
 MATH:DelimitedSubFormulaMinHeight: 1300
@@ -81,7 +81,7 @@ MATH:MathLeading: 140
 MATH:AxisHeight: 250 
 MATH:AccentBaseHeight: 450 
 MATH:FlattenedAccentBaseHeight: 420 
-MATH:SubscriptShiftDown: 250 
+MATH:SubscriptShiftDown: 200 
 MATH:SubscriptTopMax: 320 
 MATH:SubscriptBaselineDropMin: 250 
 MATH:SuperscriptShiftUp: 405 
@@ -137,7 +137,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 12
+WinInfo: 783 27 12
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

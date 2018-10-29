@@ -21,6 +21,7 @@
 %\setmathfont{Libertinus Math}
 \setmathfont{Garamond-Math}[StylisticSet={1,2,7},Path=./]
 \newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,2,7},Path=./]
+% \setmathfont{LibertinusMath-Regular.otf}[Path=../libertinus/]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -58,6 +59,8 @@
 \cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
+\NewDocumentCommand \SUPSUBMAP { m m }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{A}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -177,7 +180,25 @@
         \frac{\partial x'^{\beta_1}}{\partial x^{j_1}}\cdots
         \frac{\partial x'^{\beta_l}}{\partial x^{j_l}}\]
         \[\int_{\frac{1-m u+m\Delta/k^2}{2mu/k}}^{+\infty}\frac{p\Omega}{2 k p u \sin\phi} [h(up^2)-h(up^2+k^2/m+\Delta)]\,\dd p\]
-        \[V_k^kW_k^k\Gamma_k^kT_k^k{\symup T}_k^k{\symup V}_k^k\]
+        \[V_k^kW_k^k\Gamma_k^kT_k^k{\symup T}_k^k{\symup V}_k^kV_{\frac HH}\]
+        \SUPSUBMAP{\symit}{\Latinalphabets}
+        \SUPSUBMAP{\symit}{\latinalphabets}
+        \[f\sb x \sp x f_ x ^ x\]
+        \SUPSUBMAP{\symbf}{\Latinalphabets}
+        \SUPSUBMAP{\symbf}{\latinalphabets}
+        \SUPSUBMAP{\symit}{\Greekalphabets}
+        \SUPSUBMAP{\symit}{\greekalphabets}
+        \SUPSUBMAP{\symbf}{\Greekalphabets}
+        \SUPSUBMAP{\symbf}{\greekalphabets}
+
+        \SUPSUBMAP{\symup}{\Latinalphabets}
+        \SUPSUBMAP{\symup}{\latinalphabets}
+        \SUPSUBMAP{\symbfup}{\Latinalphabets}
+        \SUPSUBMAP{\symbfup}{\latinalphabets}
+        \SUPSUBMAP{\symup}{\Greekalphabets}
+        \SUPSUBMAP{\symup}{\greekalphabets}
+        \SUPSUBMAP{\symbfup}{\Greekalphabets}
+        \SUPSUBMAP{\symbfup}{\greekalphabets}
   \item Arrows
         \[
           x \leftarrow y \rightarrow z \leftrightarrow w
