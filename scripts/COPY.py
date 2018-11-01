@@ -59,6 +59,8 @@ def WriteGlyph(g_fname,g_wd,g_itacor,g_tpach,g_xmove):
     #Write Info
     while (lpstr[:9]!="SplineSet"):
         lpstr=hfile.readline()
+        if(lpstr==""):
+            return 0
         if (lpstr[:5]=="Width"):
             opr=opr+"Width: "+str(g_wd)+"\n"
             if(g_itacor!=0):

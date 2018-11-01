@@ -28,6 +28,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
     - `5` -> Use extra-bold for `\symbf`
     - `6` -> horizontal "bar" for `\hbar`
     - `7` -> `\int` variant
+    - `8` -> Garamond-compatible `\mathcal` (experimental)
 
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.
 
