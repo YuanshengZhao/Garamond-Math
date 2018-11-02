@@ -1,11 +1,10 @@
 StartChar: u.s
 Encoding: 1115171 -1 2542
-Width: 532
+Width: 547
 GlyphClass: 2
 Flags: W
 TeX: 415 19
-ItalicCorrection: 7
-TopAccentHorizontal: 275
+TopAccentHorizontal: 239
 HStem: -19 60<193.283 283.355> 22 29<463.389 521.994> 366 32<29.0051 67.8865 280.029 348.5>
 VStem: 85 78<73.9659 355.161> 367 78<79.9081 352.671>
 LayerCount: 2

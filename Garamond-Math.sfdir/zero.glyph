@@ -1,26 +1,25 @@
 StartChar: zero
 Encoding: 48 48 3470
-Width: 480
+Width: 460
 GlyphClass: 2
 Flags: W
 TeX: 630 14
-ItalicCorrection: 4
-TopAccentHorizontal: 236
-HStem: -14 26<221.758 297.757> 602 28<196.962 279.117>
-VStem: 45 83<156.562 452.092> 373 82<165.636 459.887>
+TopAccentHorizontal: 232
+HStem: -14 26<201.758 277.757> 602 28<176.962 259.117>
+VStem: 25 83<156.562 452.092> 353 82<165.636 459.887>
 LayerCount: 2
 Fore
 SplineSet
-245 -14 m 0
- 109 -14 45 154 45 302 c 0
- 45 454 107 630 255 630 c 0
- 391 630 455 461 455 316 c 0
- 455 166 393 -14 245 -14 c 0
-262 12 m 0
- 342 12 373 148 373 298 c 0
- 373 448 326 602 236 602 c 0
- 156 602 128 470 128 320 c 0
- 128 170 172 12 262 12 c 0
+225 -14 m 0
+ 89 -14 25 154 25 302 c 0
+ 25 454 87 630 235 630 c 0
+ 371 630 435 461 435 316 c 0
+ 435 166 373 -14 225 -14 c 0
+242 12 m 0
+ 322 12 353 148 353 298 c 0
+ 353 448 306 602 216 602 c 0
+ 136 602 108 470 108 320 c 0
+ 108 170 152 12 242 12 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" zero.s zero.ss

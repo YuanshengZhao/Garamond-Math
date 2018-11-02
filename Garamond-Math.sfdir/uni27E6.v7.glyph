@@ -1,6 +1,6 @@
 StartChar: uni27E6.v7
 Encoding: 1114394 -1 1440
-Width: 606
+Width: 516
 GlyphClass: 2
 Flags: W
 TeX: 778 278
@@ -38,5 +38,4 @@ SplineSet
  257 -1043 260 -1040 260 -1033 c 0
  260 1542 l 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,10 @@
 StartChar: u1D559
 Encoding: 120153 120153 851
-Width: 544
+Width: 513
 GlyphClass: 2
 Flags: W
 TeX: 683 0
+TopAccentHorizontal: 128
 HStem: 0 44<99 159 385 445> 417 43<266.254 373.583> 639 44<99 159>
 VStem: 55 44<44 639> 159 44<44 342.724 391 639> 341 44<44 405.137> 445 44<44 378.137>
 LayerCount: 2

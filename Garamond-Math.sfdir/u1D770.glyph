@@ -1,9 +1,10 @@
 StartChar: u1D770
 Encoding: 120688 120688 4080
-Width: 648
+Width: 654
 GlyphClass: 2
 Flags: W
-TopAccentHorizontal: 324
+ItalicCorrection: 12
+TopAccentHorizontal: 373
 HStem: -10 77<506.285 581.572> -10 42<227.849 321.646> 402 42<234.07 318.519>
 VStem: 36 140<102.54 312.035>
 LayerCount: 2

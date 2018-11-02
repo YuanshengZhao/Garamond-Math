@@ -1,9 +1,10 @@
 StartChar: u1D5FF
 Encoding: 120319 120319 3050
-Width: 421
+Width: 324
 GlyphClass: 2
 Flags: W
-TopAccentHorizontal: 249
+ItalicCorrection: 100
+TopAccentHorizontal: 238
 HStem: 0 432<80.0233 219.254> 342 97<289.209 375.231>
 VStem: 89 132<2.6647 311.254>
 LayerCount: 2

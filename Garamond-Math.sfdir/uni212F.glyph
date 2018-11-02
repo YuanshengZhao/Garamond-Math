@@ -1,10 +1,10 @@
 StartChar: uni212F
 Encoding: 8495 8495 2211
-Width: 573
+Width: 561
 GlyphClass: 2
 Flags: W
 TeX: 418 14
-TopAccentHorizontal: 420
+TopAccentHorizontal: 409
 HStem: -11 27<178.411 284.558> 388 27<400.199 486.75>
 VStem: 104.784 55<26.8922 134.548> 491.784 27<325.766 382.324>
 LayerCount: 2

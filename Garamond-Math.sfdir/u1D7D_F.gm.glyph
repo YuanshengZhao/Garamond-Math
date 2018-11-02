@@ -1,7 +1,9 @@
 StartChar: u1D7DF.gm
 Encoding: 1115922 -1 3538
-Width: 480
+Width: 406
 Flags: W
+ItalicCorrection: 103
+TopAccentHorizontal: 269
 HStem: 501 45<95.0919 364.078> 571 45<98.3381 415.797>
 LayerCount: 2
 Fore

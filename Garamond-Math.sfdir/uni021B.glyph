@@ -1,10 +1,10 @@
 StartChar: uni021B
 Encoding: 539 539 2144
-Width: 314
+Width: 330
 GlyphClass: 2
 Flags: W
 TeX: 475 275
-ItalicCorrection: 29
+TopAccentHorizontal: 176
 HStem: -141 84<125.8 197.667> -14 55<173.591 262.431> 352 48<156.312 303.775>
 VStem: 85 70<58.7654 351.595> 202 52<-222.636 -148.737>
 LayerCount: 2

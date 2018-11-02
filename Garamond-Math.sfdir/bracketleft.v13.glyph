@@ -1,6 +1,6 @@
 StartChar: bracketleft.v13
 Encoding: 1114188 -1 1234
-Width: 486
+Width: 396
 GlyphClass: 2
 Flags: W
 TeX: -77 214
@@ -26,5 +26,4 @@ SplineSet
  376 -1830 362 -1832 350 -1832 c 2
  141 -1832 l 2
 EndSplineSet
-Validated: 1
 EndChar

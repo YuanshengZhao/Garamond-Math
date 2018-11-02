@@ -1,10 +1,11 @@
 StartChar: uhorntilde
 Encoding: 7919 7919 2138
-Width: 561
+Width: 549
 GlyphClass: 2
 Flags: W
 TeX: 600 19
-ItalicCorrection: 28
+ItalicCorrection: 37
+TopAccentHorizontal: 347
 HStem: -19 56<186.992 285.45> 21 24<446.943 516.841> 365 32<29.0288 68.315 280.055 351.573> 500 66<205.697 343.916> 507 67<177.211 312.803>
 VStem: 85 70<71.1627 353.726> 368 70<78.3695 352.826> 511 50<425.034 495.5>
 LayerCount: 2

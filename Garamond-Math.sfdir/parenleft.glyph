@@ -1,25 +1,24 @@
 StartChar: parenleft
 Encoding: 40 40 4096
-Width: 445
+Width: 315
 Flags: W
 TeX: 810 310
 GlyphVariantsVertical: parenleft parenleft.v1 parenleft.v2 parenleft.v3 parenleft.v4 parenleft.v5 parenleft.v6 parenleft.v7 parenleft.v8 parenleft.v9 parenleft.v10 parenleft.v11 parenleft.v12 parenleft.v13 parenleft.v14 parenleft.v15 parenleft.v16 parenleft.v17 parenleft.v18 parenleft.v19 parenleft.v20
 GlyphCompositionVertical: 3  uni239D%0,0,250,3194 uni239C%1,500,500,500 uni239B%0,250,0,2376
-VStem: 110 83<128.565 416.674>
+VStem: 40 83<128.565 416.674>
 LayerCount: 2
 Fore
 SplineSet
-307 -210 m 0
- 301 -210 295 -207 290 -202 c 0
- 219 -131 110 104 110 274 c 0
- 110 444 215 627 286 698 c 0
- 292 704 303 710 313 710 c 0
- 320 710 335 703 335 694 c 0
- 335 692 324 676 322 674 c 0
- 261 603 193 456 193 286 c 0
- 193 116 258 -97 319 -168 c 0
- 320 -170 334 -186 334 -188 c 0
- 334 -202 320 -210 307 -210 c 0
+237 -210 m 0
+ 231 -210 225 -207 220 -202 c 0
+ 149 -131 40 104 40 274 c 0
+ 40 444 145 627 216 698 c 0
+ 222 704 233 710 243 710 c 0
+ 250 710 265 703 265 694 c 0
+ 265 692 254 676 252 674 c 0
+ 191 603 123 456 123 286 c 0
+ 123 116 188 -97 249 -168 c 0
+ 250 -170 264 -186 264 -188 c 0
+ 264 -202 250 -210 237 -210 c 0
 EndSplineSet
-Validated: 1
 EndChar

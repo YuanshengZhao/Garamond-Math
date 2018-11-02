@@ -1,12 +1,12 @@
 StartChar: uni03F0.ss
 Encoding: 1115260 -1 2631
-Width: 506
+Width: 525
 GlyphClass: 2
 Flags: W
 TeX: 420 9
-TopAccentHorizontal: 249
-HStem: -10 86<357.555 446.905> 327 92<75.7622 139.174>
-VStem: 45 103<14.625 81.1693> 156 21<200.218 252.003> 304 19<193.084 216>
+TopAccentHorizontal: 257
+HStem: -10 86<359.555 448.905> 327 92<77.7622 141.174>
+VStem: 47 103<14.625 81.1693> 158 21<200.218 252.003> 306 19<193.084 216>
 LayerCount: 2
 Fore
 SplineSet

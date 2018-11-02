@@ -1,6 +1,6 @@
 StartChar: uni27E6.bt
 Encoding: 1114428 -1 1474
-Width: 671
+Width: 581
 GlyphClass: 2
 Flags: W
 IsExtendedShape: 1
@@ -26,5 +26,4 @@ SplineSet
  333 2357 l 1
  333 79 l 0xb0
 EndSplineSet
-Validated: 1
 EndChar

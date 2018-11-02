@@ -1,10 +1,10 @@
 StartChar: abreveacute
 Encoding: 7855 7855 3928
-Width: 399
+Width: 423
 GlyphClass: 2
 Flags: W
 TeX: 730 14
-ItalicCorrection: 26
+TopAccentHorizontal: 191
 HStem: -14 46<100.5 201.116 314.769 371.14> 365 49<152.989 252.5> 458 56<128.426 254.404>
 VStem: 35 80<42.662 121.94 279.95 317.037> 74 36<536.045 578.899> 238 68<59.2835 168.996 199.884 352.817> 274 34<537.89 579.229>
 LayerCount: 2

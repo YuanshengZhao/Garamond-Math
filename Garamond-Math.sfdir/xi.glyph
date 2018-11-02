@@ -1,10 +1,10 @@
 StartChar: xi
 Encoding: 958 958 2251
-Width: 374
+Width: 379
 GlyphClass: 2
 Flags: W
 TeX: 742 210
-TopAccentHorizontal: 200
+TopAccentHorizontal: 191
 HStem: -210 72<142.095 231.649> -17 76<83.795 264.189> 0 82<147.076 316.109> 611 74<253.834 328.605>
 VStem: 35 34<79.3212 190.187> 46 69<617.429 706.092> 60 50<375.445 487.291> 319 35<-68.1434 31.5>
 LayerCount: 2

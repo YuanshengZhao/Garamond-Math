@@ -1,10 +1,10 @@
 StartChar: alpha.s
 Encoding: 1115203 -1 2574
-Width: 459
+Width: 489
 GlyphClass: 2
 Flags: W
 TeX: 419 15
-TopAccentHorizontal: 264
+TopAccentHorizontal: 255
 HStem: -15 87<332.859 420.481> -15 47<89.879 172.167> 320 85<157.333 236.655>
 VStem: 35 43<40.5618 210.789> 332 67<315.355 410.827>
 LayerCount: 2

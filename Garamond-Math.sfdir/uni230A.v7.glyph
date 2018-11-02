@@ -1,6 +1,6 @@
 StartChar: uni230A.v7
 Encoding: 1114350 -1 1396
-Width: 456
+Width: 366
 GlyphClass: 2
 Flags: W
 TeX: -87 308
@@ -22,5 +22,4 @@ SplineSet
  110 1576 138 1592 165 1592 c 0
  174 1592 183 1580 183 1569 c 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,6 +1,6 @@
 StartChar: uni23A2
 Encoding: 9122 9122 454
-Width: 521
+Width: 431
 GlyphClass: 2
 Flags: W
 TeX: 810 0
@@ -16,5 +16,4 @@ SplineSet
  183 0 l 1
  110 0 l 1
 EndSplineSet
-Validated: 1
 EndChar

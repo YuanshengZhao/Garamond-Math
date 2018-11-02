@@ -1,20 +1,19 @@
 StartChar: uni239C
 Encoding: 9116 9116 448
-Width: 645
+Width: 515
 GlyphClass: 2
 Flags: W
 TeX: 396 0
 IsExtendedShape: 1
-HStem: 0 21G<110 193>
-VStem: 110 83<0 500>
+HStem: 0 21G<40 123>
+VStem: 40 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-193 500 m 25
- 193 0 l 25
- 110 0 l 25
- 110 500 l 25
- 193 500 l 25
+123 500 m 25
+ 123 0 l 25
+ 40 0 l 25
+ 40 500 l 25
+ 123 500 l 25
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,21 +1,20 @@
 StartChar: braceright.ex
 Encoding: 1114257 -1 1303
-Width: 726
+Width: 576
 GlyphClass: 2
 Flags: W
 TeX: 743 -592
 ItalicCorrection: 28
 IsExtendedShape: 1
-HStem: 0 21G<331 416>
-VStem: 331 85<0 800>
+HStem: 0 21G<241 326>
+VStem: 241 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-416 0 m 9
- 331 0 l 17
- 331 558 331 232 331 800 c 9
- 416 800 l 17
- 416 230 416 562 416 0 c 9
+326 0 m 9
+ 241 0 l 17
+ 241 558 241 232 241 800 c 9
+ 326 800 l 17
+ 326 230 326 562 326 0 c 9
 EndSplineSet
-Validated: 1
 EndChar

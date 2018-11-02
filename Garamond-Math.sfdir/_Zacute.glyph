@@ -1,10 +1,10 @@
 StartChar: Zacute
 Encoding: 377 377 2427
-Width: 603
+Width: 612
 GlyphClass: 2
 Flags: W
 TeX: 838 5
-ItalicCorrection: 14
+TopAccentHorizontal: 316
 HStem: -5 41<180.367 484.865> 609 37<120.191 437.997> 656 20G<82.5 87.5>
 VStem: 36 37<506.312 565.741>
 LayerCount: 2

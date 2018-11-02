@@ -1,9 +1,10 @@
 StartChar: eth
 Encoding: 240 240 4085
-Width: 487
+Width: 502
 GlyphClass: 2
 Flags: W
 TeX: 705 14
+TopAccentHorizontal: 311
 HStem: -14 30<199.521 297.095> 380 34<177.791 300.116> 678 27<64.1382 126.55>
 VStem: 25 83<113.216 278.98> 378 78<137.076 313.765>
 LayerCount: 2

@@ -1,9 +1,8 @@
 StartChar: u2124.gm
 Encoding: 1115888 -1 3504
-Width: 623
+Width: 633
 Flags: W
-ItalicCorrection: 14
-TopAccentHorizontal: 318
+TopAccentHorizontal: 326
 HStem: -3 45<95.9609 183.743 239.339 517.519> 601 45<444 519.629> 609 37<120.191 398.997> 656 20G<82.5 87.5>
 VStem: 36 37<506.312 565.741> 182 45<42.5318 95.5423> 399 45<569.073 601>
 LayerCount: 2

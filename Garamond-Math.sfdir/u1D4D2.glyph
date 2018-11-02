@@ -1,10 +1,11 @@
 StartChar: u1D4D2
 Encoding: 120018 120018 728
-Width: 892
+Width: 789
 GlyphClass: 2
 Flags: W
 TeX: 703 14
-TopAccentHorizontal: 716
+ItalicCorrection: 73
+TopAccentHorizontal: 469
 HStem: -21 38<421.359 546.384> 258 41<500.523 599.279> 617 38<626.678 748.305> 625 39<224.129 405.282>
 VStem: 35 91<386.724 540.43> 209 151<94.0146 281.078> 403 40<111.641 195.219> 627 112<100.931 232.218> 765 72<498.8 602.854>
 LayerCount: 2
