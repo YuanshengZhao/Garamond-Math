@@ -2,9 +2,8 @@ StartChar: tildebelowcmb.h22
 Encoding: 1114849 -1 1895
 Width: 4600
 VWidth: 1464
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: -330 59<3223.06 3637.99> -165 61<961.434 1379.79>
 LayerCount: 2
 Fore
 SplineSet

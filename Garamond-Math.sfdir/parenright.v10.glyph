@@ -2,10 +2,9 @@ StartChar: parenright.v10
 Encoding: 1114165 -1 1211
 Width: 415
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 712 -544
 IsExtendedShape: 1
-VStem: 292 83<68.7726 490.203>
 LayerCount: 2
 Fore
 SplineSet

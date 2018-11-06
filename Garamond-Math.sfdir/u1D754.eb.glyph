@@ -1,10 +1,8 @@
 StartChar: u1D754.eb
 Encoding: 1116398 -1 4583
-Width: 502
-Flags: W
+Width: 507
+Flags: MW
 TopAccentHorizontal: 320
-HStem: -290 56<136.35 278.571> 16 105<225.063 313.139> 326 111<309.075 407.663>
-VStem: 41 76<-201.143 -31.5022> 430 47<222.633 316.726>
 LayerCount: 2
 Fore
 SplineSet

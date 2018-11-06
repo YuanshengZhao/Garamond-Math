@@ -1,9 +1,7 @@
 StartChar: existential
 Encoding: 8707 8707 3999
 Width: 452
-Flags: W
-HStem: -5 50<52.644 339> 298 50<62.644 339> 603 48<51.875 339>
-VStem: 339 63<45 298 348 603>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

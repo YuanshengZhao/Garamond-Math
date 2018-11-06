@@ -1,10 +1,8 @@
 StartChar: uni2140.gm
 Encoding: 1115931 -1 3547
 Width: 989
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: -227 45<167.884 832.038> -153 45<555.585 830.54> 686 41<176.369 234 279.003 757.783>
-VStem: 234 45<649.23 683.142> 803 32<573.388 634.511>
 LayerCount: 2
 Fore
 SplineSet

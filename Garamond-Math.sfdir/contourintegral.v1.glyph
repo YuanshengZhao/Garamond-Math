@@ -2,11 +2,9 @@ StartChar: contourintegral.v1
 Encoding: 1114639 -1 1685
 Width: 982
 GlyphClass: 2
-Flags: W
+Flags: MW
 ItalicCorrection: 364
 IsExtendedShape: 1
-HStem: -717 54<186.198 280.356> 1166 55<686.581 783.078>
-VStem: 173 50<144.865 357.737> 759 50<142.048 355.236>
 LayerCount: 2
 Fore
 SplineSet

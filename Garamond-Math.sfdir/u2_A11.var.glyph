@@ -1,12 +1,10 @@
 StartChar: u2A11.var
 Encoding: 1116430 -1 4615
 Width: 762
-Flags: W
+Flags: MW
 ItalicCorrection: 280
 IsExtendedShape: 1
 GlyphVariantsVertical: u2A11.vv1
-HStem: -296 34<159.693 236.889> 762 34<525.111 602.307>
-VStem: 80 79<-261.314 -176.652> 167.808 40.0129<171.99 298.62> 603 79<676.652 761.314>
 LayerCount: 2
 Fore
 SplineSet

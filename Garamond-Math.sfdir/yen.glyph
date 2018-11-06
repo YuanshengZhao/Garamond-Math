@@ -1,11 +1,9 @@
 StartChar: yen
 Encoding: 165 165 316
 Width: 586
-Flags: W
+Flags: MW
 ItalicCorrection: 89
 TopAccentHorizontal: 343
-HStem: -5 29<191.692 264.247 420.753 493.308> 197 35<164.286 303 383 519.881> 280 35<164.286 293 388 520.881> 620 33<39.6494 96.7163 236.279 291.781 423.06 475.621 585.286 649.313>
-VStem: 38 194<584 646> 303 80<51.375 197 232 280>
 LayerCount: 2
 Fore
 SplineSet

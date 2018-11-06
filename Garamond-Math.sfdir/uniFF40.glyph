@@ -1,9 +1,7 @@
 StartChar: uniFF40
 Encoding: 65344 65344 4124
 Width: 200
-Flags: W
-HStem: 457 192
-VStem: 22 157
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 398 96 N 1 0 0 1 0 0 2

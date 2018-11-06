@@ -2,11 +2,9 @@ StartChar: uni20D3
 Encoding: 8403 8403 2169
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 505 5
 TopAccentHorizontal: -250
-HStem: -5 21G<-247 -234>
-VStem: -276 52<-2.04688 502.047>
 LayerCount: 2
 Fore
 SplineSet

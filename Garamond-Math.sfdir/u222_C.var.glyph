@@ -1,12 +1,10 @@
 StartChar: u222C.var
 Encoding: 1116421 -1 4606
 Width: 1062
-Flags: W
+Flags: MW
 ItalicCorrection: 280
 IsExtendedShape: 1
 GlyphVariantsVertical: u222C.vv1
-HStem: -296 34<159.693 236.889 459.693 536.889> 762 34<525.111 602.307 825.111 902.307>
-VStem: 80 79<-261.314 -176.652> 380 79<-261.314 -176.652 428.902 593.305> 603 79<676.652 761.314> 903 79<676.652 761.314>
 LayerCount: 2
 Fore
 SplineSet

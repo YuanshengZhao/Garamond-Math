@@ -1,9 +1,7 @@
 StartChar: uniFF0D
 Encoding: 65293 65293 4119
 Width: 274
-Flags: W
-HStem: 170 85
-VStem: 29 216<195.001 230.422>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 2 45 N 1 0 0 1 0 0 2

@@ -2,10 +2,9 @@ StartChar: radical.v19
 Encoding: 1114452 -1 1498
 Width: 1027
 GlyphClass: 2
-Flags: W
+Flags: MW
 ItalicCorrection: 397
 IsExtendedShape: 1
-HStem: 27 44<116.505 182> 3129 50<1013 1059.7>
 LayerCount: 2
 Fore
 SplineSet

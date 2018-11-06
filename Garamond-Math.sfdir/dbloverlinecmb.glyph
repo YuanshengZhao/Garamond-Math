@@ -2,10 +2,9 @@ StartChar: dbloverlinecmb
 Encoding: 831 831 3612
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 746 -588
 TopAccentHorizontal: -250
-HStem: 588 44<-418.53 -80.4703> 702 44<-418.53 -80.4703>
 LayerCount: 2
 Fore
 SplineSet

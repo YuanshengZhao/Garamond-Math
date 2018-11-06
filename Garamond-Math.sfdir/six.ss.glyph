@@ -1,10 +1,8 @@
 StartChar: six.ss
 Encoding: 1115072 -1 2443
-Width: 484
-Flags: W
+Width: 489
+Flags: MW
 TopAccentHorizontal: 312
-HStem: -16 40<211.702 325.78> 260 61<249.266 361.652> 610 29<389.951 442.693>
-VStem: 41 99<103.229 316.663> 365 95<103.707 219.207>
 LayerCount: 2
 Fore
 SplineSet

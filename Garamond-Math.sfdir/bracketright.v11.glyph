@@ -2,11 +2,9 @@ StartChar: bracketright.v11
 Encoding: 1114206 -1 1252
 Width: 386
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 835 340
 IsExtendedShape: 1
-HStem: -1582 33<20.2487 118.154> 2056 28<20.0095 193.995>
-VStem: 203 73<-1535.78 2049.78>
 LayerCount: 2
 Fore
 SplineSet

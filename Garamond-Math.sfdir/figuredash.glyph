@@ -2,9 +2,8 @@ StartChar: figuredash
 Encoding: 8210 8210 3866
 Width: 660
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 357 -305
-HStem: 305 52<77.9531 582.047>
 LayerCount: 2
 Fore
 SplineSet

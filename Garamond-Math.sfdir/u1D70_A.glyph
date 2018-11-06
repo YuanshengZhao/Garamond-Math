@@ -1,25 +1,23 @@
 StartChar: u1D70A
 Encoding: 120586 120586 1048
-Width: 367
+Width: 376
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 414 14
-TopAccentHorizontal: 234
-HStem: -14 76<75.2118 175.59> 341 73<184.213 297.683>
-VStem: 25 35<81.0225 194.319> 310 30<229.242 321.763>
+TopAccentHorizontal: 239
 LayerCount: 2
 Fore
 SplineSet
-114 -14 m 0
- 73 -14 25 44 25 99 c 0
- 25 224 129 414 251 414 c 0
- 310 414 340 350 340 296 c 0
- 340 176 253 -14 114 -14 c 0
-114 62 m 0
- 197 62 314 209 310 287 c 0
- 309 316 285 341 253 341 c 0
- 150 341 59 204 60 124 c 0
- 61 95 84 62 114 62 c 0
+119 -14 m 0
+ 78 -14 30 44 30 99 c 0
+ 30 224 134 414 256 414 c 0
+ 315 414 345 350 345 296 c 0
+ 345 176 258 -14 119 -14 c 0
+119 62 m 0
+ 202 62 319 209 315 287 c 0
+ 314 316 290 341 258 341 c 0
+ 155 341 64 204 65 124 c 0
+ 66 95 89 62 119 62 c 0
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D70A.s u1D70A.ss

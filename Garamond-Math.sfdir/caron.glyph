@@ -2,12 +2,10 @@ StartChar: caron
 Encoding: 711 711 3679
 Width: 300
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 748 -555
 ItalicCorrection: 17
 TopAccentHorizontal: 150
-HStem: 555 193
-VStem: 42 216<722 744>
 LayerCount: 2
 Fore
 SplineSet

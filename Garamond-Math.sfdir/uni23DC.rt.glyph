@@ -1,9 +1,8 @@
 StartChar: uni23DC.rt
 Encoding: 1114929 -1 1975
 Width: 2572
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 776 64<0 519.295>
 LayerCount: 2
 Fore
 SplineSet

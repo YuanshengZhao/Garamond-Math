@@ -2,10 +2,9 @@ StartChar: parenleft.v11
 Encoding: 1114146 -1 1192
 Width: 425
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -103 225
 IsExtendedShape: 1
-VStem: 40 83<51.7143 507.262>
 LayerCount: 2
 Fore
 SplineSet

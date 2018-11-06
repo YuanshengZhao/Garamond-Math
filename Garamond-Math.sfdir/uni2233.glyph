@@ -2,12 +2,11 @@ StartChar: uni2233
 Encoding: 8755 8755 2242
 Width: 746
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2233 uni2233.v1
-HStem: -296 40<154.363 229.231> 758 41<446.985 527.741>
 LayerCount: 2
 Fore
 SplineSet

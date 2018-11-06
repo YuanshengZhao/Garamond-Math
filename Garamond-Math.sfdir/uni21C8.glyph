@@ -1,9 +1,7 @@
 StartChar: uni21C8
 Encoding: 8648 8648 301
 Width: 740
-Flags: W
-VStem: 207 46<-218.757 465> 330 80<382 409.717> 487 46<-218.757 465>
-CounterMasks: 1 e0
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

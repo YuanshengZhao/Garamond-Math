@@ -1,9 +1,7 @@
 StartChar: uni220A
 Encoding: 8714 8714 4
 Width: 504
-Flags: W
-HStem: 64 50<207.95 410.896> 225 50<150.284 410.896> 388 50<205.968 410.896>
-VStem: 90 324<226.488 273.535>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

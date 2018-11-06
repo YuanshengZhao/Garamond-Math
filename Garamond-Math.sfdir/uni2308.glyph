@@ -2,12 +2,10 @@ StartChar: uni2308
 Encoding: 8968 8968 433
 Width: 331
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 702 207
 GlyphVariantsVertical: uni2308 uni2308.v1 uni2308.v2 uni2308.v3 uni2308.v4 uni2308.v5 uni2308.v6 uni2308.v7 uni2308.v8 uni2308.v9 uni2308.v10 uni2308.v11 uni2308.v12 uni2308.v13 uni2308.v14 uni2308.v15 uni2308.v16 uni2308.v17 uni2308.v18 uni2308.v19 uni2308.v20
 GlyphCompositionVertical: 3  uni2308.bt%0,0,500,2357 uni23A2%1,1000,1000,1000 uni23A1%0,500,0,2359
-HStem: 673 28<206 310.916>
-VStem: 110 73<-198.554 666.782>
 LayerCount: 2
 Fore
 SplineSet

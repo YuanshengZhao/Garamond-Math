@@ -2,10 +2,8 @@ StartChar: uni27E6.tp
 Encoding: 1114430 -1 1476
 Width: 581
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 0 21G<110 183 260 333> 2418 35<184.351 260 334.351 559.914>
-VStem: 110 73<0 2417.79> 260 73<0 2417.77>
 LayerCount: 2
 Fore
 SplineSet

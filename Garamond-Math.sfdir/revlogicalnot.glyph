@@ -2,10 +2,8 @@ StartChar: revlogicalnot
 Encoding: 8976 8976 437
 Width: 686
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 276 5
-HStem: -5 21G<90 103> 224 52<132 608.047>
-VStem: 80 52<-2.04688 224>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,9 +2,8 @@ StartChar: brevebelowcmb.h6
 Encoding: 1114666 -1 1712
 Width: 1528
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: -215 63<546.244 983.393>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,13 +2,11 @@ StartChar: uni20E9
 Encoding: 8425 8425 2183
 Width: 537
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 726 -544
 TopAccentHorizontal: -250
 GlyphVariantsHorizontal: uni20E9 uni23B4.h1 uni23B4.h2 uni23B4.h3 uni23B4.h4 uni23B4.h5 uni23B4.h6
 GlyphCompositionHorizontal: 3  uni23B4.lft%0,0,438,1313 uni23B4.ex%1,875,875,875 uni23B4.rt%0,438,0,1312
-HStem: 629 51<35.0556 497.944>
-VStem: 0 29<546.026 614> 507 30<546.007 602.667>
 LayerCount: 2
 Fore
 SplineSet

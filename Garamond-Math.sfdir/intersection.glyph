@@ -1,9 +1,7 @@
 StartChar: intersection
 Encoding: 8745 8745 13
 Width: 554
-Flags: W
-HStem: 0 21G<93.5 101 480.5 488> 454 50<194.309 362.295>
-VStem: 57 53<3.66051 363.104> 444 53<3.66051 363.104>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

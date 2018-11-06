@@ -2,10 +2,8 @@ StartChar: quoteleft
 Encoding: 8216 8216 3595
 Width: 242
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 691 -427
-HStem: 427 88<98.6124 168.557> 668 23<153.859 200.967>
-VStem: 39 52<494.813 604.092>
 LayerCount: 2
 Fore
 SplineSet

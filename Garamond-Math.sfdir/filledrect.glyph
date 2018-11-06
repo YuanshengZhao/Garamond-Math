@@ -2,9 +2,8 @@ StartChar: filledrect
 Encoding: 9644 9644 480
 Width: 660
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 375 -125
-HStem: 125 250<80.7324 579.268>
 LayerCount: 2
 Fore
 SplineSet

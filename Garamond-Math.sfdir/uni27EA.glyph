@@ -2,10 +2,9 @@ StartChar: uni27EA
 Encoding: 10218 10218 497
 Width: 474
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 724 300
 GlyphVariantsVertical: uni27EA uni27EA.v1 uni27EA.v2 uni27EA.v3 uni27EA.v4 uni27EA.v5 uni27EA.v6 uni27EA.v7 uni27EA.v8 uni27EA.v9 uni27EA.v10 uni27EA.v11 uni27EA.v12 uni27EA.v13 uni27EA.v14 uni27EA.v15 uni27EA.v16 uni27EA.v17 uni27EA.v18 uni27EA.v19 uni27EA.v20
-VStem: 188.5 48<-220.982 -200 700 720.982> 375.5 48<-220.982 -200 700 720.982>
 LayerCount: 2
 Fore
 SplineSet

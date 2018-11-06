@@ -2,12 +2,10 @@ StartChar: circumflex
 Encoding: 710 710 168
 Width: 300
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 748 -555
 ItalicCorrection: 17
 TopAccentHorizontal: 150
-HStem: 555 193
-VStem: 42 216<559 581>
 LayerCount: 2
 Fore
 SplineSet

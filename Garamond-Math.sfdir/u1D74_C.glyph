@@ -1,17 +1,15 @@
 StartChar: u1D74C
 Encoding: 120652 120652 1101
-Width: 715
+Width: 712
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 433 291
-ItalicCorrection: 68
+ItalicCorrection: 76
 TopAccentHorizontal: 481
-HStem: -273 121<421.24 502.065> 316 117<275.477 367>
-VStem: 39 86<-283.162 -216.938> 348 55<-182 -9.92488> 367 49<167.911 283.024>
 LayerCount: 2
 Fore
 SplineSet
-79 -291 m 0xf0
+79 -291 m 0
  56 -291 39 -257 39 -233 c 0
  39 -212 47 -190 77 -159 c 2
  347 126 l 2
@@ -21,7 +19,7 @@ SplineSet
  215 282 211 276 204 276 c 0
  197 276 193 283 193 296 c 0
  195 340 267 433 337 433 c 0
- 397 433 416 391 416 332 c 0xe8
+ 397 433 416 391 416 332 c 0
  417 295 408 227 397 165 c 1
  589 389 l 2
  621 427 632 433 644 433 c 0
@@ -40,7 +38,7 @@ SplineSet
  378 29 l 1
  166 -195 l 2
  136 -226 124 -248 125 -272 c 0
- 125 -285 91 -291 79 -291 c 0xf0
+ 125 -285 91 -291 79 -291 c 0
 EndSplineSet
 Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D74C.sb

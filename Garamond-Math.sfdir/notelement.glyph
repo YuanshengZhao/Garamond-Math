@@ -1,8 +1,7 @@
 StartChar: notelement
 Encoding: 8713 8713 3904
 Width: 564
-Flags: W
-HStem: 14 50<256.885 470.896> 225 50<152.151 244.892 335.798 470.896> 438 50<427.492 470.896>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

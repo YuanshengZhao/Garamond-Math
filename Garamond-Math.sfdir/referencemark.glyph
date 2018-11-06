@@ -2,12 +2,9 @@ StartChar: referencemark
 Encoding: 8251 8251 3805
 Width: 564
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 514 14
 ItalicCorrection: 10
-HStem: -14 112<237.922 326.078> 194 112<29.9218 117.77 446.23 534.078> 402 112<237.922 326.078>
-VStem: 18 112<205.922 294.078> 226 112<-2.07822 85.7695 414.23 502.078> 434 112<205.922 294.078>
-CounterMasks: 1 fc
 LayerCount: 2
 Fore
 SplineSet

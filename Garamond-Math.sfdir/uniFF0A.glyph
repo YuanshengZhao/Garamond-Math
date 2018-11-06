@@ -1,9 +1,7 @@
 StartChar: uniFF0A
 Encoding: 65290 65290 4117
 Width: 340
-Flags: W
-HStem: 372 298<166.594 174.406>
-VStem: 140 34<602.462 669.992> 167 34<372.008 439.538>
+Flags: MW
 LayerCount: 2
 Fore
 Refer: 4033 42 N 1 0 0 1 0 0 2

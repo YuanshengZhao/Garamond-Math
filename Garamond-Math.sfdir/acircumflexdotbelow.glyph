@@ -1,12 +1,10 @@
 StartChar: acircumflexdotbelow
 Encoding: 7853 7853 3741
-Width: 428
+Width: 433
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 648 192
 TopAccentHorizontal: 196
-HStem: -192 101<142.117 224.823> -14 46<105.5 206.116 319.769 376.14> 365 49<157.989 257.5>
-VStem: 40 80<42.662 121.94 279.95 317.037> 133 101<-182.883 -100.177> 243 68<59.2835 168.996 199.884 352.817>
 LayerCount: 2
 Fore
 SplineSet

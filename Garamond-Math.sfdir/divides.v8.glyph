@@ -2,9 +2,8 @@ StartChar: divides.v8
 Encoding: 1114543 -1 1589
 Width: 400
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-VStem: 174 52<-1222.05 1722.05>
 LayerCount: 2
 Fore
 SplineSet

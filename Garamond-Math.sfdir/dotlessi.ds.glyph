@@ -1,34 +1,32 @@
 StartChar: dotlessi.ds
 Encoding: 1114124 -1 1170
-Width: 198
+Width: 208
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 962 461
-TopAccentHorizontal: 98
+TopAccentHorizontal: 103
 IsExtendedShape: 1
-HStem: 0 44<69 129> 406 44<69 129>
-VStem: 25 44<44 406> 129 44<44 406>
 LayerCount: 2
 Fore
 SplineSet
-173 30 m 2
- 173 10 163 0 143 0 c 2
- 55 0 l 2
- 35 0 25 10 25 30 c 2
- 25 420 l 2
- 25 440 35 450 55 450 c 2
- 143 450 l 2
- 163 450 173 440 173 420 c 2
- 173 30 l 2
-119 44 m 2
- 126 44 129 47 129 54 c 2
- 129 396 l 2
- 129 403 126 406 119 406 c 2
- 79 406 l 2
- 72 406 69 403 69 396 c 2
- 69 54 l 2
- 69 47 72 44 79 44 c 2
- 119 44 l 2
+178 30 m 2
+ 178 10 168 0 148 0 c 2
+ 60 0 l 2
+ 40 0 30 10 30 30 c 2
+ 30 420 l 2
+ 30 440 40 450 60 450 c 2
+ 148 450 l 2
+ 168 450 178 440 178 420 c 2
+ 178 30 l 2
+124 44 m 2
+ 131 44 134 47 134 54 c 2
+ 134 396 l 2
+ 134 403 131 406 124 406 c 2
+ 84 406 l 2
+ 77 406 74 403 74 396 c 2
+ 74 54 l 2
+ 74 47 77 44 84 44 c 2
+ 124 44 l 2
 EndSplineSet
 Validated: 1
 Substitution2: "'ss01' Style Set 1" dotlessi.dsgm

@@ -1,11 +1,9 @@
 StartChar: uni210E.ss
 Encoding: 1115268 -1 2639
-Width: 513
-Flags: W
+Width: 519
+Flags: MW
 ItalicCorrection: 1
-TopAccentHorizontal: 237
-HStem: -14 45<238 306.778> 370 55<356.26 442.5>
-VStem: 407 84<230.706 367.296>
+TopAccentHorizontal: 238
 LayerCount: 2
 Fore
 SplineSet

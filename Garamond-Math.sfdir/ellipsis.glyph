@@ -2,11 +2,8 @@ StartChar: ellipsis
 Encoding: 8230 8230 3940
 Width: 686
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 96 14
-HStem: -14 110<71.8467 158.153 299.847 386.153 527.847 614.153>
-VStem: 60 110<-2.15331 84.1533> 288 110<-2.15331 84.1533> 516 110<-2.15331 84.1533>
-CounterMasks: 1 70
 LayerCount: 2
 Fore
 SplineSet

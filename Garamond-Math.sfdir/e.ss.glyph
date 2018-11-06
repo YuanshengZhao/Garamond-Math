@@ -1,12 +1,10 @@
 StartChar: e.ss
 Encoding: 1115140 -1 2511
-Width: 412
+Width: 416
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 414 15
-TopAccentHorizontal: 237
-HStem: -15 71<193.493 313.828> 257 34<134.554 299.065> 387 32<182.452 277.315>
-VStem: 43 77<134.875 256.69> 308 76<279 360.969>
+TopAccentHorizontal: 236
 LayerCount: 2
 Fore
 SplineSet

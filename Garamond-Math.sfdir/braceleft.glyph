@@ -2,34 +2,32 @@ StartChar: braceleft
 Encoding: 123 123 3598
 Width: 376
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 683 300
 GlyphVariantsVertical: braceleft braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4 braceleft.v5 braceleft.v6 braceleft.v7 braceleft.v8 braceleft.v9 braceleft.v10 braceleft.v11 braceleft.v12 braceleft.v13 braceleft.v14 braceleft.v15 braceleft.v16 braceleft.v17 braceleft.v18 braceleft.v19 braceleft.v20
 GlyphCompositionVertical: 5  uni23A9%0,0,400,1734 braceleft.ex%1,800,800,800 uni23A8%0,400,400,3464 braceleft.ex%1,800,800,800 uni23A7%0,400,0,1737
-HStem: 654 29<272.143 355.974>
-VStem: 143 85<-117.689 118.197 379.803 615.561> 156 85<-51.7816 174.392 323.542 549.782>
 LayerCount: 2
 Fore
 SplineSet
-335 -184 m 0xc0
- 241 -178 143 -146 143 -52 c 0xc0
+335 -184 m 0
+ 241 -178 143 -146 143 -52 c 0
  143 18 156 64 156 126 c 0
  156 184 112 224 69 234 c 0
  60 236 50 242 50 250 c 0
  50 256 56 266 71 270 c 0
- 124 284 156 314 156 372 c 0xa0
+ 124 284 156 314 156 372 c 0
  156 434 143 480 143 550 c 0
  143 644 244 679 338 683 c 0
  347 683 356 677 356 668 c 0
  356 657 341 655 330 654 c 0
- 266 646 228 629 228 556 c 0xc0
+ 266 646 228 629 228 556 c 0
  228 488 241 440 241 382 c 0
  241 316 165 269 123 252 c 0
  119 250 122 249 125 248 c 0
- 158 239 241 182 241 116 c 0xa0
+ 158 239 241 182 241 116 c 0
  241 58 228 10 228 -58 c 0
  228 -131 263 -151 327 -157 c 0
  338 -158 353 -157 353 -168 c 0
- 353 -177 344 -185 335 -184 c 0xc0
+ 353 -177 344 -185 335 -184 c 0
 EndSplineSet
 EndChar

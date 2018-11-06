@@ -1,12 +1,10 @@
 StartChar: adotbelow
 Encoding: 7841 7841 207
-Width: 426
+Width: 431
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 414 192
-TopAccentHorizontal: 206
-HStem: -192 101<140.117 222.823> -14 46<103.5 204.116 317.769 374.14> 365 49<155.989 255.5>
-VStem: 38 80<42.662 121.94 279.95 317.037> 131 101<-182.883 -100.177> 241 68<59.2835 168.996 199.884 352.817>
+TopAccentHorizontal: 207
 LayerCount: 2
 Fore
 SplineSet

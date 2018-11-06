@@ -2,11 +2,9 @@ StartChar: uni230B.v3
 Encoding: 1114366 -1 1412
 Width: 346
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -88 298
 IsExtendedShape: 1
-HStem: -584 33<20.0102 96.6154>
-VStem: 163 73<-537.778 1083.15>
 LayerCount: 2
 Fore
 SplineSet

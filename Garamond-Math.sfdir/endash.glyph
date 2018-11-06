@@ -2,10 +2,9 @@ StartChar: endash
 Encoding: 8211 8211 3697
 Width: 500
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 250 -201
 ItalicCorrection: 28
-HStem: 201 49<-2.38212 502.382>
 LayerCount: 2
 Fore
 SplineSet

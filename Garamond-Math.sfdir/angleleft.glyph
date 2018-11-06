@@ -2,10 +2,9 @@ StartChar: angleleft
 Encoding: 9001 9001 445
 Width: 287
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 724 224
 GlyphVariantsVertical: angleleft uni27E8.v1 uni27E8.v2 uni27E8.v3 uni27E8.v4 uni27E8.v5 uni27E8.v6 uni27E8.v7 uni27E8.v8 uni27E8.v9 uni27E8.v10 uni27E8.v11 uni27E8.v12 uni27E8.v13 uni27E8.v14 uni27E8.v15 uni27E8.v16 uni27E8.v17 uni27E8.v18 uni27E8.v19 uni27E8.v20
-VStem: 189 48<-220.982 -200 700 720.982>
 LayerCount: 2
 Fore
 SplineSet

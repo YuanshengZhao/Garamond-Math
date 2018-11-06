@@ -2,10 +2,8 @@ StartChar: uni20DD
 Encoding: 8413 8413 287
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 668 168
-HStem: -168 52<-370.844 -129.156> 616 52<-370.844 -129.156>
-VStem: -668 52<129.156 370.844> 116 52<129.156 370.844>
 LayerCount: 2
 Fore
 SplineSet

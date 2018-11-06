@@ -1,9 +1,7 @@
 StartChar: uni22AD
 Encoding: 8877 8877 3672
 Width: 633
-Flags: W
-HStem: 163 50<142 256.697 349.204 538.757> 294 50<142 312.796 404.739 537.543>
-VStem: 90 52<7.95312 163 213 294 344 492.047>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

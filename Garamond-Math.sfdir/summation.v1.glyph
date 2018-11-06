@@ -2,10 +2,8 @@ StartChar: summation.v1
 Encoding: 1114648 -1 1694
 Width: 1192
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: -437 87<156.68 1011.03> 891 46<188.003 939.358>
-VStem: 988 32<769.388 831.203>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,22 +2,20 @@ StartChar: four
 Encoding: 52 52 19
 Width: 541
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 642 3
 TopAccentHorizontal: 301
-HStem: -3 25<198.032 264.576 403.014 458.746> 175 56<108 274.175> 185 46<108 293 374.065 483.569>
-VStem: 293 80<38.5771 181.926 231.023 415.812>
 LayerCount: 2
 Fore
 SplineSet
-216 -3 m 0xb0
+216 -3 m 0
  209 -3 198 1 198 10 c 0
  198 17 208 21 216 22 c 0
  278 30 293 48 293 80 c 2
  293 173 l 2
  293 179 279 182 278 182 c 0
- 196 182 140 176 35 175 c 0xd0
- 30 175 25 181 25 185 c 0xb0
+ 196 182 140 176 35 175 c 0
+ 30 175 25 181 25 185 c 0
  25 186 25 187 26 188 c 0
  51 219 52 217 65 235 c 2
  329 614 l 2
@@ -25,7 +23,7 @@ SplineSet
  380 642 l 2
  386 642 378 628 378 628 c 1
  108 240 l 2
- 106 237 104 231 108 231 c 2xd0
+ 106 237 104 231 108 231 c 2
  281 231 l 2
  286 231 293 235 293 239 c 2
  293 394 l 2
@@ -46,7 +44,7 @@ SplineSet
  449 20 459 14 459 8 c 0
  459 2 452 -3 444 -3 c 0
  387 -3 378 2 331 2 c 0
- 280 2 270 -3 216 -3 c 0xb0
+ 280 2 270 -3 216 -3 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" four.s four.ss

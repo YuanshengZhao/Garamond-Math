@@ -1,9 +1,7 @@
 StartChar: filledbox
 Encoding: 9632 9632 81
 Width: 655
-Flags: W
-HStem: -5 658<54.3245 603.952>
-VStem: 50 555<-4.5575 652.146>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

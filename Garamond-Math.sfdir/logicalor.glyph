@@ -1,8 +1,7 @@
 StartChar: logicalor
 Encoding: 8744 8744 4020
 Width: 560
-Flags: W
-HStem: 0 21G<286.5 294>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

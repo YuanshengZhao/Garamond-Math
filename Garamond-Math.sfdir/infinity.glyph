@@ -1,9 +1,7 @@
 StartChar: infinity
 Encoding: 8734 8734 3965
 Width: 749
-Flags: W
-HStem: 72 72<123.631 262.165 505.137 616.968> 376 70<132.164 243.147 484.66 620.801>
-VStem: 35 29<211.074 312.676> 685 29<203.887 306.926>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

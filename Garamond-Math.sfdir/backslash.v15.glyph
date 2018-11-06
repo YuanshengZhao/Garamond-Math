@@ -2,9 +2,8 @@ StartChar: backslash.v15
 Encoding: 1114616 -1 1662
 Width: 792
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-VStem: 90.1094 56<2525.43 2595.28> 646.109 56<-2095.28 -2025.43>
 LayerCount: 2
 Fore
 SplineSet

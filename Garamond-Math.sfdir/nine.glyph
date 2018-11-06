@@ -2,12 +2,10 @@ StartChar: nine
 Encoding: 57 57 3816
 Width: 475
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 629 31
 ItalicCorrection: 7
 TopAccentHorizontal: 232
-HStem: -31 18<25.0803 81.9939> 304 53<162.63 250.77> 593 36<162.541 260.348>
-VStem: 37 75<410.459 512.556> 350 85<271.972 485.838>
 LayerCount: 2
 Fore
 SplineSet

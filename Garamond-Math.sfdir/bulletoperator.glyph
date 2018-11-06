@@ -2,10 +2,8 @@ StartChar: bulletoperator
 Encoding: 8729 8729 4047
 Width: 480
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 400 -100
-HStem: 100 300<162.15 317.85>
-VStem: 90 300<172.15 327.85>
 LayerCount: 2
 Fore
 SplineSet

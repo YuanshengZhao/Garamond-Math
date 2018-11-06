@@ -2,9 +2,8 @@ StartChar: uni27EA.v2
 Encoding: 1114497 -1 1543
 Width: 495
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-VStem: 212.75 46<-471.891 -430.899 930.899 971.891> 399.75 46<-471.891 -430.899 930.899 971.891>
 LayerCount: 2
 Fore
 SplineSet

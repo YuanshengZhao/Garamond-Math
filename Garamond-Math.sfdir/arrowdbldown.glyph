@@ -1,9 +1,8 @@
 StartChar: arrowdbldown
 Encoding: 8659 8659 273
 Width: 460
-Flags: W
+Flags: MW
 GlyphCompositionVertical: 2  arrowdbldown(⇓)%1,0,281,842 arrowdblup.ex%1,810,810,810
-VStem: 137 46<-14 614.757> 277 46<-13 614.757>
 LayerCount: 2
 Fore
 SplineSet

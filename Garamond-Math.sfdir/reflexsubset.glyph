@@ -2,9 +2,7 @@ StartChar: reflexsubset
 Encoding: 8838 8838 110
 Width: 635
 VWidth: 1006
-Flags: W
-HStem: 14 50<138.929 542.733> 121 50<214.015 540.896> 437 50<214.015 540.896>
-VStem: 90 55<230.658 377.83>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

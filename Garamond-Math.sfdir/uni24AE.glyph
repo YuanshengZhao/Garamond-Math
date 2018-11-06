@@ -2,9 +2,7 @@ StartChar: uni24AE
 Encoding: 9390 9390 374
 Width: 944
 GlyphClass: 2
-Flags: W
-HStem: -14 27<427.123 515.213> 386 28<450.148 535.037>
-VStem: 40 83<123.565 411.858> 368 60<278.853 366.281> 544 68<40.6028 130.779> 816 83<123.565 411.858>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

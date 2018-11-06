@@ -1,12 +1,10 @@
 StartChar: dotlessi.tt
 Encoding: 1114134 -1 1180
-Width: 444
+Width: 449
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 455 169
-TopAccentHorizontal: 158
-HStem: 1 60<39.7904 201 270.999 414.987> 369 60.999<48.144 201>
-VStem: 201 69.999<61 369>
+TopAccentHorizontal: 159
 LayerCount: 2
 Fore
 SplineSet

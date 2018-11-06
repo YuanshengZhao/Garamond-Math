@@ -1,14 +1,13 @@
 StartChar: uni2C71
 Encoding: 11377 11377 3575
-Width: 537
-Flags: W
-ItalicCorrection: 17
+Width: 541
+Flags: MW
+ItalicCorrection: 18
 TopAccentHorizontal: 281
-HStem: 359 55<394.711 479.5> 378 27<41.0556 85.2604 190.71 226.944>
 LayerCount: 2
 Fore
 SplineSet
-251 -22 m 2x80
+251 -22 m 2
  246 -22 234 8 231 17 c 2
  109 329 l 2
  99 353 83 372 63 378 c 0
@@ -17,7 +16,7 @@ SplineSet
  99 405 98 400 133 400 c 0
  168 400 169 405 208 405 c 0
  215 405 228 404 228 396 c 0
- 228 386 216 382 205 378 c 0x40
+ 228 386 216 382 205 378 c 0
  191 374 185 356 185 337 c 0
  185 328 186 318 189 310 c 2
  263 111 l 2
@@ -31,7 +30,7 @@ SplineSet
  405 359 394 338 391 329 c 0
  351 220 296 70 278 23 c 0
  271 7 263 -7 254 -22 c 1
- 251 -22 l 2x80
+ 251 -22 l 2
 EndSplineSet
 Validated: 1
 EndChar

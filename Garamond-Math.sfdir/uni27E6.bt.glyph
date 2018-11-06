@@ -2,19 +2,17 @@ StartChar: uni27E6.bt
 Encoding: 1114428 -1 1474
 Width: 581
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 0 43<206 260> 0 33<438.615 560.909>
-VStem: 110 73<46.2195 2357> 260 73<46.2511 2357>
 LayerCount: 2
 Fore
 SplineSet
-333 79 m 0xb0
+333 79 m 0
  333 61 344 48 356 46 c 2
  535 33 l 2
  548 31 561 27 561 15 c 0
  561 3 547 0 535 0 c 0
- 141 0 l 0x70
+ 141 0 l 0
  118 0 110 1 110 25 c 2
  110 2357 l 1
  183 2357 l 1
@@ -24,6 +22,6 @@ SplineSet
  257 43 260 45 260 52 c 0
  260 2357 l 1
  333 2357 l 1
- 333 79 l 0xb0
+ 333 79 l 0
 EndSplineSet
 EndChar

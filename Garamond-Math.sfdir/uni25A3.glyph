@@ -1,10 +1,7 @@
 StartChar: uni25A3
 Encoding: 9635 9635 83
 Width: 655
-Flags: W
-HStem: -5 50<103.272 552> 95 458<154.707 504.268> 603 50<106.972 552>
-VStem: 50 53.123<45 603> 151.36 353.64<95.7324 551.762> 552 53<45 603>
-CounterMasks: 1 e0
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

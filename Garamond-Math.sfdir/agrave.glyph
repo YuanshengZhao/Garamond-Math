@@ -1,12 +1,10 @@
 StartChar: agrave
 Encoding: 224 224 4038
-Width: 428
+Width: 432
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 649 14
-TopAccentHorizontal: 138
-HStem: -14 48<104 203.414 317.435 376.606> 365 49<158.283 258> 457 21G<225.5 231.5>
-VStem: 42 78<42.5666 125.471 280.17 320.237> 243 68<58.3296 168.996 199.884 353.979>
+TopAccentHorizontal: 137
 LayerCount: 2
 Fore
 SplineSet

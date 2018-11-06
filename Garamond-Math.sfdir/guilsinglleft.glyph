@@ -2,9 +2,8 @@ StartChar: guilsinglleft
 Encoding: 8249 8249 271
 Width: 384
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 400 -19
-VStem: 60 264
 LayerCount: 2
 Fore
 SplineSet

@@ -2,10 +2,9 @@ StartChar: slash
 Encoding: 47 47 4076
 Width: 489
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 725 300
 GlyphVariantsVertical: slash slash.v1 slash.v2 slash.v3 slash.v4 slash.v5 slash.v6 slash.v7 slash.v8 slash.v9 slash.v10 slash.v11 slash.v12 slash.v13 slash.v14 slash.v15 slash.v16 slash.v17 slash.v18 slash.v19 slash.v20
-VStem: 90.5146 308
 LayerCount: 2
 Fore
 SplineSet

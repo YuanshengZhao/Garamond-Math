@@ -1,8 +1,7 @@
 StartChar: uni2037.st
 Encoding: 1115050 -1 2096
 Width: 792
-Flags: W
-VStem: 50 125<432.734 541.947> 299 124<432.734 541.947> 547 124<432.734 541.947>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

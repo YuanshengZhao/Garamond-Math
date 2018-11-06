@@ -2,9 +2,7 @@ StartChar: propersubset
 Encoding: 8834 8834 3588
 Width: 634
 VWidth: 1019
-Flags: W
-HStem: 34 50<236.777 540.896> 418 50<236.777 540.896>
-VStem: 90 55<168.959 331.429>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

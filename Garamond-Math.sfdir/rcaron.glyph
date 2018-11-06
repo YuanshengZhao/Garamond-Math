@@ -1,13 +1,11 @@
 StartChar: rcaron
 Encoding: 345 345 3789
-Width: 297
+Width: 293
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 648 3
-ItalicCorrection: 69
-TopAccentHorizontal: 204
-HStem: -3 27<42.2179 92.1431 192.701 249.682> 348 66<230.503 321.124> 455 21G<200 208>
-VStem: 103 71<35.8108 329.917>
+ItalicCorrection: 78
+TopAccentHorizontal: 203
 LayerCount: 2
 Fore
 SplineSet

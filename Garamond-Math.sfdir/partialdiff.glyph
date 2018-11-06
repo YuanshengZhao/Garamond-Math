@@ -2,11 +2,9 @@ StartChar: partialdiff
 Encoding: 8706 8706 312
 Width: 501
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 705 14
 TopAccentHorizontal: 192
-HStem: -14 30<199.521 297.095> 380 34<177.791 300.116> 678 27<64.1382 127.491>
-VStem: 25 83<113.216 278.98> 378 78<137.076 313.091>
 LayerCount: 2
 Fore
 SplineSet

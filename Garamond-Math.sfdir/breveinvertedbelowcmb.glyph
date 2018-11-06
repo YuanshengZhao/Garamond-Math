@@ -2,12 +2,10 @@ StartChar: breveinvertedbelowcmb
 Encoding: 815 815 185
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -85 215
 TopAccentHorizontal: 0
 GlyphVariantsHorizontal: breveinvertedbelowcmb breveinvertedbelowcmb.h1 breveinvertedbelowcmb.h2 breveinvertedbelowcmb.h3 breveinvertedbelowcmb.h4 breveinvertedbelowcmb.h5 breveinvertedbelowcmb.h6
-HStem: -145 60<-62.6001 62.6001>
-VStem: -107 30<-214.992 -167.36> 77 30<-214.992 -167.36>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,13 +2,11 @@ StartChar: uni23B4
 Encoding: 9140 9140 466
 Width: 537
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 680 -546
 ItalicCorrection: 28
 GlyphVariantsHorizontal: uni23B4 uni23B4.h1 uni23B4.h2 uni23B4.h3 uni23B4.h4 uni23B4.h5 uni23B4.h6 uni23B4.h7 uni23B4.h8 uni23B4.h9 uni23B4.h10 uni23B4.h11 uni23B4.h12 uni23B4.h13 uni23B4.h14 uni23B4.h15 uni23B4.h16 uni23B4.h17 uni23B4.h18 uni23B4.h19 uni23B4.h20
 GlyphCompositionHorizontal: 3  uni23B4.lft%0,0,500,2350 uni23B4.ex%1,1000,1000,1000 uni23B4.rt%0,500,0,2350
-HStem: 629 51<35.0556 497.944>
-VStem: 0 29<546.026 614> 507 30<546.007 602.667>
 LayerCount: 2
 Fore
 SplineSet

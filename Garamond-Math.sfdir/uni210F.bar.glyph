@@ -1,11 +1,9 @@
 StartChar: uni210F.bar
 Encoding: 1116417 -1 4602
-Width: 494
-Flags: W
+Width: 500
+Flags: MW
 ItalicCorrection: 1
-TopAccentHorizontal: 229
-HStem: -14 41<215.084 290.208> 374 47<345.266 426> 515 34<109.009 178 247 378.479>
-VStem: 406 66<231.211 370.688>
+TopAccentHorizontal: 231
 LayerCount: 2
 Fore
 SplineSet

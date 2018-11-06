@@ -1,12 +1,10 @@
 StartChar: ccedilla
 Encoding: 231 231 88
-Width: 405
+Width: 409
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 414 274
-TopAccentHorizontal: 254
-HStem: -274 49<147.602 225.545> -15 60<189.831 217> 377 37<172.065 271.89>
-VStem: 43 69<125.46 282.32> 245 50<-205.712 -133.987>
+TopAccentHorizontal: 253
 LayerCount: 2
 Fore
 SplineSet

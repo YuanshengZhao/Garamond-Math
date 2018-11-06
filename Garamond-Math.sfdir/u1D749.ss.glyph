@@ -1,15 +1,13 @@
 StartChar: u1D749.ss
 Encoding: 1115838 -1 3394
-Width: 513
-Flags: W
-ItalicCorrection: 56
-TopAccentHorizontal: 337
-HStem: -14 121<186 280> 297 129<290.518 472.29> 308 125<137.095 260.64>
-VStem: 42 38<229.268 275.895>
+Width: 512
+Flags: MW
+ItalicCorrection: 62
+TopAccentHorizontal: 336
 LayerCount: 2
 Fore
 SplineSet
-206 -14 m 0xd0
+206 -14 m 0
  166 -14 138 16 157 75 c 0
  175 135 228 234 259 283 c 0
  267 296 262 307 250 308 c 2
@@ -17,7 +15,7 @@ SplineSet
  129 312 103 303 80 244 c 0
  76 235 68 229 58 229 c 0
  48 229 42 244 42 261 c 0
- 42 369 125 433 247 433 c 0xb0
+ 42 369 125 433 247 433 c 0
  297 433 379 426 423 426 c 0
  454 426 482 432 494 442 c 0
  509 452 515 466 524 466 c 0
@@ -30,7 +28,7 @@ SplineSet
  288 107 315 126 327 138 c 0
  335 146 346 156 348 156 c 0
  360 156 365 151 365 135 c 0
- 365 98 271 -14 206 -14 c 0xd0
+ 365 98 271 -14 206 -14 c 0
 EndSplineSet
 Validated: 33
 EndChar

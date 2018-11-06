@@ -1,11 +1,10 @@
 StartChar: parenright
 Encoding: 41 41 4097
 Width: 315
-Flags: W
+Flags: MW
 TeX: 810 310
 GlyphVariantsVertical: parenright parenright.v1 parenright.v2 parenright.v3 parenright.v4 parenright.v5 parenright.v6 parenright.v7 parenright.v8 parenright.v9 parenright.v10 parenright.v11 parenright.v12 parenright.v13 parenright.v14 parenright.v15 parenright.v16 parenright.v17 parenright.v18 parenright.v19 parenright.v20
 GlyphCompositionVertical: 3  uni23A0%0,0,250,3194 uni239F%1,500,500,500 uni239E%0,250,0,2376
-VStem: 192 83<128.565 416.674>
 LayerCount: 2
 Fore
 SplineSet

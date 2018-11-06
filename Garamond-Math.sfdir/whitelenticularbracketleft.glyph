@@ -2,10 +2,8 @@ StartChar: whitelenticularbracketleft
 Encoding: 12310 12310 528
 Width: 463
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 668 300
-HStem: 667 35<185.063 375.773>
-VStem: 110 73<-153.78 666.782> 220 83<126.696 408.952>
 LayerCount: 2
 Fore
 SplineSet

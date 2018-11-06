@@ -1,22 +1,20 @@
 StartChar: u1D42D
 Encoding: 119853 119853 575
-Width: 407
+Width: 411
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 519 14
-TopAccentHorizontal: 225
-HStem: -14 68<190 323.519> 359 60<234.504 378.207> 362 42<43.5499 88.6557>
-VStem: 102 132<71.7378 357.766>
+TopAccentHorizontal: 224
 LayerCount: 2
 Fore
 SplineSet
-234 -14 m 0xd0
+234 -14 m 0
  146 -14 102 32 102 114 c 2
  102 344 l 2
  102 356 94 361 71 362 c 2
  58 362 l 2
  49 362 42 382 42 394 c 0
- 42 397 44 402 48 404 c 0xb0
+ 42 397 44 402 48 404 c 0
  95 421 162 478 194 506 c 0
  203 513 208 519 219 519 c 0
  231 519 236 516 234 499 c 2
@@ -32,7 +30,7 @@ SplineSet
  336 54 350 63 365 70 c 0
  367 71 369 72 371 72 c 0
  378 72 382 63 382 52 c 0
- 382 40 311 -14 234 -14 c 0xd0
+ 382 40 311 -14 234 -14 c 0
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D42D.s u1D42D.ss

@@ -1,9 +1,7 @@
 StartChar: section
 Encoding: 167 167 346
 Width: 400
-Flags: W
-HStem: -148 54<88.8253 191.674> 596 44<162.652 273.871>
-VStem: 24 49<293.853 443.615> 307 39<54.3144 209.409>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

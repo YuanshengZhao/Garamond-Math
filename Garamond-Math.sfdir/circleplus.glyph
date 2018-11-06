@@ -1,10 +1,7 @@
 StartChar: circleplus
 Encoding: 8853 8853 125
 Width: 786
-Flags: W
-HStem: -53 50.2705<423 489.155> 225 50<146.104 363 423 638.949> 503 50<295.39 490.61>
-VStem: 90 50<152.312 347.61> 363 60<-1.27904 225 275 478.117> 646 50<151.017 347.61>
-CounterMasks: 1 1c
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

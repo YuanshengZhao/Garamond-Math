@@ -1,9 +1,7 @@
 StartChar: arrowupdnbse
 Encoding: 8616 8616 3850
 Width: 400
-Flags: W
-HStem: -221 45<21.9409 376.559>
-VStem: 177 46<-2 465>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

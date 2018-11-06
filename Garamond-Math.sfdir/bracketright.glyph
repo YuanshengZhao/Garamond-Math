@@ -2,12 +2,10 @@ StartChar: bracketright
 Encoding: 93 93 34
 Width: 331
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 702 300
 GlyphVariantsVertical: bracketright bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4 bracketright.v5 bracketright.v6 bracketright.v7 bracketright.v8 bracketright.v9 bracketright.v10 bracketright.v11 bracketright.v12 bracketright.v13 bracketright.v14 bracketright.v15 bracketright.v16 bracketright.v17 bracketright.v18 bracketright.v19 bracketright.v20
 GlyphCompositionVertical: 3  uni23A6%0,0,500,2357 uni23A5%1,1000,1000,1000 uni23A4%0,500,0,2359
-HStem: -200 33<20.0906 88.5385> 673 28<20.0844 125>
-VStem: 148 73<-153.78 666.782>
 LayerCount: 2
 Fore
 SplineSet

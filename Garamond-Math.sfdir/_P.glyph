@@ -1,25 +1,23 @@
 StartChar: P
 Encoding: 80 80 2372
 AltUni2: 0003a1.ffffffff.0
-Width: 520
+Width: 522
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 658 5
-ItalicCorrection: 46
+ItalicCorrection: 50
 TopAccentHorizontal: 262
-HStem: -5 29<39.6924 115.631 254.305 324.308> 254 31<274.022 389.679> 622 31<52.0745 120.304> 630 28<236.934 362.601>
-VStem: 145 80<45.1651 603.448> 456 86<373.102 559.429>
 LayerCount: 2
 Fore
 SplineSet
-68 -5 m 0xdc
+68 -5 m 0
  51 -5 39 -2 39 6 c 0
  39 15 49 20 72 24 c 0
  122 33 145 51 145 100 c 2
  145 522 l 2
  145 582 134 613 84 622 c 0
  61 626 51 633 51 642 c 0
- 51 650 63 653 80 653 c 0xec
+ 51 650 63 653 80 653 c 0
  134 653 137 652 178 652 c 0
  218 652 261 658 289 658 c 0
  441 658 542 592 542 480 c 0
@@ -35,7 +33,7 @@ SplineSet
  315 20 325 15 325 6 c 0
  325 -2 313 -5 296 -5 c 0
  242 -5 236 2 198 2 c 0
- 147 2 122 -5 68 -5 c 0xdc
+ 147 2 122 -5 68 -5 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" P.s P.ss

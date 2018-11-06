@@ -1,11 +1,10 @@
 StartChar: lambda.ss
 Encoding: 1115224 -1 2595
-Width: 563
+Width: 567
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 699 18
-TopAccentHorizontal: 160
-HStem: -15 99<407.922 500.855> 622 80<101.313 205.519>
+TopAccentHorizontal: 159
 LayerCount: 2
 Fore
 SplineSet

@@ -2,10 +2,8 @@ StartChar: ratio
 Encoding: 8758 8758 336
 Width: 272
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 423 -77
-HStem: 77 112<91.9218 180.078> 311 112<91.9218 180.078>
-VStem: 80 112<88.9218 177.078 322.922 411.078>
 LayerCount: 2
 Fore
 SplineSet

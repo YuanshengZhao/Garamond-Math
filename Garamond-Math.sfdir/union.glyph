@@ -1,9 +1,7 @@
 StartChar: union
 Encoding: 8746 8746 14
 Width: 554
-Flags: W
-HStem: 0 50<191.705 359.691>
-VStem: 57 53<140.896 500.339> 444 53<140.896 500.339>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

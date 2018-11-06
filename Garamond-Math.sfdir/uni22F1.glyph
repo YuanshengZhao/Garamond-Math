@@ -1,10 +1,7 @@
 StartChar: uni22F1
 Encoding: 8945 8945 214
 Width: 510
-Flags: W
-HStem: 0 110<361.847 448.153> 150 110<211.847 298.153> 300 110<61.8467 148.153>
-VStem: 50 110<311.847 398.153> 200 110<161.847 248.153> 350 110<11.8467 98.1533>
-CounterMasks: 1 fc
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

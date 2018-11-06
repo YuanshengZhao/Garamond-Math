@@ -1,29 +1,30 @@
 StartChar: parallel
 Encoding: 8741 8741 4039
-Width: 416
+Width: 255
 GlyphClass: 2
 Flags: W
 TeX: 725 300
+TopAccentHorizontal: 128
 GlyphVariantsVertical: parallel parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6 parallel.v7 parallel.v8 parallel.v9 parallel.v10 parallel.v11 parallel.v12 parallel.v13 parallel.v14 parallel.v15 parallel.v16 parallel.v17 parallel.v18 parallel.v19 parallel.v20
 GlyphCompositionVertical: 3  parallel.bt%0,0,398,796 parallel.ex%1,796,796,796 parallel.tp%0,398,0,796
 VStem: 110 52<-222.047 722.047> 254 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet
-306 -209 m 2
- 306 -217 299 -225 293 -225 c 0
- 273 -225 254 -214 254 -194 c 2
- 254 709 l 2
- 254 717 261 725 267 725 c 0
- 287 725 306 714 306 694 c 2
- 306 -209 l 2
-162 -209 m 2
- 162 -217 155 -225 149 -225 c 0
- 129 -225 110 -214 110 -194 c 2
- 110 709 l 2
- 110 717 117 725 123 725 c 0
- 143 725 162 714 162 694 c 2
- 162 -209 l 2
+226 -209 m 2
+ 226 -217 219 -225 213 -225 c 0
+ 193 -225 174 -214 174 -194 c 2
+ 174 709 l 2
+ 174 717 181 725 187 725 c 0
+ 207 725 226 714 226 694 c 2
+ 226 -209 l 2
+82 -209 m 2
+ 82 -217 75 -225 69 -225 c 0
+ 49 -225 30 -214 30 -194 c 2
+ 30 709 l 2
+ 30 717 37 725 43 725 c 0
+ 63 725 82 714 82 694 c 2
+ 82 -209 l 2
 EndSplineSet
 Validated: 1
 EndChar

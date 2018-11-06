@@ -1,11 +1,9 @@
 StartChar: uni22C3
 Encoding: 8899 8899 170
 Width: 890
-Flags: W
+Flags: MW
 IsExtendedShape: 1
 GlyphVariantsVertical: uni22C3.v1
-HStem: -243 50<317.557 570.276>
-VStem: 50 53<42.2054 727.339> 787 53<51.7937 727.339>
 LayerCount: 2
 Fore
 SplineSet

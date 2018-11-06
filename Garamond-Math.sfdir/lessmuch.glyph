@@ -2,9 +2,8 @@ StartChar: lessmuch
 Encoding: 8810 8810 4077
 Width: 931
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 512 12
-HStem: 408 61<512 533.458 809 830.458>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,12 +2,10 @@ StartChar: brevecmb
 Encoding: 774 774 3814
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 708 -578
 TopAccentHorizontal: 0
 GlyphVariantsHorizontal: brevecmb brevecmb.h1 brevecmb.h2 brevecmb.h3 brevecmb.h4 brevecmb.h5 brevecmb.h6
-HStem: 578 60<-62.6001 62.6001>
-VStem: -107 30<660.36 707.992> 77 30<660.36 707.992>
 LayerCount: 2
 Fore
 SplineSet
