@@ -1,10 +1,10 @@
 StartChar: ograve
-Encoding: 242 242 4070
+Encoding: 242 242 4069
 Width: 488
+TopAccentHorizontal: 186
 GlyphClass: 2
 Flags: MW
 TeX: 649 14
-TopAccentHorizontal: 186
 LayerCount: 2
 Fore
 SplineSet

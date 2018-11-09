@@ -1,8 +1,8 @@
 StartChar: uni213F.gm
-Encoding: 1115930 -1 3546
+Encoding: 1115950 -1 4133
 Width: 861
-Flags: MW
 TopAccentHorizontal: 432
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -63,5 +63,4 @@ SplineSet
  221.002929688 264.21875 220.984375 430.486328125 225.999023438 597.641601562 c 0
  225.999023438 597.68359375 226.032226562 601.61328125 226.099609375 603.9765625 c 1
 EndSplineSet
-Validated: 33
 EndChar

@@ -2,7 +2,7 @@ StartChar: integral.v1
 Encoding: 1114635 -1 1681
 Width: 982
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 ItalicCorrection: 364
 IsExtendedShape: 1
 LayerCount: 2

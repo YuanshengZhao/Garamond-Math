@@ -1,10 +1,10 @@
 StartChar: aring
-Encoding: 229 229 4063
+Encoding: 229 229 4062
 Width: 427
+TopAccentHorizontal: 200
 GlyphClass: 2
 Flags: MW
 TeX: 647 14
-TopAccentHorizontal: 200
 LayerCount: 2
 Fore
 SplineSet

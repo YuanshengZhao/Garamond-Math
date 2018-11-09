@@ -1,11 +1,11 @@
 StartChar: Umacron
-Encoding: 362 362 2408
+Encoding: 362 362 2407
 Width: 708
+ItalicCorrection: 78
+TopAccentHorizontal: 416
 GlyphClass: 2
 Flags: MW
 TeX: 777 14
-ItalicCorrection: 78
-TopAccentHorizontal: 416
 LayerCount: 2
 Fore
 SplineSet

@@ -2,7 +2,7 @@ StartChar: circumflexbelowcmb.h14
 Encoding: 1114748 -1 1794
 Width: 3006
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -19,5 +19,4 @@ SplineSet
  1493 -100.25 1513 -100.25 1533 -103.25 c 0
  2993 -320.25 l 2
 EndSplineSet
-Validated: 33
 EndChar

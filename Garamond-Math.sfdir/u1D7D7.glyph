@@ -1,33 +1,35 @@
 StartChar: u1D7D7
 Encoding: 120791 120791 1121
-Width: 521
+Width: 504
+ItalicCorrection: 10
+TopAccentHorizontal: 274
 GlyphClass: 2
 Flags: MW
 TeX: 629 50
-ItalicCorrection: 10
-TopAccentHorizontal: 272
 LayerCount: 2
 Fore
 SplineSet
-56 -50 m 0
- 36 -50 30 -41 30 -34 c 0
- 30 -19 44 -12 58 -11 c 0
- 131 -2 211 66 264 134 c 0
- 305 187 361 278 361 389 c 0
- 361 478 311 578 256 578 c 0
- 207 578 181 540 181 466 c 0
- 181 406 217 344 256 344 c 0
- 275 344 286 349 299 354 c 0
- 327 365 329 346 316 329 c 0
- 309 320 301 313 294 306 c 0
- 279 292 235 267 200 267 c 0
- 125 267 42 329 42 417 c 0
- 42 504 150 629 279 629 c 0
- 395 629 492 520 492 400 c 0
- 492 274 412 165 344 98 c 0
- 280 37 134 -50 56 -50 c 0
+57 -50 m 0
+ 37 -50 31 -41 31 -34 c 0
+ 31 -19 45 -12 59 -11 c 0
+ 132 -2 212 66 265 134 c 0
+ 306 187 362 278 362 389 c 0
+ 362 478 312 578 257 578 c 0
+ 208 578 182 540 182 466 c 0
+ 182 406 218 344 257 344 c 0
+ 276 344 287 349 300 354 c 0
+ 328 365 330 346 317 329 c 0
+ 310 320 302 313 295 306 c 0
+ 280 292 236 267 201 267 c 0
+ 126 267 43 329 43 417 c 0
+ 43 504 151 629 280 629 c 0
+ 396 629 493 520 493 400 c 0
+ 493 274 413 165 345 98 c 0
+ 281 37 135 -50 57 -50 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" u1D7D7.prp
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7D7.s u1D7D7.ss
 Substitution2: "'ss04' Style Set 4" u1D7D7.sb
 Substitution2: "'ss05' Style Set 5" u1D7D7.eb
 EndChar

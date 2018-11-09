@@ -1,10 +1,10 @@
 StartChar: Zdotaccent
-Encoding: 379 379 2429
+Encoding: 379 379 2428
 Width: 623
+TopAccentHorizontal: 323
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
-TopAccentHorizontal: 323
 LayerCount: 2
 Fore
 SplineSet

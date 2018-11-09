@@ -1,9 +1,9 @@
 StartChar: u211B.gm
-Encoding: 1116459 -1 4806
+Encoding: 1116479 -1 4826
 Width: 890
-VWidth: 950
-Flags: MW
 TopAccentHorizontal: 410
+VWidth: 950
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

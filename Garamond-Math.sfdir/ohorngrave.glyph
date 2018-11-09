@@ -1,11 +1,11 @@
 StartChar: ohorngrave
-Encoding: 7901 7901 2117
+Encoding: 7901 7901 2116
 Width: 490
+ItalicCorrection: 42
+TopAccentHorizontal: 183
 GlyphClass: 2
 Flags: MW
 TeX: 649 14
-ItalicCorrection: 42
-TopAccentHorizontal: 183
 LayerCount: 2
 Fore
 SplineSet

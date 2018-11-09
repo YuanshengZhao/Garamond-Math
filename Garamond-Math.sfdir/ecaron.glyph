@@ -1,10 +1,10 @@
 StartChar: ecaron
-Encoding: 283 283 3910
+Encoding: 283 283 3909
 Width: 401
+TopAccentHorizontal: 228
 GlyphClass: 2
 Flags: MW
 TeX: 648 15
-TopAccentHorizontal: 228
 LayerCount: 2
 Fore
 SplineSet

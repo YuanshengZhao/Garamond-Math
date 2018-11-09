@@ -1,11 +1,11 @@
 StartChar: Ytilde
-Encoding: 7928 7928 2425
+Encoding: 7928 7928 2424
 Width: 565
+ItalicCorrection: 126
+TopAccentHorizontal: 342
 GlyphClass: 2
 Flags: MW
 TeX: 801 5
-ItalicCorrection: 126
-TopAccentHorizontal: 342
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,9 @@
 StartChar: uni27EF.v2
 Encoding: 1114279 -1 1325
-Width: 250
+Width: 310
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 749 -592
-ItalicCorrection: 28
 IsExtendedShape: 1
 LayerCount: 2
 Fore

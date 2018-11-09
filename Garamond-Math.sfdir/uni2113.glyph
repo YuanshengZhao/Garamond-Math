@@ -1,11 +1,11 @@
 StartChar: uni2113
-Encoding: 8467 8467 2201
+Encoding: 8467 8467 2200
 Width: 431
+ItalicCorrection: 121
+TopAccentHorizontal: 419
 GlyphClass: 2
 Flags: MW
 TeX: 676 14
-ItalicCorrection: 121
-TopAccentHorizontal: 419
 LayerCount: 2
 Fore
 SplineSet

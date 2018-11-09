@@ -1,10 +1,10 @@
 StartChar: eogonek
-Encoding: 281 281 3977
+Encoding: 281 281 3976
 Width: 391
+TopAccentHorizontal: 225
 GlyphClass: 2
 Flags: MW
 TeX: 414 287
-TopAccentHorizontal: 225
 LayerCount: 2
 Fore
 SplineSet

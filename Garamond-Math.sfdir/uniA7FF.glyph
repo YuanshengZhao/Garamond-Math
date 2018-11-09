@@ -1,9 +1,9 @@
 StartChar: uniA7FF
-Encoding: 43007 43007 3836
+Encoding: 43007 43007 3835
 Width: 1150
-Flags: MW
 ItalicCorrection: 151
 TopAccentHorizontal: 767
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

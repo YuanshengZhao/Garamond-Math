@@ -2,7 +2,7 @@ StartChar: tildecomb.h17
 Encoding: 1114813 -1 1859
 Width: 3600
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -17,5 +17,4 @@ SplineSet
  3585 756.666992188 3600 749.666992188 3600 736.666992188 c 0
  3600 695.666992188 3269.33007812 568 2687 568 c 0
 EndSplineSet
-Validated: 1
 EndChar

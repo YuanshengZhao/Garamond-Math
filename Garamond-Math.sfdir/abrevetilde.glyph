@@ -1,10 +1,10 @@
 StartChar: abrevetilde
-Encoding: 7861 7861 4005
+Encoding: 7861 7861 4004
 Width: 432
+TopAccentHorizontal: 184
 GlyphClass: 2
 Flags: MW
 TeX: 694 14
-TopAccentHorizontal: 184
 LayerCount: 2
 Fore
 SplineSet

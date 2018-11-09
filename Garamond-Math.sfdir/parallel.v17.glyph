@@ -2,7 +2,7 @@ StartChar: parallel.v17
 Encoding: 1114575 -1 1621
 Width: 598
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -22,5 +22,4 @@ SplineSet
  234 2850 253 2839 253 2819 c 2
  253 -2334 l 2
 EndSplineSet
-Validated: 1
 EndChar

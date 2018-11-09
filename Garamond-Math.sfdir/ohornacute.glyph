@@ -1,11 +1,11 @@
 StartChar: ohornacute
-Encoding: 7899 7899 2115
+Encoding: 7899 7899 2114
 Width: 494
+ItalicCorrection: 42
+TopAccentHorizontal: 300
 GlyphClass: 2
 Flags: MW
 TeX: 649 14
-ItalicCorrection: 42
-TopAccentHorizontal: 300
 LayerCount: 2
 Fore
 SplineSet

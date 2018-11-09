@@ -1,10 +1,10 @@
 StartChar: Acircumflexhookabove
-Encoding: 7848 7848 2272
+Encoding: 7848 7848 2271
 Width: 777
+TopAccentHorizontal: 450
 GlyphClass: 2
 Flags: MW
 TeX: 881 5
-TopAccentHorizontal: 450
 LayerCount: 2
 Fore
 SplineSet

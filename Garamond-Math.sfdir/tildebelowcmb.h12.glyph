@@ -2,7 +2,7 @@ StartChar: tildebelowcmb.h12
 Encoding: 1114839 -1 1885
 Width: 2600
 VWidth: 1464
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -17,5 +17,4 @@ SplineSet
  2585 -112.166992188 2600 -119.166992188 2600 -132.166992188 c 0
  2600 -173.166992188 2352.66992188 -280 1937 -280 c 0
 EndSplineSet
-Validated: 1
 EndChar

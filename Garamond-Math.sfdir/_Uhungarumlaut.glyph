@@ -1,11 +1,11 @@
 StartChar: Uhungarumlaut
-Encoding: 368 368 2407
+Encoding: 368 368 2406
 Width: 703
+ItalicCorrection: 78
+TopAccentHorizontal: 445
 GlyphClass: 2
 Flags: MW
 TeX: 838 14
-ItalicCorrection: 78
-TopAccentHorizontal: 445
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: phi
-Encoding: 966 966 4001
+Encoding: 966 966 4000
 Width: 528
+TopAccentHorizontal: 267
 GlyphClass: 2
 Flags: MW
 TeX: 469 285
-TopAccentHorizontal: 267
 LayerCount: 2
 Fore
 SplineSet

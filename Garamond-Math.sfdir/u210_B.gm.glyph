@@ -1,9 +1,9 @@
 StartChar: u210B.gm
-Encoding: 1116449 -1 4796
+Encoding: 1116469 -1 4816
 Width: 962
-Flags: MW
 ItalicCorrection: 79
 TopAccentHorizontal: 580
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

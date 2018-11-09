@@ -1,11 +1,11 @@
 StartChar: u1D439.s
-Encoding: 1115397 -1 2768
+Encoding: 1115417 -1 2788
 Width: 608
-GlyphClass: 2
-Flags: MW
-TeX: 662 5
 ItalicCorrection: 111
 TopAccentHorizontal: 461
+GlyphClass: 2
+Flags: HMW
+TeX: 656 5
 LayerCount: 2
 Fore
 SplineSet
@@ -48,5 +48,4 @@ SplineSet
  259 -5 232 2 193 2 c 0
  148 2 120 -5 71 -5 c 0
 EndSplineSet
-Validated: 33
 EndChar

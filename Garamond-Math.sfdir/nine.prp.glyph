@@ -1,0 +1,29 @@
+StartChar: nine.prp
+Encoding: 1116523 -1 4870
+Width: 501
+ItalicCorrection: 7
+TopAccentHorizontal: 281
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+88 -31 m 0
+ 77 -31 74 -27 74 -23 c 0
+ 74 -16 81 -13 88 -13 c 0
+ 148 -13 246 52 310 134 c 0
+ 374 217 399 292 399 389 c 0
+ 399 485 332 593 259 593 c 0
+ 194 593 161 531 161 482 c 0
+ 161 421 211 357 264 357 c 0
+ 305 357 319 371 344 383 c 0
+ 349 385 353 376 351 372 c 0
+ 344 359 329 345 318 337 c 0
+ 303 326 263 304 226 304 c 0
+ 157 304 86 358 86 430 c 0
+ 86 521 171 629 292 629 c 0
+ 389 629 484 515 484 400 c 0
+ 484 275 431 186 340 87 c 0
+ 267 7 158 -31 88 -31 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nine.prp.s nine.prp.ss
+EndChar

@@ -1,11 +1,11 @@
 StartChar: florin
 Encoding: 402 402 165
 Width: 418
+ItalicCorrection: 154
+TopAccentHorizontal: 431
 GlyphClass: 2
 Flags: MW
 TeX: 663 207
-ItalicCorrection: 154
-TopAccentHorizontal: 431
 LayerCount: 2
 Fore
 SplineSet

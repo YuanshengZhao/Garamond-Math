@@ -1,10 +1,10 @@
 StartChar: phi.s
 Encoding: 1115245 -1 2616
 Width: 536
-GlyphClass: 2
-Flags: MW
-TeX: 469 285
 TopAccentHorizontal: 271
+GlyphClass: 2
+Flags: HMW
+TeX: 469 285
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +27,4 @@ SplineSet
  465 280 428 340 367 340 c 0
  271 340 257 147 256 52 c 1
 EndSplineSet
-Validated: 33
 EndChar

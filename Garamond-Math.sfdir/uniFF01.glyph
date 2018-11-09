@@ -1,9 +1,9 @@
 StartChar: uniFF01
-Encoding: 65281 65281 4110
+Encoding: 65281 65281 4109
 Width: 250
 Flags: MW
 LayerCount: 2
 Fore
-Refer: 4036 33 N 1 0 0 1 0 0 2
+Refer: 4035 33 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar

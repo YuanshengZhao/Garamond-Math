@@ -1,10 +1,10 @@
 StartChar: atilde
 Encoding: 227 227 84
 Width: 426
+TopAccentHorizontal: 208
 GlyphClass: 2
 Flags: MW
 TeX: 605 14
-TopAccentHorizontal: 208
 LayerCount: 2
 Fore
 SplineSet

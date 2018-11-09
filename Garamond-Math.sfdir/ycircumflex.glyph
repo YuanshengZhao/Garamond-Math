@@ -1,11 +1,11 @@
 StartChar: ycircumflex
-Encoding: 375 375 2252
+Encoding: 375 375 2251
 Width: 446
+ItalicCorrection: 68
+TopAccentHorizontal: 284
 GlyphClass: 2
 Flags: MW
 TeX: 648 285
-ItalicCorrection: 68
-TopAccentHorizontal: 284
 LayerCount: 2
 Fore
 SplineSet

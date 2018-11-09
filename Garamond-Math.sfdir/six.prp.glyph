@@ -1,0 +1,28 @@
+StartChar: six.prp
+Encoding: 1116520 -1 4867
+Width: 510
+TopAccentHorizontal: 362
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+295 -16 m 0
+ 192 -16 90 53 90 193 c 0
+ 90 342 173 439 211 477 c 0
+ 261 528 355 608 478 641 c 0
+ 490 644 498 638 496 634 c 0
+ 490 622 477 617 470 614 c 0
+ 380 575 319 529 268 456 c 0
+ 235 408 176 299 176 195 c 0
+ 178 84 253 23 319 22 c 0
+ 373 21 422 59 422 142 c 0
+ 422 203 384 260 331 260 c 0
+ 296 260 274 257 251 245 c 0
+ 239 239 237 248 244 256 c 0
+ 254 267 260 272 271 280 c 0
+ 286 291 332 313 369 313 c 0
+ 438 313 500 262 500 190 c 0
+ 500 65 392 -16 295 -16 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" six.prp.s six.prp.ss
+EndChar

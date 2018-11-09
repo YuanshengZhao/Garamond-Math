@@ -1,10 +1,10 @@
 StartChar: Abreveacute
-Encoding: 7854 7854 2263
+Encoding: 7854 7854 2262
 Width: 769
+TopAccentHorizontal: 395
 GlyphClass: 2
 Flags: MW
 TeX: 911 5
-TopAccentHorizontal: 395
 LayerCount: 2
 Fore
 SplineSet

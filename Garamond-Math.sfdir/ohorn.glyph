@@ -1,11 +1,11 @@
 StartChar: ohorn
-Encoding: 417 417 3902
+Encoding: 417 417 3901
 Width: 491
+ItalicCorrection: 43
+TopAccentHorizontal: 338
 GlyphClass: 2
 Flags: MW
 TeX: 500 14
-ItalicCorrection: 43
-TopAccentHorizontal: 338
 LayerCount: 2
 Fore
 SplineSet

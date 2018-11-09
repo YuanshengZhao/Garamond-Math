@@ -1,9 +1,9 @@
 StartChar: u2130.gm
-Encoding: 1116446 -1 4793
-Width: 526
-Flags: MW
-ItalicCorrection: 14
+Encoding: 1116466 -1 4813
+Width: 525
+ItalicCorrection: 15
 TopAccentHorizontal: 367
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Ydotbelow
-Encoding: 7924 7924 2422
+Encoding: 7924 7924 2421
 Width: 567
+ItalicCorrection: 126
+TopAccentHorizontal: 350
 GlyphClass: 2
 Flags: MW
 TeX: 653 205
-ItalicCorrection: 126
-TopAccentHorizontal: 350
 LayerCount: 2
 Fore
 SplineSet

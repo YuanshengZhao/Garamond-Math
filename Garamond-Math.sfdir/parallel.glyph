@@ -1,13 +1,12 @@
 StartChar: parallel
-Encoding: 8741 8741 4039
+Encoding: 8741 8741 4038
 Width: 255
-GlyphClass: 2
-Flags: W
-TeX: 725 300
 TopAccentHorizontal: 128
+GlyphClass: 2
+Flags: MW
+TeX: 725 300
 GlyphVariantsVertical: parallel parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6 parallel.v7 parallel.v8 parallel.v9 parallel.v10 parallel.v11 parallel.v12 parallel.v13 parallel.v14 parallel.v15 parallel.v16 parallel.v17 parallel.v18 parallel.v19 parallel.v20
 GlyphCompositionVertical: 3  parallel.bt%0,0,398,796 parallel.ex%1,796,796,796 parallel.tp%0,398,0,796
-VStem: 110 52<-222.047 722.047> 254 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet

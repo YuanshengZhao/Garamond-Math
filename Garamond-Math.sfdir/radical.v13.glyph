@@ -2,7 +2,7 @@ StartChar: radical.v13
 Encoding: 1114446 -1 1492
 Width: 892
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -28,5 +28,4 @@ SplineSet
  919 2369 927 2362 927 2356 c 0
  927 2336 916 2319 896 2319 c 2
 EndSplineSet
-Validated: 1
 EndChar

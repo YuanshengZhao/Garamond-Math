@@ -1,10 +1,10 @@
 StartChar: acircumflexgrave
-Encoding: 7847 7847 3664
+Encoding: 7847 7847 3663
 Width: 463
+TopAccentHorizontal: 181
 GlyphClass: 2
 Flags: MW
 TeX: 725 14
-TopAccentHorizontal: 181
 LayerCount: 2
 Fore
 SplineSet

@@ -1,25 +1,27 @@
 StartChar: u1D7CE
 Encoding: 120782 120782 1112
-Width: 541
+Width: 515
+TopAccentHorizontal: 269
 GlyphClass: 2
 Flags: MW
 TeX: 631 14
-TopAccentHorizontal: 272
 LayerCount: 2
 Fore
 SplineSet
-265 -14 m 0
- 105 -14 30 154 30 302 c 0
- 30 455 102 631 276 631 c 0
- 435 631 511 462 511 317 c 0
- 511 166 439 -14 265 -14 c 0
-280 31 m 0
- 344 31 369 158 369 299 c 0
- 369 439 331 586 260 586 c 0
- 195 586 173 459 173 319 c 0
- 173 179 208 31 280 31 c 0
+263 -14 m 0
+ 103 -14 28 154 28 302 c 0
+ 28 455 100 631 274 631 c 0
+ 433 631 509 462 509 317 c 0
+ 509 166 437 -14 263 -14 c 0
+278 31 m 0
+ 342 31 367 158 367 299 c 0
+ 367 439 329 586 258 586 c 0
+ 193 586 171 459 171 319 c 0
+ 171 179 206 31 278 31 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" u1D7CE.prp
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7CE.s u1D7CE.ss
 Substitution2: "'ss04' Style Set 4" u1D7CE.sb
 Substitution2: "'ss05' Style Set 5" u1D7CE.eb
 EndChar

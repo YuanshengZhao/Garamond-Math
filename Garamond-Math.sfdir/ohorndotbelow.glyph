@@ -1,11 +1,11 @@
 StartChar: ohorndotbelow
-Encoding: 7907 7907 2116
+Encoding: 7907 7907 2115
 Width: 491
+ItalicCorrection: 42
+TopAccentHorizontal: 332
 GlyphClass: 2
 Flags: MW
 TeX: 497 192
-ItalicCorrection: 42
-TopAccentHorizontal: 332
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Yacute
-Encoding: 221 221 2419
+Encoding: 221 221 2418
 Width: 563
+ItalicCorrection: 126
+TopAccentHorizontal: 349
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-ItalicCorrection: 126
-TopAccentHorizontal: 349
 LayerCount: 2
 Fore
 SplineSet

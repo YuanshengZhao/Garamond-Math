@@ -1,11 +1,11 @@
 StartChar: idieresis
 Encoding: 239 239 96
 Width: 303
+ItalicCorrection: 34
+TopAccentHorizontal: 169
 GlyphClass: 2
 Flags: MW
 TeX: 608 3
-ItalicCorrection: 34
-TopAccentHorizontal: 169
 LayerCount: 2
 Fore
 SplineSet

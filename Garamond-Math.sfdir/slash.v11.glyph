@@ -2,7 +2,7 @@ StartChar: slash.v11
 Encoding: 1114592 -1 1638
 Width: 712
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -15,5 +15,4 @@ SplineSet
  569.109375 2089 590.109375 2100 610.109375 2100 c 0
  617.109375 2100 623.109375 2092 622.109375 2084 c 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,8 @@
 StartChar: uniFF0C
-Encoding: 65292 65292 4104
+Encoding: 65292 65292 4103
 Width: 230
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 3955 44 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 3954 44 N 1 0 0 1 0 0 2
 EndChar

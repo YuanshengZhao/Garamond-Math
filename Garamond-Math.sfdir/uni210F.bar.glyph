@@ -1,9 +1,10 @@
 StartChar: uni210F.bar
-Encoding: 1116417 -1 4602
+Encoding: 1116437 -1 4622
 Width: 500
-Flags: MW
 ItalicCorrection: 1
 TopAccentHorizontal: 231
+Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -44,6 +45,5 @@ SplineSet
  143 190 148 191 152 197 c 0
  240 327 344 421 404 421 c 0
 EndSplineSet
-Validated: 1
-AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni210F.bars
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni210F.bars uni210F.barss
 EndChar

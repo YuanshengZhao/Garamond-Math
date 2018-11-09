@@ -1,8 +1,8 @@
 StartChar: u210D.gm
-Encoding: 1115870 -1 3486
+Encoding: 1115890 -1 3506
 Width: 844
-Flags: MW
-TopAccentHorizontal: 423
+TopAccentHorizontal: 424
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -74,5 +74,4 @@ SplineSet
  214.428710938 62.5322265625 208 83.5244140625 208 106 c 2
  208 551 l 2
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,10 +1,10 @@
 StartChar: ncaron
-Encoding: 328 328 3851
+Encoding: 328 328 3850
 Width: 544
+TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
 TeX: 648 3
-TopAccentHorizontal: 280
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: Icircumflex
-Encoding: 206 206 2320
+Encoding: 206 206 2319
 Width: 363
+TopAccentHorizontal: 181
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
-TopAccentHorizontal: 181
 LayerCount: 2
 Fore
 SplineSet

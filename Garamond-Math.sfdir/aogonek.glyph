@@ -1,10 +1,10 @@
 StartChar: aogonek
-Encoding: 261 261 3875
+Encoding: 261 261 3874
 Width: 433
+TopAccentHorizontal: 191
 GlyphClass: 2
 Flags: MW
 TeX: 414 287
-TopAccentHorizontal: 191
 LayerCount: 2
 Fore
 SplineSet

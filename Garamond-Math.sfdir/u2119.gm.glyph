@@ -1,9 +1,9 @@
 StartChar: u2119.gm
-Encoding: 1115878 -1 3494
+Encoding: 1115898 -1 3514
 Width: 564
-Flags: MW
 ItalicCorrection: 55
 TopAccentHorizontal: 286
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -48,5 +48,4 @@ SplineSet
  519.508789062 366.065429688 544 411.487304688 544 480 c 0
  544 529.46875 523.056640625 562.256835938 478.084960938 585.42578125 c 1
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,11 +1,11 @@
 StartChar: uhornhookabove
-Encoding: 7917 7917 2137
+Encoding: 7917 7917 2136
 Width: 555
+ItalicCorrection: 40
+TopAccentHorizontal: 255
 GlyphClass: 2
 Flags: MW
 TeX: 677 19
-ItalicCorrection: 40
-TopAccentHorizontal: 255
 LayerCount: 2
 Fore
 SplineSet

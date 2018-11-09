@@ -1,9 +1,10 @@
 StartChar: uni210F.barss
-Encoding: 1116419 -1 4604
+Encoding: 1116439 -1 4624
 Width: 519
-Flags: MW
 ItalicCorrection: 1
 TopAccentHorizontal: 238
+Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -43,5 +44,4 @@ SplineSet
  52 -17.2001953125 37 -1.599609375 37 14.7998046875 c 0
  37 35.2001953125 42 53.400390625 50 83 c 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,10 +1,10 @@
 StartChar: t.s
 Encoding: 1115169 -1 2540
 Width: 353
-GlyphClass: 2
-Flags: MW
-TeX: 475 14
 TopAccentHorizontal: 193
+GlyphClass: 2
+Flags: HMW
+TeX: 475 14
 LayerCount: 2
 Fore
 SplineSet
@@ -32,5 +32,4 @@ SplineSet
  322 63 324 56 324 48 c 0
  324 37 266 -14 203 -14 c 0
 EndSplineSet
-Validated: 33
 EndChar

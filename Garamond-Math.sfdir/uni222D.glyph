@@ -1,8 +1,8 @@
 StartChar: uni222D
-Encoding: 8749 8749 2237
+Encoding: 8749 8749 2236
 Width: 1290
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
@@ -56,6 +56,5 @@ SplineSet
  411 608 356 40 341 -116 c 0
  331 -223 225 -296 169 -296 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss07' Style Set 7" u222D.var
 EndChar

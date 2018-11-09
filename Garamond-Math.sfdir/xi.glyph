@@ -1,10 +1,10 @@
 StartChar: xi
-Encoding: 958 958 2251
+Encoding: 958 958 2250
 Width: 385
+TopAccentHorizontal: 192
 GlyphClass: 2
 Flags: MW
 TeX: 742 210
-TopAccentHorizontal: 192
 LayerCount: 2
 Fore
 SplineSet

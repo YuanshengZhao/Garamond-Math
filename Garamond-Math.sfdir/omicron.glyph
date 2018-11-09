@@ -1,10 +1,10 @@
 StartChar: omicron
-Encoding: 959 959 4060
+Encoding: 959 959 4059
 Width: 390
+TopAccentHorizontal: 203
 GlyphClass: 2
 Flags: MW
 TeX: 414 14
-TopAccentHorizontal: 203
 LayerCount: 2
 Fore
 SplineSet

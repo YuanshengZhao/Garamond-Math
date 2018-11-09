@@ -1,10 +1,10 @@
 StartChar: tcedilla
-Encoding: 355 355 3822
+Encoding: 355 355 3821
 Width: 340
+TopAccentHorizontal: 180
 GlyphClass: 2
 Flags: MW
 TeX: 475 274
-TopAccentHorizontal: 180
 LayerCount: 2
 Fore
 SplineSet

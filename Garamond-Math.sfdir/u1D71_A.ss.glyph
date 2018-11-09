@@ -1,10 +1,8 @@
 StartChar: u1D71A.ss
-Encoding: 1115770 -1 3326
+Encoding: 1115790 -1 3346
 Width: 453
-GlyphClass: 2
-Flags: MW
-TeX: 414 290
 TopAccentHorizontal: 296
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,5 +26,4 @@ SplineSet
  291 103 389 195 389 276 c 0
  389 312 372 345 342 345 c 0
 EndSplineSet
-Validated: 33
 EndChar

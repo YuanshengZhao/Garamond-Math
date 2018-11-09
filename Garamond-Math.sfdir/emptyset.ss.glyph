@@ -1,8 +1,8 @@
 StartChar: emptyset.ss
 Encoding: 1115274 -1 2645
 Width: 667
-Flags: MW
 TopAccentHorizontal: 343
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -32,5 +32,4 @@ SplineSet
  271 43 l 1
  287 39 302 37 319 37 c 0
 EndSplineSet
-Validated: 1
 EndChar

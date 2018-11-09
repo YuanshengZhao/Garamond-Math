@@ -1,0 +1,31 @@
+StartChar: three.prp
+Encoding: 1116517 -1 4864
+Width: 503
+TopAccentHorizontal: 268
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+187 -38 m 0
+ 140 -38 76 -11 76 5 c 0
+ 76 19 105 51 120 51 c 0
+ 135 51 146 41 159 31 c 0
+ 176 16 197 0 234 0 c 0
+ 307 0 380 63 380 146 c 0
+ 380 223 341 304 264 304 c 0
+ 249 304 222 302 199 289 c 0
+ 192 285 180 291 182 298 c 0
+ 187 315 199 326 212 332 c 0
+ 235 343 338 395 338 466 c 0
+ 338 521 298 570 244 570 c 0
+ 141 570 125 481 110 481 c 0
+ 105 481 94 490 94 500 c 0
+ 94 535 151 630 287 630 c 0
+ 353 630 417 584 417 516 c 0
+ 417 468 390 411 312 366 c 0
+ 308 364 308 360 313 360 c 0
+ 398 360 465 288 465 203 c 0
+ 465 53 323 -38 187 -38 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" three.prp.s three.prp.ss
+EndChar

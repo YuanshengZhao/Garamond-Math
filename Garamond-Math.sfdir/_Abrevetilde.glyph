@@ -1,10 +1,10 @@
 StartChar: Abrevetilde
-Encoding: 7860 7860 2267
+Encoding: 7860 7860 2266
 Width: 768
+TopAccentHorizontal: 399
 GlyphClass: 2
 Flags: MW
 TeX: 946 5
-TopAccentHorizontal: 399
 LayerCount: 2
 Fore
 SplineSet

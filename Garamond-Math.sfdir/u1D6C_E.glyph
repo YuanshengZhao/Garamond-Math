@@ -1,10 +1,10 @@
 StartChar: u1D6CE
 Encoding: 120526 120526 1001
 Width: 512
+TopAccentHorizontal: 255
 GlyphClass: 2
 Flags: MW
 TeX: 433 14
-TopAccentHorizontal: 255
 LayerCount: 2
 Fore
 SplineSet

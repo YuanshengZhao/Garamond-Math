@@ -1,10 +1,10 @@
 StartChar: ugrave
-Encoding: 249 249 3446
+Encoding: 249 249 3445
 Width: 557
+TopAccentHorizontal: 200
 GlyphClass: 2
 Flags: MW
 TeX: 649 19
-TopAccentHorizontal: 200
 LayerCount: 2
 Fore
 SplineSet

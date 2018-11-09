@@ -1,10 +1,10 @@
 StartChar: rho.s
 Encoding: 1115235 -1 2606
 Width: 420
-GlyphClass: 2
-Flags: MW
-TeX: 414 285
 TopAccentHorizontal: 228
+GlyphClass: 2
+Flags: HMW
+TeX: 414 285
 LayerCount: 2
 Fore
 SplineSet
@@ -25,5 +25,4 @@ SplineSet
  184 344 112 286 112 108 c 0
  112 87 138 66 162 66 c 0
 EndSplineSet
-Validated: 1
 EndChar

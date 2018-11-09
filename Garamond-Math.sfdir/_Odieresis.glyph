@@ -1,10 +1,10 @@
 StartChar: Odieresis
-Encoding: 214 214 2356
+Encoding: 214 214 2355
 Width: 732
+TopAccentHorizontal: 376
 GlyphClass: 2
 Flags: MW
 TeX: 795 14
-TopAccentHorizontal: 376
 LayerCount: 2
 Fore
 SplineSet

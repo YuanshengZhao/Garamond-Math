@@ -1,10 +1,10 @@
 StartChar: scedilla
-Encoding: 351 351 2126
+Encoding: 351 351 2125
 Width: 324
+TopAccentHorizontal: 170
 GlyphClass: 2
 Flags: MW
 TeX: 414 274
-TopAccentHorizontal: 170
 LayerCount: 2
 Fore
 SplineSet

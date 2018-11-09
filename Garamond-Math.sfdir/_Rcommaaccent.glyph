@@ -1,10 +1,10 @@
 StartChar: Rcommaaccent
-Encoding: 342 342 2380
+Encoding: 342 342 2379
 Width: 789
+TopAccentHorizontal: 330
 GlyphClass: 2
 Flags: MW
 TeX: 657 275
-TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet

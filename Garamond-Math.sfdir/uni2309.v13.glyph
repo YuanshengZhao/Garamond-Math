@@ -1,10 +1,9 @@
 StartChar: uni2309.v13
 Encoding: 1114336 -1 1382
-Width: 396
+Width: 406
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: -108 325
-ItalicCorrection: 28
 IsExtendedShape: 1
 LayerCount: 2
 Fore

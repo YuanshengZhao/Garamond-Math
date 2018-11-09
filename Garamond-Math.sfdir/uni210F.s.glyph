@@ -1,9 +1,9 @@
 StartChar: uni210F.s
 Encoding: 1115269 -1 2640
 Width: 509
-Flags: MW
 ItalicCorrection: 1
 TopAccentHorizontal: 296
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -47,6 +47,5 @@ SplineSet
  302 372 172 167 121 73 c 0
  89 12 75 -18 59 -18 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss06' Style Set 6" uni210F.bars
 EndChar

@@ -1,9 +1,9 @@
 StartChar: nabla.s
 Encoding: 1115277 -1 2648
 Width: 551
-Flags: MW
 ItalicCorrection: 111
 TopAccentHorizontal: 342
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -31,5 +31,4 @@ SplineSet
  549 553 551 561 551 568 c 0
  551 586 535 587 516 587 c 2
 EndSplineSet
-Validated: 33
 EndChar

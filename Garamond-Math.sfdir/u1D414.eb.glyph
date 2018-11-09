@@ -1,9 +1,9 @@
 StartChar: u1D414.eb
-Encoding: 1116226 -1 4411
+Encoding: 1116246 -1 4431
 Width: 746
-Flags: MW
 ItalicCorrection: 82
 TopAccentHorizontal: 434
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -33,5 +33,4 @@ SplineSet
  705 430 704 352 704 265 c 0
  704 100 584 -14 434 -14 c 0
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,9 +1,9 @@
 StartChar: dotlessj.dsgm
-Encoding: 1115926 -1 3542
+Encoding: 1115946 -1 4129
 Width: 311
-Flags: MW
 ItalicCorrection: 6
 TopAccentHorizontal: 172
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -33,5 +33,4 @@ SplineSet
  181 69 l 2
  181 8.34375 179.859375 -100.10546875 158.358398438 -177.96875 c 1
 EndSplineSet
-Validated: 33
 EndChar

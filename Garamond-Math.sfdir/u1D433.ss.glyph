@@ -1,8 +1,10 @@
 StartChar: u1D433.ss
-Encoding: 1115386 -1 2757
+Encoding: 1115406 -1 2777
 Width: 471
-Flags: MW
 TopAccentHorizontal: 249
+GlyphClass: 2
+Flags: HMW
+TeX: 655 5
 LayerCount: 2
 Fore
 SplineSet
@@ -34,5 +36,4 @@ SplineSet
  353 -5 267 1 145 1 c 0
  113 1 75 -5 56 -5 c 0
 EndSplineSet
-Validated: 33
 EndChar

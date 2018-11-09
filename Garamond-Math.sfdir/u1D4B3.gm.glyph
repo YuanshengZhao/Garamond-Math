@@ -1,9 +1,9 @@
 StartChar: u1D4B3.gm
-Encoding: 1116465 -1 4812
+Encoding: 1116485 -1 4832
 Width: 800
-Flags: MW
 ItalicCorrection: 6
 TopAccentHorizontal: 460
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

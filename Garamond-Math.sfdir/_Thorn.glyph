@@ -1,10 +1,10 @@
 StartChar: Thorn
-Encoding: 222 222 2392
+Encoding: 222 222 2391
 Width: 562
+TopAccentHorizontal: 198
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-TopAccentHorizontal: 198
 LayerCount: 2
 Fore
 SplineSet

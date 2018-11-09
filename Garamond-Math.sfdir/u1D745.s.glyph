@@ -1,9 +1,9 @@
 StartChar: u1D745.s
-Encoding: 1115829 -1 3385
+Encoding: 1115849 -1 3405
 Width: 607
-Flags: MW
 ItalicCorrection: 60
 TopAccentHorizontal: 380
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -38,5 +38,4 @@ SplineSet
  206 127 184 73 165 32 c 0
  155 12 145 -15 136 -15 c 0
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,10 +1,10 @@
 StartChar: Dcaron
-Encoding: 270 270 3478
+Encoding: 270 270 3477
 Width: 751
+TopAccentHorizontal: 242
 GlyphClass: 2
 Flags: MW
 TeX: 823 7
-TopAccentHorizontal: 242
 LayerCount: 2
 Fore
 SplineSet

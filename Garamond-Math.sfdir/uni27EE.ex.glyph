@@ -1,17 +1,17 @@
 StartChar: uni27EE.ex
 Encoding: 1114299 -1 1345
-Width: 399
+Width: 459
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 768 -557
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
-133 500 m 25
- 133 0 l 25
- 50 0 l 25
- 50 500 l 25
- 133 500 l 25
+193 500 m 25
+ 193 0 l 25
+ 110 0 l 25
+ 110 500 l 25
+ 193 500 l 25
 EndSplineSet
 EndChar

@@ -1,10 +1,10 @@
 StartChar: Ldot
-Encoding: 319 319 2339
+Encoding: 319 319 2338
 Width: 642
+TopAccentHorizontal: 221
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-TopAccentHorizontal: 221
 LayerCount: 2
 Fore
 SplineSet

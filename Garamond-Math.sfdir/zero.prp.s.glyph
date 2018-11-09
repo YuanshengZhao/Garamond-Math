@@ -1,0 +1,20 @@
+StartChar: zero.prp.s
+Encoding: 1116534 -1 4881
+Width: 484
+TopAccentHorizontal: 266
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+260 -14 m 0
+ 121 -14 55 154 55 302 c 0
+ 55 454 119 630 270 630 c 0
+ 409 630 474 461 474 316 c 0
+ 474 166 412 -14 260 -14 c 0
+276 15 m 0
+ 354 15 384 149 384 298 c 0
+ 384 447 338 600 251 600 c 0
+ 173 600 146 469 146 320 c 0
+ 146 171 188 15 276 15 c 0
+EndSplineSet
+EndChar

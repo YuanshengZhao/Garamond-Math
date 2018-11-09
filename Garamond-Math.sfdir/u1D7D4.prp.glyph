@@ -1,0 +1,28 @@
+StartChar: u1D7D4.prp
+Encoding: 1116530 -1 4877
+Width: 514
+TopAccentHorizontal: 341
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+281 -15 m 0
+ 153 -15 72 64 72 193 c 0
+ 72 340 152 435 187 474 c 0
+ 235 527 330 599 445 636 c 0
+ 464 642 483 641 482 633 c 0
+ 479 619 466 613 449 605 c 0
+ 371 570 320 526 275 457 c 0
+ 244 410 191 306 191 197 c 0
+ 192 86 250 27 302 27 c 0
+ 347 27 384 67 384 148 c 0
+ 384 208 347 261 306 261 c 0
+ 283 261 268 258 253 251 c 0
+ 232 241 228 256 240 270 c 0
+ 249 280 255 285 264 292 c 0
+ 284 308 330 332 366 332 c 0
+ 438 332 504 274 504 197 c 0
+ 504 85 406 -15 281 -15 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7D4.prp.s u1D7D4.prp.ss
+EndChar

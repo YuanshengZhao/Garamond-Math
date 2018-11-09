@@ -1,10 +1,10 @@
 StartChar: Euro
-Encoding: 8364 8364 3831
+Encoding: 8364 8364 3830
 Width: 753
+TopAccentHorizontal: 509
 GlyphClass: 2
 Flags: MW
 TeX: 663 15
-TopAccentHorizontal: 509
 LayerCount: 2
 Fore
 SplineSet

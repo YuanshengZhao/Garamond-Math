@@ -1,10 +1,10 @@
 StartChar: kgreenlandic
 Encoding: 312 312 145
 Width: 545
+TopAccentHorizontal: 257
 GlyphClass: 2
 Flags: MW
 TeX: 434 5
-TopAccentHorizontal: 257
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: thorn
-Encoding: 254 254 3791
+Encoding: 254 254 3790
 Width: 552
+TopAccentHorizontal: 152
 GlyphClass: 2
 Flags: MW
 TeX: 705 285
-TopAccentHorizontal: 152
 LayerCount: 2
 Fore
 SplineSet

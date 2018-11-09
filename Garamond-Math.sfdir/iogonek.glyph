@@ -1,10 +1,10 @@
 StartChar: iogonek
-Encoding: 303 303 3874
+Encoding: 303 303 3873
 Width: 272
+TopAccentHorizontal: 140
 GlyphClass: 2
 Flags: MW
 TeX: 617 287
-TopAccentHorizontal: 140
 LayerCount: 2
 Fore
 SplineSet

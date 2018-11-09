@@ -1,10 +1,10 @@
 StartChar: uni22A5
 Encoding: 8869 8869 367
 Width: 570
+TopAccentHorizontal: 285
 GlyphClass: 2
 Flags: W
 TeX: 655 0
-TopAccentHorizontal: 285
 GlyphVariantsVertical: uni22A5 uni27D8
 HStem: 0 52<77.9531 304 356 582.047>
 VStem: 304 52<52 652.047>

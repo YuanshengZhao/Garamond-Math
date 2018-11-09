@@ -1,9 +1,9 @@
 StartChar: u1D49C.gm
-Encoding: 1116442 -1 4789
+Encoding: 1116462 -1 4809
 Width: 1032
-VWidth: 950
-Flags: MW
 TopAccentHorizontal: 721
+VWidth: 950
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

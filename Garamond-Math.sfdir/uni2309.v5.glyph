@@ -1,8 +1,8 @@
 StartChar: uni2309.v5
 Encoding: 1114328 -1 1374
-Width: 356
+Width: 366
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 2296 1796
 IsExtendedShape: 1
 LayerCount: 2

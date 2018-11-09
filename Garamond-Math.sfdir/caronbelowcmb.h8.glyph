@@ -2,7 +2,7 @@ StartChar: caronbelowcmb.h8
 Encoding: 1114773 -1 1819
 Width: 1808
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -19,5 +19,4 @@ SplineSet
  1805 -100 1808 -102 1808 -105 c 0
  1808 -113 1803 -123 1795 -125 c 2
 EndSplineSet
-Validated: 33
 EndChar

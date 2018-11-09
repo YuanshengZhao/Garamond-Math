@@ -1,10 +1,8 @@
 StartChar: angle
-Encoding: 8736 8736 3719
+Encoding: 8736 8736 3718
 Width: 525
-Flags: W
 TopAccentHorizontal: 424
-HStem: 1 50<139.97 497.757>
-VStem: 37.9889 101.975<30.7153 74.4718>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

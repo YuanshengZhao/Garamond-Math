@@ -1,8 +1,8 @@
 StartChar: partialdiff.x
-Encoding: 1115938 -1 4098
+Encoding: 1115958 -1 4141
 Width: 500
-Flags: MW
 TopAccentHorizontal: 198
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,6 +28,5 @@ SplineSet
  156 380 113 293 113 210 c 0
  113 111 177 16 257 16 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" partialdiff.x.s partialdiff.x.ss
 EndChar

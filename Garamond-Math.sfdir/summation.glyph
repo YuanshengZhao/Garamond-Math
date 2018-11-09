@@ -1,8 +1,8 @@
 StartChar: summation
 Encoding: 8721 8721 319
-Width: 989
+Width: 995
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 750 234
 IsExtendedShape: 1
 GlyphVariantsVertical: summation summation.v1
@@ -45,5 +45,4 @@ SplineSet
  500 247 499 250 496 254 c 0
  438 323 96 700 96 712 c 0
 EndSplineSet
-Validated: 1
 EndChar

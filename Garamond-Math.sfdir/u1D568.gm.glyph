@@ -1,9 +1,10 @@
 StartChar: u1D568.gm
-Encoding: 1115911 -1 3527
+Encoding: 1115931 -1 3547
 Width: 718
-Flags: MW
 ItalicCorrection: 64
 TopAccentHorizontal: 393
+Flags: HMW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -79,5 +80,4 @@ SplineSet
  332 366 317.162109375 372.458007812 303 378 c 0
  297.959748112 379.832818869 292.70954466 381.665637737 288.5 384.075661384 c 1
 EndSplineSet
-Validated: 33
 EndChar

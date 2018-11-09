@@ -1,10 +1,10 @@
 StartChar: Abrevegrave
-Encoding: 7856 7856 2265
+Encoding: 7856 7856 2264
 Width: 766
+TopAccentHorizontal: 395
 GlyphClass: 2
 Flags: MW
 TeX: 907 5
-TopAccentHorizontal: 395
 LayerCount: 2
 Fore
 SplineSet

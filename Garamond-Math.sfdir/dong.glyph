@@ -1,11 +1,11 @@
 StartChar: dong
-Encoding: 8363 8363 3894
+Encoding: 8363 8363 3893
 Width: 477
+ItalicCorrection: 29
+TopAccentHorizontal: 328
 GlyphClass: 2
 Flags: MW
 TeX: 663 77
-ItalicCorrection: 29
-TopAccentHorizontal: 328
 LayerCount: 2
 Fore
 SplineSet

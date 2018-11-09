@@ -1,10 +1,10 @@
 StartChar: dotlessi.calb
 Encoding: 1114128 -1 1174
 Width: 531
+TopAccentHorizontal: 300
 GlyphClass: 2
 Flags: MW
 TeX: 410 308
-TopAccentHorizontal: 300
 LayerCount: 2
 Fore
 SplineSet

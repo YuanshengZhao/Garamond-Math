@@ -1,10 +1,10 @@
 StartChar: lambda.ss
 Encoding: 1115224 -1 2595
 Width: 567
-GlyphClass: 2
-Flags: MW
-TeX: 699 18
 TopAccentHorizontal: 159
+GlyphClass: 2
+Flags: HMW
+TeX: 415 285
 LayerCount: 2
 Fore
 SplineSet
@@ -30,5 +30,4 @@ SplineSet
  283 231 216 95 174 19 c 0
  168 6 157 -18 147 -18 c 0
 EndSplineSet
-Validated: 33
 EndChar

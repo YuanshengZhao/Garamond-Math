@@ -1,10 +1,10 @@
 StartChar: nu.s
 Encoding: 1115227 -1 2598
 Width: 458
-GlyphClass: 2
-Flags: MW
-TeX: 418 14
 TopAccentHorizontal: 227
+GlyphClass: 2
+Flags: HMW
+TeX: 418 14
 LayerCount: 2
 Fore
 SplineSet
@@ -25,5 +25,4 @@ SplineSet
  413 199 316 87 250 23 c 0
  224 -2 208 -14 196 -14 c 0
 EndSplineSet
-Validated: 1
 EndChar

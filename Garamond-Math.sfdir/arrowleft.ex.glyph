@@ -1,7 +1,9 @@
 StartChar: arrowleft.ex
-Encoding: 1116411 -1 4596
+Encoding: 1116431 -1 4616
 Width: 300
-Flags: MW
+Flags: HMW
+ItalicCorrection: 550
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -13,5 +15,4 @@ SplineSet
  360 243 346 227 329 227 c 0
  -47 227 l 0
 EndSplineSet
-Validated: 1
 EndChar

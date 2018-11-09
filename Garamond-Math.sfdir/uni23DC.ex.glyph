@@ -1,7 +1,7 @@
 StartChar: uni23DC.ex
 Encoding: 1114928 -1 1974
 Width: 500
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -12,5 +12,4 @@ SplineSet
  0 840 l 0
  500 840 l 0
 EndSplineSet
-Validated: 1
 EndChar

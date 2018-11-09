@@ -1,10 +1,10 @@
 StartChar: uni03D5.s
 Encoding: 1115255 -1 2626
 Width: 510
-GlyphClass: 2
-Flags: MW
-TeX: 616 285
 TopAccentHorizontal: 259
+GlyphClass: 2
+Flags: HMW
+TeX: 616 285
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +36,4 @@ SplineSet
  276 155 l 2
  275 120 276 85 276 52 c 1
 EndSplineSet
-Validated: 33
 EndChar

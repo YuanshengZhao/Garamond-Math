@@ -1,11 +1,11 @@
 StartChar: Utilde
-Encoding: 360 360 2412
+Encoding: 360 360 2411
 Width: 706
+ItalicCorrection: 78
+TopAccentHorizontal: 413
 GlyphClass: 2
 Flags: MW
 TeX: 824 14
-ItalicCorrection: 78
-TopAccentHorizontal: 413
 LayerCount: 2
 Fore
 SplineSet

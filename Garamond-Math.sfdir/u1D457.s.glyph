@@ -1,11 +1,11 @@
 StartChar: u1D457.s
-Encoding: 1115455 -1 2826
+Encoding: 1115475 -1 2846
 Width: 395
-GlyphClass: 2
-Flags: MW
-TeX: 613 290
 ItalicCorrection: 75
 TopAccentHorizontal: 364
+GlyphClass: 2
+Flags: HMW
+TeX: 510 14
 LayerCount: 2
 Fore
 SplineSet
@@ -31,6 +31,5 @@ SplineSet
  181 -119 l 2
  154 -201 41 -290 -20 -290 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" u1D6A5
 EndChar

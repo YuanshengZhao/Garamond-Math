@@ -1,8 +1,11 @@
 StartChar: u1D4CF.gm
-Encoding: 1116493 -1 4840
+Encoding: 1116513 -1 4860
 Width: 662
-Flags: MW
 TopAccentHorizontal: 341
+GlyphClass: 2
+Flags: HMW
+TeX: 1350 850
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet

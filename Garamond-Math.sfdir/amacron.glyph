@@ -1,10 +1,10 @@
 StartChar: amacron
-Encoding: 257 257 4012
+Encoding: 257 257 4011
 Width: 427
+TopAccentHorizontal: 199
 GlyphClass: 2
 Flags: MW
 TeX: 555 14
-TopAccentHorizontal: 199
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: uhorntilde
-Encoding: 7919 7919 2138
+Encoding: 7919 7919 2137
 Width: 555
+ItalicCorrection: 40
+TopAccentHorizontal: 351
 GlyphClass: 2
 Flags: MW
 TeX: 600 19
-ItalicCorrection: 40
-TopAccentHorizontal: 351
 LayerCount: 2
 Fore
 SplineSet

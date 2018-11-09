@@ -1,10 +1,10 @@
 StartChar: Rcaron
-Encoding: 344 344 2379
+Encoding: 344 344 2378
 Width: 795
+TopAccentHorizontal: 247
 GlyphClass: 2
 Flags: MW
 TeX: 823 21
-TopAccentHorizontal: 247
 LayerCount: 2
 Fore
 SplineSet

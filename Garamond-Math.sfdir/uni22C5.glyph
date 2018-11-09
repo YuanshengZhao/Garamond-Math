@@ -1,10 +1,10 @@
 StartChar: uni22C5
-Encoding: 8901 8901 3800
+Encoding: 8901 8901 3799
 Width: 172
+TopAccentHorizontal: 85
 GlyphClass: 2
 Flags: W
 TeX: 306 -194
-TopAccentHorizontal: 85
 HStem: 194 112<91.9218 180.078>
 VStem: 80 112<205.922 294.078>
 LayerCount: 2

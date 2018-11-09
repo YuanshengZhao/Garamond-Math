@@ -1,10 +1,10 @@
 StartChar: dotlessj.ds
 Encoding: 1114125 -1 1171
 Width: 352
+TopAccentHorizontal: 220
 GlyphClass: 2
 Flags: MW
 TeX: 450 0
-TopAccentHorizontal: 220
 LayerCount: 2
 Fore
 SplineSet

@@ -1,8 +1,8 @@
 StartChar: parenright.v8
 Encoding: 1114163 -1 1209
-Width: 395
+Width: 455
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 696 -500
 IsExtendedShape: 1
 LayerCount: 2

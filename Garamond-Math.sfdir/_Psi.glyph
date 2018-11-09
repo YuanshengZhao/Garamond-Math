@@ -1,11 +1,11 @@
 StartChar: Psi
-Encoding: 936 936 2375
+Encoding: 936 936 2374
 Width: 647
+ItalicCorrection: 157
+TopAccentHorizontal: 405
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 157
-TopAccentHorizontal: 405
 LayerCount: 2
 Fore
 SplineSet

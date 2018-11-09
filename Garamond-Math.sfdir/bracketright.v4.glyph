@@ -1,8 +1,8 @@
 StartChar: bracketright.v4
 Encoding: 1114199 -1 1245
-Width: 351
+Width: 361
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 834 334
 IsExtendedShape: 1
 LayerCount: 2

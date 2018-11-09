@@ -1,10 +1,10 @@
 StartChar: Omega.s
 Encoding: 1115201 -1 2572
 Width: 822
-GlyphClass: 2
-Flags: MW
-TeX: 664 5
 TopAccentHorizontal: 412
+GlyphClass: 2
+Flags: HMW
+TeX: 664 5
 LayerCount: 2
 Fore
 SplineSet
@@ -42,5 +42,4 @@ SplineSet
  228 1 205 0 169 0 c 0
  139 0 116 -5 89 -5 c 0
 EndSplineSet
-Validated: 33
 EndChar

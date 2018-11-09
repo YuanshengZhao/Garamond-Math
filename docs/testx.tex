@@ -19,8 +19,8 @@
 
 % \setmathfont{xits-math.otf}
 %\setmathfont{Libertinus Math}
-\setmathfont{Garamond-Math}[StylisticSet={1,2,7,8},Path=./]
-\newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,2,7},Path=./]
+\setmathfont{Garamond-Math}[StylisticSet={1,7,8},Path=./]
+\newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}[Path=../libertinus/]
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
@@ -117,7 +117,11 @@
 
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
-$(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj$
+\[\begin{split}
+  3.141592653589793238462643383279502884197169399375105820974944592307816406286\\
+  208998628034825342117067982148086513282306647093844609550582231725359408128481\\ 117450284102701938521105559644622948954930381964428810975665933446128475648233\\ 786783165271201909145648566923460348610454326648213393607260249141273724587006
+\end{split}\]
+$(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjh(x)$
 \[a_{ij}({{}j})ij T{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj[f][j][y](\symsf {fijk})\]
 \[ \Latinalphabets \latinalphabets \]
 \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
@@ -186,7 +190,6 @@ $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj$
         \[V_k^kW_k^k\Gamma_k^kT_k^k{\symup T}_k^k{\symup V}_k^kV_{\frac HH}\]
         \SUPSUBMAP{\symit}{\Latinalphabets}
         \SUPSUBMAP{\symit}{\latinalphabets}
-        \[f\sb x \sp x f_ x ^ x\]
         \SUPSUBMAP{\symbf}{\Latinalphabets}
         \SUPSUBMAP{\symbf}{\latinalphabets}
         \SUPSUBMAP{\symit}{\Greekalphabets}
@@ -246,40 +249,40 @@ $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj$
   \item Math accents
         \TOPACCENTMAP{\symnormal}{A}
         \[\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
-        \begin{itemize}
-          \item Latin capital letters:
-            \TOPACCENTMAP{\symnormal}{\Latinalphabets}
-          \item Latin small letters:
-            \TOPACCENTMAP{\symnormal}{\latinalphabets}
-          \item Latin capital upright letters:
-            \TOPACCENTMAP{\symup}{\Latinalphabets}
-          \item Latin small upright letters:
-            \TOPACCENTMAP{\symup}{\latinalphabets}
-          \item Latin capital bold letters:
-            \TOPACCENTMAP{\symbf}{\Latinalphabets}
-          \item Latin small bold letters:
-            \TOPACCENTMAP{\symbf}{\latinalphabets}
-          \item Latin capital bold upright letters:
-            \TOPACCENTMAP{\symbfup}{\Latinalphabets}
-          \item Latin small bold upright letters:
-            \TOPACCENTMAP{\symbfup}{\latinalphabets}
-          \item Greek capital letters:
-            \TOPACCENTMAP{\symnormal}{\Greekalphabets}
-          \item Greek small letters:
-            \TOPACCENTMAP{\symnormal}{\greekalphabets}
-          \item Greek capital upright letters:
-            \TOPACCENTMAP{\symup}{\Greekalphabets}
-          \item Greek small upright letters:
-            \TOPACCENTMAP{\symup}{\greekalphabets}
-          \item Greek capital bold letters:
-            \TOPACCENTMAP{\symbf}{\Greekalphabets}
-          \item Greek small bold letters:
-            \TOPACCENTMAP{\symbf}{\greekalphabets}
-          \item Greek capital bold upright letters:
-            \TOPACCENTMAP{\symbfup}{\Greekalphabets}
-          \item Greek small bold upright letters:
-            \TOPACCENTMAP{\symbfup}{\greekalphabets}
-        \end{itemize}
+        % \begin{itemize}
+        %   \item Latin capital letters:
+        %     \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+        %   \item Latin small letters:
+        %     \TOPACCENTMAP{\symnormal}{\latinalphabets}
+        %   \item Latin capital upright letters:
+        %     \TOPACCENTMAP{\symup}{\Latinalphabets}
+        %   \item Latin small upright letters:
+        %     \TOPACCENTMAP{\symup}{\latinalphabets}
+        %   \item Latin capital bold letters:
+        %     \TOPACCENTMAP{\symbf}{\Latinalphabets}
+        %   \item Latin small bold letters:
+        %     \TOPACCENTMAP{\symbf}{\latinalphabets}
+        %   \item Latin capital bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+        %   \item Latin small bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\latinalphabets}
+        %   \item Greek capital letters:
+        %     \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+        %   \item Greek small letters:
+        %     \TOPACCENTMAP{\symnormal}{\greekalphabets}
+        %   \item Greek capital upright letters:
+        %     \TOPACCENTMAP{\symup}{\Greekalphabets}
+        %   \item Greek small upright letters:
+        %     \TOPACCENTMAP{\symup}{\greekalphabets}
+        %   \item Greek capital bold letters:
+        %     \TOPACCENTMAP{\symbf}{\Greekalphabets}
+        %   \item Greek small bold letters:
+        %     \TOPACCENTMAP{\symbf}{\greekalphabets}
+        %   \item Greek capital bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+        %   \item Greek small bold upright letters:
+        %     \TOPACCENTMAP{\symbfup}{\greekalphabets}
+        % \end{itemize}
 
   \item Large operators
   \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\oint\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
@@ -319,7 +322,7 @@ $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj$
 
   \item Brackets
   \[f(x)+f(y)+z(f)+f[x]+f[y]+z[f]+f\{x\}+f\{y\}+z\{f\}+z(x)+z[x]+z\{x\}+s|g|\]
-  \[(x)[x]\{x\}(B)[B]\{B\}(jf)|jf\rangle(\ket{j})(\lvert j\rangle)(\ket{k})\left((j)\right)\]
+  \[(x)[x]\{x\}(B)[B]\{B\}(jf)|jf\rangle(\lvert j\rangle)(\ket{k})\left((j)\right)\]
         \[
           \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
           \Biggl[  \biggl[  \Bigl[  \bigl[   [x]  \bigr]  \Bigr]  \biggr]  \Biggr]  \quad

@@ -1,11 +1,11 @@
 StartChar: iacute
 Encoding: 237 237 94
 Width: 265
+ItalicCorrection: 21
+TopAccentHorizontal: 208
 GlyphClass: 2
 Flags: MW
 TeX: 649 3
-ItalicCorrection: 21
-TopAccentHorizontal: 208
 LayerCount: 2
 Fore
 SplineSet

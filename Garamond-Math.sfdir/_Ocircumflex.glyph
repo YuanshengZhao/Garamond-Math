@@ -1,10 +1,10 @@
 StartChar: Ocircumflex
-Encoding: 212 212 2350
+Encoding: 212 212 2349
 Width: 732
+TopAccentHorizontal: 375
 GlyphClass: 2
 Flags: MW
 TeX: 823 14
-TopAccentHorizontal: 375
 LayerCount: 2
 Fore
 SplineSet

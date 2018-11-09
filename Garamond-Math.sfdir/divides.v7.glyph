@@ -2,7 +2,7 @@ StartChar: divides.v7
 Encoding: 1114542 -1 1588
 Width: 394
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -15,5 +15,4 @@ SplineSet
  204 1600 223 1589 223 1569 c 2
  223 -1084 l 2
 EndSplineSet
-Validated: 1
 EndChar

@@ -3,7 +3,7 @@ Encoding: 1114702 -1 1748
 Width: 6198
 VWidth: 1110
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
@@ -20,5 +20,4 @@ SplineSet
  3089 854 3109 854 3129 852 c 0
  6190 575 l 2
 EndSplineSet
-Validated: 33
 EndChar

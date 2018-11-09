@@ -1,9 +1,8 @@
 StartChar: congruent
-Encoding: 8773 8773 3936
+Encoding: 8773 8773 3935
 Width: 525
-Flags: W
 TopAccentHorizontal: 278
-HStem: 97 50<53.1042 510.543> 225 50<53.1042 510.543> 318 51<312.745 444.999> 386 51<111.946 255.555>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: Omacron
-Encoding: 332 332 2367
+Encoding: 332 332 2366
 Width: 732
+TopAccentHorizontal: 372
 GlyphClass: 2
 Flags: MW
 TeX: 777 14
-TopAccentHorizontal: 372
 LayerCount: 2
 Fore
 SplineSet

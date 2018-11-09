@@ -1,10 +1,10 @@
 StartChar: b
 Encoding: 98 98 39
 Width: 542
+TopAccentHorizontal: 128
 GlyphClass: 2
 Flags: MW
 TeX: 705 14
-TopAccentHorizontal: 128
 LayerCount: 2
 Fore
 SplineSet

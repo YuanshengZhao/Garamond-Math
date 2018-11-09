@@ -1,8 +1,8 @@
 StartChar: uni2A0C
 Encoding: 10764 10764 515
-Width: 1430
+Width: 1590
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
@@ -71,6 +71,5 @@ SplineSet
  411 608 356 40 341 -116 c 0
  331 -223 225 -296 169 -296 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss07' Style Set 7" u2A0C.var
 EndChar

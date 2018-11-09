@@ -1,10 +1,10 @@
 StartChar: uhungarumlaut
-Encoding: 369 369 2139
+Encoding: 369 369 2138
 Width: 548
+TopAccentHorizontal: 307
 GlyphClass: 2
 Flags: MW
 TeX: 649 19
-TopAccentHorizontal: 307
 LayerCount: 2
 Fore
 SplineSet

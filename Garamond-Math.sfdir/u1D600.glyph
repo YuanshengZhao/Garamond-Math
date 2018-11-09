@@ -1,9 +1,9 @@
 StartChar: u1D600
-Encoding: 120320 120320 3051
+Encoding: 120320 120320 3050
 Width: 405
+TopAccentHorizontal: 219
 GlyphClass: 2
 Flags: MW
-TopAccentHorizontal: 219
 LayerCount: 2
 Fore
 SplineSet

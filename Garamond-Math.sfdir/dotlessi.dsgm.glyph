@@ -1,8 +1,8 @@
 StartChar: dotlessi.dsgm
-Encoding: 1115925 -1 3541
+Encoding: 1115945 -1 4128
 Width: 312
-Flags: MW
 TopAccentHorizontal: 134
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -35,5 +35,4 @@ SplineSet
  139 62 l 2
  139 55.81640625 138.6953125 51.21484375 137.083007812 43.5576171875 c 1
 EndSplineSet
-Validated: 1
 EndChar

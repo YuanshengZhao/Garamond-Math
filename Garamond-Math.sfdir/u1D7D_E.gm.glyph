@@ -1,8 +1,8 @@
 StartChar: u1D7DE.gm
-Encoding: 1115921 -1 3537
+Encoding: 1115941 -1 4101
 Width: 518
-Flags: MW
 TopAccentHorizontal: 331
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -36,5 +36,4 @@ SplineSet
  129.90625 360.17578125 80 287.885742188 80 193 c 0
  80 128.81640625 112.456054688 85.7314453125 158.416992188 58.31640625 c 1
 EndSplineSet
-Validated: 33
 EndChar

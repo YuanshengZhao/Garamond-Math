@@ -1,10 +1,10 @@
 StartChar: odotbelow
-Encoding: 7885 7885 3735
+Encoding: 7885 7885 3734
 Width: 485
+TopAccentHorizontal: 250
 GlyphClass: 2
 Flags: MW
 TeX: 414 192
-TopAccentHorizontal: 250
 LayerCount: 2
 Fore
 SplineSet

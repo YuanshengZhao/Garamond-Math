@@ -1,11 +1,11 @@
 StartChar: Ubreve
-Encoding: 364 364 2395
+Encoding: 364 364 2394
 Width: 708
+ItalicCorrection: 78
+TopAccentHorizontal: 418
 GlyphClass: 2
 Flags: MW
 TeX: 820 14
-ItalicCorrection: 78
-TopAccentHorizontal: 418
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: uhorndotbelow
-Encoding: 7921 7921 2135
+Encoding: 7921 7921 2134
 Width: 553
+ItalicCorrection: 40
+TopAccentHorizontal: 314
 GlyphClass: 2
 Flags: MW
 TeX: 534 192
-ItalicCorrection: 40
-TopAccentHorizontal: 314
 LayerCount: 2
 Fore
 SplineSet

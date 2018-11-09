@@ -1,10 +1,10 @@
 StartChar: minusplus
 Encoding: 8723 8723 321
 Width: 570
+TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: W
 TeX: 500 5
-TopAccentHorizontal: 288
 HStem: -5 21G<314 327> 198 52<77.9531 304 356 582.047> 448 52<77.9531 304 356 582.047>
 VStem: 304 52<-2.04688 198 250 448>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: iota.ss
 Encoding: 1115220 -1 2591
 Width: 244
-GlyphClass: 2
-Flags: MW
-TeX: 411 14
 TopAccentHorizontal: 100
+GlyphClass: 2
+Flags: HMW
+TeX: 414 15
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +19,4 @@ SplineSet
  212 89 215 84 215 72 c 0
  215 40 174 -14 116 -14 c 0
 EndSplineSet
-Validated: 33
 EndChar

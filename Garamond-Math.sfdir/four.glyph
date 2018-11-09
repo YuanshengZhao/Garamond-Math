@@ -1,10 +1,10 @@
 StartChar: four
 Encoding: 52 52 19
-Width: 541
+Width: 515
+TopAccentHorizontal: 300
 GlyphClass: 2
 Flags: MW
 TeX: 642 3
-TopAccentHorizontal: 301
 LayerCount: 2
 Fore
 SplineSet
@@ -47,5 +47,6 @@ SplineSet
  280 2 270 -3 216 -3 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" four.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" four.s four.ss
 EndChar

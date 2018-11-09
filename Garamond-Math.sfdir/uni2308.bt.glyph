@@ -1,18 +1,18 @@
 StartChar: uni2308.bt
 Encoding: 1114384 -1 1430
-Width: 431
+Width: 441
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 1225 725
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
-110 23 m 2
- 110 2357 l 1
- 183 2357 l 1
- 183 43 l 2
- 183 15 155 0 128 0 c 0
- 119 0 110 12 110 23 c 2
+120 23 m 2
+ 120 2357 l 1
+ 193 2357 l 1
+ 193 43 l 2
+ 193 15 165 0 138 0 c 0
+ 129 0 120 12 120 23 c 2
 EndSplineSet
 EndChar

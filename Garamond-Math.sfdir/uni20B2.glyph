@@ -1,10 +1,10 @@
 StartChar: uni20B2
-Encoding: 8370 8370 3972
+Encoding: 8370 8370 3971
 Width: 725
+TopAccentHorizontal: 429
 GlyphClass: 2
 Flags: MW
 TeX: 728 96
-TopAccentHorizontal: 429
 LayerCount: 2
 Fore
 SplineSet

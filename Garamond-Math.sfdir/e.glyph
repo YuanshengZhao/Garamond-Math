@@ -1,10 +1,10 @@
 StartChar: e
-Encoding: 101 101 3906
+Encoding: 101 101 3905
 Width: 407
+TopAccentHorizontal: 230
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
-TopAccentHorizontal: 230
 LayerCount: 2
 Fore
 SplineSet

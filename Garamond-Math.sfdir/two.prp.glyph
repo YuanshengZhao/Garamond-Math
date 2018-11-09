@@ -1,0 +1,34 @@
+StartChar: two.prp
+Encoding: 1116516 -1 4863
+Width: 514
+TopAccentHorizontal: 265
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+441 -3 m 0
+ 421 -3 356 3 306 3 c 0
+ 256 3 94 -2 74 -2 c 0
+ 69 -2 54 9 54 15 c 0
+ 54 21 56 22 62 28 c 2
+ 233 205 l 2
+ 300 274 349 364 349 452 c 0
+ 349 523 299 566 242 566 c 0
+ 187 566 138 533 110 485 c 0
+ 106 477 99 471 93 471 c 0
+ 88 471 78 483 78 501 c 0
+ 78 532 160 630 273 630 c 0
+ 373 630 433 562 433 465 c 0
+ 433 411 402 341 360 290 c 0
+ 315 236 150 76 150 71 c 0
+ 150 66 156 65 164 64 c 0
+ 186 62 215 61 252 61 c 0
+ 290 61 330 62 366 64 c 0
+ 423 67 436 71 461 111 c 0
+ 466 119 475 134 486 134 c 0
+ 492 134 493 127 493 122 c 0
+ 493 112 473 71 463 21 c 0
+ 459 0 448 -3 441 -3 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" two.prp.s two.prp.ss
+EndChar

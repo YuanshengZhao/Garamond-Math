@@ -1,7 +1,9 @@
 StartChar: equal.ex
-Encoding: 1116410 -1 4595
+Encoding: 1116430 -1 4615
 Width: 346
-Flags: MW
+Flags: HMW
+ItalicCorrection: 550
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -20,5 +22,4 @@ SplineSet
  406 164 390 143 374 143 c 2
  -46 143 l 2
 EndSplineSet
-Validated: 1
 EndChar

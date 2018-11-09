@@ -1,32 +1,33 @@
 StartChar: nine
-Encoding: 57 57 3816
-Width: 475
+Encoding: 57 57 3815
+Width: 507
+ItalicCorrection: 7
+TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
 TeX: 629 31
-ItalicCorrection: 7
-TopAccentHorizontal: 232
 LayerCount: 2
 Fore
 SplineSet
-39 -31 m 0
- 28 -31 25 -27 25 -23 c 0
- 25 -16 32 -13 39 -13 c 0
- 99 -13 197 52 261 134 c 0
- 325 217 350 292 350 389 c 0
- 350 485 283 593 210 593 c 0
- 145 593 112 531 112 482 c 0
- 112 421 162 357 215 357 c 0
- 256 357 270 371 295 383 c 0
- 300 385 304 376 302 372 c 0
- 295 359 280 345 269 337 c 0
- 254 326 214 304 177 304 c 0
- 108 304 37 358 37 430 c 0
- 37 521 122 629 243 629 c 0
- 340 629 435 515 435 400 c 0
- 435 275 382 186 291 87 c 0
- 218 7 109 -31 39 -31 c 0
+86 -31 m 0
+ 75 -31 72 -27 72 -23 c 0
+ 72 -16 79 -13 86 -13 c 0
+ 146 -13 244 52 308 134 c 0
+ 372 217 397 292 397 389 c 0
+ 397 485 330 593 257 593 c 0
+ 192 593 159 531 159 482 c 0
+ 159 421 209 357 262 357 c 0
+ 303 357 317 371 342 383 c 0
+ 347 385 351 376 349 372 c 0
+ 342 359 327 345 316 337 c 0
+ 301 326 261 304 224 304 c 0
+ 155 304 84 358 84 430 c 0
+ 84 521 169 629 290 629 c 0
+ 387 629 482 515 482 400 c 0
+ 482 275 429 186 338 87 c 0
+ 265 7 156 -31 86 -31 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" nine.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" nine.s nine.ss
 EndChar

@@ -1,10 +1,10 @@
 StartChar: ubreve
-Encoding: 365 365 2130
+Encoding: 365 365 2129
 Width: 553
+TopAccentHorizontal: 258
 GlyphClass: 2
 Flags: MW
 TeX: 608 19
-TopAccentHorizontal: 258
 LayerCount: 2
 Fore
 SplineSet

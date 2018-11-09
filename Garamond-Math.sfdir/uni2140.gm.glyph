@@ -1,8 +1,9 @@
 StartChar: uni2140.gm
-Encoding: 1115931 -1 3547
-Width: 989
-Flags: MW
-IsExtendedShape: 1
+Encoding: 1115951 -1 4134
+Width: 995
+Flags: HMW
+ItalicCorrection: 29
+TopAccentHorizontal: 437
 LayerCount: 2
 Fore
 SplineSet
@@ -62,5 +63,4 @@ SplineSet
  672.59842789 -153 337.368125207 -158.016965504 264.846148612 -148.587666929 c 0
  255.594263006 -147.358971758 235.303370352 -141.23362904 222.910590319 -123.420995463 c 1
 EndSplineSet
-Validated: 33
 EndChar

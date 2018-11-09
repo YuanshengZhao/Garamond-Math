@@ -1,8 +1,8 @@
 StartChar: partialdiff.x.s
-Encoding: 1115939 -1 4099
+Encoding: 1115959 -1 4142
 Width: 505
-Flags: MW
 TopAccentHorizontal: 201
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -28,5 +28,4 @@ SplineSet
  162 381 121 296 121 211 c 0
  121 113 182 18 259 18 c 0
 EndSplineSet
-Validated: 1
 EndChar

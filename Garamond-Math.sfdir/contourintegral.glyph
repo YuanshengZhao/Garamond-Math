@@ -1,8 +1,8 @@
 StartChar: contourintegral
-Encoding: 8750 8750 3853
-Width: 746
+Encoding: 8750 8750 3852
+Width: 690
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
@@ -48,6 +48,5 @@ SplineSet
  295 85 298 87 299 94 c 2
  330 412 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'ss07' Style Set 7" u222E.var
 EndChar

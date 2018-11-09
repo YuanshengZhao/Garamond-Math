@@ -1,10 +1,10 @@
 StartChar: alpha
-Encoding: 945 945 3979
+Encoding: 945 945 3978
 Width: 489
+TopAccentHorizontal: 253
 GlyphClass: 2
 Flags: MW
 TeX: 419 15
-TopAccentHorizontal: 253
 LayerCount: 2
 Fore
 SplineSet

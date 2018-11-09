@@ -1,11 +1,11 @@
 StartChar: gbreve
-Encoding: 287 287 3871
+Encoding: 287 287 3870
 Width: 481
+ItalicCorrection: 22
+TopAccentHorizontal: 247
 GlyphClass: 2
 Flags: MW
 TeX: 608 290
-ItalicCorrection: 22
-TopAccentHorizontal: 247
 LayerCount: 2
 Fore
 SplineSet

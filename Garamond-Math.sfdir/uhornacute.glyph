@@ -1,11 +1,11 @@
 StartChar: uhornacute
-Encoding: 7913 7913 2134
+Encoding: 7913 7913 2133
 Width: 552
+ItalicCorrection: 40
+TopAccentHorizontal: 395
 GlyphClass: 2
 Flags: MW
 TeX: 649 19
-ItalicCorrection: 40
-TopAccentHorizontal: 395
 LayerCount: 2
 Fore
 SplineSet

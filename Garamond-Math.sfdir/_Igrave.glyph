@@ -1,10 +1,10 @@
 StartChar: Igrave
-Encoding: 204 204 2324
+Encoding: 204 204 2323
 Width: 366
+TopAccentHorizontal: 125
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-TopAccentHorizontal: 125
 LayerCount: 2
 Fore
 SplineSet
