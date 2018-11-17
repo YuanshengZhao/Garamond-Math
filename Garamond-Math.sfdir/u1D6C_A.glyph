@@ -1,23 +1,23 @@
 StartChar: u1D6CA
 Encoding: 120522 120522 997
-Width: 290
-TopAccentHorizontal: 113
+Width: 354
+TopAccentHorizontal: 156
 GlyphClass: 2
 Flags: MW
 TeX: 432 15
 LayerCount: 2
 Fore
 SplineSet
-144 -15 m 0
- 91 -15 51 27 51 111 c 2
- 52 406 l 2
- 52 427 73 432 118 432 c 0
- 166 432 177 421 177 400 c 0
- 177 353 149 198 149 135 c 0
- 149 114 168 111 190 111 c 0
- 212 111 236 118 246 118 c 0
- 255 118 261 112 261 98 c 0
- 261 51 223 -15 144 -15 c 0
+186 -15 m 0
+ 133 -15 93 27 93 111 c 2
+ 94 406 l 2
+ 94 427 115 432 160 432 c 0
+ 208 432 219 421 219 400 c 0
+ 219 353 191 198 191 135 c 0
+ 191 114 210 111 232 111 c 0
+ 254 111 278 118 288 118 c 0
+ 297 118 303 112 303 98 c 0
+ 303 51 265 -15 186 -15 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "'ss04' Style Set 4" u1D6CA.sb

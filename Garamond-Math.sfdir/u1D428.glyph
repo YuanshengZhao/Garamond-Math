@@ -1,25 +1,25 @@
 StartChar: u1D428
 Encoding: 119848 119848 570
-Width: 516
-TopAccentHorizontal: 264
+Width: 576
+TopAccentHorizontal: 294
 GlyphClass: 2
 Flags: MW
 TeX: 433 14
 LayerCount: 2
 Fore
 SplineSet
-243 -14 m 0
- 123 -14 30 73 30 195 c 0
- 30 323 133 433 265 433 c 0
- 388 433 486 336 486 224 c 0
- 486 95 404 -14 243 -14 c 0
-263 30 m 0
- 290 30 311 41 325 64 c 0
- 341 91 346 138 346 200 c 0
- 346 308 308 389 250 389 c 0
- 228 389 212 382 198 368 c 0
- 175 342 168 292 168 220 c 0
- 168 124 208 30 263 30 c 0
+273 -14 m 0
+ 153 -14 60 73 60 195 c 0
+ 60 323 163 433 295 433 c 0
+ 418 433 516 336 516 224 c 0
+ 516 95 434 -14 273 -14 c 0
+293 30 m 0
+ 320 30 341 41 355 64 c 0
+ 371 91 376 138 376 200 c 0
+ 376 308 338 389 280 389 c 0
+ 258 389 242 382 228 368 c 0
+ 205 342 198 292 198 220 c 0
+ 198 124 238 30 293 30 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D428.s u1D428.ss

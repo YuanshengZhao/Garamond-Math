@@ -1,25 +1,25 @@
 StartChar: u1D7F3
 Encoding: 120819 120819 1149
-Width: 370
+Width: 359
 ItalicCorrection: 89
-TopAccentHorizontal: 231
+TopAccentHorizontal: 239
 GlyphClass: 2
 Flags: MW
 TeX: 652 0
 LayerCount: 2
 Fore
 SplineSet
-328 496 m 1
- 269 496 160 488 32 481 c 1
- 34 496 37 540 37 555 c 0
- 37 570 34 594 32 609 c 1
- 74 603 203 599 352 599 c 0
- 383 599 401 603 416 607 c 1
- 430 587 l 1
- 318 315 261 161 204 -9 c 1
- 86 -13 l 1
- 83 -6 l 1
- 147 139 253 310 328 496 c 1
+336 496 m 1
+ 277 496 168 488 40 481 c 1
+ 42 496 45 540 45 555 c 0
+ 45 570 42 594 40 609 c 1
+ 82 603 211 599 360 599 c 0
+ 391 599 409 603 424 607 c 1
+ 438 587 l 1
+ 326 315 269 161 212 -9 c 1
+ 94 -13 l 1
+ 91 -6 l 1
+ 155 139 261 310 336 496 c 1
 EndSplineSet
 Validated: 1
 EndChar

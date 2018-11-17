@@ -1,23 +1,23 @@
 StartChar: u1D45C
 Encoding: 119900 119900 621
-Width: 405
-TopAccentHorizontal: 256
+Width: 455
+TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
 TeX: 414 14
 LayerCount: 2
 Fore
 SplineSet
-121 -14 m 0
- 72 -14 30 41 30 99 c 0
- 30 224 136 414 270 414 c 0
- 337 414 375 362 375 296 c 0
- 375 176 275 -14 121 -14 c 0
-137 16 m 0
- 217 16 311 211 311 324 c 0
- 311 359 302 384 268 384 c 0
- 191 384 94 210 94 78 c 0
- 94 34 110 16 137 16 c 0
+145 -14 m 0
+ 96 -14 54 41 54 99 c 0
+ 54 224 160 414 294 414 c 0
+ 361 414 399 362 399 296 c 0
+ 399 176 299 -14 145 -14 c 0
+161 16 m 0
+ 241 16 335 211 335 324 c 0
+ 335 359 326 384 292 384 c 0
+ 215 384 118 210 118 78 c 0
+ 118 34 134 16 161 16 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D45C.s u1D45C.ss

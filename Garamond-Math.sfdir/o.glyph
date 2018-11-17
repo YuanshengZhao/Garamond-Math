@@ -1,25 +1,25 @@
 StartChar: o
 Encoding: 111 111 52
-Width: 485
-TopAccentHorizontal: 250
+Width: 543
+TopAccentHorizontal: 279
 GlyphClass: 2
 Flags: MW
 TeX: 414 14
 LayerCount: 2
 Fore
 SplineSet
-229 -14 m 0
- 117 -14 30 70 30 187 c 0
- 30 298 126 414 249 414 c 0
- 365 414 455 321 455 213 c 0
- 455 96 379 -14 229 -14 c 0
-250 16 m 0
- 295 16 333 32 353 71 c 0
- 369 102 373 150 373 189 c 0
- 373 284 317 383 232 383 c 0
- 196 383 168 374 144 343 c 0
- 117 309 112 258 112 210 c 0
- 112 111 170 16 250 16 c 0
+257 -14 m 0
+ 145 -14 58 70 58 187 c 0
+ 58 298 154 414 277 414 c 0
+ 393 414 483 321 483 213 c 0
+ 483 96 407 -14 257 -14 c 0
+278 16 m 0
+ 323 16 361 32 381 71 c 0
+ 397 102 401 150 401 189 c 0
+ 401 284 345 383 260 383 c 0
+ 224 383 196 374 172 343 c 0
+ 145 309 140 258 140 210 c 0
+ 140 111 198 16 278 16 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" o.s o.ss

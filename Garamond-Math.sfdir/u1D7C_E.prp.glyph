@@ -1,21 +1,21 @@
 StartChar: u1D7CE.prp
 Encoding: 1116524 -1 4871
-Width: 518
-TopAccentHorizontal: 280
+Width: 605
+TopAccentHorizontal: 304
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-273 -14 m 0
- 121 -14 50 154 50 302 c 0
- 50 455 119 631 284 631 c 0
- 436 631 508 462 508 317 c 0
- 508 166 439 -14 273 -14 c 0
-289 25 m 0
- 358 25 385 155 385 299 c 0
- 385 442 344 592 267 592 c 0
- 198 592 173 463 173 319 c 0
- 173 176 211 25 289 25 c 0
+296 -14 m 0
+ 144 -14 73 154 73 302 c 0
+ 73 455 142 631 307 631 c 0
+ 459 631 531 462 531 317 c 0
+ 531 166 462 -14 296 -14 c 0
+312 25 m 0
+ 381 25 408 155 408 299 c 0
+ 408 442 367 592 290 592 c 0
+ 221 592 196 463 196 319 c 0
+ 196 176 234 25 312 25 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7CE.prp.s u1D7CE.prp.ss
 EndChar

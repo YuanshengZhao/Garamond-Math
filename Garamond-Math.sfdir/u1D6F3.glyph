@@ -1,29 +1,29 @@
 StartChar: u1D6F3
 Encoding: 120563 120563 1027
-Width: 665
+Width: 749
 ItalicCorrection: 9
-TopAccentHorizontal: 392
+TopAccentHorizontal: 434
 GlyphClass: 2
 Flags: MW
 TeX: 664 14
 LayerCount: 2
 Fore
 SplineSet
-420 664 m 0
- 576 664 645 545 645 407 c 0
- 645 215 505 -14 255 -14 c 0
- 99 -14 30 105 30 243 c 0
- 30 435 170 664 420 664 c 0
-417 636 m 0
- 288 636 183 504 138 356 c 1
- 552 356 l 1
- 557 386 560 416 560 445 c 0
- 560 539 519 636 417 636 c 0
-258 17 m 0
- 400 17 505 161 544 316 c 1
- 128 316 l 1
- 119 279 115 241 115 205 c 0
- 115 111 156 17 258 17 c 0
+462 664 m 0
+ 618 664 687 545 687 407 c 0
+ 687 215 547 -14 297 -14 c 0
+ 141 -14 72 105 72 243 c 0
+ 72 435 212 664 462 664 c 0
+459 636 m 0
+ 330 636 225 504 180 356 c 1
+ 594 356 l 1
+ 599 386 602 416 602 445 c 0
+ 602 539 561 636 459 636 c 0
+300 17 m 0
+ 442 17 547 161 586 316 c 1
+ 170 316 l 1
+ 161 279 157 241 157 205 c 0
+ 157 111 198 17 300 17 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6F3.s u1D6F3.ss

@@ -1,7 +1,7 @@
 StartChar: uni22C5
 Encoding: 8901 8901 3799
-Width: 172
-TopAccentHorizontal: 85
+Width: 188
+TopAccentHorizontal: 94
 GlyphClass: 2
 Flags: W
 TeX: 306 -194
@@ -10,11 +10,11 @@ VStem: 80 112<205.922 294.078>
 LayerCount: 2
 Fore
 SplineSet
-142 250 m 0
- 142 219 117 194 86 194 c 0
- 55 194 30 219 30 250 c 0
- 30 281 55 306 86 306 c 0
- 117 306 142 281 142 250 c 0
+150 250 m 0
+ 150 219 125 194 94 194 c 0
+ 63 194 38 219 38 250 c 0
+ 38 281 63 306 94 306 c 0
+ 125 306 150 281 150 250 c 0
 EndSplineSet
 Validated: 1
 EndChar

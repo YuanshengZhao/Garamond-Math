@@ -1,23 +1,23 @@
 StartChar: iota
 Encoding: 953 953 3770
-Width: 226
-TopAccentHorizontal: 94
+Width: 285
+TopAccentHorizontal: 135
 GlyphClass: 2
 Flags: MW
 TeX: 411 14
 LayerCount: 2
 Fore
 SplineSet
-105 -14 m 0
- 71 -14 48 19 49 86 c 2
- 52 394 l 2
- 52 406 60 411 113 411 c 0
- 136 411 137 405 137 394 c 0
- 137 358 109 155 109 95 c 0
- 109 70 123 64 137 64 c 0
- 158 64 184 78 187 78 c 0
- 196 78 197 73 197 62 c 0
- 197 36 155 -14 105 -14 c 0
+145 -14 m 0
+ 111 -14 88 19 89 86 c 2
+ 92 394 l 2
+ 92 406 100 411 153 411 c 0
+ 176 411 177 405 177 394 c 0
+ 177 358 149 155 149 95 c 0
+ 149 70 163 64 177 64 c 0
+ 198 64 224 78 227 78 c 0
+ 236 78 237 73 237 62 c 0
+ 237 36 195 -14 145 -14 c 0
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" iota.s iota.ss
