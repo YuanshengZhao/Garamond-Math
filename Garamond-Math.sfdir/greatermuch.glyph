@@ -1,10 +1,10 @@
 StartChar: greatermuch
 Encoding: 8811 8811 3638
 Width: 872
-TopAccentHorizontal: 301
 GlyphClass: 2
 Flags: MW
 TeX: 512 12
+TopAccentHorizontal: 301
 LayerCount: 2
 Fore
 SplineSet

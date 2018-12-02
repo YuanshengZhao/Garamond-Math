@@ -1,11 +1,11 @@
 StartChar: racute
 Encoding: 341 341 2120
 Width: 365
-ItalicCorrection: 78
-TopAccentHorizontal: 311
 GlyphClass: 2
 Flags: MW
 TeX: 649 3
+ItalicCorrection: 78
+TopAccentHorizontal: 311
 LayerCount: 2
 Fore
 SplineSet

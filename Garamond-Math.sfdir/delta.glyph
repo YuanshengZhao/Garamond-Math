@@ -1,11 +1,11 @@
 StartChar: delta
 Encoding: 948 948 193
 Width: 496
-ItalicCorrection: 25
-TopAccentHorizontal: 231
 GlyphClass: 2
 Flags: MW
 TeX: 701 14
+ItalicCorrection: 25
+TopAccentHorizontal: 231
 LayerCount: 2
 Fore
 SplineSet

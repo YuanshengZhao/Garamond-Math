@@ -1,10 +1,10 @@
 StartChar: Pi
 Encoding: 928 928 2373
 Width: 880
-TopAccentHorizontal: 440
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
+TopAccentHorizontal: 440
 LayerCount: 2
 Fore
 SplineSet

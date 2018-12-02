@@ -1,10 +1,10 @@
 StartChar: germandbls
 Encoding: 223 223 3994
 Width: 609
-TopAccentHorizontal: 351
 GlyphClass: 2
 Flags: MW
 TeX: 706 15
+TopAccentHorizontal: 351
 LayerCount: 2
 Fore
 SplineSet

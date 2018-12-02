@@ -1,10 +1,10 @@
 StartChar: acircumflextilde
 Encoding: 7851 7851 3817
 Width: 509
-TopAccentHorizontal: 235
 GlyphClass: 2
 Flags: MW
 TeX: 720 14
+TopAccentHorizontal: 235
 LayerCount: 2
 Fore
 SplineSet

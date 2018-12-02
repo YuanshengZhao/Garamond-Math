@@ -1,11 +1,11 @@
 StartChar: Ygrave
 Encoding: 7922 7922 2422
 Width: 634
-ItalicCorrection: 126
-TopAccentHorizontal: 388
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
+ItalicCorrection: 126
+TopAccentHorizontal: 388
 LayerCount: 2
 Fore
 SplineSet

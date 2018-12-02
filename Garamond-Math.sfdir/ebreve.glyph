@@ -1,10 +1,10 @@
 StartChar: ebreve
 Encoding: 277 277 3701
 Width: 483
-TopAccentHorizontal: 265
 GlyphClass: 2
 Flags: MW
 TeX: 608 15
+TopAccentHorizontal: 265
 LayerCount: 2
 Fore
 SplineSet

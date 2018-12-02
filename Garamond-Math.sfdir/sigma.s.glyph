@@ -1,11 +1,11 @@
 StartChar: sigma.s
 Encoding: 1115239 -1 2610
 Width: 471
-ItalicCorrection: 101
-TopAccentHorizontal: 361
 GlyphClass: 2
 Flags: HMW
 TeX: 433 14
+ItalicCorrection: 101
+TopAccentHorizontal: 361
 LayerCount: 2
 Fore
 SplineSet

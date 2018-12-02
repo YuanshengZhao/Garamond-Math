@@ -1,10 +1,10 @@
 StartChar: iota
 Encoding: 953 953 3770
 Width: 285
-TopAccentHorizontal: 135
 GlyphClass: 2
 Flags: MW
 TeX: 411 14
+TopAccentHorizontal: 135
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: beta.s
 Encoding: 1115205 -1 2576
 Width: 610
-TopAccentHorizontal: 299
 GlyphClass: 2
 Flags: HMW
 TeX: 705 285
+TopAccentHorizontal: 299
 LayerCount: 2
 Fore
 SplineSet

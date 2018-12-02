@@ -1,10 +1,10 @@
 StartChar: epsilon.s
 Encoding: 1115211 -1 2582
 Width: 404
-TopAccentHorizontal: 220
 GlyphClass: 2
 Flags: HMW
 TeX: 412 14
+TopAccentHorizontal: 220
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: fahrenheit
 Encoding: 8457 8457 3674
 Width: 786
-ItalicCorrection: 51
-TopAccentHorizontal: 441
 GlyphClass: 2
 Flags: MW
 TeX: 660 5
+ItalicCorrection: 51
+TopAccentHorizontal: 441
 LayerCount: 2
 Fore
 SplineSet

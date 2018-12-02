@@ -1,11 +1,11 @@
 StartChar: Ydieresis
 Encoding: 376 376 2420
 Width: 620
-ItalicCorrection: 126
-TopAccentHorizontal: 389
 GlyphClass: 2
 Flags: MW
 TeX: 795 5
+ItalicCorrection: 126
+TopAccentHorizontal: 389
 LayerCount: 2
 Fore
 SplineSet

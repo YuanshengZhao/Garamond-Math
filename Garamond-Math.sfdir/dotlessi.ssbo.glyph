@@ -1,11 +1,11 @@
 StartChar: dotlessi.ssbo
 Encoding: 1114122 -1 1168
 Width: 282
-ItalicCorrection: 31
-TopAccentHorizontal: 203
 GlyphClass: 2
 Flags: MW
 TeX: 497 0
+ItalicCorrection: 31
+TopAccentHorizontal: 203
 LayerCount: 2
 Fore
 SplineSet

@@ -2,10 +2,10 @@ StartChar: K
 Encoding: 75 75 2331
 AltUni2: 00039a.ffffffff.0
 Width: 822
-TopAccentHorizontal: 421
 GlyphClass: 2
 Flags: MW
 TeX: 655 5
+TopAccentHorizontal: 421
 LayerCount: 2
 Fore
 SplineSet

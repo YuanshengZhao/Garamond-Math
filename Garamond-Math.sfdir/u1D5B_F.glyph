@@ -1,10 +1,10 @@
 StartChar: u1D5BF
 Encoding: 120255 120255 2993
 Width: 333
-ItalicCorrection: 107
-TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 107
+TopAccentHorizontal: 288
 LayerCount: 2
 Fore
 SplineSet
@@ -38,7 +38,7 @@ SplineSet
  131 385 98 384.299804688 80 383 c 1
  75 390 l 1
  84.7001953125 405 90.2998046875 414.700195312 97 431 c 1
- 110.2001953125 429.200195312 133.2998046875 429 155 429 c 1
+ 110.200195312 429.200195312 133.299804688 429 155 429 c 1
 EndSplineSet
 Validated: 1
 EndChar

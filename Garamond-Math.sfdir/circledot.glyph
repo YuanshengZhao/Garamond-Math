@@ -1,10 +1,10 @@
 StartChar: circledot
 Encoding: 8857 8857 3643
 Width: 777
-TopAccentHorizontal: 388
 GlyphClass: 2
 Flags: W
 TeX: 568 68
+TopAccentHorizontal: 388
 HStem: -68 52<305.143 510.857> 194 112<363.922 452.078> 516 52<305.143 510.857>
 VStem: 90 52<147.143 352.857> 352 112<205.922 294.078> 674 52<147.143 352.857>
 CounterMasks: 1 fc

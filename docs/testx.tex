@@ -2,12 +2,13 @@
 \usepackage[a4paper, margin=.3in]{geometry}
 \usepackage{amsmath}
 % \usepackage[no-math]{fontspec}
-\usepackage[math-style=ISO, bold-style=ISO, mathrm=sym]{unicode-math}
+\usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
-% \setmainfont{XITS}
-% \setmainfont{EB Garamond}%
+% \setmainfont{Source Serif Pro}
+
+\setmainfont{EB Garamond}%
 % [ Path = ../EBGaramond/,
 %   Extension = .otf,
 %   UprightFont = *-Regular,
@@ -23,6 +24,7 @@
 \newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}[Path=../libertinus/]
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
+
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -61,7 +63,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{x}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{-}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -101,8 +103,8 @@
 
 \DeclareRobustCommand{\GenericInfo}[2]{}
 
-\def\ee{\mathrm{e}}
-\def\ii{\mathrm{i}}
+\def\ee{\symrm{e}}
+\def\ii{\symrm{i}}
 \def\bm{\symbf}
 \newcommand{\innerprod}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
 \newcommand{\brakket}[3]{\left\langle{#1}\middle\vert{#2}\middle\vert{#3}\right\rangle}
@@ -126,7 +128,7 @@ $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjh(x)$
 $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)$
 
 $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]$
-\[a_{ij}({{}j})ij T{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj[f][j][y](\symsf {fijk})\]
+\[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj[f][j][y](\symsf {fijk})\]
 \[ \Latinalphabets \latinalphabets \]
 \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
 \[ \symbf{\Latinalphabets} \symbf{\latinalphabets}\]
@@ -326,6 +328,11 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]$
 
   \item Brackets
   \[f(x)+f(y)+z(f)+f[x]+f[y]+z[f]+f\{x\}+f\{y\}+z\{f\}+z(x)+z[x]+z\{x\}+s|g|\]
+  \[[g]\bigl[g\bigr]\big[g\big]\]
+  \[[g]\bigl[g\bigr]\Bigl[g\Bigr]\biggl[g\biggr]\Biggl[g\Biggr]
+  [a]\bigl[a\bigr]\Bigl[a\Bigr]\biggl[a\biggr]\Biggl[a\Biggr]
+  [j]\bigl[j\bigr]\Bigl[j\Bigr]\biggl[j\biggr]\Biggl[j\Biggr]
+  \]
   \[(x)[x]\{x\}(B)[B]\{B\}(jf)|jf\rangle(\lvert j\rangle)(\ket{k})\left((j)\right)\]
         \[
           \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
@@ -433,7 +440,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]$
         \]
         \begin{center}
           \GaramondMath
-          \CIRCLEDNUMA*   \par
+          plug into\CIRCLEDNUMA*   \par
           \CIRCLEDNUMB*   \par
           \CIRCLEDNUMC    \par
           \CIRCLEDLETTERA \par

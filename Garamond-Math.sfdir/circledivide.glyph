@@ -1,10 +1,10 @@
 StartChar: circledivide
 Encoding: 8856 8856 3702
 Width: 777
-TopAccentHorizontal: 388
 GlyphClass: 2
 Flags: W
 TeX: 568 68
+TopAccentHorizontal: 388
 HStem: -68 52<350.595 500.857> 516 52<295.143 445.405>
 VStem: 80 52<147.827 352.857> 664 52<147.143 352.173>
 LayerCount: 2

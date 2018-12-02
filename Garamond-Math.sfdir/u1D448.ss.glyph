@@ -1,11 +1,11 @@
 StartChar: u1D448.ss
 Encoding: 1115448 -1 2819
 Width: 755
-ItalicCorrection: 140
-TopAccentHorizontal: 523
 GlyphClass: 2
 Flags: HMW
 TeX: 706 290
+ItalicCorrection: 140
+TopAccentHorizontal: 523
 LayerCount: 2
 Fore
 SplineSet

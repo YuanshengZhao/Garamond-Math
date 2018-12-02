@@ -1,11 +1,11 @@
 StartChar: aleph
 Encoding: 8501 8501 3564
 Width: 663
-ItalicCorrection: 26
-TopAccentHorizontal: 350
 GlyphClass: 2
 Flags: MW
 TeX: 723 19
+ItalicCorrection: 26
+TopAccentHorizontal: 350
 LayerCount: 2
 Fore
 SplineSet

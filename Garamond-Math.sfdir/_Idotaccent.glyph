@@ -1,10 +1,10 @@
 StartChar: Idotaccent
 Encoding: 304 304 2321
 Width: 459
-TopAccentHorizontal: 229
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
+TopAccentHorizontal: 229
 LayerCount: 2
 Fore
 SplineSet

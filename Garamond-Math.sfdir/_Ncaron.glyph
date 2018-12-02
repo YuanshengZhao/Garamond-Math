@@ -1,11 +1,11 @@
 StartChar: Ncaron
 Encoding: 327 327 2343
 Width: 842
-ItalicCorrection: 79
-TopAccentHorizontal: 465
 GlyphClass: 2
 Flags: MW
 TeX: 823 17
+ItalicCorrection: 79
+TopAccentHorizontal: 465
 LayerCount: 2
 Fore
 SplineSet

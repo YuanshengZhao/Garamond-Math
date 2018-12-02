@@ -1,11 +1,11 @@
 StartChar: Phi
 Encoding: 934 934 2372
 Width: 807
-ItalicCorrection: 1
-TopAccentHorizontal: 414
 GlyphClass: 2
 Flags: MW
 TeX: 672 5
+ItalicCorrection: 1
+TopAccentHorizontal: 414
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: uni2140
 Encoding: 8512 8512 2220
 Width: 892
-TopAccentHorizontal: 466
 GlyphClass: 2
 Flags: MW
 TeX: 760 256
+TopAccentHorizontal: 466
 GlyphVariantsVertical: uni2140 uni2140.v1
 LayerCount: 2
 Fore

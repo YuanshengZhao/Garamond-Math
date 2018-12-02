@@ -1,11 +1,11 @@
 StartChar: uhorn
 Encoding: 432 432 2132
 Width: 606
-ItalicCorrection: 40
-TopAccentHorizontal: 352
 GlyphClass: 2
 Flags: MW
 TeX: 537 19
+ItalicCorrection: 40
+TopAccentHorizontal: 352
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: edieresis
 Encoding: 235 235 92
 Width: 489
-TopAccentHorizontal: 267
 GlyphClass: 2
 Flags: MW
 TeX: 608 15
+TopAccentHorizontal: 267
 LayerCount: 2
 Fore
 SplineSet

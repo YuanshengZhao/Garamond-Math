@@ -1,11 +1,11 @@
 StartChar: oslash
 Encoding: 248 248 105
 Width: 554
-ItalicCorrection: 3
-TopAccentHorizontal: 320
 GlyphClass: 2
 Flags: MW
 TeX: 415 15
+ItalicCorrection: 3
+TopAccentHorizontal: 320
 LayerCount: 2
 Fore
 SplineSet

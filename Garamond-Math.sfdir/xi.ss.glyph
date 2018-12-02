@@ -1,10 +1,10 @@
 StartChar: xi.ss
 Encoding: 1115230 -1 2601
 Width: 513
-TopAccentHorizontal: 255
 GlyphClass: 2
 Flags: HMW
 TeX: 414 14
+TopAccentHorizontal: 255
 LayerCount: 2
 Fore
 SplineSet

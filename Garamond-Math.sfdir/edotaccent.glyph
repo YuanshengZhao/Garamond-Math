@@ -1,10 +1,10 @@
 StartChar: edotaccent
 Encoding: 279 279 2105
 Width: 482
-TopAccentHorizontal: 267
 GlyphClass: 2
 Flags: MW
 TeX: 617 15
+TopAccentHorizontal: 267
 LayerCount: 2
 Fore
 SplineSet

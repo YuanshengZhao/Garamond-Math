@@ -1,10 +1,10 @@
 StartChar: umacron
 Encoding: 363 363 2139
 Width: 601
-TopAccentHorizontal: 285
 GlyphClass: 2
 Flags: MW
 TeX: 555 19
+TopAccentHorizontal: 285
 LayerCount: 2
 Fore
 SplineSet

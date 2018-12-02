@@ -1,10 +1,10 @@
 StartChar: eth
 Encoding: 240 240 4084
 Width: 600
-TopAccentHorizontal: 359
 GlyphClass: 2
 Flags: MW
 TeX: 705 14
+TopAccentHorizontal: 359
 LayerCount: 2
 Fore
 SplineSet

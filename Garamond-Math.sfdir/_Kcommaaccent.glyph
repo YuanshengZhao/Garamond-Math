@@ -1,10 +1,10 @@
 StartChar: Kcommaaccent
 Encoding: 310 310 2332
 Width: 836
-TopAccentHorizontal: 424
 GlyphClass: 2
 Flags: MW
 TeX: 655 275
+TopAccentHorizontal: 424
 LayerCount: 2
 Fore
 SplineSet

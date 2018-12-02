@@ -1,10 +1,10 @@
 StartChar: H22073
 Encoding: 9633 9633 477
 Width: 658
-TopAccentHorizontal: 329
 GlyphClass: 2
 Flags: W
 TeX: 500 0
+TopAccentHorizontal: 329
 HStem: 0 52<132 528> 448 52<132 528>
 VStem: 80 52<52 448> 528 52<52 448>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: ohorntilde
 Encoding: 7905 7905 2118
 Width: 557
-ItalicCorrection: 42
-TopAccentHorizontal: 275
 GlyphClass: 2
 Flags: MW
 TeX: 600 14
+ItalicCorrection: 42
+TopAccentHorizontal: 275
 LayerCount: 2
 Fore
 SplineSet

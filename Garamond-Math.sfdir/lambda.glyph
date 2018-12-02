@@ -1,10 +1,10 @@
 StartChar: lambda
 Encoding: 955 955 199
 Width: 601
-TopAccentHorizontal: 190
 GlyphClass: 2
 Flags: MW
 TeX: 699 18
+TopAccentHorizontal: 190
 LayerCount: 2
 Fore
 SplineSet

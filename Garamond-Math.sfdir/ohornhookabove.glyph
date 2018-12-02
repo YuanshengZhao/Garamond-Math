@@ -1,11 +1,11 @@
 StartChar: ohornhookabove
 Encoding: 7903 7903 2117
 Width: 564
-ItalicCorrection: 42
-TopAccentHorizontal: 273
 GlyphClass: 2
 Flags: MW
 TeX: 677 14
+ItalicCorrection: 42
+TopAccentHorizontal: 273
 LayerCount: 2
 Fore
 SplineSet

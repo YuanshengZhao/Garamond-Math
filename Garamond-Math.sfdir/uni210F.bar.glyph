@@ -1,9 +1,9 @@
 StartChar: uni210F.bar
 Encoding: 1116437 -1 4622
 Width: 567
+Flags: HMW
 ItalicCorrection: 1
 TopAccentHorizontal: 256
-Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore

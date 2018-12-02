@@ -1,10 +1,10 @@
 StartChar: omega.s
 Encoding: 1115251 -1 2622
 Width: 624
-TopAccentHorizontal: 319
 GlyphClass: 2
 Flags: HMW
 TeX: 414 15
+TopAccentHorizontal: 319
 LayerCount: 2
 Fore
 SplineSet

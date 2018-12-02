@@ -1,11 +1,11 @@
 StartChar: dcaron
 Encoding: 271 271 3739
 Width: 614
-ItalicCorrection: 36
-TopAccentHorizontal: 465
 GlyphClass: 2
 Flags: MW
 TeX: 705 19
+ItalicCorrection: 36
+TopAccentHorizontal: 465
 LayerCount: 2
 Fore
 SplineSet

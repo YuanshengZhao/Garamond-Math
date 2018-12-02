@@ -1,10 +1,10 @@
 StartChar: uni221F
 Encoding: 8735 8735 2231
 Width: 727
-TopAccentHorizontal: 183
 GlyphClass: 2
 Flags: W
 TeX: 531 0
+TopAccentHorizontal: 183
 HStem: 0 52<132.285 608.047>
 VStem: 80 52<52.2852 528.047>
 LayerCount: 2
