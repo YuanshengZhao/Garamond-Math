@@ -2,7 +2,7 @@ StartChar: uni2034.sts
 Encoding: 1115056 -1 2102
 Width: 792
 VWidth: 950
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

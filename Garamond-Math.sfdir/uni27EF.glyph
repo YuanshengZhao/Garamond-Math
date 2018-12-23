@@ -2,7 +2,7 @@ StartChar: uni27EF
 Encoding: 10223 10223 500
 Width: 305
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 709 300
 GlyphVariantsVertical: uni27EF uni27EF.v1 uni27EF.v2 uni27EF.v3 uni27EF.v4 uni27EF.v5 uni27EF.v6 uni27EF.v7 uni27EF.v8 uni27EF.v9 uni27EF.v10 uni27EF.v11 uni27EF.v12 uni27EF.v13 uni27EF.v14 uni27EF.v15 uni27EF.v16 uni27EF.v17 uni27EF.v18 uni27EF.v19 uni27EF.v20
 GlyphCompositionVertical: 3  uni27EF.bt%0,0,250,3194 uni27EF.ex%1,500,500,500 uni27EF.tp%0,250,0,2736

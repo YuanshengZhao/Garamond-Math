@@ -2,7 +2,7 @@ StartChar: uni32B9
 Encoding: 12985 12985 4703
 Width: 678
 VWidth: 923
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

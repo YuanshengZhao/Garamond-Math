@@ -2,7 +2,7 @@ StartChar: minute.sts
 Encoding: 1115052 -1 2098
 Width: 294
 VWidth: 950
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1543770092
+ModificationTime: 1545489725
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,6 +57,7 @@ OS2Vendor: 'PfEd'
 OS2CodePages: 60000193.0dd40000
 OS2UnicodeRanges: a10000ef.4201f9ee.02000000.00000000
 Lookup: 1 0 0 "'pnum' Proportional Numbers" { "'pnum' Proportional Numbers"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss09' Style Set 9 normal tilde" { "'ss09' Style Set 9"  } ['ss09' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Style Set GaramondScr" { "'ss08' Style Set 8"  } ['ss08' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss07' Style Set varInt" { "'ss07' Style Set 7"  } ['ss07' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss06' Style Set hbar" { "'ss06' Style Set 6"  } ['ss06' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
@@ -135,7 +136,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2379 61 21
+WinInfo: 1275 51 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

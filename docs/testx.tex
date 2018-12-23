@@ -1,4 +1,4 @@
-\documentclass[11pt]{article}
+\documentclass[11pt,fleqn]{article}
 \usepackage[a4paper, margin=.3in]{geometry}
 \usepackage{amsmath}
 % \usepackage[no-math]{fontspec}
@@ -18,7 +18,7 @@
 %\setsansfont{TeX Gyre Heros}
 %\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
-% \setmathfont{xits-math.otf}
+% \setmathfont{XITS Math}
 %\setmathfont{Libertinus Math}
 \setmathfont{Garamond-Math}[StylisticSet={1,7,8},Path=./]
 \newfontfamily\GaramondMath{Garamond-Math}[StylisticSet={1,7},Path=./]
@@ -63,7 +63,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{-}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{X}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -123,6 +123,10 @@
   3.141592653589793238462643383279502884197169399375105820974944592307816406286\\
   208998628034825342117067982148086513282306647093844609550582231725359408128481\\ 117450284102701938521105559644622948954930381964428810975665933446128475648233\\ 786783165271201909145648566923460348610454326648213393607260249141273724587006
 \end{split}\]
+\[ {a\over b} TT{}TLAPAVAMAWABA\rho_A\rho_{A{}}\rho_{AB}\rho_B\rho_x\rho_{T{}}\rho_0[x,y]\sin x[x,y]j[x,y]z[x,y]\sinh xH\upEta T_kT_{k_k}\]
+\[[]\sinh\]
+\[[]\mathrm s\]
+\[[]s\]
 $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjh(x)$
 
 $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)$
@@ -254,6 +258,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]$
 %\[{\Uhextensible width 1cm 0 "2192}{\Uhextensible width 1cm 0 "21DB}{\Uhextensible width 1cm 0 "21CE}\]
   \item Math accents
         \TOPACCENTMAP{\symnormal}{A}
+        \[\widetilde y \tilde y \tilde z \]
         \[\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
         % \begin{itemize}
         %   \item Latin capital letters:

@@ -2,7 +2,7 @@ StartChar: uni27EE.tp
 Encoding: 1114300 -1 1346
 Width: 460
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: -108 319
 IsExtendedShape: 1
 LayerCount: 2

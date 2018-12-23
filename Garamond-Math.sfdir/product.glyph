@@ -2,7 +2,7 @@ StartChar: product
 Encoding: 8719 8719 3841
 Width: 1048
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 730 232
 IsExtendedShape: 1
 GlyphVariantsVertical: product product.v1

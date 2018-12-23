@@ -2,7 +2,7 @@ StartChar: integral
 Encoding: 8747 8747 3836
 Width: 690
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1

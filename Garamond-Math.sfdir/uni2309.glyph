@@ -2,7 +2,7 @@ StartChar: uni2309
 Encoding: 8969 8969 434
 Width: 341
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 702 207
 GlyphVariantsVertical: uni2309 uni2309.v1 uni2309.v2 uni2309.v3 uni2309.v4 uni2309.v5 uni2309.v6 uni2309.v7 uni2309.v8 uni2309.v9 uni2309.v10 uni2309.v11 uni2309.v12 uni2309.v13 uni2309.v14 uni2309.v15 uni2309.v16 uni2309.v17 uni2309.v18 uni2309.v19 uni2309.v20
 GlyphCompositionVertical: 3  uni2309.bt%0,0,500,2357 uni23A5%1,1000,1000,1000 uni23A4%0,500,0,2359

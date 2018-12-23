@@ -2,7 +2,7 @@ StartChar: parenright.v10
 Encoding: 1114165 -1 1211
 Width: 475
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 712 -544
 IsExtendedShape: 1
 LayerCount: 2

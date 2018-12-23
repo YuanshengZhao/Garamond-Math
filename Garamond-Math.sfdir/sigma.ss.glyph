@@ -2,7 +2,7 @@ StartChar: sigma.ss
 Encoding: 1115240 -1 2611
 Width: 478
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 430 14
 ItalicCorrection: 100
 TopAccentHorizontal: 363

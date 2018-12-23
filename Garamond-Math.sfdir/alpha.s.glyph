@@ -2,7 +2,7 @@ StartChar: alpha.s
 Encoding: 1115203 -1 2574
 Width: 545
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 419 15
 TopAccentHorizontal: 286
 LayerCount: 2

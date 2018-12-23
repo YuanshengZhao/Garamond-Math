@@ -2,7 +2,7 @@ StartChar: u1D458.s
 Encoding: 1115477 -1 2848
 Width: 536
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 418 14
 ItalicCorrection: 19
 TopAccentHorizontal: 268
@@ -39,7 +39,7 @@ SplineSet
  443 116 447 109 447 104 c 0
  447 59 362 -20 327 -20 c 0
 223 204 m 0
- 304 204 405 295 405 339 c 0
+ 304 204 405 295 405 339 c 4
  405 359 393 370 370 370 c 0
  315 370 212 249 212 221 c 0
  212 213 215 204 223 204 c 0

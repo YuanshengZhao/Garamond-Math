@@ -1,7 +1,7 @@
 StartChar: union
 Encoding: 8746 8746 14
 Width: 620
-Flags: HMW
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

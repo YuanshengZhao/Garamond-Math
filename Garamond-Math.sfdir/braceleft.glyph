@@ -2,7 +2,7 @@ StartChar: braceleft
 Encoding: 123 123 3597
 Width: 416
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 683 300
 GlyphVariantsVertical: braceleft braceleft.v1 braceleft.v2 braceleft.v3 braceleft.v4 braceleft.v5 braceleft.v6 braceleft.v7 braceleft.v8 braceleft.v9 braceleft.v10 braceleft.v11 braceleft.v12 braceleft.v13 braceleft.v14 braceleft.v15 braceleft.v16 braceleft.v17 braceleft.v18 braceleft.v19 braceleft.v20
 GlyphCompositionVertical: 5  uni23A9%0,0,400,1734 braceleft.ex%1,800,800,800 uni23A8%0,400,400,3464 braceleft.ex%1,800,800,800 uni23A7%0,400,0,1737

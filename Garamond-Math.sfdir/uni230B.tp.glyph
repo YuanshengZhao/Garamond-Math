@@ -2,7 +2,7 @@ StartChar: uni230B.tp
 Encoding: 1114387 -1 1433
 Width: 441
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 1350 850
 IsExtendedShape: 1
 LayerCount: 2

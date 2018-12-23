@@ -2,7 +2,7 @@ StartChar: epsilon.s
 Encoding: 1115211 -1 2582
 Width: 404
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 412 14
 TopAccentHorizontal: 220
 LayerCount: 2

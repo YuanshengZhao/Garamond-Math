@@ -6,7 +6,7 @@ GlyphClass: 2
 Flags: MW
 TeX: 676 5
 ItalicCorrection: 36
-TopAccentHorizontal: 615
+TopAccentHorizontal: 651
 LayerCount: 2
 Fore
 SplineSet
@@ -47,6 +47,5 @@ SplineSet
  410 312 l 2
  400 299 392 290 428 290 c 2
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D434.s u1D434.ss
 EndChar

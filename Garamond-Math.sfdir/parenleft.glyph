@@ -1,7 +1,7 @@
 StartChar: parenleft
 Encoding: 40 40 4095
 Width: 375
-Flags: HMW
+Flags: MW
 TeX: 810 310
 GlyphVariantsVertical: parenleft parenleft.v1 parenleft.v2 parenleft.v3 parenleft.v4 parenleft.v5 parenleft.v6 parenleft.v7 parenleft.v8 parenleft.v9 parenleft.v10 parenleft.v11 parenleft.v12 parenleft.v13 parenleft.v14 parenleft.v15 parenleft.v16 parenleft.v17 parenleft.v18 parenleft.v19 parenleft.v20
 GlyphCompositionVertical: 3  uni239D%0,0,250,3194 uni239C%1,500,500,500 uni239B%0,250,0,2376

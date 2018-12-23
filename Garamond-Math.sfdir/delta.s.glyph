@@ -2,7 +2,7 @@ StartChar: delta.s
 Encoding: 1115209 -1 2580
 Width: 500
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 701 14
 ItalicCorrection: 26
 TopAccentHorizontal: 235

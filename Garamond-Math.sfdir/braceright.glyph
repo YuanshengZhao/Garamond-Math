@@ -2,7 +2,7 @@ StartChar: braceright
 Encoding: 125 125 66
 Width: 416
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 683 300
 GlyphVariantsVertical: braceright braceright.v1 braceright.v2 braceright.v3 braceright.v4 braceright.v5 braceright.v6 braceright.v7 braceright.v8 braceright.v9 braceright.v10 braceright.v11 braceright.v12 braceright.v13 braceright.v14 braceright.v15 braceright.v16 braceright.v17 braceright.v18 braceright.v19 braceright.v20
 GlyphCompositionVertical: 5  uni23AD%0,0,400,1734 braceright.ex%1,800,800,800 uni23AC%0,400,400,3464 braceright.ex%1,800,800,800 uni23AB%0,400,0,1737

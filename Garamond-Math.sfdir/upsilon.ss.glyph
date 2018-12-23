@@ -2,7 +2,7 @@ StartChar: upsilon.ss
 Encoding: 1115244 -1 2615
 Width: 513
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 469 285
 TopAccentHorizontal: 240
 LayerCount: 2

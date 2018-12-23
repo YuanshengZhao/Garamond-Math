@@ -2,7 +2,7 @@ StartChar: uni03D5.s
 Encoding: 1115255 -1 2626
 Width: 590
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 616 285
 TopAccentHorizontal: 299
 LayerCount: 2

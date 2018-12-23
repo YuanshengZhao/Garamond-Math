@@ -2,7 +2,7 @@ StartChar: uni2A00.v1
 Encoding: 1114632 -1 1678
 Width: 1310
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 IsExtendedShape: 1
 LayerCount: 2
 Fore

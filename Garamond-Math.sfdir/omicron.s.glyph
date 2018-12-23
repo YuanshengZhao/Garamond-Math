@@ -2,7 +2,7 @@ StartChar: omicron.s
 Encoding: 1115231 -1 2602
 Width: 456
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 414 14
 TopAccentHorizontal: 236
 LayerCount: 2

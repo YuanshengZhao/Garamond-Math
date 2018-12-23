@@ -2,7 +2,7 @@ StartChar: j.s
 Encoding: 1115149 -1 2520
 Width: 330
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 617 287
 ItalicCorrection: 7
 TopAccentHorizontal: 168

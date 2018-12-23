@@ -2,7 +2,7 @@ StartChar: uni2231.v1
 Encoding: 1114642 -1 1688
 Width: 1003
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 ItalicCorrection: 364
 IsExtendedShape: 1
 LayerCount: 2

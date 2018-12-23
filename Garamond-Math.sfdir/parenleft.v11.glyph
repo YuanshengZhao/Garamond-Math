@@ -2,7 +2,7 @@ StartChar: parenleft.v11
 Encoding: 1114146 -1 1192
 Width: 485
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: -103 225
 IsExtendedShape: 1
 LayerCount: 2

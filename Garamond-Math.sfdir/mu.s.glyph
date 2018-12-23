@@ -2,7 +2,7 @@ StartChar: mu.s
 Encoding: 1115225 -1 2596
 Width: 625
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 415 285
 TopAccentHorizontal: 292
 LayerCount: 2

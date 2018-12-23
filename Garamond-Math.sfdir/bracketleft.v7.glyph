@@ -2,7 +2,7 @@ StartChar: bracketleft.v7
 Encoding: 1114182 -1 1228
 Width: 376
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 94 -292
 IsExtendedShape: 1
 LayerCount: 2

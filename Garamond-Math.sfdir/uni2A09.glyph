@@ -2,7 +2,7 @@ StartChar: uni2A09
 Encoding: 10761 10761 514
 Width: 878
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 616 116
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2A09 uni2A09.v1

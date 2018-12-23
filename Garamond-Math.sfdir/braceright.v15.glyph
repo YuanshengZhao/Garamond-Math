@@ -2,7 +2,7 @@ StartChar: braceright.v15
 Encoding: 1114250 -1 1296
 Width: 566
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 1085 590
 IsExtendedShape: 1
 LayerCount: 2

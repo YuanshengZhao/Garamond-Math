@@ -1,9 +1,8 @@
 StartChar: Eta
 Encoding: 919 919 4386
-Width: 1000
-VWidth: 0
-Flags: MW
+Width: 865
+Flags: HMW
 LayerCount: 2
 Fore
-Validated: 1
+Refer: 2313 72 N 1 0 0 1 0 0 2
 EndChar

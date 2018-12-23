@@ -2,7 +2,7 @@ StartChar: iota.s
 Encoding: 1115219 -1 2590
 Width: 294
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 411 14
 TopAccentHorizontal: 138
 LayerCount: 2

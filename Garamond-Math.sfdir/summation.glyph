@@ -2,7 +2,7 @@ StartChar: summation
 Encoding: 8721 8721 319
 Width: 995
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 750 234
 IsExtendedShape: 1
 GlyphVariantsVertical: summation summation.v1

@@ -2,7 +2,7 @@ StartChar: uni2308.v8
 Encoding: 1114311 -1 1357
 Width: 381
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 2031 3
 IsExtendedShape: 1
 LayerCount: 2

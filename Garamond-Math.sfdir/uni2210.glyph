@@ -2,7 +2,7 @@ StartChar: uni2210
 Encoding: 8720 8720 2228
 Width: 1048
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 TeX: 730 232
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2210 uni2210.v1
