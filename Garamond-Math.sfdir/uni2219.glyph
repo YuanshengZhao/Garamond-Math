@@ -1,18 +1,18 @@
 StartChar: uni2219
 Encoding: 8729 8729 27
-Width: 286
+Width: 277
+TopAccentHorizontal: 138
 Flags: W
-TopAccentHorizontal: 143
 HStem: 151 198<39.1647 160.835>
 VStem: 1 198<189.165 310.835>
 LayerCount: 2
 Fore
 SplineSet
-143 151 m 4
- 89 151 44 196 44 250 c 4
- 44 304 89 349 143 349 c 4
- 197 349 242 304 242 250 c 4
- 242 196 197 151 143 151 c 4
+138 151 m 4
+ 84 151 39 196 39 250 c 4
+ 39 304 84 349 138 349 c 4
+ 192 349 237 304 237 250 c 4
+ 237 196 192 151 138 151 c 4
 EndSplineSet
 Validated: 1
 EndChar

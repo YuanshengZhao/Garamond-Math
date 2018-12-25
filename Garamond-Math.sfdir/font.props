@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1545489725
+ModificationTime: 1545643478
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -88,8 +88,8 @@ MATH:SuperscriptShiftUpCramped: 300
 MATH:SuperscriptBottomMin: 150 
 MATH:SuperscriptBaselineDropMax: 350 
 MATH:SubSuperscriptGapMin: 250 
-MATH:SuperscriptBottomMaxWithSubscript: 500 
-MATH:SpaceAfterScript: 25 
+MATH:SuperscriptBottomMaxWithSubscript: 350 
+MATH:SpaceAfterScript: 75 
 MATH:UpperLimitGapMin: 100 
 MATH:UpperLimitBaselineRiseMin: 100 
 MATH:LowerLimitGapMin: 100 
@@ -136,7 +136,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1275 51 15
+WinInfo: 357 51 15
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

@@ -1,23 +1,24 @@
 StartChar: u1D7CE
 Encoding: 120782 120782 1112
-Width: 520
+Width: 407
+ItalicCorrection: 73
+TopAccentHorizontal: 242
 GlyphClass: 2
 Flags: MW
 TeX: 631 14
-TopAccentHorizontal: 262
 LayerCount: 2
 Fore
 SplineSet
-255 -14 m 0
- 95 -14 20 154 20 302 c 0
- 20 455 92 631 266 631 c 0
- 425 631 501 462 501 317 c 0
- 501 166 429 -14 255 -14 c 0
-270 31 m 0
- 334 31 359 158 359 299 c 0
- 359 439 321 586 250 586 c 0
- 185 586 163 459 163 319 c 0
- 163 179 198 31 270 31 c 0
+235 -14 m 0
+ 75 -14 0 154 0 302 c 0
+ 0 455 72 631 246 631 c 0
+ 405 631 481 462 481 317 c 0
+ 481 166 409 -14 235 -14 c 0
+250 31 m 0
+ 314 31 339 158 339 299 c 0
+ 339 439 301 586 230 586 c 0
+ 165 586 143 459 143 319 c 0
+ 143 179 178 31 250 31 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "'pnum' Proportional Numbers" u1D7CE.prp
