@@ -1,11 +1,11 @@
 StartChar: emacron
-Encoding: 275 275 2106
+Encoding: 275 275 1809
 Width: 493
-ItalicCorrection: 7
-TopAccentHorizontal: 277
 GlyphClass: 2
 Flags: MW
 TeX: 555 15
+ItalicCorrection: 7
+TopAccentHorizontal: 277
 LayerCount: 2
 Fore
 SplineSet

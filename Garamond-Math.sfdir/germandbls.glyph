@@ -1,11 +1,11 @@
 StartChar: germandbls
-Encoding: 223 223 3994
+Encoding: 223 223 3668
 Width: 622
-ItalicCorrection: 25
-TopAccentHorizontal: 373
 GlyphClass: 2
 Flags: MW
 TeX: 706 15
+ItalicCorrection: 25
+TopAccentHorizontal: 373
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,10 @@
 StartChar: Hcircumflex
-Encoding: 292 292 2315
+Encoding: 292 292 4801
 Width: 935
-TopAccentHorizontal: 469
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
+TopAccentHorizontal: 469
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: otilde
 Encoding: 245 245 102
 Width: 555
-ItalicCorrection: 48
-TopAccentHorizontal: 301
 GlyphClass: 2
 Flags: MW
 TeX: 605 14
+ItalicCorrection: 48
+TopAccentHorizontal: 301
 LayerCount: 2
 Fore
 SplineSet

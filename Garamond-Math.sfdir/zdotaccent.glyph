@@ -1,11 +1,11 @@
 StartChar: zdotaccent
-Encoding: 380 380 2258
+Encoding: 380 380 1951
 Width: 502
-ItalicCorrection: 14
-TopAccentHorizontal: 260
 GlyphClass: 2
 Flags: MW
 TeX: 617 5
+ItalicCorrection: 14
+TopAccentHorizontal: 260
 LayerCount: 2
 Fore
 SplineSet

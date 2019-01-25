@@ -1,13 +1,11 @@
 StartChar: uni22A5
 Encoding: 8869 8869 367
 Width: 563
-TopAccentHorizontal: 280
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 655 0
+TopAccentHorizontal: 280
 GlyphVariantsVertical: uni22A5 uni27D8
-HStem: 0 52<77.9531 304 356 582.047>
-VStem: 304 52<52 652.047>
 LayerCount: 2
 Fore
 SplineSet

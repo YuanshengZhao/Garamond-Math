@@ -1,11 +1,11 @@
 StartChar: omicron.ss
-Encoding: 1115232 -1 2603
+Encoding: 1115232 -1 2280
 Width: 455
-ItalicCorrection: 42
-TopAccentHorizontal: 256
 GlyphClass: 2
 Flags: MW
 TeX: 430 17
+ItalicCorrection: 42
+TopAccentHorizontal: 256
 LayerCount: 2
 Fore
 SplineSet

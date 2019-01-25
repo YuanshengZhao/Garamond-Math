@@ -1,11 +1,11 @@
 StartChar: Ehookabove
-Encoding: 7866 7866 2300
+Encoding: 7866 7866 1992
 Width: 696
-ItalicCorrection: 5
-TopAccentHorizontal: 372
 GlyphClass: 2
 Flags: MW
 TeX: 849 5
+ItalicCorrection: 5
+TopAccentHorizontal: 372
 LayerCount: 2
 Fore
 SplineSet

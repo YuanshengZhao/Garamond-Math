@@ -1,11 +1,11 @@
 StartChar: Egrave
-Encoding: 200 200 2299
+Encoding: 200 200 4797
 Width: 687
-ItalicCorrection: 13
-TopAccentHorizontal: 330
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
+ItalicCorrection: 13
+TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet

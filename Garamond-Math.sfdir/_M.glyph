@@ -1,11 +1,11 @@
 StartChar: M
-Encoding: 77 77 2340
+Encoding: 77 77 2024
 AltUni2: 00039c.ffffffff.0
 Width: 1004
-TopAccentHorizontal: 503
 GlyphClass: 2
 Flags: MW
 TeX: 656 10
+TopAccentHorizontal: 503
 LayerCount: 2
 Fore
 SplineSet

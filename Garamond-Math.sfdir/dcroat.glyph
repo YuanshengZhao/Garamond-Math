@@ -1,11 +1,11 @@
 StartChar: dcroat
-Encoding: 273 273 2104
+Encoding: 273 273 1807
 Width: 653
-ItalicCorrection: 13
-TopAccentHorizontal: 432
 GlyphClass: 2
 Flags: MW
 TeX: 704 19
+ItalicCorrection: 13
+TopAccentHorizontal: 432
 LayerCount: 2
 Fore
 SplineSet

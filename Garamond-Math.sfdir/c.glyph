@@ -1,11 +1,11 @@
 StartChar: c
-Encoding: 99 99 3653
+Encoding: 99 99 3329
 Width: 454
-ItalicCorrection: 5
-TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
+ItalicCorrection: 5
+TopAccentHorizontal: 288
 LayerCount: 2
 Fore
 SplineSet

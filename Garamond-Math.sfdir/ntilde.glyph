@@ -1,10 +1,10 @@
 StartChar: ntilde
 Encoding: 241 241 98
 Width: 638
-TopAccentHorizontal: 318
 GlyphClass: 2
 Flags: MW
 TeX: 605 3
+TopAccentHorizontal: 318
 LayerCount: 2
 Fore
 SplineSet

@@ -1,12 +1,12 @@
 StartChar: P
-Encoding: 80 80 2371
+Encoding: 80 80 2054
 AltUni2: 0003a1.ffffffff.0
 Width: 497
-ItalicCorrection: 154
-TopAccentHorizontal: 305
 GlyphClass: 2
 Flags: MW
 TeX: 658 5
+ItalicCorrection: 154
+TopAccentHorizontal: 305
 LayerCount: 2
 Fore
 SplineSet

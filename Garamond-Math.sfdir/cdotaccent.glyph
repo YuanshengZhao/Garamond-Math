@@ -1,11 +1,11 @@
 StartChar: cdotaccent
 Encoding: 267 267 124
 Width: 494
-ItalicCorrection: 5
-TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: MW
 TeX: 617 15
+ItalicCorrection: 5
+TopAccentHorizontal: 288
 LayerCount: 2
 Fore
 SplineSet

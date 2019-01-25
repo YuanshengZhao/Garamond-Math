@@ -1,11 +1,11 @@
 StartChar: Edotaccent
-Encoding: 278 278 2297
+Encoding: 278 278 1990
 Width: 683
-ItalicCorrection: 13
-TopAccentHorizontal: 327
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
+ItalicCorrection: 13
+TopAccentHorizontal: 327
 LayerCount: 2
 Fore
 SplineSet

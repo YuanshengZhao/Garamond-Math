@@ -1,11 +1,11 @@
 StartChar: ecircumflexgrave
-Encoding: 7873 7873 3866
+Encoding: 7873 7873 3540
 Width: 526
-ItalicCorrection: 12
-TopAccentHorizontal: 242
 GlyphClass: 2
 Flags: MW
 TeX: 725 14
+ItalicCorrection: 12
+TopAccentHorizontal: 242
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Udieresis
-Encoding: 220 220 2396
+Encoding: 220 220 2079
 Width: 769
-ItalicCorrection: 130
-TopAccentHorizontal: 465
 GlyphClass: 2
 Flags: MW
 TeX: 795 14
+ItalicCorrection: 130
+TopAccentHorizontal: 465
 LayerCount: 2
 Fore
 SplineSet

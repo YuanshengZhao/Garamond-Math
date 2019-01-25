@@ -1,11 +1,11 @@
 StartChar: zacute
-Encoding: 378 378 2256
+Encoding: 378 378 1949
 Width: 510
-ItalicCorrection: 14
-TopAccentHorizontal: 332
 GlyphClass: 2
 Flags: MW
 TeX: 649 5
+ItalicCorrection: 14
+TopAccentHorizontal: 332
 LayerCount: 2
 Fore
 SplineSet

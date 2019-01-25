@@ -1,24 +1,24 @@
 StartChar: zero
-Encoding: 48 48 3469
-Width: 417
-ItalicCorrection: 63
-TopAccentHorizontal: 242
+Encoding: 48 48 3146
+Width: 426
 GlyphClass: 2
 Flags: MW
 TeX: 630 14
+ItalicCorrection: 63
+TopAccentHorizontal: 246
 LayerCount: 2
 Fore
 SplineSet
-236 -14 m 0
- 100 -14 36 154 36 302 c 0
- 36 454 98 630 246 630 c 0
- 382 630 446 461 446 316 c 0
- 446 166 384 -14 236 -14 c 0
-253 12 m 0
- 333 12 364 148 364 298 c 0
- 364 448 317 602 227 602 c 0
- 147 602 119 470 119 320 c 0
- 119 170 163 12 253 12 c 0
+240 -14 m 0
+ 104 -14 40 154 40 302 c 0
+ 40 454 102 630 250 630 c 0
+ 386 630 450 461 450 316 c 0
+ 450 166 388 -14 240 -14 c 0
+257 12 m 0
+ 337 12 368 148 368 298 c 0
+ 368 448 321 602 231 602 c 0
+ 151 602 123 470 123 320 c 0
+ 123 170 167 12 257 12 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "'pnum' Proportional Numbers" zero.prp

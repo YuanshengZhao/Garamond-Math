@@ -1,11 +1,11 @@
 StartChar: circledivide
-Encoding: 8856 8856 3702
+Encoding: 8856 8856 3377
 Width: 773
-ItalicCorrection: 56
-TopAccentHorizontal: 414
 GlyphClass: 2
 Flags: W
 TeX: 568 68
+ItalicCorrection: 56
+TopAccentHorizontal: 414
 HStem: -68 52<350.595 500.857> 516 52<295.143 445.405>
 VStem: 80 52<147.827 352.857> 664 52<147.143 352.173>
 LayerCount: 2

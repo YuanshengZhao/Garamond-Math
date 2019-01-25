@@ -1,10 +1,10 @@
 StartChar: eta.s
-Encoding: 1115215 -1 2586
+Encoding: 1115215 -1 2263
 Width: 545
-TopAccentHorizontal: 256
 GlyphClass: 2
 Flags: MW
 TeX: 414 285
+TopAccentHorizontal: 256
 LayerCount: 2
 Fore
 SplineSet

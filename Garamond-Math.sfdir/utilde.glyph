@@ -1,10 +1,10 @@
 StartChar: utilde
-Encoding: 361 361 2247
+Encoding: 361 361 1941
 Width: 656
-TopAccentHorizontal: 300
 GlyphClass: 2
 Flags: MW
 TeX: 605 19
+TopAccentHorizontal: 300
 LayerCount: 2
 Fore
 SplineSet

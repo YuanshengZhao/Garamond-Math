@@ -1,11 +1,11 @@
 StartChar: scaron
-Encoding: 353 353 3933
+Encoding: 353 353 3607
 Width: 443
-ItalicCorrection: 10
-TopAccentHorizontal: 241
 GlyphClass: 2
 Flags: MW
 TeX: 648 14
+ItalicCorrection: 10
+TopAccentHorizontal: 241
 LayerCount: 2
 Fore
 SplineSet

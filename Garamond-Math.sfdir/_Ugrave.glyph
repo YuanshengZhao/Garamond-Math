@@ -1,11 +1,11 @@
 StartChar: Ugrave
-Encoding: 217 217 2398
+Encoding: 217 217 2081
 Width: 774
-ItalicCorrection: 130
-TopAccentHorizontal: 454
 GlyphClass: 2
 Flags: MW
 TeX: 838 14
+ItalicCorrection: 130
+TopAccentHorizontal: 454
 LayerCount: 2
 Fore
 SplineSet

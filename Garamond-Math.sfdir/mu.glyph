@@ -1,11 +1,11 @@
 StartChar: mu
 Encoding: 956 956 200
 Width: 595
-ItalicCorrection: 5
-TopAccentHorizontal: 268
 GlyphClass: 2
 Flags: MW
 TeX: 415 285
+ItalicCorrection: 5
+TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet

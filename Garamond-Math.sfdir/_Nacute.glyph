@@ -1,11 +1,11 @@
 StartChar: Nacute
-Encoding: 323 323 2342
+Encoding: 323 323 2026
 Width: 889
-ItalicCorrection: 79
-TopAccentHorizontal: 482
 GlyphClass: 2
 Flags: MW
 TeX: 838 17
+ItalicCorrection: 79
+TopAccentHorizontal: 482
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: gdotaccent
-Encoding: 289 289 3977
+Encoding: 289 289 3651
 Width: 576
-ItalicCorrection: 22
-TopAccentHorizontal: 299
 GlyphClass: 2
 Flags: MW
 TeX: 617 290
+ItalicCorrection: 22
+TopAccentHorizontal: 299
 LayerCount: 2
 Fore
 SplineSet

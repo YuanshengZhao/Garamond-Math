@@ -1,11 +1,11 @@
 StartChar: itilde
-Encoding: 297 297 3704
+Encoding: 297 297 3379
 Width: 389
-ItalicCorrection: 49
-TopAccentHorizontal: 233
 GlyphClass: 2
 Flags: MW
 TeX: 605 3
+ItalicCorrection: 49
+TopAccentHorizontal: 233
 LayerCount: 2
 Fore
 SplineSet

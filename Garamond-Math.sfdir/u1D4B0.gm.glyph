@@ -1,10 +1,10 @@
 StartChar: u1D4B0.gm
-Encoding: 1116482 -1 4829
+Encoding: 1116482 -1 4503
 Width: 988
-ItalicCorrection: 40
-TopAccentHorizontal: 521
 VWidth: 950
 Flags: MW
+ItalicCorrection: 40
+TopAccentHorizontal: 521
 LayerCount: 2
 Fore
 SplineSet

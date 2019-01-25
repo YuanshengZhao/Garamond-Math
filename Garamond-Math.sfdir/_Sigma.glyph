@@ -1,11 +1,11 @@
 StartChar: Sigma
-Encoding: 931 931 2385
+Encoding: 931 931 2068
 Width: 677
-ItalicCorrection: 27
-TopAccentHorizontal: 320
 GlyphClass: 2
 Flags: MW
 TeX: 678 6
+ItalicCorrection: 27
+TopAccentHorizontal: 320
 LayerCount: 2
 Fore
 SplineSet

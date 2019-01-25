@@ -1,11 +1,11 @@
 StartChar: ibreve
-Encoding: 301 301 3729
+Encoding: 301 301 3404
 Width: 384
-ItalicCorrection: 3
-TopAccentHorizontal: 193
 GlyphClass: 2
 Flags: MW
 TeX: 608 3
+ItalicCorrection: 3
+TopAccentHorizontal: 193
 LayerCount: 2
 Fore
 SplineSet

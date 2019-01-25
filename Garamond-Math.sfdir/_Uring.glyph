@@ -1,11 +1,11 @@
 StartChar: Uring
-Encoding: 366 366 2410
+Encoding: 366 366 4808
 Width: 775
-ItalicCorrection: 130
-TopAccentHorizontal: 462
 GlyphClass: 2
 Flags: MW
 TeX: 844 14
+ItalicCorrection: 130
+TopAccentHorizontal: 462
 LayerCount: 2
 Fore
 SplineSet

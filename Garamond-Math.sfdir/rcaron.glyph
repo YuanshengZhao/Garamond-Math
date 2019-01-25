@@ -1,11 +1,11 @@
 StartChar: rcaron
-Encoding: 345 345 3788
+Encoding: 345 345 3462
 Width: 387
-ItalicCorrection: 78
-TopAccentHorizontal: 252
 GlyphClass: 2
 Flags: MW
 TeX: 648 3
+ItalicCorrection: 78
+TopAccentHorizontal: 252
 LayerCount: 2
 Fore
 SplineSet

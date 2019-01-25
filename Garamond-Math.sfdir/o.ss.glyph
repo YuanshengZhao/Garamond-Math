@@ -1,11 +1,11 @@
 StartChar: o.ss
-Encoding: 1115160 -1 2531
+Encoding: 1115160 -1 2208
 Width: 533
-ItalicCorrection: 50
-TopAccentHorizontal: 298
 GlyphClass: 2
 Flags: MW
 TeX: 426 285
+ItalicCorrection: 50
+TopAccentHorizontal: 298
 LayerCount: 2
 Fore
 SplineSet

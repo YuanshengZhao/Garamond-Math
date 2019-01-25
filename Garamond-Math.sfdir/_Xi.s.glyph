@@ -1,11 +1,11 @@
 StartChar: Xi.s
-Encoding: 1115189 -1 2560
+Encoding: 1115189 -1 2237
 Width: 739
-ItalicCorrection: 23
-TopAccentHorizontal: 395
 GlyphClass: 2
 Flags: MW
 TeX: 675 8
+ItalicCorrection: 23
+TopAccentHorizontal: 395
 LayerCount: 2
 Fore
 SplineSet

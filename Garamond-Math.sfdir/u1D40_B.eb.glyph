@@ -1,9 +1,9 @@
 StartChar: u1D40B.eb
-Encoding: 1116237 -1 4422
+Encoding: 1116237 -1 4096
 Width: 684
+Flags: MW
 ItalicCorrection: 26
 TopAccentHorizontal: 260
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

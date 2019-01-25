@@ -1,11 +1,11 @@
 StartChar: iota.ss
-Encoding: 1115220 -1 2591
+Encoding: 1115220 -1 2268
 Width: 313
-ItalicCorrection: 1
-TopAccentHorizontal: 139
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
+ItalicCorrection: 1
+TopAccentHorizontal: 139
 LayerCount: 2
 Fore
 SplineSet

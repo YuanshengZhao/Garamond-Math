@@ -1,11 +1,11 @@
 StartChar: edotbelow
-Encoding: 7865 7865 3991
+Encoding: 7865 7865 3665
 Width: 472
-ItalicCorrection: 12
-TopAccentHorizontal: 275
 GlyphClass: 2
 Flags: MW
 TeX: 414 192
+ItalicCorrection: 12
+TopAccentHorizontal: 275
 LayerCount: 2
 Fore
 SplineSet

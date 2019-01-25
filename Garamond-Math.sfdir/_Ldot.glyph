@@ -1,11 +1,11 @@
 StartChar: Ldot
-Encoding: 319 319 2338
+Encoding: 319 319 2022
 Width: 689
-ItalicCorrection: 19
-TopAccentHorizontal: 239
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
+ItalicCorrection: 19
+TopAccentHorizontal: 239
 LayerCount: 2
 Fore
 SplineSet

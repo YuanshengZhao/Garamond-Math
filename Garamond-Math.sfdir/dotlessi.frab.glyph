@@ -1,11 +1,11 @@
 StartChar: dotlessi.frab
-Encoding: 1114132 -1 1178
+Encoding: 1114132 -1 881
 Width: 355
-ItalicCorrection: 12
-TopAccentHorizontal: 178
 GlyphClass: 2
 Flags: MW
 TeX: 445 177
+ItalicCorrection: 12
+TopAccentHorizontal: 178
 LayerCount: 2
 Fore
 SplineSet

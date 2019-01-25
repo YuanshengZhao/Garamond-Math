@@ -1,11 +1,11 @@
 StartChar: Ograve
-Encoding: 210 210 2357
+Encoding: 210 210 4807
 Width: 787
-ItalicCorrection: 100
-TopAccentHorizontal: 445
 GlyphClass: 2
 Flags: MW
 TeX: 838 14
+ItalicCorrection: 100
+TopAccentHorizontal: 445
 LayerCount: 2
 Fore
 SplineSet

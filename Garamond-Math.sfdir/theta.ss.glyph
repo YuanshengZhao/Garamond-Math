@@ -1,11 +1,11 @@
 StartChar: theta.ss
-Encoding: 1115218 -1 2589
+Encoding: 1115218 -1 2266
 Width: 492
-ItalicCorrection: 67
-TopAccentHorizontal: 286
 GlyphClass: 2
 Flags: MW
 TeX: 411 14
+ItalicCorrection: 67
+TopAccentHorizontal: 286
 LayerCount: 2
 Fore
 SplineSet

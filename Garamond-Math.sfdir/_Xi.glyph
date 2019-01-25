@@ -1,11 +1,11 @@
 StartChar: Xi
-Encoding: 926 926 2416
+Encoding: 926 926 2097
 Width: 730
-ItalicCorrection: 23
-TopAccentHorizontal: 390
 GlyphClass: 2
 Flags: MW
 TeX: 675 8
+ItalicCorrection: 23
+TopAccentHorizontal: 390
 LayerCount: 2
 Fore
 SplineSet

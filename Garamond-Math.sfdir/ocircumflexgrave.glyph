@@ -1,11 +1,11 @@
 StartChar: ocircumflexgrave
-Encoding: 7891 7891 2111
+Encoding: 7891 7891 1814
 Width: 575
-ItalicCorrection: 48
-TopAccentHorizontal: 272
 GlyphClass: 2
 Flags: MW
 TeX: 725 14
+ItalicCorrection: 48
+TopAccentHorizontal: 272
 LayerCount: 2
 Fore
 SplineSet

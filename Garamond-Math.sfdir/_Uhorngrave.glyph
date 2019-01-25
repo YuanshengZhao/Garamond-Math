@@ -1,11 +1,11 @@
 StartChar: Uhorngrave
-Encoding: 7914 7914 2403
+Encoding: 7914 7914 2086
 Width: 788
-ItalicCorrection: 158
-TopAccentHorizontal: 647
 GlyphClass: 2
 Flags: MW
 TeX: 828 14
+ItalicCorrection: 158
+TopAccentHorizontal: 647
 LayerCount: 2
 Fore
 SplineSet

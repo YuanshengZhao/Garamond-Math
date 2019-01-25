@@ -1,9 +1,9 @@
 StartChar: u2110.gm
-Encoding: 1116470 -1 4817
+Encoding: 1116470 -1 4491
 Width: 601
+Flags: MW
 ItalicCorrection: 102
 TopAccentHorizontal: 439
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

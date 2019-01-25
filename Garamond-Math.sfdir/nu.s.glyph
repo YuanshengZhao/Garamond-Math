@@ -1,11 +1,11 @@
 StartChar: nu.s
-Encoding: 1115227 -1 2598
+Encoding: 1115227 -1 2275
 Width: 387
-ItalicCorrection: 102
-TopAccentHorizontal: 232
 GlyphClass: 2
 Flags: MW
 TeX: 418 14
+ItalicCorrection: 102
+TopAccentHorizontal: 232
 LayerCount: 2
 Fore
 SplineSet

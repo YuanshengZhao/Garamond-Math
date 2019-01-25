@@ -1,10 +1,10 @@
 StartChar: notsubset
 Encoding: 8836 8836 108
 Width: 612
-ItalicCorrection: 1
-TopAccentHorizontal: 386
 VWidth: 1019
 Flags: W
+ItalicCorrection: 1
+TopAccentHorizontal: 386
 HStem: 34 50<247 500.896> 418 50<196.777 336 410 500.896>
 VStem: 50 55<170.356 331.429>
 LayerCount: 2

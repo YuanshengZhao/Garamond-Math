@@ -1,11 +1,11 @@
 StartChar: obreve
-Encoding: 335 335 3575
+Encoding: 335 335 3251
 Width: 551
-ItalicCorrection: 48
-TopAccentHorizontal: 305
 GlyphClass: 2
 Flags: MW
 TeX: 608 14
+ItalicCorrection: 48
+TopAccentHorizontal: 305
 LayerCount: 2
 Fore
 SplineSet

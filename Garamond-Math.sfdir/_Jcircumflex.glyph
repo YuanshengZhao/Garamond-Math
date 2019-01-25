@@ -1,11 +1,11 @@
 StartChar: Jcircumflex
-Encoding: 308 308 2330
+Encoding: 308 308 2014
 Width: 480
-ItalicCorrection: 84
-TopAccentHorizontal: 313
 GlyphClass: 2
 Flags: MW
 TeX: 823 200
+ItalicCorrection: 84
+TopAccentHorizontal: 313
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Ocircumflexdotbelow
-Encoding: 7896 7896 2351
+Encoding: 7896 7896 2035
 Width: 792
-ItalicCorrection: 98
-TopAccentHorizontal: 447
 GlyphClass: 2
 Flags: MW
 TeX: 808 205
+ItalicCorrection: 98
+TopAccentHorizontal: 447
 LayerCount: 2
 Fore
 SplineSet

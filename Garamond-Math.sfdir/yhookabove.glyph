@@ -1,11 +1,11 @@
 StartChar: yhookabove
-Encoding: 7927 7927 2254
+Encoding: 7927 7927 1947
 Width: 470
-ItalicCorrection: 139
-TopAccentHorizontal: 308
 GlyphClass: 2
 Flags: MW
 TeX: 677 285
+ItalicCorrection: 139
+TopAccentHorizontal: 308
 LayerCount: 2
 Fore
 SplineSet

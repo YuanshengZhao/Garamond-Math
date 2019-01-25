@@ -1,11 +1,11 @@
 StartChar: rho.s
-Encoding: 1115235 -1 2606
+Encoding: 1115235 -1 2283
 Width: 468
-ItalicCorrection: 40
-TopAccentHorizontal: 262
 GlyphClass: 2
 Flags: MW
 TeX: 414 285
+ItalicCorrection: 40
+TopAccentHorizontal: 262
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Zcaron
-Encoding: 381 381 2427
+Encoding: 381 381 2105
 Width: 727
-ItalicCorrection: 21
-TopAccentHorizontal: 381
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
+ItalicCorrection: 21
+TopAccentHorizontal: 381
 LayerCount: 2
 Fore
 SplineSet

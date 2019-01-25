@@ -1,11 +1,11 @@
 StartChar: kappa.s
-Encoding: 1115221 -1 2592
+Encoding: 1115221 -1 2269
 Width: 556
-ItalicCorrection: 5
-TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
+ItalicCorrection: 5
+TopAccentHorizontal: 280
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,11 @@
 StartChar: Imacron
-Encoding: 298 298 2325
+Encoding: 298 298 4806
 Width: 492
-ItalicCorrection: 2
-TopAccentHorizontal: 249
 GlyphClass: 2
 Flags: MW
 TeX: 777 5
+ItalicCorrection: 2
+TopAccentHorizontal: 249
 LayerCount: 2
 Fore
 SplineSet

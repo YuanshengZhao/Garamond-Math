@@ -1,11 +1,11 @@
 StartChar: ocircumflexhookabove
-Encoding: 7893 7893 2112
+Encoding: 7893 7893 1815
 Width: 575
-ItalicCorrection: 48
-TopAccentHorizontal: 419
 GlyphClass: 2
 Flags: MW
 TeX: 711 14
+ItalicCorrection: 48
+TopAccentHorizontal: 419
 LayerCount: 2
 Fore
 SplineSet

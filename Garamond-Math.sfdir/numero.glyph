@@ -1,11 +1,11 @@
 StartChar: numero
 Encoding: 8470 8470 293
 Width: 796
-ItalicCorrection: 203
-TopAccentHorizontal: 412
 GlyphClass: 2
 Flags: MW
 TeX: 663 15
+ItalicCorrection: 203
+TopAccentHorizontal: 412
 LayerCount: 2
 Fore
 SplineSet

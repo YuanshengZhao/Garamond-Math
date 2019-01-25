@@ -1,11 +1,11 @@
 StartChar: Uogonek
-Encoding: 370 370 2408
+Encoding: 370 370 2091
 Width: 752
-ItalicCorrection: 129
-TopAccentHorizontal: 439
 GlyphClass: 2
 Flags: MW
 TeX: 653 287
+ItalicCorrection: 129
+TopAccentHorizontal: 439
 LayerCount: 2
 Fore
 SplineSet
