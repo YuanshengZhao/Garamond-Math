@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1548430522
+ModificationTime: 1548519154
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -133,10 +133,10 @@ Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1550 31 13
+WinInfo: 0 61 21
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

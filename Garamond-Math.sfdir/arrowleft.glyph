@@ -1,5 +1,5 @@
 StartChar: arrowleft
-Encoding: 8592 8592 3611
+Encoding: 8592 8592 673
 Width: 1000
 Flags: MW
 GlyphCompositionHorizontal: 3  arrowleft(←)%0,0,150,1000 arrowleft.ex%0,150,150,300 arrowleft.ed%1,150,0,360

@@ -1,10 +1,17 @@
 StartChar: uniFF0F
-Encoding: 65295 65295 3793
+Encoding: 65295 65295 1477
 Width: 466
-Flags: MW
+Flags: HMW
 GlyphVariantsVertical: slash slash.v1 slash.v2 slash.v3 slash.v4 slash.v5 slash.v6 slash.v7 slash.v8 slash.v9 slash.v10 slash.v11 slash.v12 slash.v13 slash.v14 slash.v15 slash.v16 slash.v17 slash.v18 slash.v19 slash.v20
 LayerCount: 2
 Fore
-Refer: 3749 47 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+398.514648438 709 m 2
+ 148.514648438 -194 l 2
+ 142.514648438 -214 119.514648438 -225 99.5146484375 -225 c 0
+ 92.5146484375 -225 88.5146484375 -217 90.5146484375 -209 c 0
+ 340.514648438 694 l 2
+ 346.514648438 714 369.514648438 725 389.514648438 725 c 0
+ 396.514648438 725 400.514648438 717 398.514648438 709 c 2
+EndSplineSet
 EndChar
