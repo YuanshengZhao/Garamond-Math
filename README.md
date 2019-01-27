@@ -1,11 +1,11 @@
-# Garamond-Math
+# Garamond-Math Ver. 0.3
 
 Garamond-Math is an open type math font matching the [EB Garamond (Octavio Pardo)](https://github.com/octaviopardo/EBGaramond12/) and [EB Garamond (Georg Mayr-Duffner)](https://github.com/georgd/EB-Garamond).
-Many mathematical symbols are derived from other fonts (see below), others are made from scratch.
+Many mathematical symbols are derived from other fonts (see below), others are made from scratch. The metric is generated with a python script.
 
 ## Notes
 
-- *Important* 
+- *Important notes for this version* 
     - Fraktur is (temporarily) not supported, Because (1) Originally they come from  [TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/) and GUST and OFL are not completely compatible; (2) The glyphs are not modified at all, so there is in principle no need to include it (one can use `range` option in `unicode-math`) 
     - Default `\mathbb` is swapped with original `StylisticSet=1`.
 
@@ -23,7 +23,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
 - Stylistic sets: (`StylisticSet={#1,#2,...}` in [`unicode-math`](https://ctan.org/pkg/unicode-math?lang=en) package)
 
     - `1` → XITS Blackboard `\mathbb`.
-    - `2` → Curved `\partial` (see the sample below), which is in style with almost all other fonts.
+    - `2` → Curved `\partial`, which is in style with almost all other fonts.
     - `3` → CM `\mathcal` (lowercase unavailble)
     - `4` → Use semi-bold for `\symbf`
     - `5` → Use extra-bold for `\symbf`
@@ -36,13 +36,13 @@ Many mathematical symbols are derived from other fonts (see below), others are m
 
 ## Known Issue
 - Currently only usable for `XeTeX` (with `unicode-math`). OTHER ENGINES (EX. `LuaTeX`, `MS Word`) WILL PRODUCE VERY BAD SPACINGS.
-- Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. `VA`); sometimes script also have same problem (Ex. `\partial_A`).
-- Fake optical size. EG Garamond does not contain a complete set of glyphs (normal + bold + optical size of both weights). The "optical size `ssty`" is made by interpolating different weights at the present (without this, the double script is too thin to be readable). 
+- Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. `VA`); sometimes sub/superscript may also have same problem.
+- Fake optical size. EB Garamond does not contain a complete set of glyphs (normal + bold + optical size of both weights). The "optical size `ssty`" is made by interpolating different weights at the present (without this, the double script is too thin to be readable). 
 
 ## Technical Staff
 - To build the font from source, please install [FontForge](https://github.com/fontforge/fontforge). Installation on Linux system is strongly recommended.
 
-- This font is still under development, any components might be updated at any time. Issues, bug reports, forks and other suggestions are welcome.
+- This font is still under development, any components might be updated at any time. Issues, bug reports, forks and other contributions are welcome.
 
 ## Sample
 
