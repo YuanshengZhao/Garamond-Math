@@ -1,7 +1,7 @@
 StartChar: perpendicular
 Encoding: 8869 8869 939
 Width: 634
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -20,5 +20,4 @@ SplineSet
  544 30 528 5 512 5 c 2
  104 5 l 2
 EndSplineSet
-Validated: 1
 EndChar
