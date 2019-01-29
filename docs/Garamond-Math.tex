@@ -4,16 +4,19 @@
 \usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
 \usepackage{metalogo}
 
-\setmathfont{Garamond-Math.otf}[Path=./ ,  Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIII ,StylisticSet={3},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIV  ,StylisticSet={4},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathV   ,StylisticSet={5},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVI  ,StylisticSet={6},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVII ,StylisticSet={7},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVIII,StylisticSet={8},Path=./ , Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9},Path=./ , Scale=MatchUppercase]
+% \setmainfont{EB Garamond}
+\setmainfont{Libertinus Sans}
+\setmonofont{Source Code Pro}[Scale=.86]
+\setmathfont{Garamond-Math.otf}[Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIII ,StylisticSet={3},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIV  ,StylisticSet={4},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathV   ,StylisticSet={5},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVI  ,StylisticSet={6},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVII ,StylisticSet={7},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVIII,StylisticSet={8},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9},Path=./ ]%, Scale=MatchUppercase]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -114,7 +117,7 @@ This font is still under development, do not expect the font to be free of bugs.
 
 The minimal example with \texttt{unicode-math} package is as following:
 \begin{verbatim}
-    %Compile with XeTeX
+    %Compile with `xelatex' command 
     \documentclass{article}
     \usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
     \setmainfont{EB Garamond}%You should have installed the font
@@ -125,9 +128,9 @@ The minimal example with \texttt{unicode-math} package is as following:
 \end{verbatim}
 
 \section{Alphabets \& StylisticSet}
-\emph{The text font in this document is set to Latin Modern Roman deliberately so that the difference between text and math can be easily seen.}
+\emph{The text font in this document is set to Libertinus Sans deliberately so that the difference between text and math can be easily seen.}
 \subsubsection*{Latin and Greek (StylisticSet 4/5 give semi/extra bold for \texttt{\backslash symbf})}
-Each letter is regarded as variable, so the spacing is larger than usual text. I recommend typing equations like this (pay attention to \texttt{\backslash sumup} $\ee$, $\ii$, and text $\cos$, $\dd$): $\ee^{\ii k z}=\cos k z-\ii\int_0^{kz}\cos \zeta\,\dd\zeta$.
+Each letter is regarded as variable, so the spacing is larger than usual text. I recommend typing equations like this (pay attention to \texttt{\backslash symup} $\ee$, $\ii$, and text $\cos$, $\dd$): $\ee^{\ii k z}=\cos k z-\ii\int_0^{kz}\cos \zeta\,\dd\zeta$.
 \[ \Latinalphabets\]
 \[ \latinalphabets \]
 \[ \symup{\Latinalphabets}\]
@@ -207,7 +210,7 @@ Each letter is regarded as variable, so the spacing is larger than usual text. I
 \[ 1 + 2 - 3 \times 4 \div 5 \pm 6 \mp 7 \dotplus 8 = -a \oplus b \otimes c -\{z\}\]
 \[\forall \epsilon, \exists \delta : x \in A \cup B \subset S \cap T \ntrianglerighteq U\] 
 \[R_{\nu\kappa\lambda}^\mu=\partial_\kappa\Gamma_{\lambda\nu}^\mu-\partial_\lambda\Gamma_{\kappa\nu}^\mu+\Gamma_{\kappa\sigma}^\mu\Gamma_\lambda\nu^\sigma-\Gamma_{\lambda\sigma}^\mu\Gamma_{\kappa\nu}^\sigma\]
-\[T_{\alpha_1,\cdots\alpha_k}'^{\beta_1\cdots\beta_l}=T_{i_1\cdots i_k}^{j_1\cdots j_l}
+\[T_{\alpha_1\cdots\alpha_k}'^{\beta_1\cdots\beta_l}=T_{i_1\cdots i_k}^{j_1\cdots j_l}
     \frac{\partial x^{i_1}}{\partial x'^{\alpha_1}}\cdots
     \frac{\partial x^{i_k}}{\partial x'^{\alpha_k}}
     \frac{\partial x'^{\beta_1}}{\partial x^{j_1}}\cdots
@@ -276,7 +279,7 @@ Each letter is regarded as variable, so the spacing is larger than usual text. I
 &{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\bigotimes_{l=1}^n\left[\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\kets{k_{n-l}}\right]\\
 &{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\sum_{k_{n-l}=0}^1\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\kets{k_{n-l}}\right]\\
 &{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\kets{0}_{n-l}+\ee^{-2\uppi \ii j /2^l}\kets{1}_{n-l}\right]\\
-&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\kets{0}_{n-l}+\ee^{-2\uppi \ii ({0.j_{l-1}\ldots j_0})}\kets{1}_{n-l}\right].
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\kets{0}_{n-l}+\ee^{-2\uppi \ii (\overline{0.j_{l-1}\ldots j_0})}\kets{1}_{n-l}\right].
 \end{split}
 \]
 
