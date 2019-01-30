@@ -1,12 +1,9 @@
 StartChar: because
-Encoding: 8757 8757 3731
+Encoding: 8757 8757 836
 Width: 524
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 415 -85
-HStem: 85 112<217.922 306.078> 303 112<91.9218 180.078 343.922 432.078>
-VStem: 80 112<314.922 403.078> 206 112<96.9218 185.078> 332 112<314.922 403.078>
-CounterMasks: 1 38
 LayerCount: 2
 Fore
 SplineSet

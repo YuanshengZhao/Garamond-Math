@@ -1,34 +1,33 @@
 StartChar: one
-Encoding: 49 49 16
-Width: 480
+Encoding: 49 49 18
+Width: 490
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 637 3
-TopAccentHorizontal: 256
-HStem: -3 25<92.0455 153.619 349.844 417.771> 539 35<107.038 201.055>
-VStem: 217 78<54.6556 526.073>
+TopAccentHorizontal: 192
 LayerCount: 2
 Fore
 SplineSet
-107 -3 m 0
- 97 -3 92 3 92 9 c 0
- 92 14 99 20 107 22 c 0
- 183 41 217 50 217 109 c 2
- 217 491 l 2
- 217 529 176 536 133 539 c 0
- 120 540 107 545 107 556 c 0
- 107 565 118 572 132 574 c 0
- 192 583 237 591 282 636 c 0
- 283 637 285 637 287 637 c 0
- 293 637 300 633 299 628 c 0
- 296 608 295 585 295 557 c 2
- 295 97 l 2
- 295 46 319 41 401 21 c 0
- 409 19 418 14 418 8 c 0
- 418 2 412 -3 404 -3 c 0
- 347 -3 310 2 257 2 c 0
- 203 2 161 -3 107 -3 c 0
+97 -3 m 0
+ 87 -3 82 3 82 9 c 0
+ 82 14 89 20 97 22 c 0
+ 173 41 207 50 207 109 c 2
+ 207 491 l 2
+ 207 529 166 536 123 539 c 0
+ 110 540 97 545 97 556 c 0
+ 97 565 108 572 122 574 c 0
+ 182 583 227 591 272 636 c 0
+ 273 637 275 637 277 637 c 0
+ 283 637 290 633 289 628 c 0
+ 286 608 285 585 285 557 c 2
+ 285 97 l 2
+ 285 46 309 41 391 21 c 0
+ 399 19 408 14 408 8 c 0
+ 408 2 402 -3 394 -3 c 0
+ 337 -3 300 2 247 2 c 0
+ 193 2 151 -3 97 -3 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" one.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" one.s one.ss
 EndChar

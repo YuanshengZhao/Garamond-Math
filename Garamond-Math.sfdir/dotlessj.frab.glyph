@@ -1,12 +1,10 @@
 StartChar: dotlessj.frab
-Encoding: 1114133 -1 1179
-Width: 360
+Encoding: 1114134 -1 2340
+Width: 369
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 455 23
-TopAccentHorizontal: 188
-HStem: 435 20G<177.739 204>
-VStem: 146 96<-10.4514 320.926>
+TopAccentHorizontal: 195
 LayerCount: 2
 Fore
 SplineSet

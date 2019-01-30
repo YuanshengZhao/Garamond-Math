@@ -1,12 +1,10 @@
 StartChar: breve
-Encoding: 728 728 3638
+Encoding: 728 728 332
 Width: 300
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 708 -578
 TopAccentHorizontal: 150
-HStem: 578 60<87.3999 212.6>
-VStem: 43 30<660.36 707.992> 227 30<660.36 707.992>
 LayerCount: 2
 Fore
 SplineSet

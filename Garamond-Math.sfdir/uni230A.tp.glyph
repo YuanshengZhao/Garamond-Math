@@ -1,21 +1,18 @@
 StartChar: uni230A.tp
-Encoding: 1114386 -1 1432
-Width: 521
+Encoding: 1114387 -1 2593
+Width: 441
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 1350 850
 IsExtendedShape: 1
-HStem: 0 21G<110 183>
-VStem: 110 73<0 2351.15>
 LayerCount: 2
 Fore
 SplineSet
-183 2337 m 2
- 183 0 l 1
- 110 0 l 1
- 110 2316 l 2
- 110 2344 138 2360 165 2360 c 0
- 174 2360 183 2348 183 2337 c 2
+193 2337 m 2
+ 193 0 l 1
+ 120 0 l 1
+ 120 2316 l 2
+ 120 2344 148 2360 175 2360 c 0
+ 184 2360 193 2348 193 2337 c 2
 EndSplineSet
-Validated: 1
 EndChar

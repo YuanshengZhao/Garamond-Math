@@ -1,9 +1,8 @@
 StartChar: arrowdblright
-Encoding: 8658 8658 3698
+Encoding: 8658 8658 739
 Width: 1000
-Flags: W
+Flags: MW
 GlyphCompositionHorizontal: 3  arrowdblleft.ed%0,0,150,360 arrowdblleft.ex%1,150,150,300 arrowdblright(⇒)%0,150,0,1000
-HStem: 157 46<54.2979 743> 297 46<54.2979 744>
 LayerCount: 2
 Fore
 SplineSet

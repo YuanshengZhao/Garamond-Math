@@ -1,21 +1,17 @@
 StartChar: uni27EF.ex
-Encoding: 1114302 -1 1348
-Width: 530
+Encoding: 1114303 -1 2509
+Width: 459
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -144 307
-ItalicCorrection: 28
 IsExtendedShape: 1
-HStem: 0 21G<337 420>
-VStem: 337 83<0 500>
 LayerCount: 2
 Fore
 SplineSet
-337 500 m 25
- 420 500 l 25
- 420 0 l 25
- 337 0 l 25
- 337 500 l 25
+276 500 m 25
+ 359 500 l 25
+ 359 0 l 25
+ 276 0 l 25
+ 276 500 l 25
 EndSplineSet
-Validated: 1
 EndChar

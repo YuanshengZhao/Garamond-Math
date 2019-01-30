@@ -1,12 +1,10 @@
 StartChar: ring
-Encoding: 730 730 3884
+Encoding: 730 730 334
 Width: 333
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 690 -491
 TopAccentHorizontal: 100
-HStem: 491 34<122.88 209.651> 656 34<123.088 209.213>
-VStem: 67 34<547.056 633.602> 232 34<547.18 633.132>
 LayerCount: 2
 Fore
 SplineSet

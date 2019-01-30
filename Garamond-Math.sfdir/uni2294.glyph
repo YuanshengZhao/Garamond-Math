@@ -1,9 +1,7 @@
 StartChar: uni2294
-Encoding: 8852 8852 3671
+Encoding: 8852 8852 922
 Width: 623
-Flags: W
-HStem: -1 51<145 477.123>
-VStem: 90 55<50 499.052> 479 54<52.3846 499.052>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

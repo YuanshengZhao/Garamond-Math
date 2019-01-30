@@ -1,12 +1,10 @@
 StartChar: dotaccent
-Encoding: 729 729 3752
+Encoding: 729 729 333
 Width: 200
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 717 -616
 TopAccentHorizontal: 100
-HStem: 616 101<59.1171 141.823>
-VStem: 50 101<625.117 707.823>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,10 @@
 StartChar: caroncmb.h15
-Encoding: 1114718 -1 1764
+Encoding: 1114719 -1 2925
 Width: 3204
 VWidth: 1110
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 774.25 23<1.14203 62.3801 3141.62 3202.86>
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +20,4 @@ SplineSet
  3201 797.25 3204 795.25 3204 792.25 c 0
  3204 784.25 3199 775.25 3191 774.25 c 2
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,14 +1,12 @@
 StartChar: contourintegral
-Encoding: 8750 8750 3853
-Width: 746
+Encoding: 8750 8750 829
+Width: 690
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
 GlyphVariantsVertical: contourintegral contourintegral.v1
-HStem: -296 40<154.363 229.231> 758 41<446.985 527.741>
-VStem: 134 40<169.838 331.253> 520 40<169.852 329.522>
 LayerCount: 2
 Fore
 SplineSet
@@ -50,6 +48,5 @@ SplineSet
  295 85 298 87 299 94 c 2
  330 412 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'ss07' Style Set 7" u222E.var
 EndChar

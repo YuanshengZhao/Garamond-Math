@@ -1,10 +1,9 @@
 StartChar: brevebelowcmb.h3
-Encoding: 1114663 -1 1709
+Encoding: 1114664 -1 2870
 Width: 877
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: -214 58<219.411 658.019>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,5 +17,4 @@ SplineSet
  823 -204 615 -214 439 -214 c 0
  262 -214 54 -204 1 -92 c 0
 EndSplineSet
-Validated: 1
 EndChar

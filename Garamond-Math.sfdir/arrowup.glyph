@@ -1,9 +1,8 @@
 StartChar: arrowup
-Encoding: 8593 8593 3921
+Encoding: 8593 8593 674
 Width: 440
-Flags: W
+Flags: MW
 GlyphCompositionVertical: 2  arrowup.ex%1,810,810,810 arrowup%0,281,0,842
-VStem: 197 46<-218.757 465>
 LayerCount: 2
 Fore
 SplineSet

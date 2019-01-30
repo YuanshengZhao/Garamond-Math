@@ -1,11 +1,9 @@
 StartChar: primereversed
-Encoding: 8245 8245 268
+Encoding: 8245 8245 539
 Width: 178
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 676 -444
-HStem: 444 232
-VStem: 30 69<576.018 668.2>
 LayerCount: 2
 Fore
 SplineSet

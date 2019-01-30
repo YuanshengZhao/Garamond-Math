@@ -1,10 +1,9 @@
 StartChar: greatermuch
-Encoding: 8811 8811 3639
+Encoding: 8811 8811 881
 Width: 931
 GlyphClass: 2
-Flags: W
+Flags: HMW
 TeX: 512 12
-HStem: -2 61<100.542 122 397.542 419>
 LayerCount: 2
 Fore
 SplineSet
@@ -35,5 +34,4 @@ SplineSet
  392 421 387 451 387 460 c 0
  387 473 400 472 407 469 c 2
 EndSplineSet
-Validated: 1
 EndChar

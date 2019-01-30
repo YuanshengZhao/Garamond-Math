@@ -1,0 +1,298 @@
+\documentclass[a4paper,fleqn]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
+\usepackage{metalogo}
+
+% \setmainfont{EB Garamond}
+\setmainfont{Libertinus Sans}
+\setmonofont{Source Code Pro}[Scale=.86]
+\setmathfont{Garamond-Math.otf}[Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIII ,StylisticSet={3},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIV  ,StylisticSet={4},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathV   ,StylisticSet={5},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVI  ,StylisticSet={6},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVII ,StylisticSet={7},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVIII,StylisticSet={8},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9},Path=./ ]%, Scale=MatchUppercase]
+
+\def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
+\def\Greekalphabets{%
+  \Alpha      \Beta       \Gamma      \Delta      \Epsilon
+  \Zeta       \Eta        \Theta      \varTheta   \Iota
+  \Kappa      \Lambda     \Mu         \Nu         \Xi
+  \Omicron    \Pi         \Rho        \Sigma      \Tau
+  \Upsilon    \Phi        \Chi        \Psi        \Omega
+}
+\def\greekalphabets{%
+  \alpha      \beta       \gamma      \delta      \epsilon
+   \zeta       \eta        \theta      \vartheta 
+  \iota       \kappa      \varkappa   \lambda     \mu
+  \nu         \xi         \omicron    \pi \varpi        \rho
+  \varrho     \sigma      \varsigma   \tau        \upsilon
+  \phi        \varphi     \chi        \psi        \omega
+}
+% ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+% αβγδεζηθικλμνξοπρστυφχψω
+\def\TOPACCENT#1{%
+  \acute{#1}    \, \bar{#1}   \, \breve{#1} \, \check{#1}   \, \ddddot{#1}    , \quad
+  \dddot{#1}    \, \ddot{#1}  \, \dot{#1}   \, \grave{#1}   \, \hat{#1}       , \quad
+  \mathring{#1} \, \tilde{#1} \, \vec{#1}   \, \widehat{#1} \, \widetilde{#1}
+}
+\ExplSyntaxOn
+\NewDocumentCommand \TOPACCENTMAP { m m }
+  { \fonttest_top_accent_map:Nx #1 {#2} }
+\cs_new:Npn \fonttest_top_accent_map:Nn #1#2
+  { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
+\cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
+\NewDocumentCommand \SUPSUBMAP { m m }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{\QED}} }} \] }
+\NewDocumentCommand \CIRCLEDNUMA { s }
+  {
+    % with *:    0-50
+    % without *: 0-10
+    \symbol {"24EA}
+    \fonttest_circled_aux:nn {"2460} {"2469}
+    \IfBooleanT {#1}
+      {
+        \fonttest_circled_aux:nn {"246A} {"2473}
+        \fonttest_circled_aux:nn {"3251} {"325F}
+        \fonttest_circled_aux:nn {"32B1} {"32BF}
+      }
+  }
+\NewDocumentCommand \CIRCLEDNUMB { s }
+  {
+    % with *:    0-20
+    % without *: 0-10
+    \symbol {"24FF}
+    \fonttest_circled_aux:nn {"2776} {"277F}
+    \IfBooleanT {#1}
+      { \fonttest_circled_aux:nn {"24EB} {"24F4} }
+  }
+\NewDocumentCommand \CIRCLEDNUMC { }
+  { \fonttest_circled_aux:nn {"24F5} {"24FE} }
+\NewDocumentCommand \CIRCLEDLETTERA { }
+  { \fonttest_circled_aux:nn {"24B6} {"24CF} }
+\NewDocumentCommand \CIRCLEDLETTERB { }
+  { \fonttest_circled_aux:nn {"1F150} {"1F169} }
+\NewDocumentCommand \CIRCLEDLETTERC { }
+  { \fonttest_circled_aux:nn {"24D0} {"24E9} }
+\cs_new:Npn \fonttest_circled_aux:nn #1#2
+  { \int_step_inline:nnn {#1} {#2} { \symbol {##1} } }
+\ExplSyntaxOff
+\def\OVERUNDERLINE#1{%
+  #1{} \quad #1{b} \quad #1{ab} \quad #1{abc} \quad #1{abcd} \quad #1{abcde} \quad #1{a+b+c}}
+\def\LISTTEXT{x_1, \, x_2, \, x_3,\ x_4\, \ \ldots, \, x_n}
+
+\DeclareRobustCommand{\GenericInfo}[2]{}
+
+\def\ee{\symrm{e}}
+\def\ii{\symrm{i}}
+\def\bm{\symbf}
+\newcommand{\innerprod}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
+\newcommand{\brakket}[3]{\left\langle{#1}\middle\vert{#2}\middle\vert{#3}\right\rangle}
+\newcommand{\ket}[1]{\left\lvert{#1}\right\rangle}
+\newcommand{\kets}[1]{\lvert{#1}\rangle}
+\newcommand{\bra}[1]{\left\langle{#1}\right\rvert}
+\newcommand{\ip}[2]{\left\langle{#1}\middle\vert{#2}\right\rangle}
+\newcommand{\op}[2]{\left\lvert{#1}\middle\rangle\middle\langle{#2}\right\rvert}
+\newcommand{\dd}{\text{d}}
+\newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
+
+\title{Garamond-Math, Ver. 0.3}
+\author{Yuansheng Zhao, Xiangdong Zeng}
+
+\begin{document}
+\maketitle
+\section{Introduction}
+Garamond-Math is an open type math font matching the \emph{EB Garamond (Octavio Pardo)}\footnote{https://ctan.org/pkg/ebgaramond/, and https://github.com/octaviopardo/EBGaramond12/} and \emph{EB Garamond (Georg Mayr-Duffner)}\footnote{https://github.com/georgd/EB-Garamond/}.
+Many mathematical symbols are derived from other fonts, others are made from scratch. The metric is generated with a python script.
+
+The font is best used with \XeTeX, with other engine, one might end up getting very bad spacing. 
+
+This font is still under development, do not expect the font to be free of bugs. We might update any components any at any time. Issues, bug reports, forks and other contributions are welcome. Please visit GitHub (https://github.com/YuanshengZhao/Garamond-Math/) for development details.
+
+The minimal example with \texttt{unicode-math} package is as following:
+\begin{verbatim}
+    %Compile with `xelatex' command 
+    \documentclass{article}
+    \usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
+    \setmainfont{EB Garamond}%You should have installed the font
+    \setmathfont{Garamond-Math.otf}[StylisticSet={7,9}]%Use StylisticSet that you like
+    \begin{document}
+        \[x^3+y^3=z^3\]
+    \end{document}
+\end{verbatim}
+
+\section{Alphabets \& StylisticSet}
+\emph{The text font in this document is set to Libertinus Sans deliberately so that the difference between text and math can be easily seen.}
+\subsubsection*{Latin and Greek (StylisticSet 4/5 give semi/extra bold for \texttt{\backslash symbf})}
+Each letter is regarded as variable, so the spacing is larger than usual text. I recommend typing equations like this (pay attention to \texttt{\backslash symup} $\ee$, $\ii$, and text $\cos$, $\dd$): $\ee^{\ii k z}=\cos k z-\ii\int_0^{kz}\cos \zeta\,\dd\zeta$.
+\[ \Latinalphabets\]
+\[ \latinalphabets \]
+\[ \symup{\Latinalphabets}\]
+\[ \symup{\latinalphabets} \]
+\[ \symbf{\Latinalphabets}\]
+\[ \symbf{\latinalphabets}\]
+\[ \symbfup{\Latinalphabets}\]
+\[  \symbfup{\latinalphabets} \]
+\[ \Greekalphabets \]
+\[\greekalphabets\]
+\[ \symup{\Greekalphabets} \]
+\[\symup{\greekalphabets} \]
+\[ \symbf{\Greekalphabets} \]
+\[\symbf{\greekalphabets} \]
+\[ \symbfup{\Greekalphabets}\]
+\[ \symbfup{\greekalphabets} \]
+\begingroup\mathversion{GaramondMathIV}\[\symbf{\Latinalphabets}\]
+\[\symbf{\latinalphabets}\]\endgroup
+\begingroup\mathversion{GaramondMathV}\[\symbf{\Latinalphabets}\]
+\[\symbf{\latinalphabets}\]\endgroup
+
+\subsubsection*{Sans and Typerwriter: From Libertinus Math\footnote{https://github.com/khaledhosny/libertinus/}}
+\[ \symsf{\Latinalphabets} \]
+\[\symsf{\latinalphabets} \]
+\[ \symsfup{\Latinalphabets} \]
+\[\symsfup{\latinalphabets} \]
+\[ \symbfsf{\Latinalphabets} \]
+\[\symbfsf{\latinalphabets} \]
+\[ \symbfsfup{\Latinalphabets} \]
+\[\symbfsfup{\latinalphabets} \]
+\[ \symtt{\Latinalphabets}\]
+\[\symtt{\latinalphabets} \]
+
+\subsubsection*{Blackboard (StylisticSet 1 gives rounded XITS Math\footnote{https://github.com/khaledhosny/xits/})}
+\[ \symbb{\Latinalphabets} \]
+\[\symbb{\latinalphabets} \]
+\begingroup\mathversion{GaramondMathI}\[\symbb{\Latinalphabets}\]
+\[\symbb{\latinalphabets}\]\endgroup
+
+\subsubsection*{Script: Rounded XITS Math [StylisticSet 3 gives scaled CM; 8 gives Garamond-compatible ones (experimental)]}
+\[ \symscr{\Latinalphabets} \]
+\[\symscr{\latinalphabets} \]
+\[ \symbfscr{\Latinalphabets} \]
+\[\symbfscr{\latinalphabets} \]
+\begingroup\mathversion{GaramondMathIII}\[\symscr{\Latinalphabets}\]
+\[\symbfscr{\Latinalphabets}\]\endgroup
+\begingroup\mathversion{GaramondMathVIII}\[\symscr{\Latinalphabets}\]
+\[\symscr{\latinalphabets}\]\endgroup
+
+\subsubsection*{Digits: Same width between weight and serif/sans}
+\[3.141592653589793238462643383279502884197169399375105820974944592307816406286\]
+\[\symsf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\]
+\[\symbf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\]
+
+\subsubsection*{\texttt{\backslash partial}: (StylisticSet 2 gives curved ones)}
+\[\partial_\mu(\symup\partial^\mu\phi)-\symbf{\epsilon^{\lambda\mu\nu}\partial_\mu(A_\lambda\symbfup\partial_\nu f)}\]
+\begingroup\mathversion{GaramondMathII}\[\partial_\mu(\symup\partial^\mu\phi)-\symbf{\epsilon^{\lambda\mu\nu}\partial_\mu(A_\lambda\symbfup\partial_\nu f)}\]\endgroup
+
+\subsubsection*{\texttt{\backslash hbar}: (StylisticSet 6 gives horizontal bars)}
+\[\text{$\hbar$\qquad \begingroup\mathversion{GaramondMathVI} $\hbar$\endgroup}\]
+
+\subsubsection*{\texttt{\backslash tilde}: (StylisticSet 9 gives ``normal'' ones)}
+\[\text{$\tilde F$\qquad \begingroup\mathversion{GaramondMathIX} $\tilde F$\endgroup}\]
+
+\subsubsection*{\texttt{\backslash int}: (StylisticSet 7 gives a variant with inversion symmetry)}
+\[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}}\]
+\begingroup\mathversion{GaramondMathVII}\[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}}\]\endgroup
+ 
+\section{Known Issue}
+\begin{itemize}
+    \item As mentioned before, the font should only be used with \XeTeX.
+    \item Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. $VA$); sometimes sub/superscript may also have same problem.
+    \item Fake optical size. EB Garamond does not contain a complete set of glyphs (normal + bold + optical size of both weights). The ``optical size \texttt{ssty}'' is made by interpolating different weights at the present (without this, the double script is too thin to be readable). 
+\end{itemize}
+
+\section{Equation Samples}
+\[ 1 + 2 - 3 \times 4 \div 5 \pm 6 \mp 7 \dotplus 8 = -a \oplus b \otimes c -\{z\}\]
+\[\forall \epsilon, \exists \delta : x \in A \cup B \subset S \cap T \ntrianglerighteq U\] 
+\[R_{\nu\kappa\lambda}^\mu=\partial_\kappa\Gamma_{\lambda\nu}^\mu-\partial_\lambda\Gamma_{\kappa\nu}^\mu+\Gamma_{\kappa\sigma}^\mu\Gamma_\lambda\nu^\sigma-\Gamma_{\lambda\sigma}^\mu\Gamma_{\kappa\nu}^\sigma\]
+\[T_{\alpha_1\cdots\alpha_k}'^{\beta_1\cdots\beta_l}=T_{i_1\cdots i_k}^{j_1\cdots j_l}
+    \frac{\partial x^{i_1}}{\partial x'^{\alpha_1}}\cdots
+    \frac{\partial x^{i_k}}{\partial x'^{\alpha_k}}
+    \frac{\partial x'^{\beta_1}}{\partial x^{j_1}}\cdots
+    \frac{\partial x'^{\beta_l}}{\partial x^{j_l}}
+\]
+\[\int_{\sqrt{\frac{1-m u+m\Delta/k^2}{2mu/k}}}^{X_p}\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
+\[ x \leftarrow y \leftrightarrow w \Rightarrow b \Leftrightarrow c
+    \uparrow   y  \updownarrow    w \Downarrow  b \Updownarrow    c
+    \Searrow p \Swarrow p
+    x \leftharpoonup    x \upharpoonleft  
+    X \mapsfrom Y \mapsto Z \mapsup 
+    f \rightleftarrows  f \updownarrows f 
+    h \rightthreearrows h \leftthreearrows
+    p
+\]
+\[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
+\[
+  \int\limits_0^\infty \int_0^\infty
+  \sum_{i=1}^\infty \prod_{j=i}^\infty \coprod_{k=i}^\infty
+  \oiiint \varointclockwise \ointctrclockwise \awint \intclockwise
+\]
+\[
+  \Biggl(  \biggl(  \Bigl(  \bigl(   (x)  \bigr)  \Bigr)  \biggr)  \Biggr)  \quad
+  \Biggl[  \biggl[  \Bigl[  \bigl[   [x]  \bigr]  \Bigr]  \biggr]  \Biggr]  \quad
+  \Biggl\{ \biggl\{ \Bigl\{ \bigl\{ \{x\} \bigr\} \Bigr\} \biggr\} \Biggr\}\quad
+   \Biggl\lvert \biggl\lvert \Bigl\lvert \bigl\lvert \lvert x\rvert \bigr\rvert \Bigr\rvert\biggr\rvert \Biggr\rvert\quad
+   \Biggl\lVert \biggl\lVert \Bigl\lVert \bigl\lVert \lVert x\rVert \bigr\rVert \Bigr\rVert\biggr\rVert \Biggr\rVert\quad
+    \Biggl\langle \biggl\langle \Bigl\langle \bigl\langle \langle x\rangle \bigr\rangle \Bigr\rangle\biggr\rangle \Biggr\rangle\quad
+\]
+\[       
+ \Biggl\lgroup \biggl\lgroup \Bigl\lgroup \bigl\lgroup \lgroup x\rgroup \bigr\rgroup \Bigr\rgroup\biggr\rgroup \Biggr\rgroup\quad
+\Biggl\lfloor \biggl\lfloor \Bigl\lfloor \bigl\lfloor \lfloor x\rfloor \bigr\rfloor \Bigr\rfloor\biggr\rfloor \Biggr\rfloor\quad
+\Biggl\lceil \biggl\lceil \Bigl\lceil \bigl\lceil \lceil x\rceil \bigr\rceil \Bigr\rceil\biggr\rceil \Biggr\rceil\quad\]
+\[
+    \bra{x} + \ket{x} + \ip{\alpha}{\beta} + \op{\alpha}{\beta}
+  + \bra{\frac{1}{2}} + \ket{\frac{1}{2}}
+  + \ip{\frac{1}{2}}{\frac{1}{2}} + \op{\frac{1}{2}}{\frac{1}{2}}
+  + \bra{\frac{a^2}{b^2}}
+  + \Biggl\vert \frac{\ee^{x^2}}{\ee^{y^2}} \Biggr\rangle
+\]
+\[
+  \CIRCLEDNUMB +
+  ABC^{\CIRCLEDNUMA}
+\]
+\[\left( \begin{matrix}
+{{u}_{0}}  \\
+{{u}_{1}}  \\
+\vdots   \\
+{{u}_{N-1}}  \\
+\end{matrix} \right)=\sum\limits_{k>0}{\left[ \left( \begin{matrix}
+    1  \\
+    \cos ka  \\
+    \vdots   \\
+    \cos k\left( N-1 \right)a  \\
+    \end{matrix} \right)\underbrace{{{C}_{k+}}\cos ( {{\omega }_{k}}t+{{\varphi }_{k+}} )}_{\frac{2}{\sqrt{N}}{{q}_{k+}}}+\left( \begin{matrix}
+    0  \\
+    \sin ka  \\
+    \vdots   \\
+    \sin k\left( N-1 \right)a  \\
+    \end{matrix} \right)\underbrace{{{C}_{k-}}\cos ( {{\omega }_{k}}t+{{\varphi }_{k-}} )}_{\frac{2}{\sqrt{N}}{{q}_{k-}}} \right]}\]
+\[
+\begin{split}   
+\mathcal{F}^{-1}(\kets{j})
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k=0}^{2^n-1}\exp\left(-2\uppi \ii \frac{jk}{2^n}\right)\kets{k}.\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\exp\left(-2\uppi \ii j\sum_{l=0}^{n-1}\frac{2^l k_l}{2^n}\right)\kets{k_{n-1}\cdots k_0}\\
+&{}=\frac{1}{\sqrt{2^n}}\sum_{k_{n-1}=0}^1\cdots\sum_{k_{0}=0}^1\bigotimes_{l=1}^n\left[\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\kets{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\sum_{k_{n-l}=0}^1\exp\left(-2\uppi \ii j\frac{k_{n-l}}{2^l}\right)\kets{k_{n-l}}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\kets{0}_{n-l}+\ee^{-2\uppi \ii j /2^l}\kets{1}_{n-l}\right]\\
+&{}=\frac{1}{\sqrt{2^n}}\bigotimes_{l=1}^n\left[\kets{0}_{n-l}+\ee^{-2\uppi \ii (\overline{0.j_{l-1}\ldots j_0})}\kets{1}_{n-l}\right].
+\end{split}
+\]
+
+\newcommand{\lb}{\left(}
+\newcommand{\rb}{\right)}
+\newcommand{\piup}{\uppi}
+\newcommand{\ndd}{\,\mathrm{d}}
+\[\begin{split}S&{}=\frac{m}{2}\int_0^{t_{\text f}}\left[\lb-\omega x_{\text i}\sin\omega t+\omega \frac{x_{\text f}-x_{\text i}\cos\omega t_{\text f}}{\sin\omega t_{\text f}}\cos\omega t\rb^2+\sum_{n=1}^\infty\lb\frac{a_n n \piup}{t_{\text f}}\rb^2\cos^2\frac{n \piup t}{t_{\text f}}\right]\ndd t\\%
+    &\quad{}-\frac{m\omega^2}{2}\int_0^{t_{\text f}}\left[\lb x_{\text i}\cos\omega t+ \frac{x_{\text f}-x_{\text i}\cos\omega t_{\text f}}{\sin\omega t_{\text f}}\sin\omega t\rb^2+\sum_{n=1}^\infty {a_n}^2\sin^2\frac{n \piup t}{t_{\text f}}\right]\ndd t\\%
+    &{}=\sum_{n=1}^\infty\int_0^{t_{\text f}}\left[\frac{m}{2}\lb\frac{a_n n \piup}{t_{\text f}}\rb^2\cos^2\frac{n \piup t}{t_{\text f}}-\frac{m\omega^2}{2}{a_n}^2\sin^2\frac{n \piup t}{t_{\text f}}\right]\ndd t\\%
+    &\quad{}+\frac{m\omega^2}{2}\int_0^{t_{\text f}}\left[ {x_{\text i}}^2-\lb\frac{x_{\text f}-x_{\text i}\cos\omega t_{\text f}}{\sin\omega t_{\text f}}\rb^2\right]\lb\sin^2\omega t-\cos^2\omega t\rb\ndd t\\%
+    &\quad{}-\frac{m\omega^2}{2}\int_0^{t_{\text f}}4 {x_{\text i}}\lb\frac{x_{\text f}-x_{\text i}\cos\omega t_{\text f}}{\sin\omega t_{\text f}}\rb\lb\sin\omega t\cos\omega t\rb\ndd t.\end{split}\]
+    \[\begin{split}U\lb x_{\text f},t_{\text f};x_{\text i},t_{\text i}\rb=&\sqrt{\frac{m\omega}{2\piup \ii \hbar\sin\left[\omega\lb t_{\text f}-t_{\text i}\rb\right]}}\\&{}\times\exp\left\{\frac{\ii m\omega}{2\hbar\sin\left[\omega \lb t_{\text f}-t_{\text i}\rb\right]}\left[\lb {x_{\text i}}^2+{x_{\text f}}^2\rb\cos\left[\omega\lb t_{\text f}-t_{\text i}\rb\right]-2 x_{\text i} x_{\text f}\right]\right\}.\end{split}\]
+\end{document}
+
+

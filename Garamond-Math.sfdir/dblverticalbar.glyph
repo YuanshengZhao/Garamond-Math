@@ -1,12 +1,11 @@
 StartChar: dblverticalbar
-Encoding: 8214 8214 250
+Encoding: 8214 8214 521
 Width: 416
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 725 300
 GlyphVariantsVertical: dblverticalbar parallel.v1 parallel.v2 parallel.v3 parallel.v4 parallel.v5 parallel.v6 parallel.v7 parallel.v8 parallel.v9 parallel.v10 parallel.v11 parallel.v12 parallel.v13 parallel.v14 parallel.v15 parallel.v16 parallel.v17 parallel.v18 parallel.v19 parallel.v20
 GlyphCompositionVertical: 3  parallel.bt%0,0,500,2375 parallel.ex%1,1000,1000,1000 parallel.tp%0,500,0,2375
-VStem: 110 52<-222.047 722.047> 254 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet

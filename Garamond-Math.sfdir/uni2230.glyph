@@ -1,14 +1,12 @@
 StartChar: uni2230
-Encoding: 8752 8752 2239
-Width: 1346
+Encoding: 8752 8752 831
+Width: 1290
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
 GlyphVariantsVertical: uni2230 uni2230.v1
-HStem: -296 40<154.363 229.231 454.363 529.231 754.363 829.231> 37 40<467.027 591.828 661.94 824.458> 423 40<466.977 629 699.252 824.481> 758 41<446.985 527.741 746.985 827.741 1046.98 1127.74>
-VStem: 189 51<197.08 302.813> 1053 51<196.807 303.86>
 LayerCount: 2
 Fore
 SplineSet
@@ -112,6 +110,5 @@ SplineSet
  1023 179 1053 213 1053 250 c 0
  1053 282 1031 311 994 337 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss07' Style Set 7" u2230.var
 EndChar

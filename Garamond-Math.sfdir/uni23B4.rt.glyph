@@ -1,10 +1,8 @@
 StartChar: uni23B4.rt
-Encoding: 1114975 -1 2021
+Encoding: 1114976 -1 3182
 Width: 2570
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 679 59<0 2530.94>
-VStem: 2540 30<546.007 641.556>
 LayerCount: 2
 Fore
 SplineSet
@@ -19,5 +17,4 @@ SplineSet
  2545 738 l 2
  2569 738 2570 733 2570 718 c 2
 EndSplineSet
-Validated: 1
 EndChar

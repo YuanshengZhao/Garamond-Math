@@ -1,9 +1,7 @@
 StartChar: hyphen
-Encoding: 45 45 2
+Encoding: 45 45 14
 Width: 274
-Flags: W
-HStem: 170 85
-VStem: 29 216<195.001 230.422>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

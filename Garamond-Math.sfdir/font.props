@@ -3,8 +3,8 @@ FontName: Garamond-Math
 FullName: Garamond-Math
 FamilyName: Garamond-Math
 Weight: Regular
-Copyright: Copyright (C) 2018, 2019 Yuansheng Zhao and Xiangdong Zeng
-Version: 0.2
+Copyright: Copyleft (C) 2018, 2019 Yuansheng Zhao and Xiangdong Zeng
+Version: 0.3
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 40
@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1541092505
+ModificationTime: 1548777060
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,6 +56,8 @@ OS2XHeight: 450
 OS2Vendor: 'PfEd'
 OS2CodePages: 60000193.0dd40000
 OS2UnicodeRanges: a10000ef.4201f9ee.02000000.00000000
+Lookup: 1 0 0 "'pnum' Proportional Numbers" { "'pnum' Proportional Numbers"  } ['pnum' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
+Lookup: 1 0 0 "'ss09' Style Set 9 normal tilde" { "'ss09' Style Set 9"  } ['ss09' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss08' Style Set GaramondScr" { "'ss08' Style Set 8"  } ['ss08' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss07' Style Set varInt" { "'ss07' Style Set 7"  } ['ss07' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss06' Style Set hbar" { "'ss06' Style Set 6"  } ['ss06' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
@@ -70,23 +72,23 @@ Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
-MATH:ScriptPercentScaleDown: 80
-MATH:ScriptScriptPercentScaleDown: 60
+MATH:ScriptPercentScaleDown: 70
+MATH:ScriptScriptPercentScaleDown: 50
 MATH:DelimitedSubFormulaMinHeight: 1300
 MATH:DisplayOperatorMinHeight: 1300
 MATH:MathLeading: 140 
 MATH:AxisHeight: 250 
 MATH:AccentBaseHeight: 450 
 MATH:FlattenedAccentBaseHeight: 420 
-MATH:SubscriptShiftDown: 200 
+MATH:SubscriptShiftDown: 250 
 MATH:SubscriptTopMax: 320 
-MATH:SubscriptBaselineDropMin: 250 
-MATH:SuperscriptShiftUp: 405 
+MATH:SubscriptBaselineDropMin: 150 
+MATH:SuperscriptShiftUp: 430 
 MATH:SuperscriptShiftUpCramped: 300 
 MATH:SuperscriptBottomMin: 150 
-MATH:SuperscriptBaselineDropMax: 250 
-MATH:SubSuperscriptGapMin: 200 
-MATH:SuperscriptBottomMaxWithSubscript: 320 
+MATH:SuperscriptBaselineDropMax: 350 
+MATH:SubSuperscriptGapMin: 250 
+MATH:SuperscriptBottomMaxWithSubscript: 350 
 MATH:SpaceAfterScript: 25 
 MATH:UpperLimitGapMin: 100 
 MATH:UpperLimitBaselineRiseMin: 100 
@@ -131,10 +133,10 @@ Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -48
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 574 14 11
+WinInfo: 3599 61 21
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

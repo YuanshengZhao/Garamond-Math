@@ -1,8 +1,7 @@
 StartChar: notequal
-Encoding: 8800 8800 50
+Encoding: 8800 8800 870
 Width: 646
-Flags: W
-HStem: 143 50<93.1042 241 337 551.757> 314 50<93.1042 337 433 550.543>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

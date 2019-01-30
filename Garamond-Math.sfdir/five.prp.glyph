@@ -1,0 +1,31 @@
+StartChar: five.prp
+Encoding: 1116520 -1 4726
+Width: 370
+Flags: MW
+ItalicCorrection: 51
+TopAccentHorizontal: 212
+LayerCount: 2
+Fore
+SplineSet
+68 -38 m 0
+ 53 -38 31 -35 31 -26 c 0
+ 31 -16 55 -7 67 -7 c 0
+ 225 -7 300 93 300 179 c 0
+ 300 256 237 305 60 351 c 1
+ 42 366 36 379 36 397 c 0
+ 36 433 70 512 84 556 c 0
+ 91 576 104 587 125 592 c 0
+ 186 608 254 620 332 627 c 0
+ 342 628 348 619 343 610 c 2
+ 326 577 l 2
+ 317 557 306 547 289 545 c 0
+ 237 539 147 532 117 527 c 0
+ 103 525 74 464 73 448 c 0
+ 72 439 74 432 86 429 c 0
+ 161 407 222 386 268 362 c 0
+ 342 323 379 274 379 193 c 0
+ 379 120 331 53 257 10 c 0
+ 204 -20 139 -38 68 -38 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" five.prp.s five.prp.ss
+EndChar

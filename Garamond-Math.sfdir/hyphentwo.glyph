@@ -1,11 +1,9 @@
 StartChar: hyphentwo
-Encoding: 8208 8208 3908
+Encoding: 8208 8208 516
 Width: 274
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 255 -170
-HStem: 170 85
-VStem: 29 216<195.001 230.422>
 LayerCount: 2
 Fore
 SplineSet

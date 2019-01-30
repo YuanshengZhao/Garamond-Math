@@ -1,11 +1,9 @@
 StartChar: H18551
-Encoding: 9643 9643 479
+Encoding: 9643 9643 1227
 Width: 460
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 400 -100
-HStem: 100 50<130 330> 350 50<130 330>
-VStem: 80 50<150 350> 330 50<150 350>
 LayerCount: 2
 Fore
 SplineSet

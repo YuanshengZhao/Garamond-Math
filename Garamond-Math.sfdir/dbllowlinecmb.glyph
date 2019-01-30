@@ -1,11 +1,10 @@
 StartChar: dbllowlinecmb
-Encoding: 819 819 3786
+Encoding: 819 819 362
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -92 248
 TopAccentHorizontal: 0
-HStem: -248 50<-196.896 197.469> -142 50<-196.896 197.469>
 LayerCount: 2
 Fore
 SplineSet

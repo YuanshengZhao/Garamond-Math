@@ -1,12 +1,11 @@
 StartChar: circumflexcmb
-Encoding: 770 770 176
+Encoding: 770 770 340
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 748 -547
 TopAccentHorizontal: 0
 GlyphVariantsHorizontal: circumflexcmb circumflexcmb.h1 circumflexcmb.h2 circumflexcmb.h3 circumflexcmb.h4 circumflexcmb.h5 circumflexcmb.h6 circumflexcmb.h7 circumflexcmb.h8 circumflexcmb.h9 circumflexcmb.h10 circumflexcmb.h11 circumflexcmb.h12 circumflexcmb.h13 circumflexcmb.h14 circumflexcmb.h15 circumflexcmb.h16 circumflexcmb.h17 circumflexcmb.h18 circumflexcmb.h19 circumflexcmb.h20 circumflexcmb.h21 circumflexcmb.h22 circumflexcmb.h23 circumflexcmb.h24 circumflexcmb.h25 circumflexcmb.h26 circumflexcmb.h27 circumflexcmb.h28 circumflexcmb.h29 circumflexcmb.h30 circumflexcmb.h31
-HStem: 547 201
 LayerCount: 2
 Fore
 SplineSet

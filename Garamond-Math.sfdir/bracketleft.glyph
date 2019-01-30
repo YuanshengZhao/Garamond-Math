@@ -1,31 +1,28 @@
 StartChar: bracketleft
-Encoding: 91 91 32
-Width: 421
+Encoding: 91 91 60
+Width: 341
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 702 300
 GlyphVariantsVertical: bracketleft bracketleft.v1 bracketleft.v2 bracketleft.v3 bracketleft.v4 bracketleft.v5 bracketleft.v6 bracketleft.v7 bracketleft.v8 bracketleft.v9 bracketleft.v10 bracketleft.v11 bracketleft.v12 bracketleft.v13 bracketleft.v14 bracketleft.v15 bracketleft.v16 bracketleft.v17 bracketleft.v18 bracketleft.v19 bracketleft.v20
 GlyphCompositionVertical: 3  uni23A3%0,0,500,2359 uni23A2%1,1000,1000,1000 uni23A1%0,500,0,2357
-HStem: -200 33<242.462 310.909> 673 28<206 310.916>
-VStem: 110 73<-153.78 666.782>
 LayerCount: 2
 Fore
 SplineSet
-141 -200 m 2
- 118 -200 110 -199 110 -175 c 2
- 110 668 l 2
- 110 702 116 702 148 702 c 2
- 293 701 l 2
- 302 701 311 698 311 688 c 0
- 311 678 298 674 285 673 c 2
- 206 667 l 2
- 197 666 183 653 183 642 c 2
- 183 -121 l 2
- 183 -139 194 -152 206 -154 c 2
- 285 -167 l 2
- 298 -169 311 -173 311 -185 c 0
- 311 -197 297 -200 285 -200 c 2
- 141 -200 l 2
+151 -200 m 2
+ 128 -200 120 -199 120 -175 c 2
+ 120 668 l 2
+ 120 702 126 702 158 702 c 2
+ 303 701 l 2
+ 312 701 321 698 321 688 c 0
+ 321 678 308 674 295 673 c 2
+ 216 667 l 2
+ 207 666 193 653 193 642 c 2
+ 193 -121 l 2
+ 193 -139 204 -152 216 -154 c 2
+ 295 -167 l 2
+ 308 -169 321 -173 321 -185 c 0
+ 321 -197 307 -200 295 -200 c 2
+ 151 -200 l 2
 EndSplineSet
-Validated: 1
 EndChar

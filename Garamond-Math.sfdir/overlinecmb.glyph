@@ -1,11 +1,10 @@
 StartChar: overlinecmb
-Encoding: 773 773 3933
+Encoding: 773 773 343
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 673 -623
 TopAccentHorizontal: 0
-HStem: 623 50<-196.896 197.469>
 LayerCount: 2
 Fore
 SplineSet

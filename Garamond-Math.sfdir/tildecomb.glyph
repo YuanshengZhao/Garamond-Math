@@ -1,19 +1,17 @@
 StartChar: tildecomb
-Encoding: 771 771 3660
+Encoding: 771 771 341
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 705 -558
 TopAccentHorizontal: 4
 GlyphVariantsHorizontal: tildecomb tildecomb.h1 tildecomb.h2 tildecomb.h3 tildecomb.h4 tildecomb.h5 tildecomb.h6 tildecomb.h7 tildecomb.h8 tildecomb.h9 tildecomb.h10 tildecomb.h11 tildecomb.h12 tildecomb.h13 tildecomb.h14 tildecomb.h15 tildecomb.h16 tildecomb.h17 tildecomb.h18 tildecomb.h19 tildecomb.h20 tildecomb.h21 tildecomb.h22 tildecomb.h23 tildecomb.h24 tildecomb.h25 tildecomb.h26 tildecomb.h27 tildecomb.h28 tildecomb.h29 tildecomb.h30 tildecomb.h31
-HStem: 592 66<-52.6367 83.9915> 600 67<-80.7907 54.1882>
-VStem: -140 287
 LayerCount: 2
 Fore
 SplineSet
--124 558 m 0x60
+-124 558 m 0
  -134 558 -140 563 -140 573 c 0
- -140 583 -71 667 -46 667 c 0x60
+ -140 583 -71 667 -46 667 c 0
  -24 667 -14 664 5 662 c 0
  27 660 43 658 61 658 c 0
  76 658 90 667 100 677 c 0
@@ -21,10 +19,11 @@ SplineSet
  138 705 147 698 147 688 c 0
  147 684 139 676 125 662 c 0
  109 647 91 622 78 606 c 0
- 70 596 53 592 49 592 c 0xa0
+ 70 596 53 592 49 592 c 0
  33 592 -26 600 -62 600 c 0
  -76 600 -90 588 -101 578 c 0
- -110 570 -120 558 -124 558 c 0x60
+ -110 570 -120 558 -124 558 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'ss09' Style Set 9" tildecomb.norm
 EndChar

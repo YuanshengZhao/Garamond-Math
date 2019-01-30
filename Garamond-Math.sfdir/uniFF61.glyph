@@ -1,11 +1,14 @@
 StartChar: uniFF61
-Encoding: 65377 65377 4107
+Encoding: 65377 65377 1486
 Width: 230
-Flags: W
-HStem: -14 110<81.8467 168.153>
-VStem: 70 110<-2.15331 84.1533>
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 4108 65294 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+197 -14 m 0
+ 167 -14 142 11 142 41 c 0
+ 142 71 167 96 197 96 c 0
+ 227 96 252 71 252 41 c 0
+ 252 11 227 -14 197 -14 c 0
+EndSplineSet
 EndChar

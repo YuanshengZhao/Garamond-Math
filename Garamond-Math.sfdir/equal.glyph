@@ -1,9 +1,8 @@
 StartChar: equal
-Encoding: 61 61 3759
+Encoding: 61 61 30
 Width: 646
-Flags: W
+Flags: MW
 GlyphCompositionHorizontal: 3  equal(=)%0,0,173,510 equal.ex%1,173,173,346 equal(=)%0,173,0,510
-HStem: 143 50<93.1042 551.757> 314 50<93.1042 550.543>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,9 @@
 StartChar: openbullet
-Encoding: 9702 9702 482
+Encoding: 9702 9702 1254
 Width: 460
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 400 -100
-HStem: 100 44<167.292 292.708> 356 44<167.292 292.708>
-VStem: 80 44<187.292 312.708> 336 44<187.292 312.708>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,8 +1,8 @@
 StartChar: arrowdblup.ex
-Encoding: 1116416 -1 4601
+Encoding: 1116437 -1 4643
 Width: 460
-Flags: W
-VStem: 137 46<-218.757 614.757> 277 46<-218.757 614.757>
+Flags: MW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +21,4 @@ SplineSet
  282 -223 277 -215 277 -209 c 0
  277 587 l 0
 EndSplineSet
-Validated: 1
 EndChar

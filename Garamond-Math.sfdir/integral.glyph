@@ -1,13 +1,12 @@
 StartChar: integral
-Encoding: 8747 8747 3837
+Encoding: 8747 8747 826
 Width: 690
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
 GlyphVariantsVertical: integral integral.v1
-HStem: -296 40<154.363 229.231> 758 41<446.985 527.741>
 LayerCount: 2
 Fore
 SplineSet
@@ -27,6 +26,5 @@ SplineSet
  411 608 356 40 341 -116 c 0
  331 -223 225 -296 169 -296 c 0
 EndSplineSet
-Validated: 513
 Substitution2: "'ss07' Style Set 7" u222B.var
 EndChar

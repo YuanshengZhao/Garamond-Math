@@ -1,13 +1,11 @@
 StartChar: brevebelowcmb
-Encoding: 814 814 3734
+Encoding: 814 814 357
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -85 215
 TopAccentHorizontal: 0
 GlyphVariantsHorizontal: brevebelowcmb brevebelowcmb.h1 brevebelowcmb.h2 brevebelowcmb.h3 brevebelowcmb.h4 brevebelowcmb.h5 brevebelowcmb.h6
-HStem: -215 60<-62.6001 62.6001>
-VStem: -107 30<-132.64 -85.008> 77 30<-132.64 -85.008>
 LayerCount: 2
 Fore
 SplineSet

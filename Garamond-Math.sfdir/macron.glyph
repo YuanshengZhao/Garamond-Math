@@ -1,9 +1,7 @@
 StartChar: macron
-Encoding: 175 175 399
+Encoding: 175 175 111
 Width: 300
-Flags: W
-HStem: 500 55<33.6605 266.414>
-VStem: 30 240<501.575 554.782>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

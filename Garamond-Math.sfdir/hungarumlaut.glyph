@@ -1,13 +1,10 @@
 StartChar: hungarumlaut
-Encoding: 733 733 3693
+Encoding: 733 733 337
 Width: 300
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 749 -556
-ItalicCorrection: 122
 TopAccentHorizontal: 150
-HStem: 556 193<134 143>
-VStem: 10 281
 LayerCount: 2
 Fore
 SplineSet

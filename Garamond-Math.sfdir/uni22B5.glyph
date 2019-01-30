@@ -1,9 +1,7 @@
 StartChar: uni22B5
-Encoding: 8885 8885 3665
+Encoding: 8885 8885 955
 Width: 645
-Flags: W
-HStem: 0 50<92.9294 546.733>
-VStem: 104 53<172 433.813> 473 82.9346<291.334 319.528>
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -34,5 +32,4 @@ SplineSet
  111.38671875 95.0771484375 106 105.510742188 106 137 c 0
  106 176 104 433 104 457 c 0
 EndSplineSet
-Validated: 33
 EndChar

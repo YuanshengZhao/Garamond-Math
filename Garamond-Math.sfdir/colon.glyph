@@ -1,9 +1,7 @@
 StartChar: colon
-Encoding: 58 58 282
-Width: 250
-Flags: W
-HStem: -14 110<81.8467 168.153> 262 110<81.8467 168.153>
-VStem: 70 110<-2.15331 84.1533 273.847 360.153>
+Encoding: 58 58 27
+Width: 248
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -18,5 +16,4 @@ SplineSet
  155 96 180 71 180 41 c 0
  180 11 155 -14 125 -14 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,7 @@
 StartChar: uni21DE
-Encoding: 8670 8670 315
+Encoding: 8670 8670 751
 Width: 460
-Flags: W
-HStem: 65 45<51.9409 207 253 406.559> 205 45<51.9409 207 253 406.559>
-VStem: 207 46<-218.757 65 110 205 250 465>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

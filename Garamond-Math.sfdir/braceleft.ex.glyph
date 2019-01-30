@@ -1,21 +1,17 @@
 StartChar: braceleft.ex
-Encoding: 1114256 -1 1302
-Width: 726
+Encoding: 1114257 -1 2463
+Width: 616
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -108 308
-ItalicCorrection: 28
 IsExtendedShape: 1
-HStem: 0 21G<310 395>
-VStem: 310 85<0 800>
 LayerCount: 2
 Fore
 SplineSet
-310 0 m 17
- 310 562 310 230 310 800 c 9
- 395 800 l 17
- 395 232 395 558 395 0 c 9
- 310 0 l 17
+280 0 m 17
+ 280 562 280 230 280 800 c 9
+ 365 800 l 17
+ 365 232 365 558 365 0 c 9
+ 280 0 l 17
 EndSplineSet
-Validated: 1
 EndChar

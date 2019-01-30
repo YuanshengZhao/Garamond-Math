@@ -1,37 +1,35 @@
 StartChar: uni23DF
-Encoding: 9183 9183 473
+Encoding: 9183 9183 1059
 Width: 520
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -108 291
 ItalicCorrection: 28
 GlyphVariantsHorizontal: uni23DF uni23DF.h1 uni23DF.h2 uni23DF.h3 uni23DF.h4 uni23DF.h5 uni23DF.h6 uni23DF.h7 uni23DF.h8 uni23DF.h9 uni23DF.h10 uni23DF.h11 uni23DF.h12 uni23DF.h13 uni23DF.h14 uni23DF.h15 uni23DF.h16 uni23DF.h17 uni23DF.h18 uni23DF.h19 uni23DF.h20
 GlyphCompositionHorizontal: 5  uni23DF.lft%0,0,500,1486 uni23DF.ex%1,1000,1000,1000 uni23DF.md%0,500,500,2967 uni23DF.ex%1,1000,1000,1000 uni23DF.rt%0,500,0,1485
-HStem: -236 51<31.8528 182.318 339.682 490.27> -228 51<80.4355 226.398 295.077 441.564>
-VStem: 0 17<-155.777 -108.039>
 LayerCount: 2
 Fore
 SplineSet
-520 -121 m 0xa0
- 516 -177 498 -236 442 -236 c 0xa0
+520 -121 m 0
+ 516 -177 498 -236 442 -236 c 0
  400 -236 372 -228 335 -228 c 0
  300 -228 276 -254 270 -280 c 0
  269 -285 265 -292 260 -292 c 0
  256 -292 250 -288 248 -279 c 0
- 240 -247 222 -228 187 -228 c 0x60
+ 240 -247 222 -228 187 -228 c 0
  150 -228 122 -236 80 -236 c 0
  24 -236 2 -175 0 -119 c 0
  0 -114 4 -108 9 -108 c 0
  16 -108 16 -117 17 -124 c 0
- 22 -162 33 -185 77 -185 c 0xa0
+ 22 -162 33 -185 77 -185 c 0
  118 -185 146 -177 181 -177 c 0
  221 -177 249 -223 259 -248 c 0
  260 -250 261 -249 262 -247 c 0
- 267 -227 301 -177 341 -177 c 0x60
+ 267 -227 301 -177 341 -177 c 0
  376 -177 404 -185 445 -185 c 0
  489 -185 500 -163 504 -125 c 0
  505 -118 504 -110 511 -110 c 0
- 516 -110 521 -116 520 -121 c 0xa0
+ 516 -110 521 -116 520 -121 c 0
 EndSplineSet
 Validated: 1
 EndChar

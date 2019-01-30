@@ -1,9 +1,7 @@
 StartChar: grave
-Encoding: 96 96 398
+Encoding: 96 96 65
 Width: 200
-Flags: W
-HStem: 457 192
-VStem: 22 157
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

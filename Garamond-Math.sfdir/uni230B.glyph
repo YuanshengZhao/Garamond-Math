@@ -1,13 +1,11 @@
 StartChar: uni230B
-Encoding: 8971 8971 436
-Width: 331
+Encoding: 8971 8971 1022
+Width: 341
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 708 200
 GlyphVariantsVertical: uni230B uni230B.v1 uni230B.v2 uni230B.v3 uni230B.v4 uni230B.v5 uni230B.v6 uni230B.v7 uni230B.v8 uni230B.v9 uni230B.v10 uni230B.v11 uni230B.v12 uni230B.v13 uni230B.v14 uni230B.v15 uni230B.v16 uni230B.v17 uni230B.v18 uni230B.v19 uni230B.v20
 GlyphCompositionVertical: 3  uni23A6%0,0,500,2357 uni23A5%1,1000,1000,1000 uni230B.tp%0,500,0,2359
-HStem: -200 33<20.0906 88.5385>
-VStem: 148 73<-153.78 699.147>
 LayerCount: 2
 Fore
 SplineSet
@@ -23,5 +21,4 @@ SplineSet
  137 -152 148 -139 148 -121 c 2
  148 664 l 2
 EndSplineSet
-Validated: 1
 EndChar

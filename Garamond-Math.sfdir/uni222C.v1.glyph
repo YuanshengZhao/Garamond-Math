@@ -1,11 +1,10 @@
 StartChar: uni222C.v1
-Encoding: 1114636 -1 1682
+Encoding: 1114637 -1 2843
 Width: 1382
 GlyphClass: 2
-Flags: W
+Flags: MW
 ItalicCorrection: 364
 IsExtendedShape: 1
-HStem: -717 54<186.198 280.356 586.198 680.356> 1166 55<686.581 783.078 1086.58 1183.08>
 LayerCount: 2
 Fore
 SplineSet
@@ -40,5 +39,5 @@ SplineSet
  600 933 485 -233 465 -444 c 0
  451 -588 306 -717 200 -717 c 0
 EndSplineSet
-Substitution2: "'ss07' Style Set 7" u222B.vv1
+Substitution2: "'ss07' Style Set 7" u222C.vv1
 EndChar

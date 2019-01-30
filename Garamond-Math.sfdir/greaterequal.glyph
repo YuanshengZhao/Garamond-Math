@@ -1,8 +1,7 @@
 StartChar: greaterequal
-Encoding: 8805 8805 55
+Encoding: 8805 8805 875
 Width: 639
-Flags: W
-HStem: -6 50<92.9294 546.733> 450 61<100.583 119>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

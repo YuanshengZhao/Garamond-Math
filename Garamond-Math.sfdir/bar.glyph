@@ -1,12 +1,11 @@
 StartChar: bar
-Encoding: 124 124 3582
+Encoding: 124 124 93
 Width: 352
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 725 300
 GlyphVariantsVertical: bar divides.v1 divides.v2 divides.v3 divides.v4 divides.v5 divides.v6 divides.v7 divides.v8 divides.v9 divides.v10 divides.v11 divides.v12 divides.v13 divides.v14 divides.v15 divides.v16 divides.v17 divides.v18 divides.v19 divides.v20
 GlyphCompositionVertical: 3  divides.bt%0,0,1000,2375 divides.ex%1,500,500,500 divides.tp%0,1000,0,2375
-VStem: 150 52<-222.047 722.047>
 LayerCount: 2
 Fore
 SplineSet

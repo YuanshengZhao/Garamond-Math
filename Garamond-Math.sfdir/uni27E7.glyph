@@ -1,13 +1,11 @@
 StartChar: uni27E7
-Encoding: 10215 10215 494
+Encoding: 10215 10215 1297
 Width: 571
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 728 300
 GlyphVariantsVertical: uni27E7 uni27E7.v1 uni27E7.v2 uni27E7.v3 uni27E7.v4 uni27E7.v5 uni27E7.v6 uni27E7.v7 uni27E7.v8 uni27E7.v9 uni27E7.v10 uni27E7.v11 uni27E7.v12 uni27E7.v13 uni27E7.v14 uni27E7.v15 uni27E7.v16 uni27E7.v17 uni27E7.v18 uni27E7.v19 uni27E7.v20
 GlyphCompositionVertical: 3  uni27E7.bt%0,0,500,2357 uni27E7.ex%1,1000,1000,1000 uni27E7.tp%0,500,0,2359
-HStem: -200 33<110.091 178.538> 673 29<110.038 215>
-VStem: 238 73<-153.642 666.782> 388 73<-153.78 666.782>
 LayerCount: 2
 Fore
 SplineSet

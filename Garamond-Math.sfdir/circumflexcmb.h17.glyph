@@ -1,11 +1,10 @@
 StartChar: circumflexcmb.h17
-Encoding: 1114689 -1 1735
+Encoding: 1114690 -1 2896
 Width: 3604
 VWidth: 1110
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 551 23<0.971466 66.7686 3537.23 3603.03>
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +20,4 @@ SplineSet
  1792 806 1812 806 1832 803 c 0
  3591 574 l 2
 EndSplineSet
-Validated: 33
 EndChar

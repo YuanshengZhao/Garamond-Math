@@ -1,12 +1,10 @@
 StartChar: uni27EE.bt
-Encoding: 1114298 -1 1344
-Width: 530
+Encoding: 1114299 -1 2505
+Width: 459
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 1807 1307
 IsExtendedShape: 1
-HStem: 0 21G<389 398.5>
-VStem: 110 83<2265.88 3194>
 LayerCount: 2
 Fore
 SplineSet
@@ -20,5 +18,4 @@ SplineSet
  110 3194 l 0
  193 3194 l 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,9 +1,7 @@
 StartChar: equivalence
-Encoding: 8801 8801 3841
+Encoding: 8801 8801 871
 Width: 646
-Flags: W
-HStem: 97 50<93.1042 550.543> 225 50<93.1042 550.543> 353 50<93.1042 550.543>
-CounterMasks: 1 e0
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

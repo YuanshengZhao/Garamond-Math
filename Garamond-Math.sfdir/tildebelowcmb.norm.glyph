@@ -1,0 +1,20 @@
+StartChar: tildebelowcmb.norm
+Encoding: 1116576 -1 4782
+Width: 300
+VWidth: 1464
+Flags: MW
+GlyphVariantsHorizontal: tildebelowcmb tildebelowcmb.h1 tildebelowcmb.h2 tildebelowcmb.h3 tildebelowcmb.h4 tildebelowcmb.h5 tildebelowcmb.h6 tildebelowcmb.h7 tildebelowcmb.h8 tildebelowcmb.h9 tildebelowcmb.h10 tildebelowcmb.h11 tildebelowcmb.h12 tildebelowcmb.h13 tildebelowcmb.h14 tildebelowcmb.h15 tildebelowcmb.h16 tildebelowcmb.h17 tildebelowcmb.h18 tildebelowcmb.h19 tildebelowcmb.h20 tildebelowcmb.h21 tildebelowcmb.h22 tildebelowcmb.h23 tildebelowcmb.h24 tildebelowcmb.h25 tildebelowcmb.h26 tildebelowcmb.h27 tildebelowcmb.h28 tildebelowcmb.h29 tildebelowcmb.h30 tildebelowcmb.h31
+LayerCount: 2
+Fore
+SplineSet
+212 -223.916503906 m 0
+ 162.676269531 -223.916503906 130.990234374 -166.416503906 85 -166.416503906 c 0
+ 51.6665039062 -166.416503906 24 -219.333007812 19 -219.333007812 c 0
+ 11 -219.333007812 0 -212.333007812 0 -205.333007812 c 0
+ 0 -178.333007812 42.6665039062 -105.416503906 96 -105.416503906 c 0
+ 143.633300782 -105.416503906 170.481933594 -164.916503906 212 -164.916503906 c 0
+ 240.333496094 -164.916503906 275 -104 280 -104 c 0
+ 285 -104 300 -111 300 -124 c 0
+ 300 -165 244.333496094 -223.916503906 212 -223.916503906 c 0
+EndSplineSet
+EndChar

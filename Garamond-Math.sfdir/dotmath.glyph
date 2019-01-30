@@ -1,9 +1,7 @@
 StartChar: dotmath
-Encoding: 8901 8901 3945
+Encoding: 8901 8901 971
 Width: 290
-Flags: W
-HStem: 195 110<101.847 188.153>
-VStem: 90 110<206.847 293.153>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,10 +1,9 @@
 StartChar: similar_equal
-Encoding: 8771 8771 3790
+Encoding: 8771 8771 850
 Width: 690
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 411 -128
-HStem: 128 52<92.9531 597.047> 284 51<380.303 515.547> 357 51<174.453 309.697>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,25 +1,22 @@
 StartChar: uni23A3
-Encoding: 9123 9123 455
-Width: 521
+Encoding: 9123 9123 1041
+Width: 441
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 2046 0
 IsExtendedShape: 1
-HStem: 0 33<288.615 410.751>
-VStem: 110 73<46.2167 2357>
 LayerCount: 2
 Fore
 SplineSet
-183 2357 m 1
- 183 78 l 2
- 183 60 194 48 206 46 c 2
- 385 33 l 2
- 398 31 411 26 411 14 c 0
- 411 2 397 0 385 0 c 2
- 141 0 l 2
- 118 0 110 0 110 24 c 2
- 110 2357 l 1
- 183 2357 l 1
+193 2357 m 1
+ 193 78 l 2
+ 193 60 204 48 216 46 c 2
+ 395 33 l 2
+ 408 31 421 26 421 14 c 0
+ 421 2 407 0 395 0 c 2
+ 151 0 l 2
+ 128 0 120 0 120 24 c 2
+ 120 2357 l 1
+ 193 2357 l 1
 EndSplineSet
-Validated: 1
 EndChar

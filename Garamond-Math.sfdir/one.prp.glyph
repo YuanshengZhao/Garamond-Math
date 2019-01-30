@@ -1,0 +1,29 @@
+StartChar: one.prp
+Encoding: 1116516 -1 4722
+Width: 382
+Flags: MW
+TopAccentHorizontal: 138
+LayerCount: 2
+Fore
+SplineSet
+44 -3 m 0
+ 34 -3 29 3 29 9 c 0
+ 29 14 36 20 44 22 c 0
+ 120 41 154 50 154 109 c 2
+ 154 491 l 2
+ 154 529 113 536 70 539 c 0
+ 57 540 44 545 44 556 c 0
+ 44 565 55 572 69 574 c 0
+ 129 583 174 591 219 636 c 0
+ 220 637 222 637 224 637 c 0
+ 230 637 237 633 236 628 c 0
+ 233 608 232 585 232 557 c 2
+ 232 97 l 2
+ 232 46 256 41 338 21 c 0
+ 346 19 355 14 355 8 c 0
+ 355 2 349 -3 341 -3 c 0
+ 284 -3 247 2 194 2 c 0
+ 140 2 98 -3 44 -3 c 0
+EndSplineSet
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" one.prp.s one.prp.ss
+EndChar

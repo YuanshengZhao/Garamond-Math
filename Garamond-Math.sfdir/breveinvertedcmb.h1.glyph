@@ -1,10 +1,9 @@
 StartChar: breveinvertedcmb.h1
-Encoding: 1114655 -1 1701
+Encoding: 1114656 -1 2862
 Width: 444
 GlyphClass: 2
-Flags: W
+Flags: MW
 IsExtendedShape: 1
-HStem: 657 55<94.7772 349.531>
 LayerCount: 2
 Fore
 SplineSet
@@ -18,5 +17,4 @@ SplineSet
  40 674 95 712 222 712 c 0
  349 712 404 674 443 590 c 0
 EndSplineSet
-Validated: 1
 EndChar

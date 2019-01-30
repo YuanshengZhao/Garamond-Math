@@ -1,9 +1,7 @@
 StartChar: uni25D3
-Encoding: 9683 9683 222
+Encoding: 9683 9683 1249
 Width: 665
-Flags: W
-HStem: -53 50<199.85 398.629> 250 303<189.039 410.961>
-VStem: -3 50.1925<152.952 250> 552.803 50.197<152.952 250>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

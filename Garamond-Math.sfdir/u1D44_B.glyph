@@ -1,13 +1,12 @@
 StartChar: u1D44B
-Encoding: 119883 119883 605
+Encoding: 119883 119883 1563
 AltUni2: 01d6f8.ffffffff.0
-Width: 722
+Width: 649
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 656 5
-ItalicCorrection: 72
-TopAccentHorizontal: 470
-HStem: -5 33<-27.3006 66.1781 182.977 229.959 328.069 397.017 528.876 609.02> 622 33<165.227 243.251 355.821 433.625 527.161 575.346 685.556 762.789>
+ItalicCorrection: 121
+TopAccentHorizontal: 459
 LayerCount: 2
 Fore
 SplineSet

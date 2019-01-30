@@ -1,28 +1,26 @@
 StartChar: u1D428
-Encoding: 119848 119848 570
-Width: 503
+Encoding: 119848 119848 1528
+Width: 556
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 433 14
-ItalicCorrection: 4
-TopAccentHorizontal: 252
-HStem: -14 44<214.771 308.141> 389 44<192.944 288.616>
-VStem: 24 138<102.189 292.825> 340 140<116.735 312.05>
+ItalicCorrection: 52
+TopAccentHorizontal: 310
 LayerCount: 2
 Fore
 SplineSet
-237 -14 m 0
- 117 -14 24 73 24 195 c 0
- 24 323 127 433 259 433 c 0
- 382 433 480 336 480 224 c 0
- 480 95 398 -14 237 -14 c 0
-257 30 m 0
- 284 30 305 41 319 64 c 0
- 335 91 340 138 340 200 c 0
- 340 308 302 389 244 389 c 0
- 222 389 206 382 192 368 c 0
- 169 342 162 292 162 220 c 0
- 162 124 202 30 257 30 c 0
+289 -14 m 0
+ 169 -14 76 73 76 195 c 0
+ 76 323 179 433 311 433 c 0
+ 434 433 532 336 532 224 c 0
+ 532 95 450 -14 289 -14 c 0
+309 30 m 0
+ 336 30 357 41 371 64 c 0
+ 387 91 392 138 392 200 c 0
+ 392 308 354 389 296 389 c 0
+ 274 389 258 382 244 368 c 0
+ 221 342 214 292 214 220 c 0
+ 214 124 254 30 309 30 c 0
 EndSplineSet
 Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D428.s u1D428.ss

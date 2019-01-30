@@ -1,9 +1,8 @@
 StartChar: uni21C3
-Encoding: 8643 8643 296
+Encoding: 8643 8643 724
 Width: 438
-Flags: W
+Flags: MW
 GlyphCompositionVertical: 2  uni21C3(⇃)%0,0,284,852 arrowup.ex%1,810,810,810
-VStem: 197 46<-69 614.757>
 LayerCount: 2
 Fore
 SplineSet

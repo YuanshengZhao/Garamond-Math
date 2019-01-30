@@ -1,11 +1,10 @@
 StartChar: lowlinecmb
-Encoding: 818 818 3944
+Encoding: 818 818 361
 Width: 0
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: -92 142
 TopAccentHorizontal: 0
-HStem: -142 50<-196.896 197.469>
 LayerCount: 2
 Fore
 SplineSet

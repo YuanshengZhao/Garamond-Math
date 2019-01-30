@@ -1,10 +1,21 @@
 StartChar: uniFF3E
-Encoding: 65342 65342 4122
+Encoding: 65342 65342 1482
 Width: 500
-Flags: W
-HStem: 284 319
+Flags: HMW
 LayerCount: 2
 Fore
-Refer: 355 94 N 1 0 0 1 0 0 2
-Validated: 1
+SplineSet
+57 284 m 0
+ 52 284 48 289 48 295 c 0
+ 48 298 49 302 51 305 c 2
+ 248 603 l 1
+ 251 603 l 1
+ 449 305 l 2
+ 454 297 452 284 443 284 c 0
+ 428 284 408 293 402 302 c 2
+ 254 514 l 2
+ 249 520 248 520 244 514 c 2
+ 98 303 l 2
+ 90 291 69 284 57 284 c 0
+EndSplineSet
 EndChar

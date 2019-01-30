@@ -1,8 +1,8 @@
 StartChar: arrowdblleft.ed
-Encoding: 1116414 -1 4599
+Encoding: 1116435 -1 4641
 Width: 520
-Flags: W
-HStem: 157 46<54.2979 465.702> 297 46<54.2979 465.702>
+Flags: MW
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
@@ -21,5 +21,4 @@ SplineSet
  56 327 64 343 81 343 c 0
  457 343 l 0
 EndSplineSet
-Validated: 1
 EndChar

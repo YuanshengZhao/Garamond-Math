@@ -1,34 +1,35 @@
 StartChar: seven
-Encoding: 55 55 3562
-Width: 480
+Encoding: 55 55 24
+Width: 299
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 626 32
-TopAccentHorizontal: 263
-HStem: 551 65<85.9778 405.578>
+ItalicCorrection: 190
+TopAccentHorizontal: 265
 LayerCount: 2
 Fore
 SplineSet
-127 -32 m 0
- 112 -32 106 -21 106 -6 c 0
- 106 -2 118 19 127 35 c 2
- 410 541 l 2
- 412 545 415 550 400 551 c 2
- 144 551 l 2
- 112 551 89 542 67 505 c 0
- 63 498 53 480 43 480 c 0
- 37 480 36 489 36 494 c 0
- 36 501 39 511 40 516 c 0
- 47 545 53 590 56 615 c 0
- 57 624 63 626 66 626 c 0
- 69 626 108 617 150 617 c 0
- 180 617 202 616 249 616 c 0
- 347 616 460 618 479 621 c 0
- 482 621 485 613 485 608 c 0
- 485 592 457 555 447 538 c 2
- 146 -5 l 2
- 140 -16 131 -32 127 -32 c 0
+122 -32 m 0
+ 107 -32 101 -21 101 -6 c 0
+ 101 -2 113 19 122 35 c 2
+ 405 541 l 2
+ 407 545 410 550 395 551 c 2
+ 139 551 l 2
+ 107 551 84 542 62 505 c 0
+ 58 498 48 480 38 480 c 0
+ 32 480 31 489 31 494 c 0
+ 31 501 34 511 35 516 c 0
+ 42 545 48 590 51 615 c 0
+ 52 624 58 626 61 626 c 0
+ 64 626 103 617 145 617 c 0
+ 175 617 197 616 244 616 c 0
+ 342 616 455 618 474 621 c 0
+ 477 621 480 613 480 608 c 0
+ 480 592 452 555 442 538 c 2
+ 141 -5 l 2
+ 135 -16 126 -32 122 -32 c 0
 EndSplineSet
 Validated: 1
+Substitution2: "'pnum' Proportional Numbers" seven.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" seven.s seven.ss
 EndChar

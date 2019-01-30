@@ -1,31 +1,28 @@
 StartChar: bracketright
-Encoding: 93 93 34
-Width: 421
+Encoding: 93 93 62
+Width: 341
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 702 300
 GlyphVariantsVertical: bracketright bracketright.v1 bracketright.v2 bracketright.v3 bracketright.v4 bracketright.v5 bracketright.v6 bracketright.v7 bracketright.v8 bracketright.v9 bracketright.v10 bracketright.v11 bracketright.v12 bracketright.v13 bracketright.v14 bracketright.v15 bracketright.v16 bracketright.v17 bracketright.v18 bracketright.v19 bracketright.v20
 GlyphCompositionVertical: 3  uni23A6%0,0,500,2357 uni23A5%1,1000,1000,1000 uni23A4%0,500,0,2359
-HStem: -200 33<110.091 178.538> 673 28<110.084 215>
-VStem: 238 73<-153.78 666.782>
 LayerCount: 2
 Fore
 SplineSet
-280 -200 m 2
- 136 -200 l 2
- 124 -200 110 -197 110 -185 c 0
- 110 -173 123 -169 136 -167 c 2
- 215 -154 l 2
- 227 -152 238 -139 238 -121 c 2
- 238 642 l 2
- 238 653 224 666 215 667 c 2
- 136 673 l 2
- 123 674 110 678 110 688 c 0
- 110 698 119 701 128 701 c 2
- 273 702 l 2
- 305 702 311 702 311 668 c 2
- 311 -175 l 2
- 311 -199 303 -200 280 -200 c 2
+190 -200 m 2
+ 46 -200 l 2
+ 34 -200 20 -197 20 -185 c 0
+ 20 -173 33 -169 46 -167 c 2
+ 125 -154 l 2
+ 137 -152 148 -139 148 -121 c 2
+ 148 642 l 2
+ 148 653 134 666 125 667 c 2
+ 46 673 l 2
+ 33 674 20 678 20 688 c 0
+ 20 698 29 701 38 701 c 2
+ 183 702 l 2
+ 215 702 221 702 221 668 c 2
+ 221 -175 l 2
+ 221 -199 213 -200 190 -200 c 2
 EndSplineSet
-Validated: 1
 EndChar

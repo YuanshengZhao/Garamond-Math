@@ -1,0 +1,21 @@
+StartChar: zero.prp.s
+Encoding: 1116535 -1 4741
+Width: 468
+Flags: MW
+ItalicCorrection: 64
+TopAccentHorizontal: 268
+LayerCount: 2
+Fore
+SplineSet
+263 -14 m 0
+ 124 -14 58 154 58 302 c 0
+ 58 454 122 630 273 630 c 0
+ 412 630 477 461 477 316 c 0
+ 477 166 415 -14 263 -14 c 0
+279 15 m 0
+ 357 15 387 149 387 298 c 0
+ 387 447 341 600 254 600 c 0
+ 176 600 149 469 149 320 c 0
+ 149 171 191 15 279 15 c 0
+EndSplineSet
+EndChar

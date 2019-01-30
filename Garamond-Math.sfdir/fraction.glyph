@@ -1,11 +1,10 @@
 StartChar: fraction
-Encoding: 8260 8260 3657
+Encoding: 8260 8260 546
 Width: 466
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 654 154
 GlyphVariantsVertical: slash slash.v1 slash.v2 slash.v3 slash.v4 slash.v5 slash.v6 slash.v7 slash.v8 slash.v9 slash.v10 slash.v11 slash.v12 slash.v13 slash.v14 slash.v15 slash.v16 slash.v17 slash.v18 slash.v19 slash.v20
-VStem: 79 308
 LayerCount: 2
 Fore
 SplineSet

@@ -1,12 +1,11 @@
 StartChar: radical
-Encoding: 8730 8730 3593
+Encoding: 8730 8730 811
 Width: 599
 GlyphClass: 2
-Flags: W
+Flags: MW
 TeX: 616 97
 GlyphVariantsVertical: radical.v1 radical.v2 radical.v3 radical.v4 radical.v5 radical.v6 radical.v7 radical.v8 radical.v9 radical.v10 radical.v11 radical.v12 radical.v13 radical.v14 radical.v15 radical.v16 radical.v17 radical.v18 radical.v19 radical.v20
 GlyphCompositionVertical: 3  uni23B7%0,0,750,3650 radical.ex%1,1500,1500,1500 radical.tp%0,750,0,1166
-HStem: 122 44<116.505 191.25> 564 50<579.656 632.446>
 LayerCount: 2
 Fore
 SplineSet

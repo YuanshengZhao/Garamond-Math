@@ -1,10 +1,8 @@
 StartChar: uni228A
-Encoding: 8842 8842 114
+Encoding: 8842 8842 912
 Width: 635
 VWidth: 1006
-Flags: W
-HStem: 14 50<138.929 307.812 399.767 542.733> 121 50<214.015 540.896> 437 50<214.015 540.896>
-VStem: 90 55<230.658 377.83>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
