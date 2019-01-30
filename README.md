@@ -31,6 +31,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
     - `7` → `\int` variant
     - `8` → Garamond-compatible `\mathcal` (experimental)
     - `9` → `\tilde` variant
+    - `10` → out-bending italic h
 
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.
 

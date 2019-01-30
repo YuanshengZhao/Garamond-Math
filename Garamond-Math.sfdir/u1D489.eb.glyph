@@ -1,5 +1,5 @@
 StartChar: u1D489.eb
-Encoding: 1116312 -1 4518
+Encoding: 1116308 -1 4518
 Width: 614
 Flags: MW
 ItalicCorrection: 99
@@ -33,4 +33,5 @@ SplineSet
  407 358 310 165 223 35 c 0
  200 0 178 -14 158 -14 c 0
 EndSplineSet
+Substitution2: "'ss10' Style Set 10" u1D489.vareb
 EndChar

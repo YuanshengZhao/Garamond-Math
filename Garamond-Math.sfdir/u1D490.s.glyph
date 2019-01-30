@@ -1,21 +1,21 @@
 StartChar: u1D490.s
-Encoding: 1115590 -1 3796
-Width: 501
-Flags: MW
+Encoding: 1115586 -1 3796
+Width: 499
+Flags: HMW
 ItalicCorrection: 92
-TopAccentHorizontal: 345
+TopAccentHorizontal: 344
 LayerCount: 2
 Fore
 SplineSet
-220 -14 m 0
- 142 -14 70 43 70 130 c 0
- 70 252 181 435 365 435 c 0
- 456 435 517 382 517 290 c 0
- 517 169 407 -14 220 -14 c 0
+219 -14 m 0
+ 141 -14 70 43 70 130 c 0
+ 70 252 180 434 364 434 c 0
+ 454 434 515 382 515 290 c 0
+ 515 169 405 -14 219 -14 c 0
 239 26 m 0
  303 26 382 236 382 356 c 0
- 382 383 372 397 349 397 c 0
- 294 397 205 189 205 68 c 0
- 205 39 219 26 239 26 c 0
+ 382 383 371 397 348 397 c 0
+ 292 397 204 189 204 68 c 0
+ 204 39 219 26 239 26 c 0
 EndSplineSet
 EndChar

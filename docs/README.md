@@ -32,6 +32,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
     - `7` → `\int` variant
     - `8` → Garamond-compatible `\mathcal` (experimental)
     - `9` → `\tilde` variant
+    - `10` → out-bending italic h
 
 ## Known Issue
 - Currently only usable for `XeTeX` (with `unicode-math`). OTHER ENGINES (EX. `LuaTeX`, `MS Word`) WILL PRODUCE VERY BAD SPACINGS.

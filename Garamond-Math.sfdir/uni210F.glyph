@@ -48,5 +48,6 @@ SplineSet
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni210F.s uni210F.ss
+Substitution2: "'ss10' Style Set 10" uni210F.var
 Substitution2: "'ss06' Style Set 6" uni210F.bar
 EndChar

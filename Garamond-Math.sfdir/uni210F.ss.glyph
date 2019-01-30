@@ -1,5 +1,5 @@
 StartChar: uni210F.ss
-Encoding: 1115271 -1 3477
+Encoding: 1115267 -1 3477
 Width: 553
 Flags: MW
 ItalicCorrection: 96
@@ -45,5 +45,6 @@ SplineSet
  368 370 243 167 187 68 c 0
  156 10 142 -17 125 -17 c 0
 EndSplineSet
+Substitution2: "'ss10' Style Set 10" uni210F.varss
 Substitution2: "'ss06' Style Set 6" uni210F.barss
 EndChar
