@@ -1,5 +1,5 @@
 <!-- README for CTAN -->
-# Garamond-Math Ver. 0.3
+# Garamond-Math Ver. 2019-02-05
 
 Garamond-Math is an open type math font matching the [EB Garamond (Octavio Pardo)](https://github.com/octaviopardo/EBGaramond12/) and [EB Garamond (Georg Mayr-Duffner)](https://github.com/georgd/EB-Garamond).
 Many mathematical symbols are derived from other fonts (see below), others are made from scratch. The metric is generated with a python script.
@@ -7,6 +7,7 @@ Many mathematical symbols are derived from other fonts (see below), others are m
 ## Notes
 
 - *Important notes for this version* 
+    - Fixed various wrong mappings, add italic h.var.
     - Fraktur is (temporarily) not supported, Because (1) Originally they come from  [TeX Gyre Termes Math](http://www.gust.org.pl/projects/e-foundry/tg-math/) and GUST and OFL are not completely compatible; (2) The glyphs are not modified at all, so there is in principle no need to include it (one can use `range` option in `unicode-math`) 
     - Default `\mathbb` is swapped with original `StylisticSet=1`.
 

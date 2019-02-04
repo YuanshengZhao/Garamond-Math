@@ -1,4 +1,4 @@
-# Garamond-Math Ver. 0.3
+# Garamond-Math Ver. 2019-02-05
 
 Garamond-Math is an open type math font matching the [EB Garamond (Octavio Pardo)](https://github.com/octaviopardo/EBGaramond12/) and [EB Garamond (Georg Mayr-Duffner)](https://github.com/georgd/EB-Garamond).
 Many mathematical symbols are derived from other fonts (see below), others are made from scratch. The metric is generated with a python script.
