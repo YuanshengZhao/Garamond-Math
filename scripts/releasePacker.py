@@ -20,7 +20,7 @@ def writeFile(fname, textti, texttf):
             break
     strr=strr+fp.read()
     fp.close()
-    fp=open(fname,"w")
+    fp=open(fname,"w",newline='')
     fp.write(strr)
     fp.close()
 
