@@ -2,7 +2,7 @@
 \usepackage[a4paper, margin=.3in]{geometry}
 \usepackage{amsmath}
 % \usepackage[no-math]{fontspec}
-\usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
+\usepackage[math-style=ISO, bold-style=ISO,mathrm=sym]{unicode-math}
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
@@ -20,14 +20,14 @@
 % \setmathfont{TeX Gyre Termes Math}
 % \setmathfont{XITS Math}
 % \setmathfont{Cambria Math}
-\setmathfont{Garamond-Math.otf}[StylisticSet={2,8,9,6,10},Path=./]
+\setmathfont{Garamond-Math.otf}[StylisticSet={2,8,9,6},Path=./]
 \newfontfamily\GaramondMath{Garamond-Math.otf}[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}[Path=../libertinus/]
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
-\def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
+\def\latinalphabets{abcdefhgijklmnopqrstuvwxyz}
 \def\Greekalphabets{%
   \Alpha      \Beta       \Gamma      \Delta      \Epsilon
   \Zeta       \Eta        \Theta      \varTheta   \Iota
@@ -61,7 +61,7 @@
   { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
 \cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
 \NewDocumentCommand \BRACKETMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} { (#1{##1}) } \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert\!#1{##1}\!\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{\QED}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
@@ -116,7 +116,10 @@
 \newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
 
 \begin{document}
-
+\begin{itemize}
+  \item Toh||
+  \item Tho||
+\end{itemize}
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
 \[\begin{split}
@@ -140,9 +143,11 @@ $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)\partial(x)\par
 
 
 $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\rangle$
-\[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJj[f][j][y](\symsf {fijk})\]
+\[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjflTlfxTx[f][j][y]\sin\cos\tan\exp\symup{WTV}(\symsf {fijk})\]
 \[ \Latinalphabets \latinalphabets \]
+\[ \textit{\Latinalphabets} \textit{\latinalphabets} \]
 \[ \symup{\Latinalphabets} \symup{\latinalphabets} \]
+\[ \textrm{\Latinalphabets} \textrm{\latinalphabets} \]
 \[ \symbf{\Latinalphabets} \symbf{\latinalphabets}\]
 \[ \symbfup{\Latinalphabets}  \symbfup{\latinalphabets} \]
 \[ \Greekalphabets \greekalphabets\]
