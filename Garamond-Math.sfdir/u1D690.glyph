@@ -1,11 +1,11 @@
 StartChar: u1D690
 Encoding: 120464 120464 2021
-Width: 524
+Width: 510
+ItalicCorrection: 13
+TopAccentHorizontal: 314
 GlyphClass: 2
 Flags: MW
 TeX: 431 186
-ItalicCorrection: 13
-TopAccentHorizontal: 339
 HStem: 4 60 376 60
 VStem: 29 59 432 76 438 58
 LayerCount: 2

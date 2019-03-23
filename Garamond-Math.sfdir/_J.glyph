@@ -1,6 +1,8 @@
 StartChar: J
 Encoding: 74 74 43
-Width: 340
+Width: 262
+ItalicCorrection: 77
+TopAccentHorizontal: 165
 GlyphClass: 2
 Flags: MW
 TeX: 653 200

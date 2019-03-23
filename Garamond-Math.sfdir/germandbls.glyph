@@ -1,11 +1,11 @@
 StartChar: germandbls
 Encoding: 223 223 159
-Width: 504
+Width: 478
+ItalicCorrection: 25
+TopAccentHorizontal: 298
 GlyphClass: 2
 Flags: MW
 TeX: 706 15
-ItalicCorrection: 25
-TopAccentHorizontal: 373
 HStem: -15 56<349.5 352.5> -3 84<181.5 269> 350 52<89 89> 382 20G 665 41<269 314>
 VStem: 89 70<69 350 350 350 402 475> 245 79<350 359.5> 391 63<550 585.5> 422 52<99 116>
 LayerCount: 2

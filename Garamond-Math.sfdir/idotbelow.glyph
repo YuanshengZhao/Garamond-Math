@@ -1,10 +1,10 @@
 StartChar: idotbelow
 Encoding: 7883 7883 455
 Width: 245
+TopAccentHorizontal: 124
 GlyphClass: 2
 Flags: MW
 TeX: 616 192
-TopAccentHorizontal: 186
 HStem: -192 101<101 129.5> -3 21G<38 63.5 187 212.5> 516 101<110 138.5>
 VStem: 65 101<-156 -127.5> 74 101<552 580.5> 90 70<62 279 279 294>
 LayerCount: 2

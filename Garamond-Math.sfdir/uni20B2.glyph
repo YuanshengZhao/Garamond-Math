@@ -1,11 +1,11 @@
 StartChar: uni20B2
 Encoding: 8370 8370 556
-Width: 729
+Width: 681
+ItalicCorrection: 47
+TopAccentHorizontal: 427
 GlyphClass: 2
 Flags: MW
 TeX: 728 96
-ItalicCorrection: 47
-TopAccentHorizontal: 486
 HStem: -14 37<404 406> 256 34<454.5 467> 625 38<404 413 413 436 404 451.5> 639 20G<360 360>
 VStem: 45 99<240 395.5 240 401> 360 44<-82 -72 -72 -14 27 621 621 621 663 697 697 708> 560 65
 LayerCount: 2

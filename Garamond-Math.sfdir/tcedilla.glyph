@@ -1,10 +1,10 @@
 StartChar: tcedilla
 Encoding: 355 355 291
 Width: 314
+TopAccentHorizontal: 176
 GlyphClass: 2
 Flags: MW
 TeX: 475 274
-TopAccentHorizontal: 227
 HStem: -274 49<114.5 174> -13 54<173 240.5 205 205> 352 48<180 195 195 294>
 VStem: 85 70<105 127 127 324> 200 50<-179 -160.5>
 LayerCount: 2

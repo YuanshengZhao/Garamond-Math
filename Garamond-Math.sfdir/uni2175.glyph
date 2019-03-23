@@ -1,9 +1,9 @@
 StartChar: uni2175
 Encoding: 8565 8565 662
 Width: 673
+TopAccentHorizontal: 302
 GlyphClass: 2
 Flags: MW
-TopAccentHorizontal: 367
 HStem: -3 21G<466 491.5 615 640.5> 385 20G<21.5 44.5 153.5 176.5 286.5 298.5 413.5 428> 516 101<538 566.5>
 VStem: 502 101<552 580.5> 518 70<62 279 279 294>
 LayerCount: 2

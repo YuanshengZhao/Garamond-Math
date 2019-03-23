@@ -1,10 +1,10 @@
 StartChar: uni2C6F
 Encoding: 11375 11375 1360
-Width: 692
+Width: 498
+ItalicCorrection: 193
+TopAccentHorizontal: 345
 GlyphClass: 2
 Flags: MW
-ItalicCorrection: 193
-TopAccentHorizontal: 378
 HStem: 368 33<271 276 276 431> 630 20G<256 276.5> 631 20G<445.5 463> 635 20G<15.5 38 648.5 673.5>
 VStem: -5 699<640.5 646 637.5 649>
 LayerCount: 2

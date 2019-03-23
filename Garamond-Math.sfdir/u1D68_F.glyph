@@ -1,11 +1,11 @@
 StartChar: u1D68F
 Encoding: 120463 120463 2020
-Width: 524
+Width: 483
+ItalicCorrection: 40
+TopAccentHorizontal: 328
 GlyphClass: 2
 Flags: MW
 TeX: 604 0
-ItalicCorrection: 40
-TopAccentHorizontal: 379
 HStem: 0 61 370 61 624 62
 VStem: 184 69<60.999 368.999 60.999 368.999 431 482> 353 85<620.001 624.001 624.001 624.001>
 LayerCount: 2

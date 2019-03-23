@@ -1,11 +1,11 @@
 StartChar: Ccedilla
 Encoding: 199 199 135
-Width: 710
+Width: 690
+ItalicCorrection: 19
+TopAccentHorizontal: 435
 GlyphClass: 2
 Flags: MW
 TeX: 663 275
-ItalicCorrection: 19
-TopAccentHorizontal: 490
 HStem: -275 53<344.5 357.5> -15 31<414 414> -14 30<382 382> 632 31<337 442.5>
 VStem: 46 101<265.5 420> 411 53<-193 -164>
 LayerCount: 2

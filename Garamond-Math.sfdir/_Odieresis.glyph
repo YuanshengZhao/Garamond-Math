@@ -1,11 +1,11 @@
 StartChar: Odieresis
 Encoding: 214 214 150
-Width: 763
+Width: 662
+ItalicCorrection: 100
+TopAccentHorizontal: 391
 GlyphClass: 2
 Flags: MW
 TeX: 795 14
-ItalicCorrection: 100
-TopAccentHorizontal: 453
 HStem: -14 40<308.5 468.5 308.5 488> 622 42<294.5 453.5> 695 100<280 308 475 503>
 VStem: 45 96<272 405> 244 100<731 759> 439 100<731 759> 622 96<245 378.5>
 LayerCount: 2

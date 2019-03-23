@@ -1,11 +1,11 @@
 StartChar: zeta
 Encoding: 950 950 385
-Width: 329
+Width: 310
+ItalicCorrection: 18
+TopAccentHorizontal: 195
 GlyphClass: 2
 Flags: MW
 TeX: 721 199
-ItalicCorrection: 18
-TopAccentHorizontal: 269
 HStem: -5 86 552 27<132 180.5>
 VStem: 35 40<142.5 221> 56 69 280 35<-42.5 -14>
 LayerCount: 2

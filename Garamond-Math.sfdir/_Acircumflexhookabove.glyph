@@ -1,10 +1,10 @@
 StartChar: Acircumflexhookabove
 Encoding: 7848 7848 420
 Width: 692
+TopAccentHorizontal: 425
 GlyphClass: 2
 Flags: MW
 TeX: 881 5
-TopAccentHorizontal: 489
 HStem: -5 21G<18.5 43.5 654 676.5> -1 21G<229 246.5> 0 21G<415.5 436> 249 33<231 416 261 416 416 421 261 423> 739.75 68.25 854 27<510.5 526>
 VStem: 497 41<761 764 757 774> 545 61<821.5 838.5>
 LayerCount: 2

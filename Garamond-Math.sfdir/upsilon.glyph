@@ -1,11 +1,11 @@
 StartChar: upsilon
 Encoding: 965 965 400
-Width: 434
+Width: 379
+ItalicCorrection: 54
+TopAccentHorizontal: 197
 GlyphClass: 2
 Flags: MW
 TeX: 424 14
-ItalicCorrection: 54
-TopAccentHorizontal: 246
 HStem: -14 76<175 237 175 247.5> 328 86<81 88>
 VStem: 82 49<102.5 103> 118 48 334 55<202 271 168 296>
 LayerCount: 2

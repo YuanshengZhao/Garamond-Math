@@ -1,9 +1,9 @@
 StartChar: uniA72C
 Encoding: 42796 42796 1431
-Width: 480
-Flags: MW
+Width: 384
 ItalicCorrection: 95
-TopAccentHorizontal: 372
+TopAccentHorizontal: 316
+Flags: MW
 HStem: -200 41<148 235.5> 183 36<86 97.5> 189 33<396 410>
 VStem: 277 80<175 229 227.5 229 229 468 468 480.5>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: Ncommaaccent
 Encoding: 325 325 261
-Width: 770
+Width: 690
+ItalicCorrection: 79
+TopAccentHorizontal: 389
 GlyphClass: 2
 Flags: MW
 TeX: 658 275
-ItalicCorrection: 79
-TopAccentHorizontal: 463
 HStem: -5 21G<53.5 89 220 255.5> 630 20G<581 638 638 662> 633 20G<153 195 722.5 761.5> 638 20G<31.5 35>
 VStem: 142 42<479 483 479 542.5> 420 52<-195 -169> 643 41
 LayerCount: 2

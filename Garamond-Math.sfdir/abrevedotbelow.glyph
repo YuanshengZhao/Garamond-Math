@@ -1,10 +1,10 @@
 StartChar: abrevedotbelow
 Encoding: 7863 7863 435
 Width: 399
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 608 192
-TopAccentHorizontal: 248
 HStem: -176 101<178 206.5> -14 48<99 177> -14 52 365 49<171 253> 478 60<176 226 176 236>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 142 101<-140 -111.5> 239 69.5
 LayerCount: 2

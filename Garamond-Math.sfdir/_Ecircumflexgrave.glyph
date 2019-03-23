@@ -1,11 +1,11 @@
 StartChar: Ecircumflexgrave
 Encoding: 7872 7872 444
-Width: 535
+Width: 521
+ItalicCorrection: 13
+TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
 TeX: 858 5
-ItalicCorrection: 5
-TopAccentHorizontal: 366
 HStem: -5 40 320 32<246.5 258 258 341 341 351> 618 32<254.5 260 260 272 215 391> 618 35 739.75 68.25
 VStem: 144 80<99 102 102 294 368 374 374 549 549 573>
 LayerCount: 2

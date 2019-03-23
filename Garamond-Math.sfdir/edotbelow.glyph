@@ -1,11 +1,11 @@
 StartChar: edotbelow
 Encoding: 7865 7865 437
-Width: 390
+Width: 382
+ItalicCorrection: 7
+TopAccentHorizontal: 217
 GlyphClass: 2
 Flags: MW
 TeX: 414 192
-ItalicCorrection: 12
-TopAccentHorizontal: 275
 HStem: -192 101<199 227.5> -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5>
 VStem: 30 64<172 234.5 172 260.5> 163 101<-156 -127.5> 294 66<308 325 277.5 334>
 LayerCount: 2

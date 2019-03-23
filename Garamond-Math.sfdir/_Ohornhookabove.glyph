@@ -1,11 +1,11 @@
 StartChar: Ohornhookabove
 Encoding: 7902 7902 474
-Width: 763
+Width: 628
+ItalicCorrection: 134
+TopAccentHorizontal: 473
 GlyphClass: 2
 Flags: MW
 TeX: 839 14
-ItalicCorrection: 134
-TopAccentHorizontal: 533
 HStem: -14 39<321 470 321 491.5> 547 42<660 690.5 660 696.5> 625 39<301 429.5 272.5 455> 822 27<373.5 389>
 VStem: 45 97<264.5 410> 360 41<729 732 725 742> 408 61<789.5 806.5> 621 97<245 378 245 400> 679 98<655 674 631 675.5>
 LayerCount: 2

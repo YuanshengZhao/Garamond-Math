@@ -1,10 +1,10 @@
 StartChar: acircumflextilde
 Encoding: 7851 7851 423
 Width: 399
+TopAccentHorizontal: 196
 GlyphClass: 2
 Flags: MW
 TeX: 720 14
-TopAccentHorizontal: 244
 HStem: -14 48<99 177> -14 52 365 49<171 253> 649 52 649 56
 VStem: 37 78<69.5 93> 40 76<271.5 324> 239 69.5
 LayerCount: 2

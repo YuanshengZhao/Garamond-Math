@@ -1,11 +1,11 @@
 StartChar: zdotaccent
 Encoding: 380 380 316
-Width: 377
+Width: 362
+ItalicCorrection: 14
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 617 5
-ItalicCorrection: 14
-TopAccentHorizontal: 260
 HStem: -5 38 368 34 385 20G<351 353.5> 516 101<187 215.5>
 VStem: 151 101<552 580.5>
 LayerCount: 2

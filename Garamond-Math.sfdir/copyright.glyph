@@ -1,6 +1,8 @@
 StartChar: copyright
 Encoding: 169 169 105
-Width: 665
+Width: 540
+ItalicCorrection: 124
+TopAccentHorizontal: 346
 Flags: MW
 LayerCount: 2
 Fore

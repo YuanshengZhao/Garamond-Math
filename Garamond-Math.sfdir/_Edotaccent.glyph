@@ -1,11 +1,11 @@
 StartChar: Edotaccent
 Encoding: 278 278 214
-Width: 564
+Width: 550
+ItalicCorrection: 13
+TopAccentHorizontal: 267
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
-ItalicCorrection: 13
-TopAccentHorizontal: 327
 HStem: -5 40 320 32<246.5 258 258 341 341 351> 618 32<254.5 260 260 272 215 391> 618 35 695 110<283 313>
 VStem: 144 80<99 102 102 294 368 374 374 549 549 573> 243 110<735 765>
 LayerCount: 2

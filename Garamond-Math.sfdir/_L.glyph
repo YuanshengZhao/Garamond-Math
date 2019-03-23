@@ -1,6 +1,8 @@
 StartChar: L
 Encoding: 76 76 45
-Width: 584
+Width: 564
+ItalicCorrection: 19
+TopAccentHorizontal: 183
 GlyphClass: 2
 Flags: MW
 TeX: 653 5

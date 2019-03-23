@@ -1,10 +1,10 @@
 StartChar: uni2206
 Encoding: 8710 8710 791
 Width: 676
+TopAccentHorizontal: 349
 GlyphClass: 2
 Flags: MW
 TeX: 670 0
-TopAccentHorizontal: 341
 HStem: 0 55<151 485 485 491 151 601>
 VStem: 33 583<15 19>
 LayerCount: 2

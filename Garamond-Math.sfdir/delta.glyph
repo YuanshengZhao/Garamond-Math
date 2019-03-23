@@ -1,11 +1,11 @@
 StartChar: delta
 Encoding: 948 948 383
-Width: 418
+Width: 343
+ItalicCorrection: 74
+TopAccentHorizontal: 194
 GlyphClass: 2
 Flags: MW
 TeX: 701 14
-ItalicCorrection: 74
-TopAccentHorizontal: 256
 HStem: -14 51<160 198.5 151 235> 338 23.81 630 71<158 179.5>
 VStem: 35 47<109.5 190 102.5 201> 79 67<616 665.5> 311 69
 LayerCount: 2

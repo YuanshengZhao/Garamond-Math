@@ -1,11 +1,11 @@
 StartChar: Euro
 Encoding: 8364 8364 555
-Width: 707
+Width: 689
+ItalicCorrection: 17
+TopAccentHorizontal: 450
 GlyphClass: 2
 Flags: MW
 TeX: 663 15
-ItalicCorrection: 17
-TopAccentHorizontal: 545
 HStem: -15 29<381 438.5> 249 38<-14.5 -1> 256 44<496 517.5> 354 38<17.5 31> 361 44<528 549.5> 632 31<370 479>
 VStem: 92 96<306.5 337.5>
 LayerCount: 2

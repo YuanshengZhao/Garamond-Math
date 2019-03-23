@@ -1,11 +1,11 @@
 StartChar: Zacute
 Encoding: 377 377 313
-Width: 603
+Width: 581
+ItalicCorrection: 21
+TopAccentHorizontal: 317
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-ItalicCorrection: 21
-TopAccentHorizontal: 383
 HStem: -5 46 -2 43 609 37
 VStem: 28 560<11 162.5>
 LayerCount: 2

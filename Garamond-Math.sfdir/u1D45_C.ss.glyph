@@ -1,23 +1,23 @@
 StartChar: u1D45C.ss
-Encoding: 1115483 -1 3693
-Width: 429
+Encoding: 1115483 -1 3689
+Width: 356
+ItalicCorrection: 85
+TopAccentHorizontal: 273
 GlyphClass: 2
 Flags: MW
 TeX: 418 34
-ItalicCorrection: 85
-TopAccentHorizontal: 307
 LayerCount: 2
 Fore
 SplineSet
-174 -14 m 0
- 118 -14 69 42 69 107 c 0
- 69 232 177 419 323 419 c 0
- 396 419 439 366 439 294 c 0
- 439 174 336 -14 174 -14 c 0
-192 18 m 0
- 268 18 358 217 358 332 c 0
- 358 365 348 387 317 387 c 0
- 246 387 151 205 151 76 c 0
- 151 36 167 18 192 18 c 0
+141 -14 m 0
+ 85 -14 36 42 36 107 c 0
+ 36 232 144 419 290 419 c 0
+ 363 419 406 366 406 294 c 0
+ 406 174 303 -14 141 -14 c 0
+159 18 m 0
+ 235 18 325 217 325 332 c 0
+ 325 365 315 387 284 387 c 0
+ 213 387 118 205 118 76 c 0
+ 118 36 134 18 159 18 c 0
 EndSplineSet
 EndChar

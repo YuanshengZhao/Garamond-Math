@@ -1,11 +1,11 @@
 StartChar: omega
 Encoding: 969 969 404
-Width: 562
+Width: 525
+ItalicCorrection: 36
+TopAccentHorizontal: 292
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
-ItalicCorrection: 36
-TopAccentHorizontal: 334
 HStem: -15 64<342 397 338 415> -14 66<116.5 169.5 110 192> 394 20G<163 184.5 396.5 431>
 VStem: 35 35<123.5 174.5 120 234.5> 249 53 460 67<181 251 148 283.5>
 LayerCount: 2

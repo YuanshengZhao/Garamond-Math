@@ -1,11 +1,11 @@
 StartChar: Gdotaccent
 Encoding: 288 288 224
-Width: 729
+Width: 681
+ItalicCorrection: 47
+TopAccentHorizontal: 426
 GlyphClass: 2
 Flags: MW
 TeX: 805 14
-ItalicCorrection: 47
-TopAccentHorizontal: 486
 HStem: -14 37<339.5 444.5 339.5 455.5> 256 34<454.5 467> 625 38<326.5 436 313.5 451.5> 695 110<398 428>
 VStem: 45 99<229 403 229 410> 358 110<735 765> 560 65
 LayerCount: 2

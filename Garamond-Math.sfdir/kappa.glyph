@@ -1,11 +1,11 @@
 StartChar: kappa
 Encoding: 954 954 389
-Width: 468
+Width: 463
+ItalicCorrection: 4
+TopAccentHorizontal: 237
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
-ItalicCorrection: 4
-TopAccentHorizontal: 275
 HStem: -15 73 325 89<85.5 101.5> 340 74<363.5 409>
 VStem: 129 36<281 294> 223 19
 LayerCount: 2

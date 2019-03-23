@@ -2,6 +2,7 @@ StartChar: K
 Encoding: 75 75 44
 AltUni2: 00039a.ffffffff.0
 Width: 681
+TopAccentHorizontal: 349
 GlyphClass: 2
 Flags: MW
 TeX: 655 5

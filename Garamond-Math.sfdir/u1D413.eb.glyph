@@ -1,9 +1,9 @@
 StartChar: u1D413.eb
-Encoding: 1116242 -1 4452
-Width: 701
-Flags: MW
+Encoding: 1116242 -1 4448
+Width: 588
 ItalicCorrection: 129
-TopAccentHorizontal: 403
+TopAccentHorizontal: 378
+Flags: MW
 HStem: -2 21G<498 524> 608 43 679 20G<685.5 698.5> 680 20G<86 98.5>
 VStem: 276 170<97 98 98 503>
 LayerCount: 2

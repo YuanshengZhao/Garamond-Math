@@ -1,10 +1,10 @@
 StartChar: udotbelow
 Encoding: 7909 7909 481
 Width: 527
+TopAccentHorizontal: 235
 GlyphClass: 2
 Flags: MW
 TeX: 415 192
-TopAccentHorizontal: 282
 HStem: -192 101<242 270.5> -14 51<217.5 230> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5>
 VStem: 85 70<105 128 128 308 308 322.5> 206 101<-156 -127.5> 368 70<132 315 315 326>
 LayerCount: 2

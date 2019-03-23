@@ -1,11 +1,11 @@
 StartChar: psi
 Encoding: 968 968 403
-Width: 560
+Width: 424
+ItalicCorrection: 135
+TopAccentHorizontal: 305
 GlyphClass: 2
 Flags: MW
 TeX: 616 285
-ItalicCorrection: 135
-TopAccentHorizontal: 367
 HStem: -285 21G<305 331.5> -12 21G<316 316> 328 86
 VStem: 273 69<564.5 586.5 553.5 588.5> 276 40<-100 -67 -67 -17 -17 -17>
 LayerCount: 2

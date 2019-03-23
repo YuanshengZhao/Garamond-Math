@@ -1,11 +1,11 @@
 StartChar: Uhornhookabove
 Encoding: 7916 7916 488
-Width: 738
+Width: 579
+ItalicCorrection: 158
+TopAccentHorizontal: 572
 GlyphClass: 2
 Flags: MW
 TeX: 839 14
-ItalicCorrection: 158
-TopAccentHorizontal: 650
 HStem: -14 50<337 452> 631 20G<534.5 555> 633 20G<44.5 68> 822 27<381.5 397>
 VStem: 103 80<322 547 547 549> 368 41<729 732 725 742> 416 61<789.5 806.5> 730 52<684 684.5>
 LayerCount: 2

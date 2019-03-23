@@ -1,11 +1,11 @@
 StartChar: Ecircumflexhookabove
 Encoding: 7874 7874 446
-Width: 535
+Width: 521
+ItalicCorrection: 13
+TopAccentHorizontal: 334
 GlyphClass: 2
 Flags: MW
 TeX: 881 5
-ItalicCorrection: 5
-TopAccentHorizontal: 430
 HStem: -5 40 320 32<246.5 258 258 341 341 351> 618 32<254.5 260 260 272 215 391> 618 35 739.75 68.25 854 27<409.5 425>
 VStem: 144 80<99 102 102 294 368 374 374 549 549 573> 396 41<761 764 757 774> 444 61<821.5 838.5>
 LayerCount: 2

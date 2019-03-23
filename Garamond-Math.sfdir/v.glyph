@@ -1,6 +1,8 @@
 StartChar: v
 Encoding: 118 118 87
-Width: 438
+Width: 298
+ItalicCorrection: 139
+TopAccentHorizontal: 224
 GlyphClass: 2
 Flags: MW
 TeX: 405 21

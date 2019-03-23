@@ -1,11 +1,11 @@
 StartChar: sigma
 Encoding: 963 963 398
-Width: 478
+Width: 341
+ItalicCorrection: 136
+TopAccentHorizontal: 314
 GlyphClass: 2
 Flags: MW
 TeX: 433 14
-ItalicCorrection: 136
-TopAccentHorizontal: 356
 HStem: -14 78<136 210.5 136 234> 341 69<421 436 398 442.5> 350 60
 VStem: 35 40<148.5 202.5 133 255.5> 317 47<194 249.5 173 255.5>
 LayerCount: 2

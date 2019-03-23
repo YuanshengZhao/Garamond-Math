@@ -1,11 +1,11 @@
 StartChar: I_J
 Encoding: 306 306 242
-Width: 680
+Width: 602
+ItalicCorrection: 77
+TopAccentHorizontal: 335
 GlyphClass: 2
 Flags: MW
 TeX: 653 200
-ItalicCorrection: 77
-TopAccentHorizontal: 405
 HStem: -200 41<340 427.5> -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5 391.5 427 584 619.5>
 VStem: 130 80<98 550> 470 80<5 47 47 551>
 LayerCount: 2

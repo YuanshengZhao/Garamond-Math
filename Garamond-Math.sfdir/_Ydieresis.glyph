@@ -1,11 +1,11 @@
 StartChar: Ydieresis
 Encoding: 376 376 312
-Width: 578
+Width: 451
+ItalicCorrection: 126
+TopAccentHorizontal: 320
 GlyphClass: 2
 Flags: MW
 TeX: 795 5
-ItalicCorrection: 126
-TopAccentHorizontal: 374
 HStem: -5 21G<173.5 209 400 435.5> 633 20G<20.5 44 580.5 600.5> 695 100<209 237 404 432>
 VStem: 173 100<731 759> 264 80<108 256 256 260> 368 100<731 759>
 LayerCount: 2

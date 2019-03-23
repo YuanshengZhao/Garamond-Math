@@ -1,6 +1,8 @@
 StartChar: o
 Encoding: 111 111 80
-Width: 495
+Width: 446
+ItalicCorrection: 48
+TopAccentHorizontal: 255
 GlyphClass: 2
 Flags: MW
 TeX: 414 14

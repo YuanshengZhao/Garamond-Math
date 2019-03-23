@@ -1,6 +1,8 @@
 StartChar: uni210E
 Encoding: 8462 8462 594
-Width: 503
+Width: 406
+ItalicCorrection: 96
+TopAccentHorizontal: 225
 GlyphClass: 2
 Flags: MW
 TeX: 707 18

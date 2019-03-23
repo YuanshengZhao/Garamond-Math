@@ -1,11 +1,11 @@
 StartChar: cdotaccent
 Encoding: 267 267 203
-Width: 407
+Width: 401
+ItalicCorrection: 5
+TopAccentHorizontal: 237
 GlyphClass: 2
 Flags: MW
 TeX: 617 15
-ItalicCorrection: 5
-TopAccentHorizontal: 288
 HStem: -15 60<213.5 243.5> 377 37<187.5 226> 516 101<223 251.5>
 VStem: 35 69<165 245> 187 101<552 580.5>
 LayerCount: 2

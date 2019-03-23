@@ -2,6 +2,7 @@ StartChar: M
 Encoding: 77 77 46
 AltUni2: 00039c.ffffffff.0
 Width: 901
+TopAccentHorizontal: 442
 GlyphClass: 2
 Flags: MW
 TeX: 656 10

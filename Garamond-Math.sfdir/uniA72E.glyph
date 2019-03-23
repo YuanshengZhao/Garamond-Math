@@ -1,8 +1,8 @@
 StartChar: uniA72E
 Encoding: 42798 42798 1433
 Width: 602
+TopAccentHorizontal: 313
 Flags: MW
-TopAccentHorizontal: 368
 HStem: -200 41<148 235.5> 183 36<86 97.5> 189 33<396 410>
 VStem: 277 80<175 229 227.5 229 229 468 468 480.5> 504 52<-30.5 -7>
 LayerCount: 2

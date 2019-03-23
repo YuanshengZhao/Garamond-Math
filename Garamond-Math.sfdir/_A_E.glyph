@@ -1,11 +1,11 @@
 StartChar: AE
 Encoding: 198 198 134
-Width: 872
+Width: 867
+ItalicCorrection: 4
+TopAccentHorizontal: 569
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 4
-TopAccentHorizontal: 575
 HStem: -5 40 -1 21G<230 247.5> 285 43<283.5 438 314 432> 292 35<550 571 545 575.5> 598.13 52.87 618 35
 VStem: 454 79<96 111 111 267 267 269 343.5 349 349 580 580 592>
 LayerCount: 2

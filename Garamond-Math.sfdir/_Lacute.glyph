@@ -1,11 +1,11 @@
 StartChar: Lacute
 Encoding: 313 313 249
-Width: 584
+Width: 564
+ItalicCorrection: 19
+TopAccentHorizontal: 235
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-ItalicCorrection: 19
-TopAccentHorizontal: 308
 HStem: -5 40 633 20G<56.5 92 276 311.5>
 VStem: 130 80<96 560 560 567>
 LayerCount: 2

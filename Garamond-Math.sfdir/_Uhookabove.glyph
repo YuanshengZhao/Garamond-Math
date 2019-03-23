@@ -1,11 +1,11 @@
 StartChar: Uhookabove
 Encoding: 7910 7910 482
-Width: 738
+Width: 607
+ItalicCorrection: 130
+TopAccentHorizontal: 398
 GlyphClass: 2
 Flags: MW
 TeX: 849 14
-ItalicCorrection: 130
-TopAccentHorizontal: 476
 HStem: -14 50<332 445.5> 633 20G<44.5 68 687.5 707.5> 822 27<381.5 397>
 VStem: 103 80<240 268 268 547 547 549> 368 41<729 732 725 742> 416 61<789.5 806.5>
 LayerCount: 2

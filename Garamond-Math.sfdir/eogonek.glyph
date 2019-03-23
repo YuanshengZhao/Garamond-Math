@@ -1,11 +1,11 @@
 StartChar: eogonek
 Encoding: 281 281 217
-Width: 383
+Width: 372
+ItalicCorrection: 10
+TopAccentHorizontal: 222
 GlyphClass: 2
 Flags: MW
 TeX: 414 287
-ItalicCorrection: 10
-TopAccentHorizontal: 275
 HStem: -287 66<259 271> -14 60<198 206.5> 257 31<109 212 130 212 212 226.5 130 281> 383 31<185 232.5>
 VStem: 30 62<175 237 175 259.5> 142 74<-174 -143> 295 63<315.5 341>
 LayerCount: 2

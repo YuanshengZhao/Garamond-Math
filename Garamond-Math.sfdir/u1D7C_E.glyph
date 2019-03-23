@@ -1,26 +1,26 @@
 StartChar: u1D7CE
 Encoding: 120782 120782 2218
-Width: 529
+Width: 416
+ItalicCorrection: 73
+TopAccentHorizontal: 246
 GlyphClass: 2
 Flags: HMW
 TeX: 631 14
-ItalicCorrection: 73
-TopAccentHorizontal: 246
 HStem: -14 45<240 308 240 348> 586 45<223.5 291.5>
 VStem: 26 143<249 378.5> 365 142<241.5 369>
 LayerCount: 2
 Fore
 SplineSet
-261 -14 m 0
- 101 -14 26 154 26 302 c 0
- 26 455 98 631 272 631 c 0
- 431 631 507 462 507 317 c 0
- 507 166 435 -14 261 -14 c 0
-276 31 m 0
- 340 31 365 158 365 299 c 0
- 365 439 327 586 256 586 c 0
- 191 586 169 459 169 319 c 0
- 169 179 204 31 276 31 c 0
+240 -14 m 0
+ 80 -14 5 154 5 302 c 0
+ 5 455 77 631 251 631 c 0
+ 410 631 486 462 486 317 c 0
+ 486 166 414 -14 240 -14 c 0
+255 31 m 0
+ 319 31 344 158 344 299 c 0
+ 344 439 306 586 235 586 c 0
+ 170 586 148 459 148 319 c 0
+ 148 179 183 31 255 31 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers" u1D7CE.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7CE.s u1D7CE.ss

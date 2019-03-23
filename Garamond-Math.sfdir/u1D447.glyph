@@ -1,7 +1,9 @@
 StartChar: u1D447
 Encoding: 119879 119879 1559
 AltUni2: 01d6f5.ffffffff.0
-Width: 634
+Width: 431
+ItalicCorrection: 203
+TopAccentHorizontal: 346
 GlyphClass: 2
 Flags: MW
 TeX: 666 5

@@ -1,11 +1,11 @@
 StartChar: racute
 Encoding: 341 341 277
-Width: 334
+Width: 255
+ItalicCorrection: 78
+TopAccentHorizontal: 264
 GlyphClass: 2
 Flags: MW
 TeX: 649 3
-ItalicCorrection: 78
-TopAccentHorizontal: 323
 HStem: -3 21G<42 69 197 224> 330 84<286 295 261.5 300> 348 66<214 295> 394 20G<261.5 295>
 VStem: 90 71<62 264>
 LayerCount: 2

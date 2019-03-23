@@ -1,6 +1,8 @@
 StartChar: z
 Encoding: 122 122 91
-Width: 377
+Width: 362
+ItalicCorrection: 14
+TopAccentHorizontal: 202
 GlyphClass: 2
 Flags: MW
 TeX: 416 5

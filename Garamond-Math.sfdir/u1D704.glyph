@@ -1,25 +1,25 @@
 StartChar: u1D704
 Encoding: 120580 120580 2109
-Width: 299
+Width: 215
+ItalicCorrection: 33
+TopAccentHorizontal: 174
 GlyphClass: 2
 Flags: MW
 TeX: 415 14
-ItalicCorrection: 33
-TopAccentHorizontal: 214
 LayerCount: 2
 Fore
 SplineSet
-108 -14 m 0
- 95 -14 62 13 75 55 c 2
- 180 396 l 2
- 185 410 190 415 213 415 c 0
- 234 415 263 391 257 372 c 0
- 243 331 165 155 146 95 c 0
- 138 70 150 64 164 64 c 0
- 177 64 200 80 216 92 c 0
- 227 100 235 107 236 107 c 0
- 245 107 245 102 241 91 c 0
- 229 57 158 -14 108 -14 c 0
+69 -14 m 0
+ 56 -14 23 13 36 55 c 2
+ 141 396 l 2
+ 146 410 151 415 174 415 c 0
+ 195 415 224 391 218 372 c 0
+ 204 331 126 155 107 95 c 0
+ 99 70 111 64 125 64 c 0
+ 138 64 161 80 177 92 c 0
+ 188 100 196 107 197 107 c 0
+ 206 107 206 102 202 91 c 0
+ 190 57 119 -14 69 -14 c 0
 EndSplineSet
 Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D704.s u1D704.ss

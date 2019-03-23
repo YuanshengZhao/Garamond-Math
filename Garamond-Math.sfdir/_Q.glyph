@@ -1,10 +1,10 @@
 StartChar: Q
 Encoding: 81 81 50
 Width: 763
+TopAccentHorizontal: 382
 GlyphClass: 2
 Flags: MW
 TeX: 664 248
-TopAccentHorizontal: -44
 HStem: -248 56<754 762.5> 622 42<294.5 453.5>
 VStem: 45 96<272 405> 622 96<259 378.5>
 LayerCount: 2

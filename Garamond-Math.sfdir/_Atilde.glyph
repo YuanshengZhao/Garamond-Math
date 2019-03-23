@@ -1,10 +1,10 @@
 StartChar: Atilde
 Encoding: 195 195 131
 Width: 692
+TopAccentHorizontal: 361
 GlyphClass: 2
 Flags: MW
 TeX: 824 5
-TopAccentHorizontal: 426
 HStem: -5 21G<18.5 43.5 654 676.5> -1 21G<229 246.5> 0 21G<415.5 436> 249 33<231 416 261 416 416 421 261 423> 727 65<304.5 321.5>
 VStem: -2 699<4 9.5 1 12.5>
 LayerCount: 2

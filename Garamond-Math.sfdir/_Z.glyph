@@ -1,7 +1,9 @@
 StartChar: Z
 Encoding: 90 90 59
 AltUni2: 000396.ffffffff.0
-Width: 603
+Width: 581
+ItalicCorrection: 21
+TopAccentHorizontal: 316
 GlyphClass: 2
 Flags: MW
 TeX: 676 5

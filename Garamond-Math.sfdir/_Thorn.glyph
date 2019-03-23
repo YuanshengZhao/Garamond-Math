@@ -1,11 +1,11 @@
 StartChar: Thorn
 Encoding: 222 222 158
-Width: 559
+Width: 416
+ItalicCorrection: 142
+TopAccentHorizontal: 183
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 142
-TopAccentHorizontal: 241
 HStem: -5 163<270 305.5> 129 29<252 318 252 325> 496 28<301.5 345.5> 496 157<269 304.5>
 VStem: 134 80<99 123 195 216 216 420 526.5 532 532 549> 433 86<282 377.5>
 LayerCount: 2

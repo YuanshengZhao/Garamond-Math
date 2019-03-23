@@ -1,10 +1,10 @@
 StartChar: Ahookabove
 Encoding: 7842 7842 414
 Width: 692
+TopAccentHorizontal: 371
 GlyphClass: 2
 Flags: MW
 TeX: 849 5
-TopAccentHorizontal: 438
 HStem: -5 21G<18.5 43.5 654 676.5> -1 21G<229 246.5> 0 21G<415.5 436> 249 33<231 416 261 416 416 421 261 423> 822 27<354.5 370>
 VStem: 341 41<729 732 725 742> 389 61<789.5 806.5>
 LayerCount: 2

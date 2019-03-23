@@ -1,10 +1,10 @@
 StartChar: Abrevetilde
 Encoding: 7860 7860 432
 Width: 692
+TopAccentHorizontal: 346
 GlyphClass: 2
 Flags: MW
 TeX: 946 5
-TopAccentHorizontal: 450
 HStem: -5 21G<18.5 43.5 654 676.5> -1 21G<229 246.5> 0 21G<415.5 436> 249 33<231 416 261 416 416 421 261 423> 692 60<341.5 384.5 341.5 405.5> 869 65<296.5 313.5>
 VStem: -2 699<4 9.5 1 12.5>
 LayerCount: 2

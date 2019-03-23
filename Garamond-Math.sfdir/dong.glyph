@@ -1,11 +1,11 @@
 StartChar: dong
 Encoding: 8363 8363 554
-Width: 468
+Width: 421
+ItalicCorrection: 46
+TopAccentHorizontal: 333
 GlyphClass: 2
 Flags: MW
 TeX: 663 77
-ItalicCorrection: 46
-TopAccentHorizontal: 393
 HStem: -77 50<95.5 417 109 399> 35 45<214 230.5> 67 26 375 38<192 243> 516 31<192 316 204 316 204 316 379 451> 643 20G<377.5 381>
 VStem: 35 74<170 265> 316 63<153 271 271 294.5 409 516>
 LayerCount: 2

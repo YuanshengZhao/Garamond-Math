@@ -1,11 +1,11 @@
 StartChar: edieresis
 Encoding: 235 235 171
-Width: 390
+Width: 382
+ItalicCorrection: 7
+TopAccentHorizontal: 222
 GlyphClass: 2
 Flags: MW
 TeX: 608 15
-ItalicCorrection: 7
-TopAccentHorizontal: 283
 HStem: -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5> 508 100<121.5 146.5 298.5 323.5>
 VStem: 30 64<172 234.5 172 260.5> 84 100<545.5 570.5> 261 100<545.5 570.5> 294 66<308 325 277.5 334>
 LayerCount: 2

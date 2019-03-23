@@ -1,8 +1,8 @@
 StartChar: uniE8BF
 Encoding: 59583 59583 1455
 Width: 717
+TopAccentHorizontal: 378
 Flags: MW
-TopAccentHorizontal: 423
 HStem: -285 21G<327.5 351 482 506> -14 38<242 266.5> 112 39<517 598.5> 345 43<540.5 556.5> 382 32<221 290>
 VStem: 35 82<138.5 248.5> 377 70<-220 -5 -5 6.5> 595 70<285 299.5> 611 71<-1 40>
 LayerCount: 2

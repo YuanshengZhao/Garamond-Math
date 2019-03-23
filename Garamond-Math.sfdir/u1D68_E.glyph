@@ -1,11 +1,11 @@
 StartChar: u1D68E
 Encoding: 120462 120462 2019
-Width: 524
+Width: 501
+ItalicCorrection: 22
+TopAccentHorizontal: 269
 GlyphClass: 2
 Flags: MW
 TeX: 431 16
-ItalicCorrection: 22
-TopAccentHorizontal: 296
 HStem: -5 21G 191 60 191 248
 VStem: 397 67
 LayerCount: 2

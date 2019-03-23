@@ -1,11 +1,11 @@
 StartChar: theta
 Encoding: 952 952 387
-Width: 430
+Width: 363
+ItalicCorrection: 66
+TopAccentHorizontal: 221
 GlyphClass: 2
 Flags: MW
 TeX: 697 14
-ItalicCorrection: 66
-TopAccentHorizontal: 282
 HStem: -14 74<161 240.5 160 265.5> 338 49<311 317> 620 77<202.5 267 179.5 269>
 VStem: 45 45<263.5 327.5 246.5 419> 334 51<396.5 442.5 297.5 468.5>
 LayerCount: 2

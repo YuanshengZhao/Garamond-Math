@@ -1,11 +1,11 @@
 StartChar: numero
 Encoding: 8470 8470 600
-Width: 867
+Width: 663
+ItalicCorrection: 203
+TopAccentHorizontal: 342
 GlyphClass: 2
 Flags: MW
 TeX: 663 15
-ItalicCorrection: 203
-TopAccentHorizontal: 412
 HStem: -15 21G<92 111.5> -14 21G<462.5 496> 207 35<593.5 829 607 811> 314 29<696 740 696 751> 500 153<186.5 192.5> 539 31<684.5 729.5> 633 20G<164 206> 638 20G<31.5 35> 643 20G<548 589.5>
 VStem: 142 39<448 483 429.5 566> 471 40<436 505.5 436 550> 583 63<420.5 471 420.5 471> 779 63<415 461>
 LayerCount: 2

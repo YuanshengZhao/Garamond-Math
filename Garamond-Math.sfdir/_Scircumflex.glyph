@@ -1,11 +1,11 @@
 StartChar: Scircumflex
 Encoding: 348 348 284
-Width: 465
+Width: 428
+ItalicCorrection: 36
+TopAccentHorizontal: 269
 GlyphClass: 2
 Flags: MW
 TeX: 823 16
-ItalicCorrection: 36
-TopAccentHorizontal: 334
 HStem: -16 33<189.5 252.5 189.5 269.5> 630 34<222 280.5> 754.75 68.25
 VStem: 60 77<486 532.5> 338 84<120.5 180>
 LayerCount: 2

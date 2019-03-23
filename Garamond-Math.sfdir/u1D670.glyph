@@ -1,10 +1,10 @@
 StartChar: u1D670
 Encoding: 120432 120432 1989
 Width: 524
+TopAccentHorizontal: 262
 GlyphClass: 2
 Flags: MW
 TeX: 563 0
-TopAccentHorizontal: 285
 HStem: 0 61<70 86 157 190 52 86 334 334 334 368 439 455 455 464> 178 62<196 329 196 342 183 329> 637 20G<241 283 283 283>
 LayerCount: 2
 Fore

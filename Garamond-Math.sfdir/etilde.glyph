@@ -1,11 +1,11 @@
 StartChar: etilde
 Encoding: 7869 7869 441
-Width: 390
+Width: 382
+ItalicCorrection: 7
+TopAccentHorizontal: 219
 GlyphClass: 2
 Flags: MW
 TeX: 600 14
-ItalicCorrection: 12
-TopAccentHorizontal: 284
 HStem: -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5> 500 67<158.5 173>
 VStem: 30 64<172 234.5 172 260.5> 294 66<308 325 277.5 334>
 LayerCount: 2

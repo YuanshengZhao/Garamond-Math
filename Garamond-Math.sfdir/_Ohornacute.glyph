@@ -1,11 +1,11 @@
 StartChar: Ohornacute
 Encoding: 7898 7898 470
-Width: 763
+Width: 628
+ItalicCorrection: 134
+TopAccentHorizontal: 535
 GlyphClass: 2
 Flags: MW
 TeX: 828 14
-ItalicCorrection: 134
-TopAccentHorizontal: 596
 HStem: -14 39<321 470 321 491.5> 547 42<660 690.5 660 696.5> 625 39<301 429.5 272.5 455>
 VStem: 45 97<264.5 410> 621 97<245 378 245 400> 679 98<655 674 631 675.5>
 LayerCount: 2

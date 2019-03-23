@@ -1,11 +1,11 @@
 StartChar: longs
 Encoding: 383 383 319
-Width: 261
+Width: 119
+ItalicCorrection: 141
+TopAccentHorizontal: 304
 GlyphClass: 2
 Flags: MW
 TeX: 706 3
-ItalicCorrection: 141
-TopAccentHorizontal: 378
 HStem: -3 21G<40 64 186 210> 350 52<90 90> 382 20G 665 41<264.5 305.5>
 VStem: 90 70<68 350 350 350 402 475>
 LayerCount: 2

@@ -1,25 +1,25 @@
 StartChar: u1D476
 Encoding: 119926 119926 1605
 AltUni2: 01d72a.ffffffff.0
-Width: 708
+Width: 619
+ItalicCorrection: 137
+TopAccentHorizontal: 434
 GlyphClass: 2
 Flags: MW
 TeX: 664 14
-ItalicCorrection: 137
-TopAccentHorizontal: 480
 LayerCount: 2
 Fore
 SplineSet
-336 -14 m 0
- 198 -14 100 92 100 242 c 0
- 100 458 279 664 512 664 c 0
- 650 664 749 558 749 408 c 0
- 749 193 568 -14 336 -14 c 0
-336 24 m 0
- 481 24 610 303 610 468 c 0
- 610 554 579 630 510 630 c 0
- 368 630 238 347 238 181 c 0
- 238 96 267 24 336 24 c 0
+291 -14 m 0
+ 153 -14 55 92 55 242 c 0
+ 55 458 234 664 467 664 c 0
+ 605 664 704 558 704 408 c 0
+ 704 193 523 -14 291 -14 c 0
+291 24 m 0
+ 436 24 565 303 565 468 c 0
+ 565 554 534 630 465 630 c 0
+ 323 630 193 347 193 181 c 0
+ 193 96 222 24 291 24 c 0
 EndSplineSet
 Validated: 1
 Substitution2: "'ss04' Style Set 4" u1D476.sb

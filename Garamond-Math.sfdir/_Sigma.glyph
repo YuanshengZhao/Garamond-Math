@@ -1,11 +1,11 @@
 StartChar: Sigma
 Encoding: 931 931 375
-Width: 603
+Width: 575
+ItalicCorrection: 27
+TopAccentHorizontal: 291
 GlyphClass: 2
 Flags: MW
 TeX: 678 6
-ItalicCorrection: 27
-TopAccentHorizontal: 320
 HStem: -5 75<402.5 543> 0 70<458 470 402.5 472> 615 31<172.5 306.5>
 VStem: 25 569<4 156.5>
 LayerCount: 2

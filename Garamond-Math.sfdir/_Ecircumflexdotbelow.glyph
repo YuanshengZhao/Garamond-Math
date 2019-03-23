@@ -1,11 +1,11 @@
 StartChar: Ecircumflexdotbelow
 Encoding: 7878 7878 450
-Width: 564
+Width: 550
+ItalicCorrection: 13
+TopAccentHorizontal: 298
 GlyphClass: 2
 Flags: MW
 TeX: 808 205
-ItalicCorrection: 5
-TopAccentHorizontal: 367
 HStem: -205 110<277 307> -5 40 320 32<246.5 258 258 341 341 351> 618 32<254.5 260 260 272 215 391> 618 35 754.75 68.25
 VStem: 144 80<99 102 102 294 368 374 374 549 549 573> 237 110<-165 -135>
 LayerCount: 2

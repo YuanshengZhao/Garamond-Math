@@ -1,11 +1,11 @@
 StartChar: Yhookabove
 Encoding: 7926 7926 498
-Width: 578
+Width: 451
+ItalicCorrection: 126
+TopAccentHorizontal: 329
 GlyphClass: 2
 Flags: MW
 TeX: 849 5
-ItalicCorrection: 126
-TopAccentHorizontal: 392
 HStem: -5 21G<173.5 209 400 435.5> 633 20G<20.5 44 580.5 600.5> 822 27<311.5 327>
 VStem: 264 80<108 256 256 260> 298 41<729 732 725 742> 346 61<789.5 806.5>
 LayerCount: 2

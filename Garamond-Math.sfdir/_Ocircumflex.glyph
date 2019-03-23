@@ -1,11 +1,11 @@
 StartChar: Ocircumflex
 Encoding: 212 212 148
-Width: 763
+Width: 662
+ItalicCorrection: 100
+TopAccentHorizontal: 390
 GlyphClass: 2
 Flags: MW
 TeX: 823 14
-ItalicCorrection: 100
-TopAccentHorizontal: 452
 HStem: -14 40<308.5 468.5 308.5 488> 622 42<294.5 453.5> 754.75 68.25
 VStem: 45 96<272 405> 622 96<245 378.5>
 LayerCount: 2

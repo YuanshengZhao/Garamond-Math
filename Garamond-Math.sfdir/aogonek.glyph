@@ -1,10 +1,10 @@
 StartChar: aogonek
 Encoding: 261 261 197
 Width: 399
+TopAccentHorizontal: 198
 GlyphClass: 2
 Flags: MW
 TeX: 414 287
-TopAccentHorizontal: 235
 HStem: -287 66<322 334> -14 48<99 177> -14 52 365 49<171 253>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 205 74<-174 -144.5> 239 69.5
 LayerCount: 2

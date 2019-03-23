@@ -1,11 +1,11 @@
 StartChar: u1D685
 Encoding: 120453 120453 2010
-Width: 524
+Width: 387
+ItalicCorrection: 136
+TopAccentHorizontal: 262
 GlyphClass: 2
 Flags: MW
 TeX: 563 0
-ItalicCorrection: 136
-TopAccentHorizontal: 284
 HStem: -8 21G<240 285 240 240> 583 61<50.5 58 58 74 145 145 145 162 356 363 363 380 451 451 451 467>
 VStem: 74 71<583 583> 374 77<559 583>
 LayerCount: 2

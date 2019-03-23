@@ -1,10 +1,10 @@
 StartChar: iogonek
 Encoding: 303 303 239
 Width: 245
+TopAccentHorizontal: 124
 GlyphClass: 2
 Flags: MW
 TeX: 617 287
-TopAccentHorizontal: 197
 HStem: -287 66<137 149> -3 21G<38 63.5 199.5 212.5> -2 21G<176 180> 516 101<110 138.5>
 VStem: 20 74<-174 -139> 74 101<552 580.5> 90 70<62 279 279 294>
 LayerCount: 2

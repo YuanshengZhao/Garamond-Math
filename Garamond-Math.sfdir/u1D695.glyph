@@ -1,10 +1,10 @@
 StartChar: u1D695
 Encoding: 120469 120469 2026
 Width: 524
+TopAccentHorizontal: 177
 GlyphClass: 2
 Flags: MW
 TeX: 604 0
-TopAccentHorizontal: 202
 HStem: 1 60<81 82 444 445> 620 61<83 178 178 223.5 83 228.001 80.001 178>
 VStem: 228 69
 LayerCount: 2

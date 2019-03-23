@@ -1,11 +1,11 @@
 StartChar: Jcircumflex
 Encoding: 308 308 244
-Width: 340
+Width: 255
+ItalicCorrection: 84
+TopAccentHorizontal: 164
 GlyphClass: 2
 Flags: MW
 TeX: 823 200
-ItalicCorrection: 84
-TopAccentHorizontal: 313
 HStem: -200 41<0 87.5> 633 20G<51.5 87 244 279.5> 754.75 68.25
 VStem: 130 80<5 47 47 551>
 LayerCount: 2

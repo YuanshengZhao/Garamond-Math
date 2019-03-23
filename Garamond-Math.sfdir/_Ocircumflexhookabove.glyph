@@ -1,11 +1,11 @@
 StartChar: Ocircumflexhookabove
 Encoding: 7892 7892 464
-Width: 763
+Width: 662
+ItalicCorrection: 100
+TopAccentHorizontal: 430
 GlyphClass: 2
 Flags: MW
 TeX: 881 14
-ItalicCorrection: 98
-TopAccentHorizontal: 491
 HStem: -14 40<308.5 468.5 308.5 488> 622 42<294.5 453.5> 739.75 68.25 854 27<525.5 541>
 VStem: 45 96<272 405> 512 41<761 764 757 774> 560 61<821.5 838.5> 622 96<245 378.5>
 LayerCount: 2

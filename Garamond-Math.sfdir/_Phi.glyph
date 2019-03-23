@@ -1,11 +1,11 @@
 StartChar: Phi
 Encoding: 934 934 377
-Width: 745
+Width: 603
+ItalicCorrection: 141
+TopAccentHorizontal: 383
 GlyphClass: 2
 Flags: MW
 TeX: 672 5
-ItalicCorrection: 141
-TopAccentHorizontal: 433
 HStem: -5 129<261.5 417 417 493.5> 93 31<417 417> 552 31<337 337>
 VStem: 40 92<300 405.5> 337 80<76 93 58.5 93 126 552 583 601> 613 92<278.5 401>
 LayerCount: 2

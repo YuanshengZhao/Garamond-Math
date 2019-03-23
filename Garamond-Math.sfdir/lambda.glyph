@@ -1,11 +1,11 @@
 StartChar: lambda
 Encoding: 955 955 390
-Width: 469
+Width: 467
+ItalicCorrection: 1
+TopAccentHorizontal: 103
 GlyphClass: 2
 Flags: MW
 TeX: 699 18
-ItalicCorrection: 1
-TopAccentHorizontal: 182
 HStem: -15 21G<364.5 402.5> -15 87<378 386 378 402.5> 628 71<82.5 131>
 VStem: -10 475
 LayerCount: 2

@@ -1,8 +1,8 @@
 StartChar: u1D431.sb
-Encoding: 1116068 -1 4278
-Width: 480
+Encoding: 1116068 -1 4274
+Width: 483
+TopAccentHorizontal: 242
 Flags: MW
-TopAccentHorizontal: 271
 HStem: -3 21G<158 161.5> -1 21G<86.5 107.5 239 266> 393 20G<122 162.5> 396 20G<305.5 322> 398 20G<49 75 433 437>
 VStem: 7 468<3.5 12.5> 179.62 121.5
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: Psi
 Encoding: 936 936 378
-Width: 745
+Width: 587
+ItalicCorrection: 157
+TopAccentHorizontal: 374
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 157
-TopAccentHorizontal: 370
 HStem: -5 21G<239.5 275 466 501.5> 567 54<700 702 640.5 734> 633 20G<250.5 286 458 493.5>
 VStem: 330 80<99 263 336 551>
 LayerCount: 2

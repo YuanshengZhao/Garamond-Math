@@ -1,11 +1,11 @@
 StartChar: emacron
 Encoding: 275 275 211
-Width: 390
+Width: 382
+ItalicCorrection: 7
+TopAccentHorizontal: 221
 GlyphClass: 2
 Flags: MW
 TeX: 555 15
-ItalicCorrection: 7
-TopAccentHorizontal: 277
 HStem: -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5> 500 55<112.5 329 126 311>
 VStem: 30 64<172 234.5 172 260.5> 294 66<308 325 277.5 334>
 LayerCount: 2

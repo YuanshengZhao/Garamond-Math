@@ -1,6 +1,7 @@
 StartChar: uni2E18
 Encoding: 11800 11800 1377
 Width: 380
+TopAccentHorizontal: 230
 Flags: MW
 HStem: 399 120<213.5 246.5>
 VStem: 65 55<21.5 114.5> 170 120<442.5 475.5> 178 132<-128.5 -120> 200 61

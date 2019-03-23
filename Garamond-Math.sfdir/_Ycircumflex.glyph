@@ -1,11 +1,11 @@
 StartChar: Ycircumflex
 Encoding: 374 374 310
-Width: 578
+Width: 451
+ItalicCorrection: 126
+TopAccentHorizontal: 320
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
-ItalicCorrection: 126
-TopAccentHorizontal: 379
 HStem: -5 21G<173.5 209 400 435.5> 633 20G<20.5 44 580.5 600.5> 754.75 68.25
 VStem: 264 80<108 256 256 260>
 LayerCount: 2

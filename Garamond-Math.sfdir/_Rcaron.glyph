@@ -1,10 +1,10 @@
 StartChar: Rcaron
 Encoding: 344 344 280
 Width: 713
+TopAccentHorizontal: 199
 GlyphClass: 2
 Flags: MW
 TeX: 823 21
-TopAccentHorizontal: 275
 HStem: -21 46<608.5 708> -5 21G<44.5 80 254 289.5> 306 23 627 30<249 329> 633 20G<56.5 92> 700 63.25
 VStem: 130 80<100 110 110 286 347.5 404> 413 90<448 517.5>
 LayerCount: 2

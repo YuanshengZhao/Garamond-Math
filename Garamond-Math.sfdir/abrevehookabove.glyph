@@ -1,10 +1,10 @@
 StartChar: abrevehookabove
 Encoding: 7859 7859 431
 Width: 399
+TopAccentHorizontal: 191
 GlyphClass: 2
 Flags: MW
 TeX: 709 14
-TopAccentHorizontal: 255
 HStem: -14 48<99 177> -14 52 365 49<171 253> 460 56<174 210.5 174 227> 679 29<174 188>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 162 41<581 585 580 594> 210 61<653.5 665.5> 239 69.5
 LayerCount: 2

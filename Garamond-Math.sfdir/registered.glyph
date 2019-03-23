@@ -1,6 +1,8 @@
 StartChar: registered
 Encoding: 174 174 110
-Width: 665
+Width: 540
+ItalicCorrection: 124
+TopAccentHorizontal: 345
 Flags: MW
 LayerCount: 2
 Fore

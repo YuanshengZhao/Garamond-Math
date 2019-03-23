@@ -1,6 +1,8 @@
 StartChar: p
 Encoding: 112 112 81
-Width: 519
+Width: 458
+ItalicCorrection: 60
+TopAccentHorizontal: 227
 GlyphClass: 2
 Flags: MW
 TeX: 426 285

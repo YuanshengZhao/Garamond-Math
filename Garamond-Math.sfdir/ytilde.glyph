@@ -1,11 +1,11 @@
 StartChar: ytilde
 Encoding: 7929 7929 501
-Width: 438
+Width: 298
+ItalicCorrection: 139
+TopAccentHorizontal: 234
 GlyphClass: 2
 Flags: MW
 TeX: 600 285
-ItalicCorrection: 139
-TopAccentHorizontal: 315
 HStem: -285 21G<51 78.5> -285 86<51 53.5 35.5 78.5> 385 20G<21.5 45 154 178 289.5 302 412 426.5> 500 67<178.5 193>
 VStem: 5 438<391 400>
 LayerCount: 2

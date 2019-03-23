@@ -1,11 +1,11 @@
 StartChar: Dcroat
 Encoding: 272 272 208
-Width: 754
+Width: 640
+ItalicCorrection: 113
+TopAccentHorizontal: 309
 GlyphClass: 2
 Flags: MW
 TeX: 659 7
-ItalicCorrection: 113
-TopAccentHorizontal: 368
 HStem: -7 35<361 437 321.5 466.5> 0 21G<143 202.5> 317 36<55.5 129 70 129 70 129 209 359> 628 25 628 31<326.5 413.5>
 VStem: 129 80<99 121 121 317 353 549 549 567> 624 95<246 421>
 LayerCount: 2

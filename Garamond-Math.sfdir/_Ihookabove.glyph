@@ -1,10 +1,10 @@
 StartChar: Ihookabove
 Encoding: 7880 7880 452
 Width: 340
+TopAccentHorizontal: 175
 GlyphClass: 2
 Flags: MW
 TeX: 849 5
-TopAccentHorizontal: 255
 HStem: -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5> 822 27<161.5 177>
 VStem: 130 80<98 550> 148 41<729 732 725 742> 196 61<789.5 806.5>
 LayerCount: 2

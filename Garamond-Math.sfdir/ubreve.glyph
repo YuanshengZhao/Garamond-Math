@@ -1,10 +1,10 @@
 StartChar: ubreve
 Encoding: 365 365 301
 Width: 527
+TopAccentHorizontal: 252
 GlyphClass: 2
 Flags: MW
 TeX: 608 19
-TopAccentHorizontal: 311
 HStem: -14 51<217.5 230> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5> 478 60<227 277 227 287>
 VStem: 85 70<105 128 128 308 308 322.5> 368 70<132 315 315 326>
 LayerCount: 2

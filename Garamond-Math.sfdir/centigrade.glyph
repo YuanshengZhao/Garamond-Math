@@ -1,10 +1,11 @@
 StartChar: centigrade
 Encoding: 8451 8451 587
-Width: 946
+Width: 926
+ItalicCorrection: 19
+TopAccentHorizontal: 472
 GlyphClass: 2
 Flags: MW
 TeX: 663 15
-TopAccentHorizontal: 485
 HStem: -15 31<575 675.5> 402 42<124 166 124 176.5> 602 43<124 166> 632 31<573 678.5>
 VStem: 25 43<502 545 502 558> 222 43<502 545> 282 101<265.5 420>
 LayerCount: 2

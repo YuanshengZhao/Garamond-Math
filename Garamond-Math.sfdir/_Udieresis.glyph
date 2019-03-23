@@ -1,11 +1,11 @@
 StartChar: Udieresis
 Encoding: 220 220 156
-Width: 738
+Width: 607
+ItalicCorrection: 130
+TopAccentHorizontal: 390
 GlyphClass: 2
 Flags: MW
 TeX: 795 14
-ItalicCorrection: 130
-TopAccentHorizontal: 465
 HStem: -14 50<332 445.5> 633 20G<44.5 68 687.5 707.5> 695 100<279 307 474 502>
 VStem: 103 80<240 268 268 547 547 549> 243 100<731 759> 438 100<731 759>
 LayerCount: 2

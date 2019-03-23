@@ -1,11 +1,11 @@
 StartChar: uhorndotbelow
 Encoding: 7921 7921 493
-Width: 561
+Width: 520
+ItalicCorrection: 40
+TopAccentHorizontal: 304
 GlyphClass: 2
 Flags: MW
 TeX: 534 192
-ItalicCorrection: 40
-TopAccentHorizontal: 367
 HStem: -192 101<242 270.5> -14 51<217.5 230> 21 24 365 32<300.5 303> 394 20G
 VStem: 85 70<105 128 128 308 308 322.5> 206 101<-156 -127.5> 368 70<132 315 315 326> 505 55<424 495.5>
 LayerCount: 2

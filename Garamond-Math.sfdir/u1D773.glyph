@@ -1,10 +1,10 @@
 StartChar: u1D773
 Encoding: 120691 120691 2194
-Width: 540
+Width: 490
+ItalicCorrection: 58
+TopAccentHorizontal: 280
 GlyphClass: 2
 Flags: MW
-ItalicCorrection: 58
-TopAccentHorizontal: 339
 HStem: -10 42<236.5 296 236.5 322> 658 40<241.5 268>
 VStem: 38 130<178 264> 111 89<583 617 583 626.5> 322 128 379 131<144 240.5>
 LayerCount: 2

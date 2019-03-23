@@ -1,11 +1,11 @@
 StartChar: iacute
 Encoding: 237 237 173
-Width: 245
+Width: 223
+ItalicCorrection: 21
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 649 3
-ItalicCorrection: 21
-TopAccentHorizontal: 268
 HStem: -3 21G<38 63.5 187 212.5>
 VStem: 90 70<62 279 279 294>
 LayerCount: 2

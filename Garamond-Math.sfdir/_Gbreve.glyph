@@ -1,11 +1,11 @@
 StartChar: Gbreve
 Encoding: 286 286 222
-Width: 729
+Width: 681
+ItalicCorrection: 47
+TopAccentHorizontal: 413
 GlyphClass: 2
 Flags: MW
 TeX: 820 14
-ItalicCorrection: 47
-TopAccentHorizontal: 474
 HStem: -14 37<339.5 444.5 339.5 455.5> 256 34<454.5 467> 625 38<326.5 436 313.5 451.5> 692 60<391.5 434.5 391.5 455.5>
 VStem: 45 99<229 403 229 410> 560 65
 LayerCount: 2

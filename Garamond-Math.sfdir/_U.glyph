@@ -1,6 +1,8 @@
 StartChar: U
 Encoding: 85 85 54
-Width: 738
+Width: 607
+ItalicCorrection: 130
+TopAccentHorizontal: 374
 GlyphClass: 2
 Flags: MW
 TeX: 653 14

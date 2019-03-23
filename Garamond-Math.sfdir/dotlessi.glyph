@@ -1,12 +1,12 @@
 StartChar: dotlessi
 Encoding: 305 305 241
 Width: 245
+TopAccentHorizontal: 127
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 434 3
-TopAccentHorizontal: 168
-HStem: -3 21G<38 63.5 187 212.5>
-VStem: 90 70<62 279 279 294>
+HStem: -3 21G<38 63.5 187 212.5> 516 101<110 138.5>
+VStem: 74 101<552 580.5> 90 70<62 279 279 294>
 LayerCount: 2
 Fore
 SplineSet
@@ -26,7 +26,7 @@ SplineSet
  160 39 176 31 203 24 c 0
  214 21 226 18 226 8 c 0
  226 0 219 -3 206 -3 c 0
- 168 -3 160 2 125 2 c 0
+ 168 -3 160 2 125 2 c 0xd0
  90 2 83 -3 44 -3 c 0
 EndSplineSet
 EndChar

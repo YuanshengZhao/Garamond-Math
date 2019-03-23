@@ -1,9 +1,9 @@
 StartChar: uniFB00
 Encoding: 64256 64256 1457
-Width: 575
-Flags: MW
+Width: 445
 ItalicCorrection: 129
-TopAccentHorizontal: 519
+TopAccentHorizontal: 447
+Flags: MW
 HStem: -3 21G<37.5 64 186 212.5 294.5 321 466 492.5> 352 48<185 200 200 295 428 436 436 551> 386 20G<347 347> 623 41<266.5 295> 665 41<543.5 547>
 VStem: 90 70<68 335 413 422 422 433> 347 70<68 339 406 410 410 440.5>
 LayerCount: 2

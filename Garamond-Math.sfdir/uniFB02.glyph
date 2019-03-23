@@ -1,8 +1,8 @@
 StartChar: uniFB02
 Encoding: 64258 64258 1459
 Width: 506
+TopAccentHorizontal: 296
 Flags: MW
-TopAccentHorizontal: 368
 HStem: -3 21G<43.5 67 189 212.5 301.5 325 447 470.5> 352 48<188 203 203 341> 666 40<291.5 320.5> 677 20G
 VStem: 93 70<68 332> 352 70<68 342 342 346 410 562>
 LayerCount: 2

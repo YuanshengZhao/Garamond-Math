@@ -1,8 +1,9 @@
 StartChar: uni00B5
 Encoding: 181 181 117
-Width: 537
+Width: 531
+ItalicCorrection: 5
+TopAccentHorizontal: 258
 Flags: MW
-TopAccentHorizontal: 254
 HStem: -285 21G<137 162.5> -15 68<218 231 183 262> -15 90<425.5 462.5> 394 20G<101.5 126.5> 395 20G<357.5 381.5>
 VStem: 86 31<-37.5 38.5> 345 88<360 383 356.5 405> 367 18
 LayerCount: 2

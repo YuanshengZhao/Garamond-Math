@@ -1,10 +1,10 @@
 StartChar: uni217D
 Encoding: 8573 8573 670
-Width: 407
+Width: 401
+ItalicCorrection: 5
+TopAccentHorizontal: 247
 GlyphClass: 2
 Flags: MW
-ItalicCorrection: 5
-TopAccentHorizontal: 288
 HStem: -15 60<213.5 243.5> 377 37<187.5 226>
 VStem: 35 69<165 245>
 LayerCount: 2

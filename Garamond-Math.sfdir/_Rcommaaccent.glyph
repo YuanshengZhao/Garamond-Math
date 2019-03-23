@@ -1,10 +1,10 @@
 StartChar: Rcommaaccent
 Encoding: 342 342 278
 Width: 713
+TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: MW
 TeX: 657 275
-TopAccentHorizontal: 355
 HStem: -21 46<608.5 708> -5 21G<44.5 80 254 289.5> 306 23 627 30<249 329> 633 20G<56.5 92>
 VStem: 130 80<100 110 110 286 347.5 404> 388 52<-195 -169> 413 90<448 517.5>
 LayerCount: 2

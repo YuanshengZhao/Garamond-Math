@@ -1,11 +1,11 @@
 StartChar: Tbar
 Encoding: 358 358 294
-Width: 670
+Width: 534
+ItalicCorrection: 135
+TopAccentHorizontal: 360
 GlyphClass: 2
 Flags: MW
 TeX: 694 5
-ItalicCorrection: 135
-TopAccentHorizontal: 372
 HStem: -5 21G<205.5 241 432 467.5> 332 36<166.5 296 181 296 181 296 376 490> 610 32<141 527 175 204 403.5 426 426 527> 674 20G<77.5 82.5>
 VStem: 296 80<102 332 368 490 490 495>
 LayerCount: 2

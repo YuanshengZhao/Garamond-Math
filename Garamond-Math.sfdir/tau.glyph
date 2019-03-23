@@ -1,11 +1,11 @@
 StartChar: tau
 Encoding: 964 964 399
-Width: 410
+Width: 331
+ItalicCorrection: 78
+TopAccentHorizontal: 247
 GlyphClass: 2
 Flags: MW
 TeX: 430 14
-ItalicCorrection: 78
-TopAccentHorizontal: 276
 HStem: -14 21G<215 257> -14 91 332 68<289 375> 341 67 345 63<107 135>
 VStem: 170 55<106 120> 209 31
 LayerCount: 2

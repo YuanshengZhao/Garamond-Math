@@ -1,11 +1,11 @@
 StartChar: dcaron
 Encoding: 271 271 207
-Width: 519
+Width: 482
+ItalicCorrection: 36
+TopAccentHorizontal: 433
 GlyphClass: 2
 Flags: MW
 TeX: 705 19
-ItalicCorrection: 36
-TopAccentHorizontal: 487
 HStem: -14 52<234 253> 21 24 379 35<206 266> 380 20G<343.5 346.5> 684 20G<420.5 424> 685 20G<518.5 535>
 VStem: 35 71<139.5 248> 352 70<267 294 424 562> 484 58<576.5 683>
 LayerCount: 2

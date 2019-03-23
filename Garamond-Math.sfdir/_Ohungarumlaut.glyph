@@ -1,11 +1,11 @@
 StartChar: Ohungarumlaut
 Encoding: 336 336 272
-Width: 763
+Width: 662
+ItalicCorrection: 100
+TopAccentHorizontal: 406
 GlyphClass: 2
 Flags: MW
 TeX: 838 14
-ItalicCorrection: 100
-TopAccentHorizontal: 469
 HStem: -14 40<308.5 468.5 308.5 488> 622 42<294.5 453.5>
 VStem: 45 96<272 405> 622 96<245 378.5>
 LayerCount: 2

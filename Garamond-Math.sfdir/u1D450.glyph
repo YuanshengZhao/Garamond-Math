@@ -1,6 +1,8 @@
 StartChar: u1D450
 Encoding: 119888 119888 1568
-Width: 354
+Width: 276
+ItalicCorrection: 78
+TopAccentHorizontal: 268
 GlyphClass: 2
 Flags: MW
 TeX: 414 15

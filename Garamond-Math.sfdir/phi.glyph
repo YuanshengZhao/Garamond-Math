@@ -1,11 +1,11 @@
 StartChar: phi
 Encoding: 966 966 401
-Width: 537
+Width: 476
+ItalicCorrection: 60
+TopAccentHorizontal: 270
 GlyphClass: 2
 Flags: MW
 TeX: 469 285
-ItalicCorrection: 60
-TopAccentHorizontal: 320
 HStem: -285 21G<243 263> -22 70<254 254> 342 127<315.5 348.5 249 395>
 VStem: 35 39<151 235 143.5 282> 207 63<-261 -259 -266 -235.5> 216 37 462 40<171.5 252>
 LayerCount: 2

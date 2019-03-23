@@ -1,10 +1,10 @@
 StartChar: eng
 Encoding: 331 331 267
-Width: 513
+Width: 512
+TopAccentHorizontal: 227
 GlyphClass: 2
 Flags: MW
 TeX: 430 285
-TopAccentHorizontal: 278
 HStem: -285 21G -3 21G<44.5 66.5 183.5 205.5> 365 49<286.5 305.5>
 VStem: 91 70<66 69 69 268> 371.5 69.5
 LayerCount: 2

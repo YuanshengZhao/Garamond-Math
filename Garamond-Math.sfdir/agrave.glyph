@@ -1,10 +1,10 @@
 StartChar: agrave
 Encoding: 224 224 160
 Width: 399
+TopAccentHorizontal: 133
 GlyphClass: 2
 Flags: MW
 TeX: 649 14
-TopAccentHorizontal: 185
 HStem: -14 48<99 177> -14 52 365 49<171 253>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 239 69.5
 LayerCount: 2

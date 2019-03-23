@@ -1,10 +1,10 @@
 StartChar: iota
 Encoding: 953 953 388
 Width: 238
+TopAccentHorizontal: 110
 GlyphClass: 2
 Flags: MW
 TeX: 411 14
-TopAccentHorizontal: 134
 HStem: -14 21G<104 146> -14 78<104 163.5>
 VStem: 68 57
 LayerCount: 2

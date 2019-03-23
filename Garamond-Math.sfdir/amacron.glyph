@@ -1,10 +1,10 @@
 StartChar: amacron
 Encoding: 257 257 193
 Width: 399
+TopAccentHorizontal: 199
 GlyphClass: 2
 Flags: MW
 TeX: 555 14
-TopAccentHorizontal: 243
 HStem: -14 48<99 177> -14 52 365 49<171 253> 500 55<91.5 308 105 290>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 239 69.5
 LayerCount: 2

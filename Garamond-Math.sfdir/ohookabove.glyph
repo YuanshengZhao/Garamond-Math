@@ -1,11 +1,11 @@
 StartChar: ohookabove
 Encoding: 7887 7887 459
-Width: 495
+Width: 446
+ItalicCorrection: 48
+TopAccentHorizontal: 248
 GlyphClass: 2
 Flags: MW
 TeX: 677 14
-ItalicCorrection: 48
-TopAccentHorizontal: 295
 HStem: -14 30<215 277.5 215 309> 383 31<219 279.5> 650 27<232 246>
 VStem: 35 82<160.5 234 160.5 242.5> 220 41<540 544 539 553> 268 61<614 630> 378 82<169.5 236.5>
 LayerCount: 2

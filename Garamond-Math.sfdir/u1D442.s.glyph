@@ -1,23 +1,23 @@
 StartChar: u1D442.s
-Encoding: 1115432 -1 3642
-Width: 688
+Encoding: 1115432 -1 3638
+Width: 602
+ItalicCorrection: 129
+TopAccentHorizontal: 422
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 129
-TopAccentHorizontal: 467
 LayerCount: 2
 Fore
 SplineSet
-327 -14 m 0
- 173 -14 100 103 100 243 c 0
- 100 438 245 664 493 664 c 0
- 647 664 719 547 719 407 c 0
- 719 212 575 -14 327 -14 c 0
-329 18 m 0
- 505 18 627 258 627 448 c 0
- 627 541 588 635 490 635 c 0
- 321 635 192 392 192 202 c 0
- 192 109 231 18 329 18 c 0
+284 -14 m 0
+ 130 -14 57 103 57 243 c 0
+ 57 438 202 664 450 664 c 0
+ 604 664 676 547 676 407 c 0
+ 676 212 532 -14 284 -14 c 0
+286 18 m 0
+ 462 18 584 258 584 448 c 0
+ 584 541 545 635 447 635 c 0
+ 278 635 149 392 149 202 c 0
+ 149 109 188 18 286 18 c 0
 EndSplineSet
 EndChar

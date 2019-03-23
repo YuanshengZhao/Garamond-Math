@@ -1,11 +1,11 @@
 StartChar: Ydotbelow
 Encoding: 7924 7924 496
-Width: 578
+Width: 451
+ItalicCorrection: 126
+TopAccentHorizontal: 307
 GlyphClass: 2
 Flags: MW
 TeX: 653 205
-ItalicCorrection: 126
-TopAccentHorizontal: 341
 HStem: -205 110<289 319> -5 21G<173.5 209 400 435.5> 633 20G<20.5 44 580.5 600.5>
 VStem: 249 110<-165 -135> 264 80<108 256 256 260>
 LayerCount: 2

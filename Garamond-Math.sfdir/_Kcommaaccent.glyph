@@ -1,10 +1,10 @@
 StartChar: Kcommaaccent
 Encoding: 310 310 246
 Width: 681
+TopAccentHorizontal: 347
 GlyphClass: 2
 Flags: MW
 TeX: 655 275
-TopAccentHorizontal: 409
 HStem: -5 21G<51.5 87 257 292.5 629.5 667.5> 0 21G<507.5 547.5> 323 22<213.5 217.5> 631 20G<150 191 437 491 491 519.5> 633 20G<51.5 87 242 277.5> 635 20G<646.5 659.5>
 VStem: 131 80<270.5 305.5 361.5 364 364 551> 369 52<-195 -169>
 LayerCount: 2

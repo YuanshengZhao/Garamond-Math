@@ -1,11 +1,11 @@
 StartChar: ibreve
 Encoding: 301 301 237
-Width: 245
+Width: 241
+ItalicCorrection: 3
+TopAccentHorizontal: 124
 GlyphClass: 2
 Flags: MW
 TeX: 608 3
-ItalicCorrection: 3
-TopAccentHorizontal: 193
 HStem: -3 21G<38 63.5 187 212.5> 478 60<99 149 99 159>
 VStem: 90 70<62 279 279 294>
 LayerCount: 2

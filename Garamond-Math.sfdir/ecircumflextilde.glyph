@@ -1,11 +1,11 @@
 StartChar: ecircumflextilde
 Encoding: 7877 7877 449
-Width: 390
+Width: 380
+ItalicCorrection: 9
+TopAccentHorizontal: 219
 GlyphClass: 2
 Flags: MW
 TeX: 720 14
-ItalicCorrection: 12
-TopAccentHorizontal: 275
 HStem: -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5> 649 52 649 56
 VStem: 30 64<172 234.5 172 260.5> 294 66<308 325 277.5 334>
 LayerCount: 2

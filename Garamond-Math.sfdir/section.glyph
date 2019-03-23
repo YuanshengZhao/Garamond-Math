@@ -1,6 +1,8 @@
 StartChar: section
 Encoding: 167 167 103
-Width: 400
+Width: 384
+ItalicCorrection: 15
+TopAccentHorizontal: 198
 Flags: MW
 LayerCount: 2
 Fore

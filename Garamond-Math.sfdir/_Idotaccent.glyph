@@ -1,10 +1,10 @@
 StartChar: Idotaccent
 Encoding: 304 304 240
 Width: 340
+TopAccentHorizontal: 169
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
-TopAccentHorizontal: 248
 HStem: -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5> 695 110<155 185>
 VStem: 115 110<735 765> 130 80<98 550>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: scedilla
 Encoding: 351 351 287
-Width: 323
+Width: 312
+ItalicCorrection: 10
+TopAccentHorizontal: 169
 GlyphClass: 2
 Flags: MW
 TeX: 414 274
-ItalicCorrection: 10
-TopAccentHorizontal: 221
 HStem: -274 49<99.5 159> -14 27<133.5 144 144 158> 386 28<154.5 190>
 VStem: 47 60<311.5 331> 185 50<-179 -160.5> 223 68<79.5 99>
 LayerCount: 2

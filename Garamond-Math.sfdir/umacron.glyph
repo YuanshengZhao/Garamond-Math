@@ -1,10 +1,10 @@
 StartChar: umacron
 Encoding: 363 363 299
 Width: 527
+TopAccentHorizontal: 249
 GlyphClass: 2
 Flags: MW
 TeX: 555 19
-TopAccentHorizontal: 303
 HStem: -14 51<217.5 230> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5> 500 55<142.5 359 156 341>
 VStem: 85 70<105 128 128 308 308 322.5> 368 70<132 315 315 326>
 LayerCount: 2

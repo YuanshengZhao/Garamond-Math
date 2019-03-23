@@ -1,7 +1,9 @@
 StartChar: N
 Encoding: 78 78 47
 AltUni2: 00039d.ffffffff.0
-Width: 792
+Width: 712
+ItalicCorrection: 79
+TopAccentHorizontal: 389
 GlyphClass: 2
 Flags: MW
 TeX: 658 17

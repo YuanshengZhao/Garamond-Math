@@ -1,11 +1,11 @@
 StartChar: fahrenheit
 Encoding: 8457 8457 590
-Width: 763
+Width: 631
+ItalicCorrection: 131
+TopAccentHorizontal: 409
 GlyphClass: 2
 Flags: MW
 TeX: 660 5
-ItalicCorrection: 131
-TopAccentHorizontal: 406
 HStem: -5 21G<301.5 337 507 542.5> 319 31 391 20G<663.5 668.5> 402 42<124 166 124 176.5> 602 43<124 166> 617 33<488 495 495 614 614 622> 617 36 640 20G<701 716.5>
 VStem: 25 43<502 545 502 558> 222 43<502 545> 381 80<261.5 300.5 366.5 372 261.5 522>
 LayerCount: 2

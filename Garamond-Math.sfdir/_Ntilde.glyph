@@ -1,11 +1,11 @@
 StartChar: Ntilde
 Encoding: 209 209 145
-Width: 792
+Width: 712
+ItalicCorrection: 79
+TopAccentHorizontal: 419
 GlyphClass: 2
 Flags: MW
 TeX: 824 17
-ItalicCorrection: 79
-TopAccentHorizontal: 504
 HStem: -5 21G<53.5 89 220 255.5> 630 20G<581 638 638 662> 633 20G<153 195 722.5 761.5> 638 20G<31.5 35> 727 65<347.5 364.5>
 VStem: 142 42<479 483 479 542.5> 643 41
 LayerCount: 2

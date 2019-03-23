@@ -1,10 +1,10 @@
 StartChar: acircumflexdotbelow
 Encoding: 7853 7853 425
 Width: 399
+TopAccentHorizontal: 200
 GlyphClass: 2
 Flags: MW
 TeX: 648 192
-TopAccentHorizontal: 255
 HStem: -176 101<178 206.5> -14 48<99 177> -14 52 365 49<171 253>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 142 101<-140 -111.5> 239 69.5
 LayerCount: 2

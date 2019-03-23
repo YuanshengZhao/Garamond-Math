@@ -1,11 +1,11 @@
 StartChar: rcommaaccent
 Encoding: 343 343 279
-Width: 334
+Width: 255
+ItalicCorrection: 78
+TopAccentHorizontal: 194
 GlyphClass: 2
 Flags: MW
 TeX: 430 275
-ItalicCorrection: 78
-TopAccentHorizontal: 244
 HStem: -3 21G<42 69 197 224> 330 84<286 295 261.5 300> 348 66<214 295> 394 20G<261.5 295>
 VStem: 90 71<62 264> 147 52<-195 -169>
 LayerCount: 2

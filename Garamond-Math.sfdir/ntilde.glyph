@@ -1,10 +1,10 @@
 StartChar: ntilde
 Encoding: 241 241 177
 Width: 528
+TopAccentHorizontal: 259
 GlyphClass: 2
 Flags: MW
 TeX: 605 3
-TopAccentHorizontal: 318
 HStem: -3 21G<38 64 186 212.5 319.5 343 465 489> 366 48<255 358.5> 500 67<207.5 222>
 VStem: 90 70<62 277 277 295> 369 70<62 272 272 275>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: Gamma
 Encoding: 915 915 369
-Width: 517
+Width: 374
+ItalicCorrection: 142
+TopAccentHorizontal: 272
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 142
-TopAccentHorizontal: 333
 HStem: -5 21G<39.5 75 266 301.5> 618 32<236.5 252 252 384> 618 35
 VStem: 130 80<98 550 550 556>
 LayerCount: 2

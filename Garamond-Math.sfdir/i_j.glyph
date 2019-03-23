@@ -1,11 +1,11 @@
 StartChar: i_j
 Encoding: 307 307 243
-Width: 463
+Width: 454
+ItalicCorrection: 8
+TopAccentHorizontal: 238
 GlyphClass: 2
 Flags: MW
 TeX: 617 287
-ItalicCorrection: 8
-TopAccentHorizontal: 308
 HStem: -287 21G<234.5 258> -3 21G<38 63.5 187 212.5> 516 101<110 138.5 339 367.5>
 VStem: 74 101<552 580.5> 90 70<62 279 279 294> 303 101<552 580.5> 326 70<69 91 91 275>
 LayerCount: 2

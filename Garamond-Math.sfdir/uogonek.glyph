@@ -1,10 +1,10 @@
 StartChar: uogonek
 Encoding: 371 371 307
 Width: 527
+TopAccentHorizontal: 237
 GlyphClass: 2
 Flags: MW
 TeX: 415 287
-TopAccentHorizontal: 284
 HStem: -287 66<430 442> -14 51<217.5 230> 18 27<451 489> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5>
 VStem: 85 70<105 128 128 308 308 322.5> 313 74<-174 -135> 368 70<132 315 315 326>
 LayerCount: 2

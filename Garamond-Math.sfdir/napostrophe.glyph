@@ -1,10 +1,10 @@
 StartChar: napostrophe
 Encoding: 329 329 265
 Width: 609
+TopAccentHorizontal: 68
 GlyphClass: 2
 Flags: MW
 TeX: 690 3
-TopAccentHorizontal: 159
 HStem: -3 21G<119 145 267 293.5 400.5 424 546 570> 366 48<336 439.5>
 VStem: 89 52<542.5 566> 171 70<62 277 277 295> 450 70<62 272 272 275>
 LayerCount: 2

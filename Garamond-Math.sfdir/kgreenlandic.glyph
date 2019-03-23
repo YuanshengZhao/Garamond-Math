@@ -1,10 +1,10 @@
 StartChar: kgreenlandic
 Encoding: 312 312 248
 Width: 474
+TopAccentHorizontal: 226
 GlyphClass: 2
 Flags: MW
 TeX: 434 5
-TopAccentHorizontal: 268
 HStem: -5 21G<443.5 467.5> -3 21G<44.5 66.5 175.5 197.5> 0 21G<279.5 282 282 340> 380 20G<300 349 349 367> 392 20G<445 446.5>
 VStem: 90 70<65 195 227.5 231 231 279 279 294>
 LayerCount: 2

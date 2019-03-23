@@ -1,6 +1,8 @@
 StartChar: G
 Encoding: 71 71 40
-Width: 729
+Width: 681
+ItalicCorrection: 47
+TopAccentHorizontal: 427
 GlyphClass: 2
 Flags: MW
 TeX: 663 14

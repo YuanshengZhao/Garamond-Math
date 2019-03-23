@@ -1,10 +1,10 @@
 StartChar: adieresis
 Encoding: 228 228 164
 Width: 399
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 608 14
-TopAccentHorizontal: 250
 HStem: -14 48<99 177> -14 52 365 49<171 253> 508 100<100.5 125.5 277.5 302.5>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 63 100<545.5 570.5> 239 69.5 240 100<545.5 570.5>
 LayerCount: 2

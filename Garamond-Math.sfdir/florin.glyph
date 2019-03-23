@@ -1,11 +1,11 @@
 StartChar: florin
 Encoding: 402 402 320
-Width: 313
+Width: 149
+ItalicCorrection: 163
+TopAccentHorizontal: 277
 GlyphClass: 2
 Flags: MW
 TeX: 663 207
-ItalicCorrection: 163
-TopAccentHorizontal: 436
 HStem: -207 40<-12 -7> 357 39 363 40<280 288.5> 380 20G<186 209> 622 41<244 270>
 VStem: 106 60 118 60
 LayerCount: 2

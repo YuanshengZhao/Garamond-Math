@@ -1,6 +1,7 @@
 StartChar: uni018E
-Encoding: 398 398 4811
+Encoding: 398 398 4807
 Width: 535
+TopAccentHorizontal: 260
 Flags: W
 HStem: -5 40 320 32<171 293 194 277> 618 32<263 275> 618 35
 VStem: 311 80<102 294 294 305.5 374 549>

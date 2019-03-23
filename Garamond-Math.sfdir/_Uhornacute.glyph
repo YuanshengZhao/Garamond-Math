@@ -1,11 +1,11 @@
 StartChar: Uhornacute
 Encoding: 7912 7912 484
-Width: 738
+Width: 579
+ItalicCorrection: 158
+TopAccentHorizontal: 573
 GlyphClass: 2
 Flags: MW
 TeX: 828 14
-ItalicCorrection: 158
-TopAccentHorizontal: 652
 HStem: -14 50<337 452> 631 20G<534.5 555> 633 20G<44.5 68>
 VStem: 103 80<322 547 547 549> 730 52<684 684.5>
 LayerCount: 2

@@ -1,6 +1,8 @@
 StartChar: cent
 Encoding: 162 162 98
-Width: 422
+Width: 297
+ItalicCorrection: 124
+TopAccentHorizontal: 254
 Flags: MW
 LayerCount: 2
 Fore

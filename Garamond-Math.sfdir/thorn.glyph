@@ -1,11 +1,11 @@
 StartChar: thorn
 Encoding: 254 254 190
-Width: 505
+Width: 444
+ItalicCorrection: 60
+TopAccentHorizontal: 111
 GlyphClass: 2
 Flags: MW
 TeX: 705 285
-ItalicCorrection: 60
-TopAccentHorizontal: 198
 HStem: -285 21G<34.5 58.5 175.5 199.5> -14 31<249 290.5 249 319> 369 45<285.5 286.5> 685 20G<155.5 157.5>
 VStem: 85 70<-219 -33 105.5 115 115 269 374.5 386 386 562> 401 80<165.5 270>
 LayerCount: 2

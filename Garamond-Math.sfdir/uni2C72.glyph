@@ -1,9 +1,9 @@
 StartChar: uni2C72
 Encoding: 11378 11378 1363
-Width: 875
-Flags: MW
+Width: 676
 ItalicCorrection: 198
-TopAccentHorizontal: 518
+TopAccentHorizontal: 489
+Flags: MW
 HStem: -12 21G<619.5 625> 545 107<195 219.5> 596 70<846 924> 633 20G<20.5 44.5 285.5 309.5 650 670.5>
 VStem: 457.75 72.62
 LayerCount: 2

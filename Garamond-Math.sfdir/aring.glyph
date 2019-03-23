@@ -1,10 +1,10 @@
 StartChar: aring
 Encoding: 229 229 165
 Width: 399
+TopAccentHorizontal: 200
 GlyphClass: 2
 Flags: MW
 TeX: 647 14
-TopAccentHorizontal: 252
 HStem: -14 48<99 177> -14 52 365 49<171 253> 480 26<191 220 191 220> 620 27<182 209>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 117 41<551.5 582 551.5 585> 239 69.5 244 41<546 576>
 LayerCount: 2

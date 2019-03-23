@@ -1,10 +1,10 @@
 StartChar: uring
 Encoding: 367 367 303
 Width: 527
+TopAccentHorizontal: 251
 GlyphClass: 2
 Flags: MW
 TeX: 647 19
-TopAccentHorizontal: 313
 HStem: -14 51<217.5 230> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5> 480 26<242 271 242 271> 620 27<233 260>
 VStem: 85 70<105 128 128 308 308 322.5> 168 41<551.5 582 551.5 585> 295 41<546 576> 368 70<132 315 315 326>
 LayerCount: 2

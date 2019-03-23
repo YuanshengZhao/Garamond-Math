@@ -1,11 +1,11 @@
 StartChar: beta
 Encoding: 946 946 381
-Width: 510
+Width: 476
+ItalicCorrection: 33
+TopAccentHorizontal: 234
 GlyphClass: 2
 Flags: MW
 TeX: 705 285
-ItalicCorrection: 33
-TopAccentHorizontal: 288
 HStem: -285 21G<96 120.5> -14 64<242 303> 636 69<207.5 285 169 287.5>
 VStem: 60 41<-118 -78 -78 50 126.5 163> 354 32<487 552> 425 49<152.5 206 112 218>
 LayerCount: 2

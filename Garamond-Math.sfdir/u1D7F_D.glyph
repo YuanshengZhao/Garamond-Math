@@ -1,11 +1,11 @@
 StartChar: u1D7FD
 Encoding: 120829 120829 2265
-Width: 524
+Width: 357
+ItalicCorrection: 166
+TopAccentHorizontal: 260
 GlyphClass: 2
 Flags: MW
 TeX: 604 1
-ItalicCorrection: 166
-TopAccentHorizontal: 292
 HStem: 489 124<73.5 79 79 88.5 68 91.5> 536 61<113 376 113 113>
 VStem: 44 69<512 525 525 536 511 590 511 590> 169 70<27 32 20 33>
 LayerCount: 2

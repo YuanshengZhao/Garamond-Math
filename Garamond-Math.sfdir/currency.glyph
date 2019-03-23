@@ -1,6 +1,8 @@
 StartChar: currency
 Encoding: 164 164 100
-Width: 506
+Width: 486
+ItalicCorrection: 19
+TopAccentHorizontal: 252
 Flags: MW
 LayerCount: 2
 Fore

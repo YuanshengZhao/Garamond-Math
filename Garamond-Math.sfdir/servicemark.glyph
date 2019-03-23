@@ -1,10 +1,10 @@
 StartChar: servicemark
 Encoding: 8480 8480 607
 Width: 904
+TopAccentHorizontal: 449
 GlyphClass: 2
 Flags: MW
 TeX: 676 -269
-TopAccentHorizontal: 482
 HStem: 269 27<139 185.5 139 203> 280 99.75 581.88 91.12 591 82 651 25<155.5 187.5>
 VStem: 50 53<575 600> 233 64<359 380.5> 734 65.5
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: Iacute
 Encoding: 205 205 141
 Width: 340
+TopAccentHorizontal: 228
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-TopAccentHorizontal: 308
 HStem: -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5>
 VStem: 130 80<98 550>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: rho
 Encoding: 961 961 396
-Width: 426
+Width: 385
+ItalicCorrection: 40
+TopAccentHorizontal: 231
 GlyphClass: 2
 Flags: MW
 TeX: 414 285
-ItalicCorrection: 40
-TopAccentHorizontal: 261
 HStem: -285 21G<103 127.5> -14 78<202.5 227.5 151 261> 47.18 16.82 345 69<226 292>
 VStem: 63 49<166.5 197.5 95.5 264.5> 353 38<188.5 259 142.5 273>
 LayerCount: 2

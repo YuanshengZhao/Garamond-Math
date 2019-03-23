@@ -1,6 +1,8 @@
 StartChar: r
 Encoding: 114 114 83
-Width: 334
+Width: 255
+ItalicCorrection: 78
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 430 3

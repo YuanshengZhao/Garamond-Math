@@ -1,10 +1,10 @@
 StartChar: Delta
 Encoding: 916 916 370
 Width: 676
+TopAccentHorizontal: 349
 GlyphClass: 2
 Flags: MW
 TeX: 670 0
-TopAccentHorizontal: 387
 HStem: 0 55<151 485 485 491 151 601>
 VStem: 33 583<15 19>
 LayerCount: 2

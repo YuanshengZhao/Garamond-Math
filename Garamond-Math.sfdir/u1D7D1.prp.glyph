@@ -1,9 +1,9 @@
 StartChar: u1D7D1.prp
-Encoding: 1116524 -1 4734
-Width: 469
+Encoding: 1116524 -1 4730
+Width: 439
+ItalicCorrection: 51
+TopAccentHorizontal: 225
 Flags: MW
-ItalicCorrection: 50
-TopAccentHorizontal: 221
 HStem: -38 43<157 204.5 157 211.5> 289 69<173.5 305.5> 559 70<168.5 205.5>
 VStem: 261 127<485 501.5> 288 145<128.5 189>
 LayerCount: 2

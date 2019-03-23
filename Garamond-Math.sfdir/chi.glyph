@@ -1,10 +1,10 @@
 StartChar: chi
 Encoding: 967 967 402
 Width: 438
+TopAccentHorizontal: 212
 GlyphClass: 2
 Flags: MW
 TeX: 414 290
-TopAccentHorizontal: 263
 HStem: -290 21G -269 88<344 372.5> 328 86<56.5 117>
 VStem: 217 24
 LayerCount: 2

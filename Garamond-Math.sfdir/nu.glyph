@@ -1,11 +1,11 @@
 StartChar: nu
 Encoding: 957 957 392
-Width: 405
+Width: 302
+ItalicCorrection: 102
+TopAccentHorizontal: 188
 GlyphClass: 2
 Flags: MW
 TeX: 418 14
-ItalicCorrection: 102
-TopAccentHorizontal: 228
 HStem: -14 21G<151 162> 328 86<65.5 92.5>
 VStem: 152 34<104.5 166.5 104.5 185> 317 53<270 346.5>
 LayerCount: 2

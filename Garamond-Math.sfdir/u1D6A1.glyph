@@ -1,10 +1,10 @@
 StartChar: u1D6A1
 Encoding: 120481 120481 2038
 Width: 524
+TopAccentHorizontal: 257
 GlyphClass: 2
 Flags: MW
 TeX: 417 0
-TopAccentHorizontal: 282
 HStem: 0 61 369 61<183 195 183 183>
 VStem: 34 197
 LayerCount: 2

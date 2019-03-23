@@ -1,9 +1,9 @@
 StartChar: uniA7FB
 Encoding: 43003 43003 1448
 Width: 512
+TopAccentHorizontal: 250
 GlyphClass: 2
 Flags: MW
-TopAccentHorizontal: 291
 HStem: -5 21G<220.5 256 426 461.5> 319 31 391 20G<94.5 99.5> 617 33<128.5 275 149 268> 617 36 617 43
 VStem: 302 80<261.5 300.5 366.5 372>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: pi
 Encoding: 960 960 395
-Width: 521
+Width: 458
+ItalicCorrection: 62
+TopAccentHorizontal: 303
 GlyphClass: 2
 Flags: MW
 TeX: 430 17
-ItalicCorrection: 62
-TopAccentHorizontal: 349
 HStem: -14 91 332 68<408.5 491.5> 336 64<408.5 418> 337 73 345 65<133.5 179.5>
 VStem: 110 68 313 40<100.5 111>
 LayerCount: 2

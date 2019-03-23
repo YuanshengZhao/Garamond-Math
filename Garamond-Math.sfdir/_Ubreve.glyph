@@ -1,11 +1,11 @@
 StartChar: Ubreve
 Encoding: 364 364 300
-Width: 738
+Width: 607
+ItalicCorrection: 130
+TopAccentHorizontal: 390
 GlyphClass: 2
 Flags: MW
 TeX: 820 14
-ItalicCorrection: 130
-TopAccentHorizontal: 467
 HStem: -14 50<332 445.5> 633 20G<44.5 68 687.5 707.5> 692 60<368.5 411.5 368.5 432.5>
 VStem: 103 80<240 268 268 547 547 549>
 LayerCount: 2

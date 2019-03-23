@@ -1,11 +1,11 @@
 StartChar: omicron
 Encoding: 959 959 394
-Width: 400
+Width: 358
+ItalicCorrection: 41
+TopAccentHorizontal: 207
 GlyphClass: 2
 Flags: MW
 TeX: 414 14
-ItalicCorrection: 41
-TopAccentHorizontal: 251
 HStem: -14 72<130.5 204 130.5 230> 339 75<190 264.5>
 VStem: 35 40<146 211.5 135.5 250.5> 325 40<184 247 140 259.5>
 LayerCount: 2

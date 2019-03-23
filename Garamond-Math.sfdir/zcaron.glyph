@@ -1,11 +1,11 @@
 StartChar: zcaron
 Encoding: 382 382 318
-Width: 377
+Width: 362
+ItalicCorrection: 14
+TopAccentHorizontal: 201
 GlyphClass: 2
 Flags: MW
 TeX: 648 5
-ItalicCorrection: 14
-TopAccentHorizontal: 265
 HStem: -5 38 368 34 385 20G<351 353.5>
 VStem: 25 349<9.5 127.5>
 LayerCount: 2

@@ -1,11 +1,11 @@
 StartChar: itilde
 Encoding: 297 297 233
-Width: 245
+Width: 195
+ItalicCorrection: 49
+TopAccentHorizontal: 144
 GlyphClass: 2
 Flags: MW
 TeX: 605 3
-ItalicCorrection: 49
-TopAccentHorizontal: 233
 HStem: -3 21G<38 63.5 187 212.5> 500 67<74.5 89>
 VStem: 90 70<62 279 279 294>
 LayerCount: 2

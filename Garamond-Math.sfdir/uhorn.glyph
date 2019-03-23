@@ -1,11 +1,11 @@
 StartChar: uhorn
 Encoding: 432 432 324
-Width: 561
+Width: 520
+ItalicCorrection: 40
+TopAccentHorizontal: 322
 GlyphClass: 2
 Flags: MW
 TeX: 537 19
-ItalicCorrection: 40
-TopAccentHorizontal: 372
 HStem: -14 51<217.5 230> 21 24 365 32<300.5 303> 394 20G
 VStem: 85 70<105 128 128 308 308 322.5> 368 70<132 315 315 326> 505 55<424 495.5>
 LayerCount: 2

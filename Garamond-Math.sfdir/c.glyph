@@ -1,6 +1,8 @@
 StartChar: c
 Encoding: 99 99 68
-Width: 407
+Width: 401
+ItalicCorrection: 5
+TopAccentHorizontal: 247
 GlyphClass: 2
 Flags: MW
 TeX: 414 15

@@ -1,11 +1,11 @@
 StartChar: Ldot
 Encoding: 319 319 255
-Width: 584
+Width: 564
+ItalicCorrection: 19
+TopAccentHorizontal: 183
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-ItalicCorrection: 19
-TopAccentHorizontal: 239
 HStem: -5 40 314 101<459 487.5> 633 20G<56.5 92 276 311.5>
 VStem: 130 80<96 560 560 567> 423 101<350 378.5>
 LayerCount: 2

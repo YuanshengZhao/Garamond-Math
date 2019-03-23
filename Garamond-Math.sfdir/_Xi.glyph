@@ -1,11 +1,11 @@
 StartChar: Xi
 Encoding: 926 926 373
-Width: 640
+Width: 616
+ItalicCorrection: 23
+TopAccentHorizontal: 334
 GlyphClass: 2
 Flags: MW
 TeX: 675 8
-ItalicCorrection: 23
-TopAccentHorizontal: 390
 HStem: -8 71 0 63<104 472 155 452> 308 65<202 424 223 404> 395 20G<474.5 480.5> 589 61<153.5 492 200 454>
 VStem: 29 581<3.5 143>
 LayerCount: 2

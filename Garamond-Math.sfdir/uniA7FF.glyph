@@ -1,9 +1,9 @@
 StartChar: uniA7FF
 Encoding: 43007 43007 1452
-Width: 1232
-Flags: MW
+Width: 1040
 ItalicCorrection: 191
-TopAccentHorizontal: 767
+TopAccentHorizontal: 733
+Flags: MW
 HStem: -15 21G<511.5 521 893.5 903> -5 21G<38.5 63.5> -1 21G<249 266.5> 633 20G<1196 1217.5>
 VStem: -2 1240<4 646>
 LayerCount: 2

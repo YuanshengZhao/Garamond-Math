@@ -1,10 +1,10 @@
 StartChar: hcircumflex
 Encoding: 293 293 229
 Width: 515
+TopAccentHorizontal: 106
 GlyphClass: 2
 Flags: MW
 TeX: 870 3
-TopAccentHorizontal: 233
 HStem: -3 21G<33 59 176 203.5 309 336 452 479> 362 52<282.5 286.5> 685 20G<156 159> 806 64
 VStem: 85 70<65 268 377.5 388 388 562> 358 70<68 272 272 278>
 LayerCount: 2

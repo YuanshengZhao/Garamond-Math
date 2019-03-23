@@ -7,7 +7,7 @@
 %\usepackage{extarrows}
 
 % \setmainfont{Source Serif Pro}
-\setmainfont{EB Garamond}%
+\setmainfont{EB Garamond}[Kerning=Off]%
 % [ Path = ../EBGaramond/,
 %   Extension = .otf,
 %   UprightFont = *-Regular,
@@ -20,9 +20,9 @@
 % \setmathfont{TeX Gyre Termes Math}
 % \setmathfont{XITS Math}
 % \setmathfont{Cambria Math}
-\setmathfont{Garamond-Math.otf}[StylisticSet={2,8,9,6},Path=./]
-\newfontfamily\GaramondMath{Garamond-Math.otf}[StylisticSet={1,7},Path=./]
-% \setmathfont{LibertinusMath-Regular.otf}[Path=../libertinus/]
+\setmathfont{Garamond-Math.otf}%[StylisticSet={2,8,9,6},Path=./]
+\newfontfamily\GaramondMath{Garamond-Math.otf}%[StylisticSet={1,7},Path=./]
+% \setmathfont{LibertinusMath-Regular.otf}
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
 
@@ -61,7 +61,7 @@
   { \tl_map_inline:nn {#2} { \[ \TOPACCENT{#1{##1}} \] } }
 \cs_generate_variant:Nn \fonttest_top_accent_map:Nn { Nx }
 \NewDocumentCommand \BRACKETMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert\!#1{##1}\!\rvert } \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{\QED}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
@@ -116,10 +116,6 @@
 \newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
 
 \begin{document}
-\begin{itemize}
-  \item Toh||
-  \item Tho||
-\end{itemize}
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
 \[\begin{split}
@@ -129,7 +125,8 @@
   \symbb{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\\
   \symbf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\\
 \end{split}\]
-\[A_A^AA_{AA}^{AA}A_x^x x_{AA}^{AA} x_A^A A_{xx}^{xx}\]
+It is known to all that $\sqrt 2$ is irrational.
+\[A_A^AA_{AA}^{AA}A_x^x x_{AA}^{AA} x_A^A A_{xx}^{xx}\xleftarrow{xyz}\]
 \[TT{}TLAPAVVAMAWABA\rho_A^V\rho_V^A\rho_{A{}}\rho_{AB}\rho_B\rho_C\rho_x\rho_{T{}}\rho_0[x,y]\sin x[x,y]j[x,y]z[x,y]\sinh xH\upEta T_kT_{k_k}\]
 \[[]\sinh\]
 \[[]\mathrm s\]
@@ -139,10 +136,23 @@ $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjh(x)$
 $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)\partial(x)\partial_\mu^\mu\symup\partial_\mu^\mu\partial_\mu g\symup\partial_\mu g O_xO_x^x\Theta_{i}\dd  x \partial x O_T\symup H_x\symup H_H$
 \[\partial_7^2\symup\partial_7^2\partial_7 g\symup\partial_7 g O_7O_7^7\Theta_{7}E_7\]
 \[V_{x}\]
-\[\hbar_{\hbar_\hbar} h_{h_h}\symbf{h_{h_h}}\sqrt[3]{x}\]
+\[\hbar_{\hbar_\hbar} h_{h_h}\symbf{h_{h_h}}\sqrt[3]{x}R=R\]
+% \begin{itemize} 
+%   \item $\symup{sin}\quad \text{sin}$
+%   \item $\symup{cos}\quad \text{cos}$
+%   \item $\symup{tan}\quad \text{tan}$
+%   \item $\symup{exp}\quad \text{exp}$
+%   \item $\symup{log}\quad \text{log}$
+%   \item $\symup{lim}\quad \text{lim}$
+%   \item $\symup{inf}\quad \text{inf}$
+%   \item $\symup{sup}\quad \text{sup}$
+%   \item $\symup{arg}\quad \text{arg}$
+%   \item $\symup{Li }\quad \text{Li }$
+%   \item $\symup{def}\quad \text{def}$
+%   \item $\symup{XZZXWTV}\quad \text{XZZXWTV}$
+% \end{itemize}
 
-
-$K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\rangle$
+$K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\rangle LWLNLXLAL=LR=R|L|\symbf{L=LR=R}$
 \[a_{ij}({{}j})ij TijT{ijT_oT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjflTlfxTx[f][j][y]\sin\cos\tan\exp\symup{WTV}(\symsf {fijk})\]
 \[ \Latinalphabets \latinalphabets \]
 \[ \textit{\Latinalphabets} \textit{\latinalphabets} \]

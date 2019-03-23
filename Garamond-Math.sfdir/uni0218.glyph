@@ -1,11 +1,11 @@
 StartChar: uni0218
 Encoding: 536 536 325
-Width: 465
+Width: 428
+ItalicCorrection: 36
+TopAccentHorizontal: 250
 GlyphClass: 2
 Flags: MW
 TeX: 664 275
-ItalicCorrection: 36
-TopAccentHorizontal: 310
 HStem: -16 33<189.5 252.5 189.5 269.5> 630 34<222 280.5>
 VStem: 60 77<486 532.5> 239 52<-195 -169> 338 84<120.5 180>
 LayerCount: 2

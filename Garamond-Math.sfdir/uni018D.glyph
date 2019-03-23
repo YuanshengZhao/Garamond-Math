@@ -1,6 +1,8 @@
 StartChar: uni018D
-Encoding: 397 397 4810
-Width: 481
+Encoding: 397 397 4806
+Width: 430
+ItalicCorrection: 50
+TopAccentHorizontal: 243
 Flags: W
 HStem: -287 21G<52 54.5> -264 76<132 163> 384 30<217 272>
 VStem: 35 82<159.5 233.5 159.5 245.5> 352 39<-174.5 -151> 364 82<167.5 236.5>

@@ -1,10 +1,10 @@
 StartChar: ugrave
 Encoding: 249 249 185
 Width: 527
+TopAccentHorizontal: 190
 GlyphClass: 2
 Flags: MW
 TeX: 649 19
-TopAccentHorizontal: 253
 HStem: -14 51<217.5 230> 365 32<295.5 301 295.5 311> 394 20G<149.5 154> 395 20G<432.5 437.5>
 VStem: 85 70<105 128 128 308 308 322.5> 368 70<132 315 315 326>
 LayerCount: 2

@@ -1,10 +1,10 @@
 StartChar: abrevetilde
 Encoding: 7861 7861 433
 Width: 399
+TopAccentHorizontal: 188
 GlyphClass: 2
 Flags: MW
 TeX: 694 14
-TopAccentHorizontal: 240
 HStem: -14 48<99 177> -14 52 365 49<171 253> 457 56<174 210.5 174 227> 631 61<137.5 156>
 VStem: 37 78<69.5 93> 40 76<271.5 324> 239 69.5
 LayerCount: 2

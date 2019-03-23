@@ -1,11 +1,11 @@
 StartChar: oe
 Encoding: 339 339 275
-Width: 758
+Width: 750
+ItalicCorrection: 7
+TopAccentHorizontal: 414
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
-ItalicCorrection: 7
-TopAccentHorizontal: 453
 HStem: -15 61<573.5 607.5> -14 30<215 277.5 215 279> 257 31<477.5 580 489 580 580 596 489 698> 383 31<219 279.5>
 VStem: 35 82<160.5 234 160.5 242.5> 378 84<172 234.5 172 236.5> 662 66<308 325 277.5 334>
 LayerCount: 2

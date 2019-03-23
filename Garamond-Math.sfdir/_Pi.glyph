@@ -1,10 +1,10 @@
 StartChar: Pi
 Encoding: 928 928 374
 Width: 828
+TopAccentHorizontal: 414
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
-TopAccentHorizontal: 457
 HStem: -5 21G<57.5 93 284 319.5 505.5 541 732 767.5> 608 41<162.5 233> 608 45
 VStem: 148 76.25 595 81<99 550 517.5 550>
 LayerCount: 2

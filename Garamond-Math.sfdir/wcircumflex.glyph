@@ -1,11 +1,11 @@
 StartChar: wcircumflex
 Encoding: 373 373 309
-Width: 685
+Width: 549
+ItalicCorrection: 135
+TopAccentHorizontal: 343
 GlyphClass: 2
 Flags: MW
 TeX: 648 23
-ItalicCorrection: 135
-TopAccentHorizontal: 410
 HStem: 251 154 385 20G<21.5 37.5 167 183.5 268 281 420 434.5 533.5 551.5 659 674>
 VStem: 326 68<313.5 354>
 LayerCount: 2
