@@ -1,7 +1,7 @@
 StartChar: arrowdbldown
 Encoding: 8659 8659 740
 Width: 460
-Flags: MW
+Flags: HMW
 GlyphCompositionVertical: 2  arrowdbldown(⇓)%1,0,281,842 arrowdblup.ex%1,810,810,810
 LayerCount: 2
 Fore
@@ -34,5 +34,4 @@ SplineSet
  277 587 l 2
  277 605 302 619 312 619 c 0
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,17 +1,16 @@
 StartChar: minus
 Encoding: 8722 8722 803
-Width: 680
-Flags: MW
+Width: 600
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-104 222 m 2
- 97 222 90 228 90 234 c 0
- 90 243 93 282 114 282 c 2
- 577 282 l 2
- 583 282 590 276 590 270 c 0
- 590 248 577 222 559 222 c 2
- 104 222 l 2
+64 222 m 2
+ 57 222 50 228 50 234 c 0
+ 50 243 53 282 74 282 c 2
+ 537 282 l 2
+ 543 282 550 276 550 270 c 0
+ 550 248 537 222 519 222 c 2
+ 64 222 l 2
 EndSplineSet
-Validated: 1
 EndChar

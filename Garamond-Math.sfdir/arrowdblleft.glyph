@@ -1,7 +1,7 @@
 StartChar: arrowdblleft
 Encoding: 8656 8656 737
 Width: 1000
-Flags: MW
+Flags: HMW
 GlyphCompositionHorizontal: 3  arrowdblleft(⇐)%0,0,150,1000 arrowdblleft.ex%1,300,300,300 arrowdblleft.ed%0,150,0,360
 LayerCount: 2
 Fore
@@ -34,5 +34,4 @@ SplineSet
  140 303 197 360 254 419 c 0
  260 425 272 430 281 430 c 0
 EndSplineSet
-Validated: 1
 EndChar

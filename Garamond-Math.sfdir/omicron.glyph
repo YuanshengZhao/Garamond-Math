@@ -1,25 +1,26 @@
 StartChar: omicron
 Encoding: 959 959 394
-Width: 445
+Width: 400
 GlyphClass: 2
 Flags: MW
 TeX: 414 14
 ItalicCorrection: 41
 TopAccentHorizontal: 251
+HStem: -14 72<130.5 204 130.5 230> 339 75<190 264.5>
+VStem: 35 40<146 211.5 135.5 250.5> 325 40<184 247 140 259.5>
 LayerCount: 2
 Fore
 SplineSet
-218 -14 m 0
- 120 -14 78 97 78 195 c 0
- 78 306 147 414 258 414 c 0
- 362 414 408 299 408 195 c 0
- 408 85 328 -14 218 -14 c 0
-198 58 m 0
- 296 58 368 133 368 235 c 0
- 368 284 332 339 283 339 c 0
- 183 339 118 263 118 160 c 0
- 118 111 149 58 198 58 c 0
+175 -14 m 0
+ 77 -14 35 97 35 195 c 0
+ 35 306 104 414 215 414 c 0
+ 319 414 365 299 365 195 c 0
+ 365 85 285 -14 175 -14 c 0
+155 58 m 0
+ 253 58 325 133 325 235 c 0
+ 325 284 289 339 240 339 c 0
+ 140 339 75 263 75 160 c 0
+ 75 111 106 58 155 58 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" omicron.s omicron.ss
 EndChar

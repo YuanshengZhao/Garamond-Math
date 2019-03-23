@@ -1,11 +1,13 @@
 StartChar: u1D6C1
 Encoding: 120513 120513 2055
-Width: 575
+Width: 688
 GlyphClass: 2
 Flags: MW
 TeX: 643 26
 ItalicCorrection: 159
 TopAccentHorizontal: 373
+HStem: 581 62<259.5 265 265 544>
+VStem: 79 587<606.5 617.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -33,7 +35,6 @@ SplineSet
  573 550 576 558 576 564 c 0
  576 580 560 581 544 581 c 2
 EndSplineSet
-Validated: 1
 Substitution2: "'ss04' Style Set 4" u1D6C1.sb
 Substitution2: "'ss05' Style Set 5" u1D6C1.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6C1.s u1D6C1.ss

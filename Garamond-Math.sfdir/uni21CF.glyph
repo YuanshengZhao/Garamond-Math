@@ -1,7 +1,7 @@
 StartChar: uni21CF
 Encoding: 8655 8655 736
 Width: 1000
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -56,5 +56,4 @@ SplineSet
  787.119 294.426 781.667 297 775 297 c 2
  555 297 l 2
 EndSplineSet
-Validated: 1
 EndChar

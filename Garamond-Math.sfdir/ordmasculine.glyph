@@ -2,6 +2,8 @@ StartChar: ordmasculine
 Encoding: 186 186 122
 Width: 309
 Flags: MW
+HStem: 161 35<35.5 271 49 253> 268 29<138 182 138 193> 493 31<126.5 171.5>
+VStem: 25 63<374.5 425 374.5 425> 221 63<369 415>
 LayerCount: 2
 Fore
 SplineSet
@@ -24,5 +26,4 @@ SplineSet
  25 182 36 196 49 196 c 2
  271 196 l 2
 EndSplineSet
-Validated: 1
 EndChar
