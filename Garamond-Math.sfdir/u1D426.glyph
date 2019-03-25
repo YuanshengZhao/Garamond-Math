@@ -1,16 +1,14 @@
 StartChar: u1D426
 Encoding: 119846 119846 1526
 Width: 825
-TopAccentHorizontal: 385
 GlyphClass: 2
 Flags: MW
 TeX: 447 3
-HStem: -3 21G<36.5 61 224 248 306 330 486 510.5 565.5 590 753 777.5> 350 82 412 20G<338.5 389.5 589.5 652.5>
-VStem: 82 131<69 288> 341 131<63 69 69 268 268 284> 600 132<63 69 69 268 268 289>
+TopAccentHorizontal: 385
 LayerCount: 2
 Fore
 SplineSet
-51 -3 m 0xbc
+51 -3 m 0
  42 -3 31 2 31 11 c 0
  31 22 42 27 54 31 c 0
  74 37 92 42 92 69 c 2
@@ -54,13 +52,13 @@ SplineSet
  351 268 l 2
  351 317 329 348 296 349 c 0
  279 349 258 343 236 327 c 0
- 226 319 223 307 223 288 c 2xdc
+ 226 319 223 307 223 288 c 2
  223 69 l 2
  223 45 231 37 251 31 c 0
  262 27 270 21 270 11 c 0
  270 3 262 -3 254 -3 c 0
  214 -3 191 2 156 2 c 0
- 121 2 91 -3 51 -3 c 0xbc
+ 121 2 91 -3 51 -3 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D426.s u1D426.ss
 Substitution2: "'ss04' Style Set 4" u1D426.sb

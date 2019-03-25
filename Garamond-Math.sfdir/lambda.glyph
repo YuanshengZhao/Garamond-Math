@@ -1,17 +1,15 @@
 StartChar: lambda
 Encoding: 955 955 390
 Width: 467
-ItalicCorrection: 1
-TopAccentHorizontal: 103
 GlyphClass: 2
 Flags: MW
 TeX: 699 18
-HStem: -15 21G<364.5 402.5> -15 87<378 386 378 402.5> 628 71<82.5 131>
-VStem: -10 475
+ItalicCorrection: 1
+TopAccentHorizontal: 103
 LayerCount: 2
 Fore
 SplineSet
-87 -18 m 0xb0
+87 -18 m 0
  73 -18 29 0 29 18 c 0
  29 32 29 29 39 44 c 0
  90 120 198 281 228 377 c 0
@@ -23,7 +21,7 @@ SplineSet
  -10 632 55 699 110 699 c 0
  209 699 240 563 276 355 c 0
  289 280 306 196 327 122 c 0
- 339 80 370 72 386 72 c 0x70
+ 339 80 370 72 386 72 c 0
  422 71 446 88 454 88 c 0
  459 88 465 84 465 79 c 0
  465 26 424 -15 381 -15 c 0
@@ -31,7 +29,7 @@ SplineSet
  284 114 263 219 254 288 c 0
  253 293 250 294 248 289 c 0
  224 229 156 100 110 18 c 0
- 107 12 95 -18 87 -18 c 0xb0
+ 107 12 95 -18 87 -18 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" lambda.s lambda.ss
 EndChar

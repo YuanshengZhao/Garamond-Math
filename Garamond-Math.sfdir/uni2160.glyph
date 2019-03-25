@@ -1,11 +1,9 @@
 StartChar: uni2160
 Encoding: 8544 8544 641
 Width: 340
-TopAccentHorizontal: 172
 GlyphClass: 2
 Flags: MW
-HStem: -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5>
-VStem: 130 80<98 550>
+TopAccentHorizontal: 172
 LayerCount: 2
 Fore
 SplineSet

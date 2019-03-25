@@ -1,13 +1,11 @@
 StartChar: gamma
 Encoding: 947 947 382
 Width: 308
-ItalicCorrection: 121
-TopAccentHorizontal: 207
 GlyphClass: 2
 Flags: MW
 TeX: 426 285
-HStem: -285 21G<172 188.5> 330 84
-VStem: 197 26
+ItalicCorrection: 121
+TopAccentHorizontal: 207
 LayerCount: 2
 Fore
 SplineSet

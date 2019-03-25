@@ -1,16 +1,14 @@
 StartChar: lcommaaccent
 Encoding: 316 316 252
 Width: 240
-TopAccentHorizontal: 106
 GlyphClass: 2
 Flags: MW
 TeX: 705 275
-HStem: -3 21G<35.5 58.5 181.5 204.5> 685 20G<156 158.5>
-VStem: 85 70<62 562> 135 52<-195 -169>
+TopAccentHorizontal: 106
 LayerCount: 2
 Fore
 SplineSet
-39 -3 m 0xe0
+39 -3 m 0
  32 -3 19 -2 19 6 c 0
  19 16 31 20 42 24 c 0
  62 30 85 35 85 62 c 2
@@ -27,7 +25,7 @@ SplineSet
  209 20 221 16 221 6 c 0
  221 -2 208 -3 201 -3 c 0
  162 -3 155 2 120 2 c 0
- 85 2 78 -3 39 -3 c 0xe0
+ 85 2 78 -3 39 -3 c 0
 79 -275 m 0
  71 -275 66 -271 66 -266 c 0
  66 -261 71 -256 80 -253 c 0
@@ -35,7 +33,7 @@ SplineSet
  135 -155 120 -148 92 -141 c 0
  68 -135 54 -124 54 -97 c 0
  54 -74 72 -57 99 -57 c 0
- 147 -57 187 -98 187 -158 c 0xd0
+ 147 -57 187 -98 187 -158 c 0
  187 -232 113 -275 79 -275 c 0
 EndSplineSet
 EndChar

@@ -1,12 +1,10 @@
 StartChar: q
 Encoding: 113 113 82
 Width: 522
-TopAccentHorizontal: 291
 GlyphClass: 2
 Flags: MW
 TeX: 421 285
-HStem: -285 21G<327.5 351 482 506> -14 53<242 261.5> 382 32<221 290>
-VStem: 35 82<138.5 248.5> 377 70<-220 13 13 24.5>
+TopAccentHorizontal: 291
 LayerCount: 2
 Fore
 SplineSet

@@ -1,23 +1,21 @@
 StartChar: zeta
 Encoding: 950 950 385
 Width: 310
-ItalicCorrection: 18
-TopAccentHorizontal: 195
 GlyphClass: 2
 Flags: MW
 TeX: 721 199
-HStem: -5 86 552 27<132 180.5>
-VStem: 35 40<142.5 221> 56 69 280 35<-42.5 -14>
+ItalicCorrection: 18
+TopAccentHorizontal: 195
 LayerCount: 2
 Fore
 SplineSet
-165 -199 m 0xe8
+165 -199 m 0
  144 -199 112 -170 112 -150 c 0
  112 -132 121 -130 134 -127 c 0
  212 -111 280 -62 280 -23 c 0
  280 -5 265 3 241 3 c 0
  226 3 152 -5 132 -5 c 0
- 56 -5 35 104 35 181 c 0xe8
+ 56 -5 35 104 35 181 c 0
  35 261 73 388 157 520 c 0
  169 539 169 542 169 547 c 0
  169 553 164 552 155 552 c 0
@@ -27,7 +25,7 @@ SplineSet
  158 708 155 704 150 700 c 0
  141 689 126 673 125 642 c 0
  124 605 143 579 176 579 c 0
- 185 579 187 580 194 588 c 0xd8
+ 185 579 187 580 194 588 c 0
  251 659 292 690 303 690 c 0
  326 690 334 678 334 639 c 0
  334 622 321 607 270 572 c 0
@@ -35,7 +33,7 @@ SplineSet
  75 113 102 75 154 75 c 0
  165 75 240 81 252 81 c 0
  276 81 315 42 315 4 c 0
- 315 -93 226 -199 165 -199 c 0xe8
+ 315 -93 226 -199 165 -199 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" zeta.s zeta.ss
 EndChar

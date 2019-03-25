@@ -1,9 +1,9 @@
 StartChar: u1D48A.s
 Encoding: 1115574 -1 3780
 Width: 305
+Flags: HMW
 ItalicCorrection: 99
 TopAccentHorizontal: 300
-Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

@@ -1,9 +1,9 @@
 StartChar: u1D6DB.x.ss
 Encoding: 1115960 -1 4166
 Width: 491
+Flags: MW
 ItalicCorrection: 64
 TopAccentHorizontal: 232
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

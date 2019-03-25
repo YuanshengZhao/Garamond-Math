@@ -1,20 +1,18 @@
 StartChar: Phi
 Encoding: 934 934 377
 Width: 603
-ItalicCorrection: 141
-TopAccentHorizontal: 383
 GlyphClass: 2
 Flags: MW
 TeX: 672 5
-HStem: -5 129<261.5 417 417 493.5> 93 31<417 417> 552 31<337 337>
-VStem: 40 92<300 405.5> 337 80<76 93 58.5 93 126 552 583 601> 613 92<278.5 401>
+ItalicCorrection: 141
+TopAccentHorizontal: 383
 LayerCount: 2
 Fore
 SplineSet
-270 -5 m 0xbc
+270 -5 m 0
  253 -5 241 -2 241 6 c 0
  241 15 251 20 274 24 c 0
- 324 33 337 41 337 76 c 2xbc
+ 324 33 337 41 337 76 c 2
  337 93 l 1
  170 100 40 180 40 328 c 0
  40 483 168 577 337 583 c 1
@@ -31,19 +29,19 @@ SplineSet
  588 581 705 497 705 349 c 0
  705 194 589 104 417 93 c 1
  417 76 l 2
- 417 41 433 32 481 24 c 0x7c
+ 417 41 433 32 481 24 c 0
  504 20 514 15 514 6 c 0
  514 -2 502 -5 485 -5 c 0
  431 -5 429 0 383 0 c 0
- 337 0 309 -5 270 -5 c 0xbc
-337 126 m 1x7c
+ 337 0 309 -5 270 -5 c 0
+337 126 m 1
  337 552 l 1
  211 543 132 471 132 361 c 0
- 132 239 205 144 337 126 c 1x7c
-417 124 m 1xbc
+ 132 239 205 144 337 126 c 1
+417 124 m 1
  532 136 613 224 613 333 c 0
  613 469 550 541 417 552 c 1
- 417 124 l 1xbc
+ 417 124 l 1
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Phi.s Phi.ss
 EndChar

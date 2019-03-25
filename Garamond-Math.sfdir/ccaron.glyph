@@ -1,13 +1,11 @@
 StartChar: ccaron
 Encoding: 269 269 205
 Width: 401
-ItalicCorrection: 5
-TopAccentHorizontal: 237
 GlyphClass: 2
 Flags: MW
 TeX: 648 15
-HStem: -15 60<213.5 243.5> 377 37<187.5 226>
-VStem: 35 69<165 245>
+ItalicCorrection: 5
+TopAccentHorizontal: 237
 LayerCount: 2
 Fore
 SplineSet

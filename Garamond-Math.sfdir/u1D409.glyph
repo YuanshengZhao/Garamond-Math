@@ -1,17 +1,15 @@
 StartChar: u1D409
 Encoding: 119817 119817 1497
 Width: 372
-ItalicCorrection: 76
-TopAccentHorizontal: 238
 GlyphClass: 2
 Flags: MW
 TeX: 655 200
-HStem: -200 42<53 80.5 53 82> 630 20G<179.5 219.5> 635 20G<51 79>
-VStem: 123 154<59 86 86 550>
+ItalicCorrection: 76
+TopAccentHorizontal: 238
 LayerCount: 2
 Fore
 SplineSet
-94 -200 m 0xb0
+94 -200 m 0
  1 -200 -45 -179 -45 -142 c 0
  -45 -115 -16 -84 6 -84 c 0
  21 -84 35 -93 48 -108 c 0
@@ -20,15 +18,15 @@ SplineSet
  160 551 l 2
  160 595 147 607 94 619 c 0
  81 622 73 629 73 640 c 0
- 73 649 83 655 93 655 c 0xb0
- 139 655 196 650 237 650 c 0xd0
+ 73 649 83 655 93 655 c 0
+ 139 655 196 650 237 650 c 0
  276 650 337 654 381 654 c 0
  392 654 399 649 399 640 c 0
  399 627 392 623 378 619 c 0
  324 604 314 591 314 550 c 2
  314 86 l 2
  314 32 279 -47 234 -106 c 0
- 193 -159 144 -200 94 -200 c 0xb0
+ 193 -159 144 -200 94 -200 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D409.s u1D409.ss
 Substitution2: "'ss04' Style Set 4" u1D409.sb

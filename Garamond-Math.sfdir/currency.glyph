@@ -1,9 +1,9 @@
 StartChar: currency
 Encoding: 164 164 100
 Width: 486
+Flags: MW
 ItalicCorrection: 19
 TopAccentHorizontal: 252
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

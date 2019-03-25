@@ -1,17 +1,15 @@
 StartChar: uni2C6B
 Encoding: 11371 11371 1356
 Width: 603
-TopAccentHorizontal: 315
 Flags: MW
-HStem: -3 39 1 35<270 278.5> 604 42
-VStem: 509 71
+TopAccentHorizontal: 315
 LayerCount: 2
 Fore
 SplineSet
-529 -216 m 0xb0
+529 -216 m 0
  510 -216 508 -181 508 -161 c 0
  509 -138 509 -118 509 -101 c 0
- 509 -18 485 2 435 2 c 0x70
+ 509 -18 485 2 435 2 c 0
  357 2 323 1 234 1 c 0
  194 1 150 -3 112 -3 c 2
  35 -3 l 2
@@ -41,6 +39,6 @@ SplineSet
  337 36 519 37 566 40 c 0
  577 40 580 32 580 24 c 0
  580 -1 559 -79 555 -173 c 0
- 554 -189 545 -216 529 -216 c 0xb0
+ 554 -189 545 -216 529 -216 c 0
 EndSplineSet
 EndChar

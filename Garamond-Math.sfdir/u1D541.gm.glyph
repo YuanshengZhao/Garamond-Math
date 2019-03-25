@@ -1,9 +1,9 @@
 StartChar: u1D541.gm
 Encoding: 1115889 -1 4095
 Width: 519
+Flags: HMW
 ItalicCorrection: 28
 TopAccentHorizontal: 384
-Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

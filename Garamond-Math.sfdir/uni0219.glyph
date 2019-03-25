@@ -1,17 +1,15 @@
 StartChar: uni0219
 Encoding: 537 537 326
 Width: 312
-ItalicCorrection: 10
-TopAccentHorizontal: 170
 GlyphClass: 2
 Flags: MW
 TeX: 414 275
-HStem: -14 27<133.5 172.5 133.5 187.5> 386 28<154.5 190>
-VStem: 47 60<311.5 331> 182 52<-195 -169> 223 68<72 99>
+ItalicCorrection: 10
+TopAccentHorizontal: 170
 LayerCount: 2
 Fore
 SplineSet
-144 -14 m 0xf0
+144 -14 m 0
  103 -14 65 -1 40 22 c 1
  33 36 30 79 29 102 c 0
  29 108 35 111 42 111 c 0
@@ -28,8 +26,8 @@ SplineSet
  234 362 209 386 171 386 c 0
  138 386 107 365 107 327 c 0
  107 296 122 276 176 245 c 0
- 253 201 291 170 291 108 c 0xe8
- 291 36 231 -14 144 -14 c 0xf0
+ 253 201 291 170 291 108 c 0
+ 291 36 231 -14 144 -14 c 0
 126 -275 m 0
  118 -275 113 -271 113 -266 c 0
  113 -261 118 -256 127 -253 c 0

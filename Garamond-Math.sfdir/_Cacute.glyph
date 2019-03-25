@@ -1,13 +1,11 @@
 StartChar: Cacute
 Encoding: 262 262 198
 Width: 690
-ItalicCorrection: 19
-TopAccentHorizontal: 440
 GlyphClass: 2
 Flags: MW
 TeX: 838 15
-HStem: -15 31<339 439.5> 632 31<337 442.5>
-VStem: 46 101<265.5 420>
+ItalicCorrection: 19
+TopAccentHorizontal: 440
 LayerCount: 2
 Fore
 SplineSet

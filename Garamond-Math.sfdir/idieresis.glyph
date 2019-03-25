@@ -1,13 +1,11 @@
 StartChar: idieresis
 Encoding: 239 239 175
 Width: 210
-ItalicCorrection: 34
-TopAccentHorizontal: 124
 GlyphClass: 2
 Flags: MW
 TeX: 608 3
-HStem: -3 21G<38 63.5 187 212.5> 508 100<23.5 48.5 200.5 225.5>
-VStem: -14 100<545.5 570.5> 90 70<62 279 279 294> 163 100<545.5 570.5>
+ItalicCorrection: 34
+TopAccentHorizontal: 124
 LayerCount: 2
 Fore
 SplineSet
@@ -37,7 +35,7 @@ SplineSet
  160 39 176 31 203 24 c 0
  214 21 226 18 226 8 c 0
  226 0 219 -3 206 -3 c 0
- 168 -3 160 2 125 2 c 0xd0
+ 168 -3 160 2 125 2 c 0
  90 2 83 -3 44 -3 c 0
 EndSplineSet
 EndChar

@@ -1,12 +1,10 @@
 StartChar: nacute
 Encoding: 324 324 260
 Width: 528
-TopAccentHorizontal: 332
 GlyphClass: 2
 Flags: MW
 TeX: 649 3
-HStem: -3 21G<38 64 186 212.5 319.5 343 465 489> 366 48<255 358.5>
-VStem: 90 70<62 277 277 295> 369 70<62 272 272 275>
+TopAccentHorizontal: 332
 LayerCount: 2
 Fore
 SplineSet

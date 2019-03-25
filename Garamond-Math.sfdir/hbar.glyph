@@ -1,12 +1,10 @@
 StartChar: hbar
 Encoding: 295 295 231
 Width: 519
-TopAccentHorizontal: 114
 GlyphClass: 2
 Flags: MW
 TeX: 705 3
-HStem: -3 21G<37 63 180 207.5 313 340 456 483> 347 52<286.5 290.5> 516 34<28.5 89 43 89 43 89 159 279> 685 20G<160 163>
-VStem: 89 70<65 253 362.5 373 373 516 550 562> 362 70<68 257 257 263>
+TopAccentHorizontal: 114
 LayerCount: 2
 Fore
 SplineSet

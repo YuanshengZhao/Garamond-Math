@@ -1,17 +1,15 @@
 StartChar: u1D411
 Encoding: 119825 119825 1505
 Width: 789
-TopAccentHorizontal: 338
 GlyphClass: 2
 Flags: MW
 TeX: 657 21
-HStem: -21 79<593.5 755> -3 21G<32 59.5 316 344> 311 32<266 334.5> 613 44<286 338.5>
-VStem: 105 154<98 100 100 291 366 412> 411 149<451 520>
+TopAccentHorizontal: 338
 LayerCount: 2
 Fore
 SplineSet
-677 -21 m 0xbc
- 574 -21 527 19 488 71 c 0xb8
+677 -21 m 0
+ 574 -21 527 19 488 71 c 0
  444 128 407 182 363 270 c 0
  357 284 348 295 336 301 c 0
  324 308 311 311 302 311 c 0
@@ -23,7 +21,7 @@ SplineSet
  326 -3 254 2 215 2 c 0
  173 2 114 -3 69 -3 c 0
  59 -3 49 2 49 11 c 0
- 49 22 56 29 70 32 c 0x78
+ 49 22 56 29 70 32 c 0
  121 43 137 55 137 98 c 2
  137 547 l 2
  137 595 126 609 77 619 c 0
@@ -37,13 +35,13 @@ SplineSet
  522 239 578 161 642 101 c 0
  686 59 735 58 782 58 c 0
  792 58 797 52 797 40 c 0
- 797 -4 746 -21 677 -21 c 0xbc
-329 343 m 0x7c
+ 797 -4 746 -21 677 -21 c 0
+329 343 m 0
  404 343 443 398 443 474 c 0
  443 566 408 613 333 613 c 0
  303 613 292 596 292 521 c 0
  291 491 291 444 291 380 c 0
- 291 352 305 343 329 343 c 0x7c
+ 291 352 305 343 329 343 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D411.s u1D411.ss
 Substitution2: "'ss04' Style Set 4" u1D411.sb

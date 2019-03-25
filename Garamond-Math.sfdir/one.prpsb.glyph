@@ -1,10 +1,8 @@
 StartChar: one.prpsb
 Encoding: 1116588 -1 4825
 Width: 397
+Flags: MW
 TopAccentHorizontal: 155
-Flags: W
-HStem: -2 21G<316 345>
-VStem: 131 128<102 471 471 493.5>
 LayerCount: 2
 Fore
 SplineSet

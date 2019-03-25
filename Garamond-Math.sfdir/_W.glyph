@@ -1,17 +1,15 @@
 StartChar: W
 Encoding: 87 87 56
 Width: 735
-ItalicCorrection: 180
-TopAccentHorizontal: 464
 GlyphClass: 2
 Flags: MW
 TeX: 653 16
-HStem: -12 21G<619.5 625.5> 545 107<195 219.5> 633 20G<20.5 44.5 285.5 309.5 650 670.5 888.5 909.5>
-VStem: 0 930<637.5 646>
+ItalicCorrection: 180
+TopAccentHorizontal: 464
 LayerCount: 2
 Fore
 SplineSet
-335 -16 m 0xb0
+335 -16 m 0
  332 -16 326 -1 321 12 c 2
  105 554 l 2
  89 588 67 610 33 620 c 0
@@ -20,9 +18,9 @@ SplineSet
  60 653 84 650 118 650 c 0
  155 650 191 652 211 652 c 0
  228 652 240 649 240 641 c 0
- 240 632 230 627 207 621 c 0xb0
+ 240 632 230 627 207 621 c 0
  191 617 187 603 187 588 c 0
- 187 567 195 545 195 545 c 1xd0
+ 187 567 195 545 195 545 c 1
  256 389 292 303 359 152 c 0
  366 137 370 140 374 151 c 2
  452 344 l 2
@@ -68,7 +66,7 @@ SplineSet
  552 126 529 199 482 316 c 0
  478 325 476 323 471 310 c 0
  423 197 399 133 357 15 c 0
- 352 1 343 -16 335 -16 c 0xb0
+ 352 1 343 -16 335 -16 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" W.s W.ss
 EndChar

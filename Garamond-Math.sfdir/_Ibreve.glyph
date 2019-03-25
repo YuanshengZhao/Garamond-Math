@@ -1,12 +1,10 @@
 StartChar: Ibreve
 Encoding: 300 300 236
 Width: 340
-TopAccentHorizontal: 170
 GlyphClass: 2
 Flags: MW
 TeX: 820 5
-HStem: -5 21G<39.5 75 266 301.5> 633 20G<50.5 86 258 293.5> 692 60<148.5 191.5 148.5 212.5>
-VStem: 130 80<98 550>
+TopAccentHorizontal: 170
 LayerCount: 2
 Fore
 SplineSet

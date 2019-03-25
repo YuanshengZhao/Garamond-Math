@@ -1,17 +1,15 @@
 StartChar: chi
 Encoding: 967 967 402
 Width: 438
-TopAccentHorizontal: 212
 GlyphClass: 2
 Flags: MW
 TeX: 414 290
-HStem: -290 21G -269 88<344 372.5> 328 86<56.5 117>
-VStem: 217 24
+TopAccentHorizontal: 212
 LayerCount: 2
 Fore
 SplineSet
-51 -290 m 0xb0
- 43 -290 22 -288 22 -225 c 0xb0
+51 -290 m 0
+ 43 -290 22 -288 22 -225 c 0
  22 -211 29 -177 40 -157 c 2
  201 129 l 2
  200 133 200 141 199 145 c 0
@@ -33,11 +31,11 @@ SplineSet
  410 -181 429 -157 437 -157 c 0
  442 -157 448 -161 448 -166 c 0
  448 -201 402 -269 343 -269 c 0
- 301 -269 273 -240 257 -179 c 0x70
+ 301 -269 273 -240 257 -179 c 0
  240 -115 226 -28 217 42 c 1
  215 42 l 1
  108 -161 l 2
- 63 -247 70 -290 51 -290 c 0xb0
+ 63 -247 70 -290 51 -290 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" chi.s chi.ss
 EndChar

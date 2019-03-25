@@ -1,11 +1,11 @@
 StartChar: beta.s
 Encoding: 1115202 -1 3408
 Width: 476
-ItalicCorrection: 33
-TopAccentHorizontal: 235
 GlyphClass: 2
 Flags: MW
 TeX: 705 285
+ItalicCorrection: 33
+TopAccentHorizontal: 235
 LayerCount: 2
 Fore
 SplineSet

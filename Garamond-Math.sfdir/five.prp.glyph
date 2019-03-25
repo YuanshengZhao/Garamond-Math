@@ -1,11 +1,9 @@
 StartChar: five.prp
 Encoding: 1116516 -1 4722
 Width: 393
+Flags: MW
 ItalicCorrection: 51
 TopAccentHorizontal: 229
-Flags: MW
-HStem: -38 31<82 124.5>
-VStem: 57 37 321 79<156.5 217.5>
 LayerCount: 2
 Fore
 SplineSet

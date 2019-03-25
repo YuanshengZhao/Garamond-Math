@@ -1,12 +1,10 @@
 StartChar: l
 Encoding: 108 108 77
 Width: 240
-TopAccentHorizontal: 107
 GlyphClass: 2
 Flags: MW
 TeX: 705 3
-HStem: -3 21G<35.5 58.5 181.5 204.5> 685 20G<156 158.5>
-VStem: 85 70<62 562>
+TopAccentHorizontal: 107
 LayerCount: 2
 Fore
 SplineSet

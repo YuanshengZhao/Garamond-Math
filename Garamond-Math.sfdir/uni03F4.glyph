@@ -1,13 +1,11 @@
 StartChar: uni03F4
 Encoding: 1012 1012 410
 Width: 662
-ItalicCorrection: 100
-TopAccentHorizontal: 382
 GlyphClass: 2
 Flags: MW
 TeX: 664 14
-HStem: -14 40<316 468.5 316 488> 315 39<143 618 141 621 143 143> 622 42<294.5 443>
-VStem: 45 96<354 365 354 405> 622 96<245 291>
+ItalicCorrection: 100
+TopAccentHorizontal: 382
 LayerCount: 2
 Fore
 SplineSet

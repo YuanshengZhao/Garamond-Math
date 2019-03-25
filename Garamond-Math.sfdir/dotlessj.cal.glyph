@@ -1,11 +1,11 @@
 StartChar: dotlessj.cal
 Encoding: 1114124 -1 2334
 Width: 417
-ItalicCorrection: 18
-TopAccentHorizontal: 326
 GlyphClass: 2
 Flags: MW
 TeX: 406 14
+ItalicCorrection: 18
+TopAccentHorizontal: 326
 LayerCount: 2
 Fore
 SplineSet

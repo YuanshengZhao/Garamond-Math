@@ -1,20 +1,18 @@
 StartChar: three.prp
 Encoding: 1116514 -1 4720
 Width: 419
+Flags: MW
 ItalicCorrection: 48
 TopAccentHorizontal: 214
-Flags: MW
-HStem: -38 38<179.5 219> 304 56<220.5 319.5> 570 60<183 235>
-VStem: 302 79<492 493.5> 344 85<128 184.5>
 LayerCount: 2
 Fore
 SplineSet
-133 -38 m 0xe8
+133 -38 m 0
  86 -38 22 -11 22 5 c 0
  22 19 51 51 66 51 c 0
  81 51 92 41 105 31 c 0
  122 16 143 0 180 0 c 0
- 253 0 326 63 326 146 c 0xe8
+ 253 0 326 63 326 146 c 0
  326 223 287 304 210 304 c 0
  195 304 168 302 145 289 c 0
  138 285 126 291 128 298 c 0
@@ -24,11 +22,11 @@ SplineSet
  87 570 71 481 56 481 c 0
  51 481 40 490 40 500 c 0
  40 535 97 630 233 630 c 0
- 299 630 363 584 363 516 c 0xf0
+ 299 630 363 584 363 516 c 0
  363 468 336 411 258 366 c 0
  254 364 254 360 259 360 c 0
  344 360 411 288 411 203 c 0
- 411 53 269 -38 133 -38 c 0xe8
+ 411 53 269 -38 133 -38 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" three.prp.s three.prp.ss
 EndChar

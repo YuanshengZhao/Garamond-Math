@@ -1,17 +1,15 @@
 StartChar: Zacute
 Encoding: 377 377 313
 Width: 581
-ItalicCorrection: 21
-TopAccentHorizontal: 317
 GlyphClass: 2
 Flags: MW
 TeX: 838 5
-HStem: -5 46 -2 43 609 37
-VStem: 28 560<11 162.5>
+ItalicCorrection: 21
+TopAccentHorizontal: 317
 LayerCount: 2
 Fore
 SplineSet
-282 685 m 0xb0
+282 685 m 0
  278 685 276 688 276 691 c 0
  276 695 278 701 281 706 c 0
  305 746 331 786 358 825 c 0
@@ -19,9 +17,9 @@ SplineSet
  399 838 443 829 443 815 c 0
  443 808 439 804 430 796 c 0
  391 761 339 725 300 694 c 0
- 291 687 285 685 282 685 c 0xb0
+ 291 687 285 685 282 685 c 0
 533 -5 m 0
- 419 -5 320 -2 231 -2 c 0x70
+ 419 -5 320 -2 231 -2 c 0
  191 -2 150 -3 112 -3 c 2
  35 -3 l 2
  29 -3 28 11 28 11 c 1

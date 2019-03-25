@@ -1,11 +1,9 @@
 StartChar: uni2C76
 Encoding: 11382 11382 1367
 Width: 259
+Flags: MW
 ItalicCorrection: 70
 TopAccentHorizontal: 118
-Flags: MW
-HStem: -3 21G<32.5 56 178 201.5> 179 35<167.5 187.5> 385 20G<38.5 62 175 199>
-VStem: 82 70<63 161 228.5 238 238 331>
 LayerCount: 2
 Fore
 SplineSet

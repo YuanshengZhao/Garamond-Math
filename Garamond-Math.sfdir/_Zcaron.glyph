@@ -1,17 +1,15 @@
 StartChar: Zcaron
 Encoding: 381 381 317
 Width: 581
-ItalicCorrection: 21
-TopAccentHorizontal: 316
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
-HStem: -5 46 -2 43 609 37 700 63.25
-VStem: 28 560<11 162.5>
+ItalicCorrection: 21
+TopAccentHorizontal: 316
 LayerCount: 2
 Fore
 SplineSet
-185 822 m 0xb8
+185 822 m 0
  198 822 280 782 306 767 c 0
  315 762 317 762 326 767 c 0
  352 782 434 823 447 823 c 0
@@ -22,9 +20,9 @@ SplineSet
  301 700 295 706 275 722 c 2
  177 800 l 2
  172 804 170 808 170 812 c 0
- 170 818 176 822 185 822 c 0xb8
+ 170 818 176 822 185 822 c 0
 533 -5 m 0
- 419 -5 320 -2 231 -2 c 0x78
+ 419 -5 320 -2 231 -2 c 0
  191 -2 150 -3 112 -3 c 2
  35 -3 l 2
  29 -3 28 11 28 11 c 1

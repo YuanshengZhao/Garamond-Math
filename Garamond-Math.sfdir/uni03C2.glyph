@@ -1,20 +1,18 @@
 StartChar: uni03C2
 Encoding: 962 962 397
 Width: 345
-TopAccentHorizontal: 228
 GlyphClass: 2
 Flags: MW
 TeX: 413 190
-HStem: -190 72<178.5 194 151.5 219.5> -5 83 0 78<233.5 278.5> 325 88<219 273.5 215 280>
-VStem: 35 40<152.5 225 152.5 226.5> 280 35<-45.5 -17>
+TopAccentHorizontal: 228
 LayerCount: 2
 Fore
 SplineSet
-189 -190 m 0xdc
+189 -190 m 0
  168 -190 136 -161 136 -141 c 0
  136 -123 145 -118 158 -118 c 0
  230 -118 280 -65 280 -26 c 0
- 280 -8 265 0 241 0 c 0xbc
+ 280 -8 265 0 241 0 c 0
  226 0 153 -5 133 -5 c 0
  57 -5 35 87 35 163 c 0
  35 290 165 413 265 413 c 0
@@ -24,7 +22,7 @@ SplineSet
  75 127 103 75 155 75 c 0
  166 75 254 78 266 78 c 0
  291 78 315 62 315 1 c 0
- 315 -96 250 -190 189 -190 c 0xdc
+ 315 -96 250 -190 189 -190 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni03C2.s uni03C2.ss
 EndChar

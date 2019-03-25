@@ -1,17 +1,15 @@
 StartChar: u1D7D0.eb
 Encoding: 1116419 -1 4625
 Width: 454
+Flags: MW
 ItalicCorrection: 35
 TopAccentHorizontal: 217
-Flags: MW
 IsExtendedShape: 1
-HStem: -4 115 0 111 536 94<238 271.5>
-VStem: 322 136<433.5 466.5>
 LayerCount: 2
 Fore
 SplineSet
-391 -4 m 0xb0
- 376 -4 239 0 169 0 c 0x70
+391 -4 m 0
+ 376 -4 239 0 169 0 c 0
  101 0 26 -3 20 -3 c 0
  17 -3 0 4 0 14 c 0
  0 26 8 32 14 38 c 2
@@ -32,6 +30,6 @@ SplineSet
  421 184 433 196 446 196 c 0
  457 196 462 185 458 174 c 0
  436 113 412 31 412 18 c 0
- 412 4 394 -4 391 -4 c 0xb0
+ 412 4 394 -4 391 -4 c 0
 EndSplineSet
 EndChar

@@ -1,9 +1,9 @@
 StartChar: zero.prp.s
 Encoding: 1116531 -1 4737
 Width: 480
+Flags: MW
 ItalicCorrection: 64
 TopAccentHorizontal: 274
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

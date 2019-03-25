@@ -1,24 +1,22 @@
 StartChar: longs
 Encoding: 383 383 319
 Width: 119
-ItalicCorrection: 141
-TopAccentHorizontal: 304
 GlyphClass: 2
 Flags: MW
 TeX: 706 3
-HStem: -3 21G<40 64 186 210> 350 52<90 90> 382 20G 665 41<264.5 305.5>
-VStem: 90 70<68 350 350 350 402 475>
+ItalicCorrection: 141
+TopAccentHorizontal: 304
 LayerCount: 2
 Fore
 SplineSet
-44 -3 m 0xb8
+44 -3 m 0
  36 -3 24 -2 24 6 c 0
  24 16 36 20 47 24 c 0
  67 30 90 41 90 68 c 2
  90 350 l 1
  77 350 59 350 38 352 c 0
  34 353 25 362 25 369 c 0
- 25 372 29 375 31 376 c 0xd8
+ 25 372 29 375 31 376 c 0
  61 384 71 392 90 402 c 1
  90 633 221 706 308 706 c 0
  353 706 373 705 402 681 c 0
@@ -31,6 +29,6 @@ SplineSet
  214 20 226 16 226 6 c 0
  226 -2 214 -3 206 -3 c 0
  166 -3 162 2 127 2 c 0
- 92 2 84 -3 44 -3 c 0xb8
+ 92 2 84 -3 44 -3 c 0
 EndSplineSet
 EndChar

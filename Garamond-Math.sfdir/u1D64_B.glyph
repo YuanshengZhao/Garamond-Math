@@ -1,10 +1,10 @@
 StartChar: u1D64B
 Encoding: 120395 120395 1952
 Width: 440
-ItalicCorrection: 229
-TopAccentHorizontal: 398
 GlyphClass: 2
 Flags: MW
+ItalicCorrection: 229
+TopAccentHorizontal: 398
 LayerCount: 2
 Fore
 SplineSet

@@ -1,13 +1,11 @@
 StartChar: ldot
 Encoding: 320 320 256
 Width: 237
-ItalicCorrection: 96
-TopAccentHorizontal: 106
 GlyphClass: 2
 Flags: MW
 TeX: 705 3
-HStem: -3 21G<35.5 58.5 181.5 204.5> 301 110<269 299> 685 20G<156 158.5>
-VStem: 85 70<62 562> 229 110<341 371>
+ItalicCorrection: 96
+TopAccentHorizontal: 106
 LayerCount: 2
 Fore
 SplineSet

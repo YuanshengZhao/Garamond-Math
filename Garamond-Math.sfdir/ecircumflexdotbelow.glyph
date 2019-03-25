@@ -1,13 +1,11 @@
 StartChar: ecircumflexdotbelow
 Encoding: 7879 7879 451
 Width: 382
-ItalicCorrection: 7
-TopAccentHorizontal: 221
 GlyphClass: 2
 Flags: MW
 TeX: 648 192
-HStem: -192 101<199 227.5> -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5>
-VStem: 30 64<172 234.5 172 260.5> 163 101<-156 -127.5> 294 66<308 325 277.5 334>
+ItalicCorrection: 7
+TopAccentHorizontal: 221
 LayerCount: 2
 Fore
 SplineSet
@@ -43,10 +41,10 @@ SplineSet
  294 353 255 385 208 385 c 0
  162 385 109 338 109 298 c 0
  109 291 113 288 121 288 c 2
-213 -192 m 0xfe
+213 -192 m 0
  185 -192 163 -170 163 -142 c 0
  163 -113 185 -91 213 -91 c 0
  242 -91 264 -113 264 -142 c 0
- 264 -170 242 -192 213 -192 c 0xfe
+ 264 -170 242 -192 213 -192 c 0
 EndSplineSet
 EndChar

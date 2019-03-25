@@ -1,12 +1,10 @@
 StartChar: napostrophe
 Encoding: 329 329 265
 Width: 609
-TopAccentHorizontal: 68
 GlyphClass: 2
 Flags: MW
 TeX: 690 3
-HStem: -3 21G<119 145 267 293.5 400.5 424 546 570> 366 48<336 439.5>
-VStem: 89 52<542.5 566> 171 70<62 277 277 295> 450 70<62 272 272 275>
+TopAccentHorizontal: 68
 LayerCount: 2
 Fore
 SplineSet
@@ -17,7 +15,7 @@ SplineSet
  89 574 72 600 50 602 c 0
  21 605 3 622 3 644 c 0
  3 671 29 690 58 690 c 0
- 106 690 141 649 141 593 c 0xf8
+ 106 690 141 649 141 593 c 0
  141 492 48 426 -3 426 c 0
 125 -3 m 0
  113 -3 105 0 105 8 c 0

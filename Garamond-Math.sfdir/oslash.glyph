@@ -1,13 +1,11 @@
 StartChar: oslash
 Encoding: 248 248 184
 Width: 433
-ItalicCorrection: 51
-TopAccentHorizontal: 288
 GlyphClass: 2
 Flags: MW
 TeX: 415 15
-HStem: -14 30<234 277.5 234 309> 383 31<219 259>
-VStem: 35 82<194 234 194 242.5> 378 82<169.5 205>
+ItalicCorrection: 51
+TopAccentHorizontal: 288
 LayerCount: 2
 Fore
 SplineSet

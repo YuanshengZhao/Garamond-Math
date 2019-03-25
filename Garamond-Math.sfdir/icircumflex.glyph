@@ -1,13 +1,11 @@
 StartChar: icircumflex
 Encoding: 238 238 174
 Width: 240
-ItalicCorrection: 4
-TopAccentHorizontal: 123
 GlyphClass: 2
 Flags: MW
 TeX: 648 3
-HStem: -3 21G<38 63.5 187 212.5>
-VStem: 90 70<62 279 279 294>
+ItalicCorrection: 4
+TopAccentHorizontal: 123
 LayerCount: 2
 Fore
 SplineSet

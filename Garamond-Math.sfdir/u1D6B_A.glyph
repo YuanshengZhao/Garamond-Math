@@ -1,18 +1,16 @@
 StartChar: u1D6BA
 Encoding: 120506 120506 2050
 Width: 622
-ItalicCorrection: 37
-TopAccentHorizontal: 307
 GlyphClass: 2
 Flags: MW
 TeX: 676 6
-HStem: -5 131<409.5 538.5> 0 126<456 470> 607 39<247.5 288.5>
-VStem: 20 582<186.5 632.5> 283.25 135.87
+ItalicCorrection: 37
+TopAccentHorizontal: 307
 LayerCount: 2
 Fore
 SplineSet
-73 -6 m 0xb0
- 48 -6 36 3 36 22 c 0xb0
+73 -6 m 0
+ 48 -6 36 3 36 22 c 0
  36 43 183 182 292 305 c 0
  299 313 297 321 290 329 c 0
  177 452 33 611 33 623 c 0
@@ -38,13 +36,13 @@ SplineSet
  514 126 541 135 562 169 c 0
  576 190 587 204 600 204 c 0
  613 204 615 192 615 187 c 0
- 615 186 614 180 613 178 c 0x68
+ 615 186 614 180 613 178 c 0
  594 127 569 45 563 15 c 0
- 560 5 558 -5 545 -5 c 0xb0
+ 560 5 558 -5 545 -5 c 0
  515 -5 497 0 469 0 c 0
- 405 1 343 1 286 1 c 0x70
+ 405 1 343 1 286 1 c 0
  244 1 205 1 169 0 c 0
- 119 -1 105 -6 73 -6 c 0xb0
+ 119 -1 105 -6 73 -6 c 0
 EndSplineSet
 Substitution2: "'ss04' Style Set 4" u1D6BA.sb
 Substitution2: "'ss05' Style Set 5" u1D6BA.eb

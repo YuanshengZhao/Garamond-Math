@@ -1,17 +1,15 @@
 StartChar: w
 Encoding: 119 119 88
 Width: 549
-ItalicCorrection: 135
-TopAccentHorizontal: 347
 GlyphClass: 2
 Flags: MW
 TeX: 405 23
-HStem: 251 154 385 20G<21.5 37.5 167 183.5 268 281 420 434.5 533.5 551.5 659 674>
-VStem: 326 68<313.5 354>
+ItalicCorrection: 135
+TopAccentHorizontal: 347
 LayerCount: 2
 Fore
 SplineSet
-226 -23 m 0x60
+226 -23 m 0
  223 -23 220 -20 219 -16 c 2
  80 329 l 2
  70 355 48 372 28 378 c 0
@@ -55,9 +53,9 @@ SplineSet
  465 -23 462 -20 460 -16 c 2
  356 242 l 2
  354 247 352 250 350 251 c 0
- 348 251 346 248 343 241 c 2xa0
+ 348 251 346 248 343 241 c 2
  234 -16 l 2
- 232 -20 229 -23 226 -23 c 0x60
+ 232 -20 229 -23 226 -23 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" w.s w.ss
 EndChar

@@ -1,11 +1,11 @@
 StartChar: Upsilon.ss
 Encoding: 1115193 -1 3399
 Width: 589
-ItalicCorrection: 149
-TopAccentHorizontal: 382
 GlyphClass: 2
 Flags: MW
 TeX: 672 5
+ItalicCorrection: 149
+TopAccentHorizontal: 382
 LayerCount: 2
 Fore
 SplineSet

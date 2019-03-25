@@ -1,11 +1,9 @@
 StartChar: seven.prp
 Encoding: 1116518 -1 4724
 Width: 272
+Flags: MW
 ItalicCorrection: 190
 TopAccentHorizontal: 256
-Flags: MW
-HStem: 551 65<209.5 282 209.5 384>
-VStem: 20 449<491.5 610.5>
 LayerCount: 2
 Fore
 SplineSet

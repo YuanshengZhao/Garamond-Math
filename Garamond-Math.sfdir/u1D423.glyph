@@ -1,21 +1,19 @@
 StartChar: u1D423
 Encoding: 119843 119843 1523
 Width: 305
-ItalicCorrection: 10
-TopAccentHorizontal: 170
 GlyphClass: 2
 Flags: MW
 TeX: 651 287
-HStem: -287 21G<-9 32> 493 158<110.5 155>
-VStem: 54 159<549.5 593.5> 71 132<60 91 60 283>
+ItalicCorrection: 10
+TopAccentHorizontal: 170
 LayerCount: 2
 Fore
 SplineSet
-169 493 m 0xe0
+169 493 m 0
  126 493 91 528 91 571 c 0
  91 616 126 651 169 651 c 0
  215 651 250 616 250 571 c 0
- 250 528 215 493 169 493 c 0xe0
+ 250 528 215 493 169 493 c 0
 41 -287 m 0
  15 -287 1 -282 1 -271 c 0
  1 -262 7 -256 20 -250 c 0
@@ -30,7 +28,7 @@ SplineSet
  247 448 251 443 251 436 c 0
  248 397 239 334 239 286 c 2
  240 91 l 2
- 240 29 238 -72 202 -152 c 0xd0
+ 240 29 238 -72 202 -152 c 0
  172 -220 97 -287 41 -287 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D423.s u1D423.ss

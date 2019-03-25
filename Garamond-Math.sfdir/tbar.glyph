@@ -1,12 +1,10 @@
 StartChar: tbar
 Encoding: 359 359 295
 Width: 351
-TopAccentHorizontal: 190
 GlyphClass: 2
 Flags: MW
 TeX: 475 14
-HStem: -14 55<210.5 230.5> 210 34<49.5 96 64 96 64 96 166 244> 352 48<191 206 206 305>
-VStem: 96 70<105 127 127 210 244 324>
+TopAccentHorizontal: 190
 LayerCount: 2
 Fore
 SplineSet

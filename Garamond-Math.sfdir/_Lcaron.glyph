@@ -1,13 +1,11 @@
 StartChar: Lcaron
 Encoding: 317 317 253
 Width: 564
-ItalicCorrection: 19
-TopAccentHorizontal: 260
 GlyphClass: 2
 Flags: MW
 TeX: 669 5
-HStem: -5 40 633 20G<56.5 92 276 311.5>
-VStem: 130 80<96 560 560 567> 412 58<540.5 647>
+ItalicCorrection: 19
+TopAccentHorizontal: 260
 LayerCount: 2
 Fore
 SplineSet

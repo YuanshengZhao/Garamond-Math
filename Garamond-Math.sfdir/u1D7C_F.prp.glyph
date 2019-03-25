@@ -1,10 +1,8 @@
 StartChar: u1D7CF.prp
 Encoding: 1116522 -1 4728
 Width: 418
-TopAccentHorizontal: 167
 Flags: MW
-HStem: -2 21G<325.5 353>
-VStem: 121 154<99 461 461 485>
+TopAccentHorizontal: 167
 LayerCount: 2
 Fore
 SplineSet

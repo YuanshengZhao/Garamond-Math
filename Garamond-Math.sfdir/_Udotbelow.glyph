@@ -1,13 +1,11 @@
 StartChar: Udotbelow
 Encoding: 7908 7908 480
 Width: 607
-ItalicCorrection: 130
-TopAccentHorizontal: 373
 GlyphClass: 2
 Flags: MW
 TeX: 653 205
-HStem: -205 110<352 382> -14 50<332 445.5> 633 20G<44.5 68 687.5 707.5>
-VStem: 103 80<240 268 268 547 547 549> 312 110<-165 -135>
+ItalicCorrection: 130
+TopAccentHorizontal: 373
 LayerCount: 2
 Fore
 SplineSet

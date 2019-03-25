@@ -1,13 +1,11 @@
 StartChar: Gbreve
 Encoding: 286 286 222
 Width: 681
-ItalicCorrection: 47
-TopAccentHorizontal: 413
 GlyphClass: 2
 Flags: MW
 TeX: 820 14
-HStem: -14 37<339.5 444.5 339.5 455.5> 256 34<454.5 467> 625 38<326.5 436 313.5 451.5> 692 60<391.5 434.5 391.5 455.5>
-VStem: 45 99<229 403 229 410> 560 65
+ItalicCorrection: 47
+TopAccentHorizontal: 413
 LayerCount: 2
 Fore
 SplineSet
@@ -29,7 +27,7 @@ SplineSet
  632 502 625 492 617 492 c 0
  603 492 598 507 594 519 c 0
  586 540 579 553 563 572 c 0
- 550 588 499 625 404 625 c 0xec
+ 550 588 499 625 404 625 c 0
  249 625 144 482 144 324 c 0
  144 134 273 23 406 23 c 0
  483 23 516 48 528 60 c 0

@@ -1,10 +1,8 @@
 StartChar: u1D6AB.sb
 Encoding: 1116124 -1 4330
 Width: 618
-TopAccentHorizontal: 324
 Flags: MW
-HStem: 0 59<147 443 443 449 147 589>
-VStem: 26 585<22 30.5>
+TopAccentHorizontal: 324
 LayerCount: 2
 Fore
 SplineSet

@@ -1,13 +1,11 @@
 StartChar: Tcaron
 Encoding: 356 356 292
 Width: 534
-ItalicCorrection: 135
-TopAccentHorizontal: 341
 GlyphClass: 2
 Flags: MW
 TeX: 823 5
-HStem: -5 21G<205.5 241 432 467.5> 610 32<141 527 175 204 403.5 426 426 527> 674 20G<77.5 82.5> 700 63.25
-VStem: 296 80<102 490 490 495>
+ItalicCorrection: 135
+TopAccentHorizontal: 341
 LayerCount: 2
 Fore
 SplineSet
@@ -20,7 +18,7 @@ SplineSet
  382 722 l 2
  362 706 356 700 341 700 c 0
  326 700 320 706 300 722 c 2
- 202 800 l 2xd8
+ 202 800 l 2
  197 804 195 808 195 812 c 0
  195 818 201 822 210 822 c 0
 214 -5 m 0

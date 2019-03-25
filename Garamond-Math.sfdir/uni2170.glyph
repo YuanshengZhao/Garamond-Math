@@ -1,19 +1,17 @@
 StartChar: uni2170
 Encoding: 8560 8560 657
 Width: 245
-TopAccentHorizontal: 124
 GlyphClass: 2
 Flags: MW
-HStem: -3 21G<38 63.5 187 212.5> 516 101<110 138.5>
-VStem: 74 101<552 580.5> 90 70<62 279 279 294>
+TopAccentHorizontal: 124
 LayerCount: 2
 Fore
 SplineSet
-124 516 m 0xe0
+124 516 m 0
  96 516 74 538 74 566 c 0
  74 595 96 617 124 617 c 0
  153 617 175 595 175 566 c 0
- 175 538 153 516 124 516 c 0xe0
+ 175 538 153 516 124 516 c 0
 44 -3 m 0
  32 -3 24 0 24 8 c 0
  24 18 36 21 47 24 c 0
@@ -30,7 +28,7 @@ SplineSet
  160 39 176 31 203 24 c 0
  214 21 226 18 226 8 c 0
  226 0 219 -3 206 -3 c 0
- 168 -3 160 2 125 2 c 0xd0
+ 168 -3 160 2 125 2 c 0
  90 2 83 -3 44 -3 c 0
 EndSplineSet
 EndChar

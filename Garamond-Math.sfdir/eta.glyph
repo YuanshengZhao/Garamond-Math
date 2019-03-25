@@ -1,27 +1,25 @@
 StartChar: eta
 Encoding: 951 951 386
 Width: 460
-TopAccentHorizontal: 200
 GlyphClass: 2
 Flags: MW
 TeX: 414 285
-HStem: -285 21G<351 376> -14 21G<114 126> 328 86<77.5 93.5> 335 79<295.5 326>
-VStem: 122 35<281 284.5> 357 35<221.5 284>
+TopAccentHorizontal: 200
 LayerCount: 2
 Fore
 SplineSet
-368 -285 m 0xdc
+368 -285 m 0
  334 -285 299 -266 300 -231 c 0
  300 -217 309 -191 316 -161 c 0
  329 -108 357 169 357 274 c 0
- 357 310 339 335 313 335 c 0xdc
+ 357 310 339 335 313 335 c 0
  263 335 198 211 145 28 c 0
  139 8 133 -14 119 -14 c 0
  109 -14 83 1 83 20 c 0
  83 41 93 80 104 119 c 0
  114 156 122 204 122 256 c 0
  122 313 113 328 74 328 c 0
- 43 328 34 315 27 315 c 0xec
+ 43 328 34 315 27 315 c 0
  20 315 17 317 17 327 c 0
  17 359 60 414 95 414 c 0
  144 414 157 376 157 307 c 0
@@ -31,7 +29,7 @@ SplineSet
  219 341 277 414 314 414 c 0
  352 414 392 340 392 284 c 2
  392 -235 l 2
- 392 -265 384 -285 368 -285 c 0xdc
+ 392 -265 384 -285 368 -285 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" eta.s eta.ss
 EndChar

@@ -1,12 +1,10 @@
 StartChar: tcaron
 Encoding: 357 357 293
 Width: 314
-TopAccentHorizontal: 254
 GlyphClass: 2
 Flags: MW
 TeX: 646 14
-HStem: -14 55<199.5 219.5> 352 48<180 195 195 294>
-VStem: 85 70<105 127 127 324> 227 58<517.5 624>
+TopAccentHorizontal: 254
 LayerCount: 2
 Fore
 SplineSet

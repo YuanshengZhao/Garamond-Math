@@ -1,9 +1,9 @@
 StartChar: uni210F.var
 Encoding: 1116581 -1 4787
 Width: 500
+Flags: HMW
 ItalicCorrection: 26
 TopAccentHorizontal: 291
-Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -46,7 +46,7 @@ SplineSet
  372 635 381 636 384 632 c 0
  385 631 384 630 385 629 c 0
  387 614 384 603 372 594 c 2
- 230.24930968899997 494.611584954 l 1
+ 230.249309689 494.611584954 l 1
  144 200 l 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni210F.vars uni210F.varss

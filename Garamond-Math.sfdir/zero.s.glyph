@@ -1,9 +1,9 @@
 StartChar: zero.s
 Encoding: 1115056 -1 3262
 Width: 425
+Flags: MW
 ItalicCorrection: 64
 TopAccentHorizontal: 247
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet

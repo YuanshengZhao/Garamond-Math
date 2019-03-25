@@ -1,13 +1,11 @@
 StartChar: Obreve
 Encoding: 334 334 270
 Width: 662
-ItalicCorrection: 100
-TopAccentHorizontal: 391
 GlyphClass: 2
 Flags: MW
 TeX: 820 14
-HStem: -14 40<308.5 468.5 308.5 488> 622 42<294.5 453.5> 692 60<369.5 412.5 369.5 433.5>
-VStem: 45 96<272 405> 622 96<245 378.5>
+ItalicCorrection: 100
+TopAccentHorizontal: 391
 LayerCount: 2
 Fore
 SplineSet
@@ -22,12 +20,12 @@ SplineSet
  528 756 476 692 391 692 c 0
 377 -14 m 0
  201 -14 45 118 45 315 c 0
- 45 495 164 664 386 664 c 0xd8
+ 45 495 164 664 386 664 c 0
  562 664 718 532 718 335 c 0
  718 155 599 -14 377 -14 c 0
 392 26 m 0
  545 26 622 129 622 286 c 0
- 622 471 537 622 370 622 c 0xd8
+ 622 471 537 622 370 622 c 0
  219 622 141 521 141 365 c 0
  141 179 225 26 392 26 c 0
 EndSplineSet

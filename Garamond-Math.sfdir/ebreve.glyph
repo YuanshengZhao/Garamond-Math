@@ -1,13 +1,11 @@
 StartChar: ebreve
 Encoding: 277 277 213
 Width: 382
-ItalicCorrection: 7
-TopAccentHorizontal: 222
 GlyphClass: 2
 Flags: MW
 TeX: 608 15
-HStem: -15 61<205.5 239.5> 257 31<109.5 212 121 212 212 228 121 330> 385 29<185 231.5> 478 60<197 247 197 257>
-VStem: 30 64<172 234.5 172 260.5> 294 66<308 325 277.5 334>
+ItalicCorrection: 7
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet

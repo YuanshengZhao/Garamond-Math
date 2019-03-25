@@ -1,10 +1,8 @@
 StartChar: uni019B
 Encoding: 411 411 4819
 Width: 489
+Flags: MW
 TopAccentHorizontal: 258
-Flags: W
-HStem: -3 21G<13.5 21.5 173 180.5 295.5 307 461.5 475.5> 685 20G<150.5 166>
-VStem: 0 489<3.5 9.5 3 10.5>
 LayerCount: 2
 Fore
 SplineSet

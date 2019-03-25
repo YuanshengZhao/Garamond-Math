@@ -1,9 +1,9 @@
 StartChar: u1D7D0.prp.ss
 Encoding: 1116556 -1 4762
 Width: 488
+Flags: MW
 ItalicCorrection: 34
 TopAccentHorizontal: 234
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet
@@ -14,7 +14,7 @@ SplineSet
  17 25.8 24.6 31.6 30.6 37.6 c 2
  171.8 197.2 l 2
  241.8 276 274.4 346.6 274.4 440.4 c 0
- 274.4 494 248.39999999999998 537 197.2 537 c 0
+ 274.4 494 248.4 537 197.2 537 c 0
  151.8 537 109.6 505 80.6 476.4 c 0
  72.8 468.4 59 454.6 45.4 454.6 c 0
  34.6 454.6 32.2 462.8 32.2 477 c 0

@@ -1,16 +1,14 @@
 StartChar: two.prpeb
 Encoding: 1116599 -1 4836
 Width: 488
+Flags: MW
 ItalicCorrection: 35
 TopAccentHorizontal: 234
-Flags: W
-HStem: -4 115 0 111 536 94<216 249.5>
-VStem: 300 136<433.5 466.5>
 LayerCount: 2
 Fore
 SplineSet
-408 -4 m 0xb0
- 393 -4 256 0 186 0 c 0x70
+408 -4 m 0
+ 393 -4 256 0 186 0 c 0
  118 0 43 -3 37 -3 c 0
  34 -3 17 4 17 14 c 0
  17 26 25 32 31 38 c 2
@@ -31,6 +29,6 @@ SplineSet
  438 184 450 196 463 196 c 0
  474 196 479 185 475 174 c 0
  453 113 429 31 429 18 c 0
- 429 4 411 -4 408 -4 c 0xb0
+ 429 4 411 -4 408 -4 c 0
 EndSplineSet
 EndChar

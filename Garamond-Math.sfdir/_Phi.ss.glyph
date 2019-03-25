@@ -1,11 +1,11 @@
 StartChar: Phi.ss
 Encoding: 1115195 -1 3401
 Width: 604
-ItalicCorrection: 140
-TopAccentHorizontal: 384
 GlyphClass: 2
 Flags: MW
 TeX: 653 5
+ItalicCorrection: 140
+TopAccentHorizontal: 384
 LayerCount: 2
 Fore
 SplineSet

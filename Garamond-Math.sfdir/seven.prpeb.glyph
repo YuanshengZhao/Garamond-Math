@@ -1,11 +1,9 @@
 StartChar: seven.prpeb
 Encoding: 1116604 -1 4841
 Width: 330
+Flags: MW
 ItalicCorrection: 191
 TopAccentHorizontal: 296
-Flags: W
-HStem: 486 128<351.5 383>
-VStem: 25 500<406 599>
 LayerCount: 2
 Fore
 SplineSet

@@ -1,13 +1,11 @@
 StartChar: Gcommaaccent
 Encoding: 290 290 226
 Width: 681
-ItalicCorrection: 47
-TopAccentHorizontal: 422
 GlyphClass: 2
 Flags: MW
 TeX: 663 275
-HStem: -14 37<339.5 444.5 339.5 455.5> 256 34<454.5 467> 625 38<326.5 436 313.5 451.5>
-VStem: 45 99<229 403 229 410> 414 52<-195 -169> 560 65
+ItalicCorrection: 47
+TopAccentHorizontal: 422
 LayerCount: 2
 Fore
 SplineSet

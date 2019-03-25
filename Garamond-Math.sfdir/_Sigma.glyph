@@ -1,18 +1,16 @@
 StartChar: Sigma
 Encoding: 931 931 375
 Width: 575
-ItalicCorrection: 27
-TopAccentHorizontal: 291
 GlyphClass: 2
 Flags: MW
 TeX: 678 6
-HStem: -5 75<402.5 543> 0 70<458 470 402.5 472> 615 31<172.5 306.5>
-VStem: 25 569<4 156.5>
+ItalicCorrection: 27
+TopAccentHorizontal: 291
 LayerCount: 2
 Fore
 SplineSet
-46 -6 m 0xb0
- 37 -6 25 -1 25 9 c 0xb0
+46 -6 m 0
+ 37 -6 25 -1 25 9 c 0
  25 19 273 251 328 312 c 0
  331 316 330 319 327 323 c 0
  233 408 28 619 28 631 c 0
@@ -38,13 +36,13 @@ SplineSet
  494 70 526 78 554 131 c 0
  563 147 572 163 585 163 c 0
  590 163 594 159 594 154 c 2
- 593 150 l 1x70
+ 593 150 l 1
  575 99 557 37 552 12 c 0
- 550 3 548 -5 538 -5 c 0xb0
+ 550 3 548 -5 538 -5 c 0
  508 -5 486 0 458 0 c 0
- 394 1 332 1 275 1 c 0x70
+ 394 1 332 1 275 1 c 0
  233 1 194 1 158 0 c 0
- 108 -1 94 -6 46 -6 c 0xb0
+ 108 -1 94 -6 46 -6 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Sigma.s Sigma.ss
 EndChar

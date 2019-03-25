@@ -1,22 +1,20 @@
 StartChar: three
 Encoding: 51 51 20
 Width: 441
-ItalicCorrection: 48
-TopAccentHorizontal: 225
 GlyphClass: 2
 Flags: MW
 TeX: 630 38
-HStem: -38 38<189.5 229> 304 56<230.5 329.5> 570 60<193 245>
-VStem: 312 79<492 493.5> 354 85<128 184.5>
+ItalicCorrection: 48
+TopAccentHorizontal: 225
 LayerCount: 2
 Fore
 SplineSet
-144 -38 m 0xe8
+144 -38 m 0
  97 -38 33 -11 33 5 c 0
  33 19 62 51 77 51 c 0
  92 51 103 41 116 31 c 0
  133 16 154 0 191 0 c 0
- 264 0 337 63 337 146 c 0xe8
+ 264 0 337 63 337 146 c 0
  337 223 298 304 221 304 c 0
  206 304 179 302 156 289 c 0
  149 285 137 291 139 298 c 0
@@ -26,11 +24,11 @@ SplineSet
  98 570 82 481 67 481 c 0
  62 481 51 490 51 500 c 0
  51 535 108 630 244 630 c 0
- 310 630 374 584 374 516 c 0xf0
+ 310 630 374 584 374 516 c 0
  374 468 347 411 269 366 c 0
  265 364 265 360 270 360 c 0
  355 360 422 288 422 203 c 0
- 422 53 280 -38 144 -38 c 0xe8
+ 422 53 280 -38 144 -38 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers" three.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" three.s three.ss

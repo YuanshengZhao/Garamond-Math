@@ -1,24 +1,22 @@
 StartChar: omega
 Encoding: 969 969 404
 Width: 525
-ItalicCorrection: 36
-TopAccentHorizontal: 292
 GlyphClass: 2
 Flags: MW
 TeX: 414 15
-HStem: -15 64<342 397 338 415> -14 66<116.5 169.5 110 192> 394 20G<163 184.5 396.5 431>
-VStem: 35 35<123.5 174.5 120 234.5> 249 53 460 67<181 251 148 283.5>
+ItalicCorrection: 36
+TopAccentHorizontal: 292
 LayerCount: 2
 Fore
 SplineSet
-159 -14 m 0x7c
+159 -14 m 0
  74 -14 35 89 35 158 c 0
  35 311 149 414 177 414 c 0
  192 414 213 392 213 376 c 0
  213 370 190 351 161 324 c 0
  116 281 70 209 70 140 c 0
  70 100 89 52 131 52 c 0
- 208 52 249 92 249 147 c 0x7c
+ 208 52 249 92 249 147 c 0
  249 169 234 208 234 229 c 0
  234 250 260 270 285 270 c 0
  304 270 325 254 325 229 c 0
@@ -29,10 +27,10 @@ SplineSet
  460 347 390 394 390 399 c 0
  390 406 394 414 399 414 c 0
  463 414 527 302 527 200 c 0
- 527 96 467 -15 363 -15 c 0xbc
+ 527 96 467 -15 363 -15 c 0
  321 -15 288 51 281 69 c 0
  279 74 275 75 271 70 c 0
- 257 52 225 -14 159 -14 c 0x7c
+ 257 52 225 -14 159 -14 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" omega.s omega.ss
 EndChar

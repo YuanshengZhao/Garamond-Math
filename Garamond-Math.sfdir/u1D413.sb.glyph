@@ -1,11 +1,9 @@
 StartChar: u1D413.sb
 Encoding: 1116038 -1 4244
 Width: 559
+Flags: MW
 ItalicCorrection: 130
 TopAccentHorizontal: 363
-Flags: MW
-HStem: -3 21G<468.5 498.5> 609 38<463 575.5> 677 20G<82 91>
-VStem: 285 130<99 100 100 499>
 LayerCount: 2
 Fore
 SplineSet

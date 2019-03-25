@@ -1,12 +1,10 @@
 StartChar: u1D7D4.eb
 Encoding: 1116423 -1 4629
 Width: 435
+Flags: MW
 ItalicCorrection: 54
 TopAccentHorizontal: 290
-Flags: MW
 IsExtendedShape: 1
-HStem: -14 45<280.5 319.5 280.5 357> 261 87<292 413.5>
-VStem: 70 147<143 255 143 266> 366 154<151.5 182>
 LayerCount: 2
 Fore
 SplineSet

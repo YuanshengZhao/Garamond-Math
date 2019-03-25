@@ -1,20 +1,18 @@
 StartChar: four
 Encoding: 52 52 21
 Width: 463
-ItalicCorrection: 26
-TopAccentHorizontal: 281
 GlyphClass: 2
 Flags: MW
 TeX: 642 3
-HStem: -3 234<206.5 237 102 442> 182 49<231 272.5> 186 43<406 420> 628 14<372 372>
-VStem: 287 80<80 236 173 236 239 365>
+ItalicCorrection: 26
+TopAccentHorizontal: 281
 LayerCount: 2
 Fore
 SplineSet
-197 -3 m 0x98
+197 -3 m 0
  190 -3 179 1 179 10 c 0
  179 17 189 21 197 22 c 0
- 259 30 274 48 274 80 c 2x98
+ 259 30 274 48 274 80 c 2
  274 173 l 2
  274 179 260 182 259 182 c 0
  177 182 121 176 16 175 c 0
@@ -28,26 +26,26 @@ SplineSet
  89 240 l 2
  87 237 85 231 89 231 c 2
  262 231 l 2
- 267 231 274 235 274 239 c 2x58
+ 267 231 274 235 274 239 c 2
  274 394 l 2
  274 408 275 412 283 416 c 0
  303 427 330 429 339 429 c 0
  354 429 354 407 354 365 c 2
  354 236 l 2
  354 233 356 230 359 230 c 0
- 374 229 387 229 399 229 c 0x98
+ 374 229 387 229 399 229 c 0
  418 229 436 230 458 231 c 0
  464 231 469 227 469 223 c 0
  469 207 452 185 448 185 c 0
  433 185 415 186 399 186 c 0
  387 186 376 185 368 184 c 0
- 363 183 355 179 355 178 c 2x38
+ 363 183 355 179 355 178 c 2
  355 84 l 2
  355 45 368 36 422 22 c 0
  430 20 440 14 440 8 c 0
  440 2 433 -3 425 -3 c 0
  368 -3 359 2 312 2 c 0
- 261 2 251 -3 197 -3 c 0x98
+ 261 2 251 -3 197 -3 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers" four.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" four.s four.ss

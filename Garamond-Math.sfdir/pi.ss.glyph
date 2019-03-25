@@ -1,11 +1,11 @@
 StartChar: pi.ss
 Encoding: 1115231 -1 3437
 Width: 456
-ItalicCorrection: 64
-TopAccentHorizontal: 312
 GlyphClass: 2
 Flags: MW
 TeX: 414 285
+ItalicCorrection: 64
+TopAccentHorizontal: 312
 LayerCount: 2
 Fore
 SplineSet

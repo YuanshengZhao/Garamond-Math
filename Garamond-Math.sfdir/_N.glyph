@@ -2,17 +2,15 @@ StartChar: N
 Encoding: 78 78 47
 AltUni2: 00039d.ffffffff.0
 Width: 712
-ItalicCorrection: 79
-TopAccentHorizontal: 389
 GlyphClass: 2
 Flags: MW
 TeX: 658 17
-HStem: -5 21G<53.5 89 220 255.5> 630 20G<581 638 638 662> 633 20G<153 195 722.5 761.5> 638 20G<31.5 35>
-VStem: 142 42<479 483 479 542.5> 643 41
+ItalicCorrection: 79
+TopAccentHorizontal: 389
 LayerCount: 2
 Fore
 SplineSet
-668 -17 m 0x9c
+668 -17 m 0
  656 -17 614 2 582 46 c 0
  564 71 237 456 214 484 c 0
  204 496 198 500 193 500 c 0
@@ -29,9 +27,9 @@ SplineSet
  132 182 142 342 142 507 c 0
  142 578 102 601 43 620 c 0
  37 622 12 632 12 644 c 0
- 12 656 28 658 35 658 c 0x9c
+ 12 656 28 658 35 658 c 0
  113 656 117 653 189 653 c 0
- 201 653 206 645 213 636 c 0xac
+ 201 653 206 645 213 636 c 0
  232 609 586 180 606 156 c 0
  611 150 623 136 631 136 c 0
  636 136 640 142 641 157 c 0
@@ -39,14 +37,14 @@ SplineSet
  642 590 607 615 585 619 c 0
  562 623 540 630 540 639 c 0
  540 647 564 650 581 650 c 2
- 638 650 l 2xcc
+ 638 650 l 2
  686 650 692 653 753 653 c 0
  770 653 782 650 782 642 c 0
  782 633 772 626 749 622 c 0
- 699 613 688 601 686 568 c 0xac
+ 699 613 688 601 686 568 c 0
  685 550 684 263 684 105 c 0
  684 57 689 21 689 8 c 0
- 689 -13 678 -17 668 -17 c 0x9c
+ 689 -13 678 -17 668 -17 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" N.s N.ss
 EndChar

@@ -1,10 +1,10 @@
 StartChar: proportional
 Encoding: 8733 8733 812
 Width: 584
-TopAccentHorizontal: 330
 GlyphClass: 2
 Flags: MW
 TeX: 386 -12
+TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet

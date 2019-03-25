@@ -1,17 +1,15 @@
 StartChar: u1D7D2
 Encoding: 120786 120786 2222
 Width: 470
-ItalicCorrection: 19
-TopAccentHorizontal: 254
 GlyphClass: 2
 Flags: MW
 TeX: 642 3
-HStem: -2 21G<474 501> 153 81<32.5 276> 160 67<462.5 476.5>
-VStem: 284 144<94 95 95 151 151 152 76.5 154.5 241 340>
+ItalicCorrection: 19
+TopAccentHorizontal: 254
 LayerCount: 2
 Fore
 SplineSet
-174 -3 m 0xd0
+174 -3 m 0
  166 -3 152 3 152 12 c 0
  152 24 164 29 175 32 c 0
  228 42 243 55 243 94 c 2
@@ -28,7 +26,7 @@ SplineSet
  87 248 l 2
  81 238 87 234 95 234 c 2
  235 234 l 2
- 239 234 243 237 243 241 c 2xd0
+ 239 234 243 237 243 241 c 2
  243 361 l 2
  243 384 245 390 259 396 c 0
  295 413 344 417 360 417 c 0
@@ -42,12 +40,12 @@ SplineSet
  458 159 444 160 427 160 c 0
  414 160 410 159 401 158 c 0
  396 157 387 153 387 152 c 2
- 387 95 l 2xb0
+ 387 95 l 2
  387 58 400 47 452 32 c 0
  464 28 476 24 476 12 c 0
  476 3 465 -2 455 -2 c 0
  411 -2 353 2 313 2 c 0
- 271 2 220 -3 174 -3 c 0xd0
+ 271 2 220 -3 174 -3 c 0
 EndSplineSet
 Substitution2: "'pnum' Proportional Numbers" u1D7D2.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7D2.s u1D7D2.ss

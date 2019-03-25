@@ -1,17 +1,15 @@
 StartChar: wcircumflex
 Encoding: 373 373 309
 Width: 549
-ItalicCorrection: 135
-TopAccentHorizontal: 343
 GlyphClass: 2
 Flags: MW
 TeX: 648 23
-HStem: 251 154 385 20G<21.5 37.5 167 183.5 268 281 420 434.5 533.5 551.5 659 674>
-VStem: 326 68<313.5 354>
+ItalicCorrection: 135
+TopAccentHorizontal: 343
 LayerCount: 2
 Fore
 SplineSet
-343 648 m 0x60
+343 648 m 0
  351 648 358 638 363 630 c 0
  383 599 451 481 451 468 c 0
  451 459 451 455 442 455 c 0
@@ -22,7 +20,7 @@ SplineSet
  266 468 252 455 244 455 c 0
  235 455 235 459 235 468 c 0
  235 481 303 599 323 630 c 0
- 328 638 335 648 343 648 c 0x60
+ 328 638 335 648 343 648 c 0
 226 -23 m 0
  223 -23 220 -20 219 -16 c 2
  80 329 l 2
@@ -67,7 +65,7 @@ SplineSet
  465 -23 462 -20 460 -16 c 2
  356 242 l 2
  354 247 352 250 350 251 c 0
- 348 251 346 248 343 241 c 2xa0
+ 348 251 346 248 343 241 c 2
  234 -16 l 2
  232 -20 229 -23 226 -23 c 0
 EndSplineSet

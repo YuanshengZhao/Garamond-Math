@@ -1,13 +1,11 @@
 StartChar: lslash
 Encoding: 322 322 258
 Width: 271
-ItalicCorrection: 8
-TopAccentHorizontal: 125
 GlyphClass: 2
 Flags: MW
 TeX: 705 3
-HStem: -3 21G<54.5 77.5 200.5 223.5> 685 20G<175 177.5>
-VStem: 104 70<62 322 322 322 392 562>
+ItalicCorrection: 8
+TopAccentHorizontal: 125
 LayerCount: 2
 Fore
 SplineSet

@@ -1,11 +1,9 @@
 StartChar: six.prpeb
 Encoding: 1116603 -1 4840
 Width: 488
+Flags: MW
 ItalicCorrection: 54
 TopAccentHorizontal: 317
-Flags: W
-HStem: -14 45<246.5 285.5 246.5 323> 261 87<258 379.5>
-VStem: 36 147<143 255 143 266> 332 154<151.5 182>
 LayerCount: 2
 Fore
 SplineSet

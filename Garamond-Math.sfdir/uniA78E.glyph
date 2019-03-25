@@ -1,10 +1,8 @@
 StartChar: uniA78E
 Encoding: 42894 42894 1446
 Width: 276
-TopAccentHorizontal: 138
 Flags: MW
-HStem: -288 28<230 270 230 271.5> 265 42<114 114> 414 29<56.5 80.5> 685 20G<184.5 186.5>
-VStem: -14 52<361.5 378.5> 114 69<-104 -44 -127 265> 302 72<-226.5 -210>
+TopAccentHorizontal: 138
 LayerCount: 2
 Fore
 SplineSet

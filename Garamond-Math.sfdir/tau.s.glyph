@@ -1,11 +1,11 @@
 StartChar: tau.s
 Encoding: 1115238 -1 3444
 Width: 330
-ItalicCorrection: 79
-TopAccentHorizontal: 249
 GlyphClass: 2
 Flags: MW
 TeX: 430 14
+ItalicCorrection: 79
+TopAccentHorizontal: 249
 LayerCount: 2
 Fore
 SplineSet

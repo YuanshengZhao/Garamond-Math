@@ -1,15 +1,15 @@
 StartChar: u1D7D4.prp.ss
 Encoding: 1116564 -1 4770
 Width: 488
+Flags: MW
 ItalicCorrection: 52
 TopAccentHorizontal: 317
-Flags: MW
 LayerCount: 2
 Fore
 SplineSet
 261.8 -14 m 0
  115.4 -14 49 72.2 49 193 c 0
- 49 339.2 127.19999999999999 432.2 160.4 472.2 c 0
+ 49 339.2 127.2 432.2 160.4 472.2 c 0
  206.6 527 302.4 592.6 411 631.4 c 0
  434.6 640.2 461.8 642.8 461.8 632 c 0
  461.6 617.2 448.6 610.2 424.2 598.6 c 0

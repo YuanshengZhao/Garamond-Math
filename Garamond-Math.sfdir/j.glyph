@@ -1,21 +1,19 @@
 StartChar: j
 Encoding: 106 106 75
 Width: 217
-ItalicCorrection: 8
-TopAccentHorizontal: 116
 GlyphClass: 2
 Flags: MW
 TeX: 617 287
-HStem: -287 21G<-2.5 21> 516 101<102 130.5>
-VStem: 66 101<552 580.5> 89 70<69 91 91 275>
+ItalicCorrection: 8
+TopAccentHorizontal: 116
 LayerCount: 2
 Fore
 SplineSet
-116 516 m 0xe0
+116 516 m 0
  88 516 66 538 66 566 c 0
  66 595 88 617 116 617 c 0
  145 617 167 595 167 566 c 0
- 167 538 145 516 116 516 c 0xe0
+ 167 538 145 516 116 516 c 0
 1 -287 m 0
  -6 -287 -20 -284 -20 -277 c 0
  -20 -269 -11 -261 -9 -260 c 0
@@ -30,7 +28,7 @@ SplineSet
  163 434 166 432 166 429 c 0
  162 388 159 320 159 275 c 2
  159 91 l 2
- 159 29 158 -72 129 -152 c 0xd0
+ 159 29 158 -72 129 -152 c 0
  104 -220 41 -287 1 -287 c 0
 EndSplineSet
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj

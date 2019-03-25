@@ -1,17 +1,15 @@
 StartChar: Ydotbelow
 Encoding: 7924 7924 496
 Width: 451
-ItalicCorrection: 126
-TopAccentHorizontal: 307
 GlyphClass: 2
 Flags: MW
 TeX: 653 205
-HStem: -205 110<289 319> -5 21G<173.5 209 400 435.5> 633 20G<20.5 44 580.5 600.5>
-VStem: 249 110<-165 -135> 264 80<108 256 256 260>
+ItalicCorrection: 126
+TopAccentHorizontal: 307
 LayerCount: 2
 Fore
 SplineSet
-182 -5 m 0xe8
+182 -5 m 0
  165 -5 153 -2 153 6 c 0
  153 15 163 20 186 24 c 0
  236 33 264 60 264 108 c 2
@@ -47,11 +45,11 @@ SplineSet
  446 20 456 15 456 6 c 0
  456 -2 444 -5 427 -5 c 0
  373 -5 356 0 310 0 c 0
- 260 0 236 -5 182 -5 c 0xe8
-304 -205 m 0xf0
+ 260 0 236 -5 182 -5 c 0
+304 -205 m 0
  274 -205 249 -180 249 -150 c 0
  249 -120 274 -95 304 -95 c 0
  334 -95 359 -120 359 -150 c 0
- 359 -180 334 -205 304 -205 c 0xf0
+ 359 -180 334 -205 304 -205 c 0
 EndSplineSet
 EndChar

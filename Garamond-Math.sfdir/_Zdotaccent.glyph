@@ -1,23 +1,21 @@
 StartChar: Zdotaccent
 Encoding: 379 379 315
 Width: 581
-ItalicCorrection: 21
-TopAccentHorizontal: 317
 GlyphClass: 2
 Flags: MW
 TeX: 805 5
-HStem: -5 46 -2 43 609 37 695 110<300 330>
-VStem: 260 110<735 765>
+ItalicCorrection: 21
+TopAccentHorizontal: 317
 LayerCount: 2
 Fore
 SplineSet
-315 695 m 0xb8
+315 695 m 0
  285 695 260 720 260 750 c 0
  260 780 285 805 315 805 c 0
  345 805 370 780 370 750 c 0
- 370 720 345 695 315 695 c 0xb8
+ 370 720 345 695 315 695 c 0
 533 -5 m 0
- 419 -5 320 -2 231 -2 c 0x78
+ 419 -5 320 -2 231 -2 c 0
  191 -2 150 -3 112 -3 c 2
  35 -3 l 2
  29 -3 28 11 28 11 c 1

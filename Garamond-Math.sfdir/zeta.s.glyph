@@ -1,11 +1,11 @@
 StartChar: zeta.s
 Encoding: 1115210 -1 3416
 Width: 311
-ItalicCorrection: 17
-TopAccentHorizontal: 197
 GlyphClass: 2
 Flags: MW
 TeX: 721 199
+ItalicCorrection: 17
+TopAccentHorizontal: 197
 LayerCount: 2
 Fore
 SplineSet

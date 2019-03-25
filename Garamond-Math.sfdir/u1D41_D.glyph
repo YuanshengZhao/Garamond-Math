@@ -1,26 +1,24 @@
 StartChar: u1D41D
 Encoding: 119837 119837 1517
 Width: 587
-TopAccentHorizontal: 418
 GlyphClass: 2
 Flags: MW
 TeX: 705 19
-HStem: -14 68<241 244> 23 33 383 47<229 273.5> 401 20G<325 325> 685 20G<466 470.5> 693 12
-VStem: 24 139<168 263> 341 127
+TopAccentHorizontal: 418
 LayerCount: 2
 Fore
 SplineSet
-547 59 m 0x57
+547 59 m 0
  558 60 561 58 561 49 c 0
  561 38 551 23 544 23 c 0
  495 18 441 5 392 -13 c 0
  384 -17 379 -19 375 -19 c 0
- 371 -19 361 -7 361 -2 c 0x6b
+ 371 -19 361 -7 361 -2 c 0
  364 19 366 36 366 51 c 2
  366 57 l 1
  339 15 288 -14 234 -14 c 0
  123 -14 41 79 41 195 c 0
- 41 331 138 430 280 430 c 0xab
+ 41 331 138 430 280 430 c 0
  301 430 323 426 342 421 c 2
  355 418 l 2
  358 418 359 422 359 431 c 2
@@ -34,13 +32,13 @@ SplineSet
  495 697 491 658 490 624 c 2
  485 120 l 2
  485 74 491 56 508 56 c 0
- 514 56 517 57 547 59 c 0x57
-285 54 m 0xab
+ 514 56 517 57 547 59 c 0
+285 54 m 0
  305 54 340 65 359 85 c 1
  358 306 l 2
  358 340 311 383 270 383 c 0
  222 383 180 322 180 222 c 0
- 180 114 231 54 285 54 c 0xab
+ 180 114 231 54 285 54 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D41D.s u1D41D.ss
 Substitution2: "'ss04' Style Set 4" u1D41D.sb

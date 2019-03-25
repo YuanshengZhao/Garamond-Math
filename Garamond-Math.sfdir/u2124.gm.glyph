@@ -1,9 +1,9 @@
 StartChar: u2124.gm
 Encoding: 1115905 -1 4111
 Width: 664
+Flags: HMW
 ItalicCorrection: 9
 TopAccentHorizontal: 355
-Flags: HMW
 LayerCount: 2
 Fore
 SplineSet

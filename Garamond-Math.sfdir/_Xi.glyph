@@ -1,17 +1,15 @@
 StartChar: Xi
 Encoding: 926 926 373
 Width: 616
-ItalicCorrection: 23
-TopAccentHorizontal: 334
 GlyphClass: 2
 Flags: MW
 TeX: 675 8
-HStem: -8 71 0 63<104 472 155 452> 308 65<202 424 223 404> 395 20G<474.5 480.5> 589 61<153.5 492 200 454>
-VStem: 29 581<3.5 143>
+ItalicCorrection: 23
+TopAccentHorizontal: 334
 LayerCount: 2
 Fore
 SplineSet
-541 510 m 0x7c
+541 510 m 0
  531 510 527 525 526 535 c 0
  523 560 506 589 454 589 c 2
  181 589 l 2
@@ -29,7 +27,7 @@ SplineSet
  586 672 590 667 590 661 c 0
  590 659 590 657 589 655 c 0
  574 620 565 572 558 536 c 0
- 556 525 551 510 541 510 c 0x7c
+ 556 525 551 510 541 510 c 0
 458 246 m 0
  453 246 444 259 442 269 c 0
  438 292 430 308 404 308 c 2
@@ -48,23 +46,23 @@ SplineSet
  483 415 488 410 486 400 c 0
  474 346 468 300 468 270 c 0
  468 259 465 246 458 246 c 0
-44 -8 m 2xbc
+44 -8 m 2
  36 -8 29 0 29 7 c 0
- 29 19 39 43 49 67 c 0xbc
+ 29 19 39 43 49 67 c 0
  58 88 68 119 71 136 c 0
  74 151 79 158 86 158 c 0
  94 158 97 147 97 139 c 0
  100 86 90 63 155 63 c 2
  472 63 l 2
- 525 63 561 98 575 135 c 0x7c
+ 525 63 561 98 575 135 c 0
  578 143 590 164 603 164 c 0
  609 164 610 159 610 153 c 2
  610 143 l 2
  610 124 579 54 575 12 c 0
- 574 3 571 -8 561 -8 c 2xbc
+ 574 3 571 -8 561 -8 c 2
  561 -8 542 0 452 0 c 2
- 129 0 l 2x7c
- 79 0 44 -8 44 -8 c 2xbc
+ 129 0 l 2
+ 79 0 44 -8 44 -8 c 2
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" Xi.s Xi.ss
 EndChar

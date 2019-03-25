@@ -1,17 +1,15 @@
 StartChar: u1D42B
 Encoding: 119851 119851 1531
 Width: 331
-ItalicCorrection: 101
-TopAccentHorizontal: 251
 GlyphClass: 2
 Flags: MW
 TeX: 445 3
-HStem: -3 21G<36.5 62 251 276> 309 124<347 367.5> 336 97<259.5 370> 414 20G
-VStem: 82 131<69 78 78 241>
+ItalicCorrection: 101
+TopAccentHorizontal: 251
 LayerCount: 2
 Fore
 SplineSet
-52 -3 m 0x98
+52 -3 m 0
  41 -3 32 2 32 11 c 0
  32 22 40 27 55 31 c 0
  84 40 92 49 92 69 c 2
@@ -21,21 +19,21 @@ SplineSet
  49 380 53 385 61 387 c 0
  104 397 161 417 197 434 c 0
  204 439 215 445 220 445 c 0
- 227 445 229 441 229 434 c 0x98
+ 227 445 229 441 229 434 c 0
  229 423 227 376 226 355 c 0
  226 349 228 346 230 346 c 0
  260 387 309 433 357 433 c 0
  403 433 421 413 421 386 c 0
- 421 356 392 309 363 309 c 0xc8
+ 421 356 392 309 363 309 c 0
  351 309 337 316 324 323 c 0
  310 329 297 336 287 336 c 0
- 252 336 223 316 223 241 c 2xa8
+ 252 336 223 316 223 241 c 2
  223 78 l 2
  223 51 239 41 276 31 c 0
  290 27 298 21 298 11 c 0
  298 3 291 -3 281 -3 c 0
  241 -3 196 2 161 2 c 0
- 126 2 92 -3 52 -3 c 0x98
+ 126 2 92 -3 52 -3 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D42B.s u1D42B.ss
 Substitution2: "'ss04' Style Set 4" u1D42B.sb
