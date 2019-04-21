@@ -1,10 +1,9 @@
 StartChar: Eogonek
 Encoding: 280 280 216
-Width: 521
+Width: 535
 GlyphClass: 2
 Flags: MW
 TeX: 653 287
-ItalicCorrection: 13
 TopAccentHorizontal: 287
 LayerCount: 2
 Fore

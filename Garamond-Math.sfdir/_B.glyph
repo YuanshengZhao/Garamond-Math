@@ -1,11 +1,11 @@
 StartChar: B
 Encoding: 66 66 35
 AltUni2: 000392.ffffffff.0
-Width: 535
+Width: 574
 GlyphClass: 2
 Flags: MW
 TeX: 657 5
-ItalicCorrection: 51
+ItalicCorrection: 12
 TopAccentHorizontal: 279
 LayerCount: 2
 Fore

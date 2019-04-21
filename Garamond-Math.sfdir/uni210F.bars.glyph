@@ -1,8 +1,8 @@
 StartChar: uni210F.bars
 Encoding: 1116435 -1 4641
-Width: 416
+Width: 448
 Flags: MW
-ItalicCorrection: 96
+ItalicCorrection: 64
 TopAccentHorizontal: 230
 IsExtendedShape: 1
 LayerCount: 2

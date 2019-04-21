@@ -20,8 +20,8 @@
 % \setmathfont{TeX Gyre Termes Math}
 % \setmathfont{XITS Math}
 % \setmathfont{Cambria Math}
-\setmathfont{Garamond-Math.otf}%[StylisticSet={2,8,9,6},Path=./]
-\newfontfamily\GaramondMath{Garamond-Math.otf}%[StylisticSet={1,7},Path=./]
+\setmathfont{Garamond-Math.otf}[StylisticSet={2,8,9,6},Path=./]
+\newfontfamily\GaramondMath{Garamond-Math.otf}[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
@@ -63,7 +63,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{\QED}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50

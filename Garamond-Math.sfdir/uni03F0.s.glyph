@@ -1,10 +1,9 @@
 StartChar: uni03F0.s
 Encoding: 1115256 -1 3462
-Width: 486
+Width: 495
 GlyphClass: 2
 Flags: MW
 TeX: 420 9
-ItalicCorrection: 8
 TopAccentHorizontal: 255
 LayerCount: 2
 Fore

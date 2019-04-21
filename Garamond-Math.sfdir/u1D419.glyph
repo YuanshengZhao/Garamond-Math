@@ -1,11 +1,11 @@
 StartChar: u1D419
 Encoding: 119833 119833 1513
 AltUni2: 01d6ad.ffffffff.0
-Width: 604
+Width: 618
 GlyphClass: 2
 Flags: MW
 TeX: 686 5
-ItalicCorrection: 20
+ItalicCorrection: 5
 TopAccentHorizontal: 325
 LayerCount: 2
 Fore

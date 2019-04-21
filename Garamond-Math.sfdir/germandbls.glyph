@@ -1,10 +1,10 @@
 StartChar: germandbls
 Encoding: 223 223 159
-Width: 478
+Width: 502
 GlyphClass: 2
 Flags: MW
 TeX: 706 15
-ItalicCorrection: 25
+ItalicCorrection: 1
 TopAccentHorizontal: 298
 LayerCount: 2
 Fore

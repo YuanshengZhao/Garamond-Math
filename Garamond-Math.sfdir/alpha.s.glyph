@@ -1,10 +1,9 @@
 StartChar: alpha.s
 Encoding: 1115200 -1 3406
-Width: 446
+Width: 452
 GlyphClass: 2
 Flags: MW
 TeX: 419 15
-ItalicCorrection: 5
 TopAccentHorizontal: 256
 LayerCount: 2
 Fore
