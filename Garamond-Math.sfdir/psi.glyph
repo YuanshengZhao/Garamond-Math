@@ -2,13 +2,15 @@ StartChar: psi
 Encoding: 968 968 403
 Width: 438
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 616 285
 ItalicCorrection: 121
-TopAccentHorizontal: 305
+TopAccentHorizontal: 306
 LayerCount: 2
 Fore
 SplineSet
+286 574 m 25
+ 322 578 l 1053
 324 -285 m 0
  286 -285 276 -191 276 -100 c 2
  276 -17 l 1

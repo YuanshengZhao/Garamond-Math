@@ -1,14 +1,16 @@
 StartChar: zeta.s
-Encoding: 1115210 -1 3416
+Encoding: 1115206 -1 3416
 Width: 311
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 721 199
 ItalicCorrection: 17
-TopAccentHorizontal: 197
+TopAccentHorizontal: 168
 LayerCount: 2
 Fore
 SplineSet
+141 764 m 25
+ 311 724 l 1053
 170 -198 m 0
  148 -198 116 -168 116 -147 c 0
  116 -128 125 -125 139 -122 c 0

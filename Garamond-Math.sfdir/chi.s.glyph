@@ -1,13 +1,15 @@
 StartChar: chi.s
-Encoding: 1115244 -1 3450
+Encoding: 1115240 -1 3450
 Width: 438
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 290
-TopAccentHorizontal: 213
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet
+82 476 m 25
+ 364 475 l 1053
 52 -289 m 0
  42 -289 20 -284 20 -224 c 0
  20 -208 27 -174 39 -153 c 2

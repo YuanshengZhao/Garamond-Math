@@ -2,13 +2,15 @@ StartChar: dotlessj.ssb
 Encoding: 1114118 -1 2328
 Width: 311
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 497 201
 ItalicCorrection: 10
 TopAccentHorizontal: 181
 LayerCount: 2
 Fore
 SplineSet
+161 442 m 25
+ 169 398 l 1053
 115 235 m 2
  115.599609375 310.5 113 385 105 428 c 1
  108 432 l 1
@@ -27,5 +29,4 @@ SplineSet
  111.099609375 -144 113.099609375 11.5 114 116 c 2
  115 235 l 2
 EndSplineSet
-Validated: 33
 EndChar

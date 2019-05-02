@@ -8,6 +8,8 @@ TopAccentHorizontal: 435
 LayerCount: 2
 Fore
 SplineSet
+79 676 m 25
+ 794 676 l 1053
 71 -5 m 0
  54 -5 42 0 42 8 c 0
  42 17 51 20 74 24 c 0
@@ -76,5 +78,5 @@ SplineSet
  226.428710938 62.5322265625 220 83.5244140625 220 106 c 2
  220 551 l 2
 EndSplineSet
-Substitution2: "'ss01' Style Set 1" u210D.gm
+Substitution2: "'ss01' Style Set 1" uni210D.gm
 EndChar

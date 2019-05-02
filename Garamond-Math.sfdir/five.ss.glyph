@@ -1,12 +1,14 @@
 StartChar: five.ss
-Encoding: 1115067 -1 3273
-Width: 437
-Flags: MW
-ItalicCorrection: 52
-TopAccentHorizontal: 251
+Encoding: 1115063 -1 3273
+Width: 473
+Flags: HMW
+ItalicCorrection: 16
+TopAccentHorizontal: 295
 LayerCount: 2
 Fore
 SplineSet
+153 636 m 25
+ 361 651 l 1053
 107 -38 m 0
  91 -38 67 -35 67 -25 c 0
  67 -14 91 -6 105 -5 c 0

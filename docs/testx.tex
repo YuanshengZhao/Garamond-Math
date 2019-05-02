@@ -1,13 +1,14 @@
 \documentclass[11pt,fleqn]{article}
 \usepackage[a4paper, margin=.3in]{geometry}
-\usepackage{amsmath}
+\usepackage{mathtools}
 % \usepackage[no-math]{fontspec}
-\usepackage[math-style=ISO, bold-style=ISO,mathrm=sym]{unicode-math}
+\usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
 %\usepackage{mathtools}
 %\usepackage{extarrows}
 
 % \setmainfont{Source Serif Pro}
 \setmainfont{EB Garamond}[Kerning=Off]%
+
 % [ Path = ../EBGaramond/,
 %   Extension = .otf,
 %   UprightFont = *-Regular,
@@ -18,13 +19,19 @@
 %\setmonofont{CMU Typewriter Text}[UprightFont = * Light, HyphenChar = None]
 
 % \setmathfont{TeX Gyre Termes Math}
-% \setmathfont{XITS Math}
-% \setmathfont{Cambria Math}
-\setmathfont{Garamond-Math.otf}[StylisticSet={2,8,9,6},Path=./]
+% \setmathfont{XITSMath-Regular.otf}
+% \setmathfont{Asana-Math.otf}
+\setmathfont{Garamond-Math.otf}[Path=../Release/,StylisticSet={1,2,6}]
 \newfontfamily\GaramondMath{Garamond-Math.otf}[StylisticSet={1,7},Path=./]
 % \setmathfont{LibertinusMath-Regular.otf}
 % \setmathfontface\mathnormal{Garamond-Math}[Kerning=On]
 
+\makeatletter
+% \newcommand{\xleftarrow}[2][]{\ext@arrow 3095\leftarrowfill@{#1}{#2}}
+\renewcommand{\relbar}{\symbol{"E010}\mkern-.2mu\symbol{"E010}\mkern1.8mu}
+\renewcommand{\Relbar}{\symbol{"E011}\mkern-.2mu\symbol{"E011}\mkern1.8mu}
+% \renewcommand{\ext@arrow}{{g}}%{\symbol{"E010}}
+\makeatother
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefhgijklmnopqrstuvwxyz}
@@ -63,7 +70,7 @@
 \NewDocumentCommand \BRACKETMAP { m m }
   { \[ \exp_args:Nx \tl_map_inline:nn {#2} { \lvert#1{##1}\rvert } \] }
 \NewDocumentCommand \SUPSUBMAP { m m }
-  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0}} }} \] }
+  { \[ \exp_args:Nx \tl_map_inline:nn {#2} {{ #1{##1 \sb{0} \sp{0}} }} \] }
 \NewDocumentCommand \CIRCLEDNUMA { s }
   {
     % with *:    0-50
@@ -119,18 +126,17 @@
 \section{Alphabets \& Metric}
 \delimitershortfall-.0001pt
 \[\begin{split}
-  3.141592653589793238462643383279502884197169399375105820974944592307816406286\\
+  3.\hat 141592653589793238462643383279502884197169399375105820974944592307816406286\\
   208998628034825342117067982148086513282306647093844609550582231725359408128481\\ 117450284102701938521105559644622948954930381964428810975665933446128475648233\\ 786783165271201909145648566923460348610454326648213393607260249141273724587006\\
   \symsf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\\
   \symbb{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\\
   \symbf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\\
 \end{split}\]
 It is known to all that $\sqrt 2$ is irrational.
-\[A_A^AA_{AA}^{AA}A_x^x x_{AA}^{AA} x_A^A A_{xx}^{xx}\xleftarrow{xyz}\]
+\[A_A^AA_{AA}^{AA}A_x^x x_{AA}^{AA} x_A^A A_{xx}^{xx}\xleftarrow{xyhougz}u\xLeftarrow{xyz}v\]
 \[TT{}TLAPAVVAMAWABA\rho_A^V\rho_V^A\rho_{A{}}\rho_{AB}\rho_B\rho_C\rho_x\rho_{T{}}\rho_0[x,y]\sin x[x,y]j[x,y]z[x,y]\sinh xH\upEta T_kT_{k_k}\]
 \[[]\sinh\]
 \[[]\mathrm s\]
-\[[]s\]
 $(0) T{ijT_oTT_x^xL_{ff}L_{jj}Uo}iUojj_x^xJjh(x)$
 
 $K(x)T(x)\Theta(x)L(x)E(x)H(x)N(x)Z(x)O(x)A(x)P(x)Q(x)\symup H(x)\partial(x)\partial_\mu^\mu\symup\partial_\mu^\mu\partial_\mu g\symup\partial_\mu g O_xO_x^x\Theta_{i}\dd  x \partial x O_T\symup H_x\symup H_H$
@@ -167,6 +173,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
 \[ \imath + \jmath + \symup{\imath} + \symup{\jmath} \]
 \[ \symbb{\Latinalphabets \latinalphabets} \]
 \[ \symscr{\Latinalphabets \latinalphabets} \]
+\[ \symfrak{\Latinalphabets \latinalphabets} \]
 \[ \symbfscr{\Latinalphabets \latinalphabets} \]
 \[ \symsf{\Latinalphabets \latinalphabets} \]
 \[ \symtt{\Latinalphabets \latinalphabets} \]
@@ -283,40 +290,41 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
         \TOPACCENTMAP{\symnormal}{A}
         \[\widetilde y \tilde y \tilde z \]
         \[\widehat{1+2+3+4}+\widetilde{5+6+7+8}\]
-        % \begin{itemize}
-        %   \item Latin capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Latinalphabets}
-        %   \item Latin small letters:
-        %     \TOPACCENTMAP{\symnormal}{\latinalphabets}
-        %   \item Latin capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Latinalphabets}
-        %   \item Latin small upright letters:
-        %     \TOPACCENTMAP{\symup}{\latinalphabets}
-        %   \item Latin capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Latinalphabets}
-        %   \item Latin small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\latinalphabets}
-        %   \item Latin capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Latinalphabets}
-        %   \item Latin small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\latinalphabets}
-        %   \item Greek capital letters:
-        %     \TOPACCENTMAP{\symnormal}{\Greekalphabets}
-        %   \item Greek small letters:
-        %     \TOPACCENTMAP{\symnormal}{\greekalphabets}
-        %   \item Greek capital upright letters:
-        %     \TOPACCENTMAP{\symup}{\Greekalphabets}
-        %   \item Greek small upright letters:
-        %     \TOPACCENTMAP{\symup}{\greekalphabets}
-        %   \item Greek capital bold letters:
-        %     \TOPACCENTMAP{\symbf}{\Greekalphabets}
-        %   \item Greek small bold letters:
-        %     \TOPACCENTMAP{\symbf}{\greekalphabets}
-        %   \item Greek capital bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\Greekalphabets}
-        %   \item Greek small bold upright letters:
-        %     \TOPACCENTMAP{\symbfup}{\greekalphabets}
-        % \end{itemize}
+        % \TOPACCENTMAP{\symnormal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symnormal}{\latinalphabets}
+        % \TOPACCENTMAP{\symup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symup}{\latinalphabets}
+        % \TOPACCENTMAP{\symbf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbf}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symcal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfcal}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbb}{\Latinalphabets}
+        % \TOPACCENTMAP{\symfrak}{\Latinalphabets}
+        % \TOPACCENTMAP{\symfrak}{\latinalphabets}
+        % \TOPACCENTMAP{\symbffrak}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbffrak}{\latinalphabets}
+        % \TOPACCENTMAP{\symsf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symsf}{\latinalphabets}
+        % \TOPACCENTMAP{\symsfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symsfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfsf}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfsf}{\latinalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\Latinalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\latinalphabets}
+        % \TOPACCENTMAP{\symtt}{\Latinalphabets}
+        % \TOPACCENTMAP{\symtt}{\latinalphabets}
+        
+        % \TOPACCENTMAP{\symnormal}{\Greekalphabets}
+        % \TOPACCENTMAP{\symnormal}{\greekalphabets}
+        % \TOPACCENTMAP{\symup}{\Greekalphabets}
+        % \TOPACCENTMAP{\symup}{\greekalphabets}
+        % \TOPACCENTMAP{\symbf}{\Greekalphabets}
+        % \TOPACCENTMAP{\symbf}{\greekalphabets}
+        % \TOPACCENTMAP{\symbfup}{\Greekalphabets}
+        % \TOPACCENTMAP{\symbfup}{\greekalphabets}
+        % \TOPACCENTMAP{\symbfsfup}{\Greekalphabets}
 
   \item Large operators
   \[\int_0^1\frac{\ln (x+1)}{x}\dd{x}=\int_0^1\sum_{i=1}^{\infty}\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\int_0^1\oint\frac{(-x)^{i-1}}{i}\dd{x}=\sum_{i=1}^{\infty}\frac{(-1)^{i+1}}{i^2}=\frac{\uppi^2}{12}\]
@@ -455,7 +463,7 @@ $K[x]T[x]\Theta[x]L[x]E[x]H[x]N[x]Z[x]O[x]A[x]P[x]Q[x]\symup H[x]\langle\vert\ra
   \item Over-/underline and over-/underbraces
         \[ \OVERUNDERLINE{\overline}     \quad \overline     {\LISTTEXT}   \]
         \[ \OVERUNDERLINE{\overparen}    \quad \overparen    {\LISTTEXT}^n \]
-        \[ \OVERUNDERLINE{\overbracket}  \quad \overbracket  {\LISTTEXT}^n \]
+        \[ \OVERUNDERLINE{\Uoverbracket}  \quad \Uoverbracket  {\LISTTEXT}^n \]
         \[ \OVERUNDERLINE{\overbrace}    \quad \overbrace    {\LISTTEXT}^n \]
         \[ \OVERUNDERLINE{\underline}    \quad \underline    {\LISTTEXT}   \]
         \[ \OVERUNDERLINE{\underparen}   \quad \underparen   {\LISTTEXT}_n \]

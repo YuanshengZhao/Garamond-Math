@@ -2,7 +2,7 @@ StartChar: arrowdblboth
 Encoding: 8660 8660 741
 Width: 1000
 Flags: HMW
-GlyphCompositionHorizontal: 3  arrowdblleft(⇐)%0,0,150,800 arrowdblleft.ex%1,150,150,300 arrowdblright%0,150,0,800
+GlyphCompositionHorizontal: 3  arrowdblleft.hd%0,0,50,450 uniE011%1,200,200,200 arrowdblright.hd%0,50,0,450
 LayerCount: 2
 Fore
 SplineSet

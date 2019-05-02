@@ -1,12 +1,14 @@
 StartChar: u1D729.sb
-Encoding: 1116172 -1 4378
+Encoding: 1116168 -1 4378
 Width: 629
-Flags: MW
+Flags: HMW
 ItalicCorrection: 114
-TopAccentHorizontal: 480
+TopAccentHorizontal: 493
 LayerCount: 2
 Fore
 SplineSet
+277 747 m 25
+ 734 745 l 1053
 655 489 m 0
  644 489 642 495 640 509 c 0
  638 535 624 547 588 547 c 2

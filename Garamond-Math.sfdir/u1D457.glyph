@@ -2,24 +2,26 @@ StartChar: u1D457
 Encoding: 119895 119895 1574
 Width: 314
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 613 290
 ItalicCorrection: 121
-TopAccentHorizontal: 360
+TopAccentHorizontal: 362
 LayerCount: 2
 Fore
 SplineSet
+350 625 m 25
+ 363 589 l 1053
 350 513 m 0
  330 513 315 532 315 552 c 0
  315 584 339 613 371 613 c 0
  392 613 405 591 405 570 c 0
  405 540 380 513 350 513 c 0
--20 -290 m 4
- -67 -290 -98 -266 -98 -247 c 4
- -98 -230 -78 -207 -59 -207 c 4
- -47 -207 -38 -216 -28 -227 c 4
- -18 -238 -4 -249 19 -249 c 4
- 55 -249 76 -209 95 -151 c 6
+-20 -290 m 0
+ -67 -290 -98 -266 -98 -247 c 0
+ -98 -230 -78 -207 -59 -207 c 0
+ -47 -207 -38 -216 -28 -227 c 0
+ -18 -238 -4 -249 19 -249 c 0
+ 55 -249 76 -209 95 -151 c 2
  238 288 l 2
  245 310 242 321 230 321 c 0
  219 321 195 310 165 295 c 0
@@ -28,10 +30,9 @@ SplineSet
  219 369 251 383 310 414 c 0
  326 419 346 399 341 386 c 0
  327 350 315 314 302 275 c 2
- 169 -128 l 6
- 144 -203 40 -290 -20 -290 c 4
+ 169 -128 l 2
+ 144 -203 40 -290 -20 -290 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D457.s u1D457.ss
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" u1D6A5
 EndChar

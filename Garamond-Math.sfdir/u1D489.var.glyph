@@ -1,12 +1,14 @@
 StartChar: u1D489.var
-Encoding: 1116576 -1 4782
+Encoding: 1116584 -1 4825
 Width: 589
 Flags: HMW
 ItalicCorrection: 1
-TopAccentHorizontal: 256
+TopAccentHorizontal: 257
 LayerCount: 2
 Fore
 SplineSet
+217 603 m 25
+ 306 631 l 1053
 384 371 m 0
  336 371 230 166 153 43 c 0
  127.97078827 3.01827217131 108 -15 89 -15 c 0
@@ -36,7 +38,7 @@ SplineSet
  322.328125 133 368.754882812 232 398.83203125 331 c 0
  406.258789062 356.603515625 395.887695312 371 384 371 c 0
 EndSplineSet
-AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D489.vars u1D489.varss
-Substitution2: "'ss04' Style Set 4" u1D489.varsb
-Substitution2: "'ss05' Style Set 5" u1D489.vareb
+AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D489.var.s u1D489.var.ss
+Substitution2: "'ss05' Style Set 5" u1D489.var.eb
+Substitution2: "'ss04' Style Set 4" u1D489.var.sb
 EndChar

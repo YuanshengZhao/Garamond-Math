@@ -1,12 +1,14 @@
 StartChar: u1D489.eb
-Encoding: 1116308 -1 4514
+Encoding: 1116304 -1 4514
 Width: 530
-Flags: MW
+Flags: HMW
 ItalicCorrection: 62
-TopAccentHorizontal: 262
+TopAccentHorizontal: 266
 LayerCount: 2
 Fore
 SplineSet
+217 597 m 25
+ 342 649 l 1053
 97 -14 m 0
  79 -14 35 6 35 39 c 0
  35 61 40 83 49 111 c 2
@@ -33,5 +35,5 @@ SplineSet
  346 358 249 165 162 35 c 0
  139 0 117 -14 97 -14 c 0
 EndSplineSet
-Substitution2: "'ss10' Style Set 10" u1D489.vareb
+Substitution2: "'ss10' Style Set 10" u1D489.var.eb
 EndChar

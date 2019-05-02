@@ -1,14 +1,16 @@
 StartChar: T.ss
-Encoding: 1115115 -1 3321
+Encoding: 1115111 -1 3321
 Width: 536
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 653 14
 ItalicCorrection: 133
-TopAccentHorizontal: 367
+TopAccentHorizontal: 351
 LayerCount: 2
 Fore
 SplineSet
+304 532 m 29
+ 386 531 l 1049
 214 -5 m 0
  199 -5 187 -1 187 7 c 0
  187 17 196 22 217 26 c 0

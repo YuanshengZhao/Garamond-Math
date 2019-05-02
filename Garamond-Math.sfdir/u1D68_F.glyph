@@ -2,13 +2,15 @@ StartChar: u1D68F
 Encoding: 120463 120463 2020
 Width: 483
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 604 0
 ItalicCorrection: 40
-TopAccentHorizontal: 328
+TopAccentHorizontal: 336
 LayerCount: 2
 Fore
 SplineSet
+306 702 m 25
+ 318 669 l 1053
 184 534 m 1
  189.473632812 616.103515625 250.866210938 681.100585938 326.000976562 686.000976562 c 1
  353.000976562 686.000976562 l 2

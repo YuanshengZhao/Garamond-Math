@@ -2,12 +2,14 @@ StartChar: dotlessi.ssb
 Encoding: 1114117 -1 2327
 Width: 270
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 497 0
 TopAccentHorizontal: 136
 LayerCount: 2
 Fore
 SplineSet
+123 444 m 25
+ 124 407 l 1053
 70 235 m 2
  70 310 68 385 60 428 c 1
  63 432 l 1
@@ -24,5 +26,4 @@ SplineSet
  68 54 70 105 70 180 c 2
  70 235 l 2
 EndSplineSet
-Validated: 1
 EndChar

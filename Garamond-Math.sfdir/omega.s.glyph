@@ -1,14 +1,16 @@
 StartChar: omega.s
-Encoding: 1115248 -1 3454
+Encoding: 1115244 -1 3454
 Width: 549
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 15
 ItalicCorrection: 12
-TopAccentHorizontal: 295
+TopAccentHorizontal: 296
 LayerCount: 2
 Fore
 SplineSet
+156 478 m 25
+ 388 447 l 1053
 160 -14 m 0
  75 -14 35 90 35 161 c 0
  35 313 148 417 176 417 c 0

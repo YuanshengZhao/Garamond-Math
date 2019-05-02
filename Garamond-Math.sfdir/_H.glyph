@@ -3,12 +3,14 @@ Encoding: 72 72 41
 AltUni2: 000397.ffffffff.0
 Width: 810
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 653 5
-TopAccentHorizontal: 405
+TopAccentHorizontal: 406
 LayerCount: 2
 Fore
 SplineSet
+179 664 m 25
+ 642 672 l 1053
 66 -5 m 0
  49 -5 37 0 37 8 c 0
  37 17 46 20 69 24 c 0

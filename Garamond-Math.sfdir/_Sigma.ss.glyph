@@ -1,14 +1,16 @@
 StartChar: Sigma.ss
-Encoding: 1115191 -1 3397
+Encoding: 1115187 -1 3397
 Width: 590
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 650 5
 ItalicCorrection: 12
-TopAccentHorizontal: 293
+TopAccentHorizontal: 330
 LayerCount: 2
 Fore
 SplineSet
+46 683 m 25
+ 538 699 l 1053
 50 -6 m 0
  37 -6 25 1 25 13 c 0
  25 26 247 233 316 310 c 0

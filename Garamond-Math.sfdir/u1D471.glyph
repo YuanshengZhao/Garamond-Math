@@ -2,13 +2,15 @@ StartChar: u1D471
 Encoding: 119921 119921 1600
 Width: 410
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 655 200
 ItalicCorrection: 166
-TopAccentHorizontal: 419
+TopAccentHorizontal: 427
 LayerCount: 2
 Fore
 SplineSet
+444 676 m 25
+ 452 624 l 1053
 30 -200 m 0
  -65 -200 -99 -176 -100 -143 c 0
  -100 -104 -84 -75 -62 -75 c 0
@@ -28,7 +30,6 @@ SplineSet
  306 -16 261 -77 203 -126 c 0
  153 -170 93 -200 30 -200 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D471.sb
 Substitution2: "'ss05' Style Set 5" u1D471.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D471.s u1D471.ss

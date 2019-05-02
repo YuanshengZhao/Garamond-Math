@@ -1,13 +1,15 @@
 StartChar: u1D707.ss
-Encoding: 1115749 -1 3955
+Encoding: 1115745 -1 3955
 Width: 563
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 291
-TopAccentHorizontal: 327
+TopAccentHorizontal: 332
 LayerCount: 2
 Fore
 SplineSet
+149 481 m 25
+ 520 453 l 1053
 36 -286 m 0
  10 -286 -8 -259 -8 -228 c 0
  -8 -166 23 -75 46 0 c 0

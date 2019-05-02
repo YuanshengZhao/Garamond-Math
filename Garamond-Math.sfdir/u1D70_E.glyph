@@ -2,13 +2,15 @@ StartChar: u1D70E
 Encoding: 120590 120590 2119
 Width: 373
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 439 14
 ItalicCorrection: 154
-TopAccentHorizontal: 349
+TopAccentHorizontal: 382
 LayerCount: 2
 Fore
 SplineSet
+269 381 m 25
+ 352 370 l 1053
 126 -14 m 0
  88 -14 37 50 37 99 c 0
  37 224 138 414 260 414 c 0
@@ -27,6 +29,5 @@ SplineSet
  157 341 70 205 71 124 c 0
  72 95 99 62 129 62 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D70E.s u1D70E.ss
 EndChar

@@ -1,11 +1,13 @@
 StartChar: Delta.ss
-Encoding: 1115273 -1 3479
+Encoding: 1115269 -1 3479
 Width: 676
-Flags: MW
-TopAccentHorizontal: 348
+Flags: HMW
+TopAccentHorizontal: 352
 LayerCount: 2
 Fore
 SplineSet
+316 677 m 25
+ 348 610 l 1053
 52 0 m 2
  39 0 33 10 33 21 c 0
  33 26 34 31 36 35 c 2

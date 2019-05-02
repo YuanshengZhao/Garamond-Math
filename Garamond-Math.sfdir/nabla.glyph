@@ -2,13 +2,15 @@ StartChar: nabla
 Encoding: 8711 8711 792
 Width: 512
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 643 27
 ItalicCorrection: 163
-TopAccentHorizontal: 351
+TopAccentHorizontal: 352
 LayerCount: 2
 Fore
 SplineSet
+66 662 m 25
+ 634 668 l 1053
 628 643 m 2
  639 643 643 635 643 626 c 0
  643 622 642 619 641 616 c 2

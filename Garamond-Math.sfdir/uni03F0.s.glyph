@@ -1,13 +1,15 @@
 StartChar: uni03F0.s
-Encoding: 1115256 -1 3462
+Encoding: 1115252 -1 3462
 Width: 495
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 420 9
-TopAccentHorizontal: 255
+TopAccentHorizontal: 259
 LayerCount: 2
 Fore
 SplineSet
+122 467 m 25
+ 392 466 l 1053
 384 -10 m 0
  317 -10 275 45 275 113 c 0
  275 146 284 183 302 217 c 1

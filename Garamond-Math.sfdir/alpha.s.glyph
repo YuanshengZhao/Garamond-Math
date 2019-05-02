@@ -1,13 +1,15 @@
 StartChar: alpha.s
-Encoding: 1115200 -1 3406
+Encoding: 1115196 -1 3406
 Width: 452
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 419 15
-TopAccentHorizontal: 256
+TopAccentHorizontal: 271
 LayerCount: 2
 Fore
 SplineSet
+189 463 m 25
+ 342 473 l 1053
 126 -15 m 0
  74 -15 35 51 35 128 c 0
  35 250 107 405 192 405 c 0

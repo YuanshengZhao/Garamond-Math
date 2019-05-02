@@ -2,13 +2,15 @@ StartChar: u1D72E
 Encoding: 120622 120622 2140
 Width: 586
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 676 6
 ItalicCorrection: 111
-TopAccentHorizontal: 429
+TopAccentHorizontal: 459
 LayerCount: 2
 Fore
 SplineSet
+194 691 m 25
+ 658 730 l 1053
 15 -6 m 0
  -5 -6 -16 0 -15 12 c 0
  -14 28 7 46 33 69 c 0
@@ -43,7 +45,6 @@ SplineSet
  317 0 162 2 111 0 c 0
  62 -1 46 -6 15 -6 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D72E.sb
 Substitution2: "'ss05' Style Set 5" u1D72E.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D72E.s u1D72E.ss

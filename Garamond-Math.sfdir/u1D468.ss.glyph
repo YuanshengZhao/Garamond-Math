@@ -1,12 +1,14 @@
 StartChar: u1D468.ss
-Encoding: 1115507 -1 3713
+Encoding: 1115503 -1 3713
 Width: 794
 Flags: HMW
 ItalicCorrection: 14
-TopAccentHorizontal: 631
+TopAccentHorizontal: 667
 LayerCount: 2
 Fore
 SplineSet
+640 650 m 25
+ 666 599 l 1053
 2 -5 m 0
  -14 -5 -22 -1 -20 11 c 0
  -18 24 -6 30 8 33 c 0

@@ -1,13 +1,15 @@
 StartChar: xi.s
-Encoding: 1115226 -1 3432
+Encoding: 1115222 -1 3432
 Width: 374
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 742 210
-TopAccentHorizontal: 192
+TopAccentHorizontal: 145
 LayerCount: 2
 Fore
 SplineSet
+118 796 m 25
+ 328 733 l 1053
 186 -208 m 0
  164 -208 130 -178 130 -156 c 0
  130 -138 139 -132 153 -132 c 0

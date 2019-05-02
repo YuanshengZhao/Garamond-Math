@@ -1,12 +1,14 @@
 StartChar: nabla.ss
-Encoding: 1115275 -1 3481
+Encoding: 1115271 -1 3481
 Width: 515
-Flags: MW
+Flags: HMW
 ItalicCorrection: 160
 TopAccentHorizontal: 352
 LayerCount: 2
 Fore
 SplineSet
+68 682 m 25
+ 620 684 l 1053
 625 643 m 2
  638 643 644 633 644 622 c 0
  644 617 643 612 641 608 c 2

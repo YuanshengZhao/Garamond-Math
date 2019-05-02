@@ -2,13 +2,15 @@ StartChar: partialdiff
 Encoding: 8706 8706 787
 Width: 458
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 705 14
 ItalicCorrection: 28
-TopAccentHorizontal: 192
+TopAccentHorizontal: 166
 LayerCount: 2
 Fore
 SplineSet
+76 610 m 25
+ 254 533 l 1053
 231 -14 m 0
  119 -14 25 66 25 186 c 0
  25 310 133 414 256 414 c 0

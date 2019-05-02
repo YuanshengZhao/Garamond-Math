@@ -1,13 +1,15 @@
 StartChar: q.ss
-Encoding: 1115161 -1 3367
+Encoding: 1115157 -1 3367
 Width: 522
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 430 3
-TopAccentHorizontal: 292
+TopAccentHorizontal: 303
 LayerCount: 2
 Fore
 SplineSet
+268 343 m 25
+ 354 304 l 1053
 323 -285 m 0
  316 -285 304 -283 304 -275 c 0
  304 -265 315 -261 327 -257 c 0

@@ -4,10 +4,12 @@ Width: 600
 GlyphClass: 2
 Flags: HMW
 TeX: 460 218
-TopAccentHorizontal: 326
+TopAccentHorizontal: 337
 LayerCount: 2
 Fore
 SplineSet
+284 323 m 25
+ 371 299 l 1053
 338 -285 m 0
  331 -285 318 -284 318 -276 c 0
  318 -266 330 -262 341 -258 c 0

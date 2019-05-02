@@ -2,7 +2,7 @@ StartChar: arrowdblup
 Encoding: 8657 8657 738
 Width: 460
 Flags: HMW
-GlyphCompositionVertical: 2  arrowdblup.ex%1,810,810,810 arrowdblup(⇑)%0,281,0,842
+GlyphCompositionVertical: 3  arrowdblup.bt%0,0,89,268 uniE013%1,200,200,200 arrowdblup.hd%0,50,0,450
 LayerCount: 2
 Fore
 SplineSet

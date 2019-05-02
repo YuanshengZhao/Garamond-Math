@@ -1,12 +1,14 @@
 StartChar: partialdiff.s
-Encoding: 1115268 -1 3474
+Encoding: 1115264 -1 3474
 Width: 458
-Flags: MW
+Flags: HMW
 ItalicCorrection: 28
-TopAccentHorizontal: 197
+TopAccentHorizontal: 171
 LayerCount: 2
 Fore
 SplineSet
+96 572 m 25
+ 252 490 l 1053
 234 -14 m 0
  121 -14 25 67 25 187 c 0
  25 312 132 417 258 417 c 0

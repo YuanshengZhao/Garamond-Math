@@ -5,10 +5,12 @@ GlyphClass: 2
 Flags: HMW
 TeX: 450 0
 ItalicCorrection: 6
-TopAccentHorizontal: 140
+TopAccentHorizontal: 176
 LayerCount: 2
 Fore
 SplineSet
+157 273 m 25
+ 170 272 l 1053
 19 -287 m 0
  12 -287 -2 -284 -2 -277 c 0
  -2 -269 7 -261 9 -260 c 0
@@ -35,5 +37,5 @@ SplineSet
  149 69 l 2
  149 8.34375 147.859375 -100.10546875 126.358398438 -177.96875 c 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1" dotlessj.dsgm
+Substitution2: "'ss01' Style Set 1" dotlessj.ds.gm
 EndChar

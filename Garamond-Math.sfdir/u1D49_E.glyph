@@ -2,13 +2,15 @@ StartChar: u1D49E
 Encoding: 119966 119966 1644
 Width: 711
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 689 17
 ItalicCorrection: 86
-TopAccentHorizontal: 414
+TopAccentHorizontal: 416
 LayerCount: 2
 Fore
 SplineSet
+629 680 m 25
+ 636 629 l 1053
 351 348 m 0
  348 342 349 339 356 339 c 0
  432 341 518 365 584 401 c 0
@@ -44,7 +46,6 @@ SplineSet
  460 247 390 181 390 86 c 0
  390 79 393 62 386 62 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss08' Style Set 8" u1D49E.gm
 Substitution2: "'ss03' Style Set 3" u1D49E.c
 EndChar

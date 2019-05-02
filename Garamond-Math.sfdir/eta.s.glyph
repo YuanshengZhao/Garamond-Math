@@ -1,13 +1,15 @@
 StartChar: eta.s
-Encoding: 1115212 -1 3418
+Encoding: 1115208 -1 3418
 Width: 459
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 285
 TopAccentHorizontal: 205
 LayerCount: 2
 Fore
 SplineSet
+188 358 m 25
+ 266 402 l 1053
 374 -285 m 0
  339 -285 302 -263 303 -229 c 0
  303 -215 311 -188 318 -157 c 0

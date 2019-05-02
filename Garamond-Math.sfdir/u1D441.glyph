@@ -3,13 +3,15 @@ Encoding: 119873 119873 1553
 AltUni2: 01d6ee.ffffffff.0
 Width: 704
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 658 5
 ItalicCorrection: 152
-TopAccentHorizontal: 523
+TopAccentHorizontal: 512
 LayerCount: 2
 Fore
 SplineSet
+157 692 m 25
+ 854 686 l 1053
 2 -5 m 0
  -14 -5 -22 -2 -22 6 c 0
  -22 15 -16 19 7 24 c 0
@@ -49,6 +51,5 @@ SplineSet
  158 -5 143 0 109 0 c 0
  68 0 52 -5 2 -5 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D441.s u1D441.ss
 EndChar

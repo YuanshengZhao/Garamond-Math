@@ -2,13 +2,15 @@ StartChar: u1D4F2
 Encoding: 120050 120050 1718
 Width: 457
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 701 14
 ItalicCorrection: 41
-TopAccentHorizontal: 388
+TopAccentHorizontal: 391
 LayerCount: 2
 Fore
 SplineSet
+412 674 m 25
+ 410 646 l 1053
 432 182 m 0
  440 194 458 201 472 201 c 0
  477 201 479 196 476 191 c 0
@@ -37,7 +39,6 @@ SplineSet
  317 623 363 660 400 660 c 0
  430 660 449 641 449 614 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi.calb
 AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessi.calb
 EndChar

@@ -1,14 +1,16 @@
 StartChar: Phi.s
-Encoding: 1115194 -1 3400
+Encoding: 1115190 -1 3400
 Width: 620
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 672 5
 ItalicCorrection: 124
-TopAccentHorizontal: 383
+TopAccentHorizontal: 379
 LayerCount: 2
 Fore
 SplineSet
+364 681 m 25
+ 376 635 l 1053
 267 -5 m 0
  251 -5 239 -1 239 7 c 0
  239 16 248 21 270 25 c 0

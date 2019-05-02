@@ -3,12 +3,14 @@ Encoding: 120291 120291 1848
 AltUni2: 01d766.ffffffff.0
 Width: 400
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 ItalicCorrection: 198
-TopAccentHorizontal: 298
+TopAccentHorizontal: 278
 LayerCount: 2
 Fore
 SplineSet
+314 349 m 25
+ 241 354 l 1053
 233 560 m 2
  233 335 l 1
  246 328 287 325 312 325 c 0

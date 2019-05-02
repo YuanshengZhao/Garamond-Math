@@ -2,7 +2,7 @@ StartChar: equal
 Encoding: 61 61 30
 Width: 566
 Flags: HMW
-GlyphCompositionHorizontal: 3  equal(=)%0,0,173,510 equal.ex%1,173,173,346 equal(=)%0,173,0,510
+GlyphCompositionHorizontal: 3  equal.lf%0,83,83,250 equal.ex%0,200,200,200 equal.rt%0,83,83,250
 LayerCount: 2
 Fore
 SplineSet

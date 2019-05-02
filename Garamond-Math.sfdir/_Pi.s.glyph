@@ -1,13 +1,15 @@
 StartChar: Pi.s
-Encoding: 1115188 -1 3394
+Encoding: 1115184 -1 3394
 Width: 828
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 653 5
-TopAccentHorizontal: 414
+TopAccentHorizontal: 417
 LayerCount: 2
 Fore
 SplineSet
+78 680 m 25
+ 749 679 l 1053
 65 -5 m 0
  49 -5 37 -1 37 7 c 0
  37 16 46 21 68 25 c 0

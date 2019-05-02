@@ -2,13 +2,15 @@ StartChar: Upsilon
 Encoding: 933 933 376
 Width: 586
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 650 5
 ItalicCorrection: 152
-TopAccentHorizontal: 382
+TopAccentHorizontal: 383
 LayerCount: 2
 Fore
 SplineSet
+166 664 m 25
+ 596 666 l 1053
 243 -5 m 0
  226 -5 214 -2 214 6 c 0
  214 15 224 20 247 24 c 0

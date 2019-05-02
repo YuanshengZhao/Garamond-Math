@@ -2,13 +2,15 @@ StartChar: uni210B
 Encoding: 8459 8459 592
 Width: 768
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 687 17
 ItalicCorrection: 144
-TopAccentHorizontal: 505
+TopAccentHorizontal: 509
 LayerCount: 2
 Fore
 SplineSet
+597 666 m 25
+ 603 632 l 1053
 278 214 m 0
  281 220 279 222 273 219 c 0
  159 163 86 119 86 44 c 0
@@ -64,7 +66,6 @@ SplineSet
  616 658 619 653 619 646 c 0
  619 634 615 618 606 610 c 0
 EndSplineSet
-Validated: 1
-Substitution2: "'ss08' Style Set 8" u210B.gm
-Substitution2: "'ss03' Style Set 3" u210B.c
+Substitution2: "'ss08' Style Set 8" uni210B.gm
+Substitution2: "'ss03' Style Set 3" uni210B.c
 EndChar

@@ -2,12 +2,14 @@ StartChar: u1D45B
 Encoding: 119899 119899 1578
 Width: 514
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 16
-TopAccentHorizontal: 266
+TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet
+175 432 m 25
+ 387 444 l 1053
 55 -16 m 0
  39 -16 23 11 30 28 c 2
  146 312 l 2
@@ -35,6 +37,5 @@ SplineSet
  234 256 151 128 86 15 c 0
  74 -7 66 -16 55 -16 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D45B.s u1D45B.ss
 EndChar

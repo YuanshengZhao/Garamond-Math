@@ -2,13 +2,15 @@ StartChar: uni210F
 Encoding: 8463 8463 595
 Width: 440
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 579 15
 ItalicCorrection: 65
-TopAccentHorizontal: 292
+TopAccentHorizontal: 226
 LayerCount: 2
 Fore
 SplineSet
+216 628 m 25
+ 260 658 l 1053
 53 -18 m 0
  43 -18 36 -4 36 8 c 0
  36 28 41 45 49 75 c 2
@@ -46,7 +48,6 @@ SplineSet
  295 374 162 168 115 78 c 0
  82 14 69 -18 53 -18 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" uni210F.s uni210F.ss
 Substitution2: "'ss06' Style Set 6" uni210F.bar
 Substitution2: "'ss10' Style Set 10" uni210F.var

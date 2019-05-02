@@ -2,14 +2,16 @@ StartChar: v
 Encoding: 118 118 87
 Width: 311
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 405 21
 ItalicCorrection: 126
 TopAccentHorizontal: 224
 LayerCount: 2
 Fore
 SplineSet
-214 -21 m 2
+34 416 m 25
+ 422 423 l 1049
+214 -21 m 6
  209 -21 199 8 196 17 c 0
  187 39 179 65 171 87 c 0
  141 170 106 247 74 329 c 0
@@ -37,7 +39,7 @@ SplineSet
  280 123 l 2
  275 112 242 24 242 24 c 1
  242 24 227 -12 220 -21 c 1
- 214 -21 l 2
+ 214 -21 l 6
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" v.s v.ss
 EndChar

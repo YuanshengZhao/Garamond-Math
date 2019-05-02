@@ -1,0 +1,17 @@
+StartChar: arrowup.bt
+Encoding: 1116435 -1 4645
+Width: 460
+Flags: HMW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni222D.var.dp
+LayerCount: 2
+Fore
+SplineSet
+218 -223 m 0
+ 212 -223 207 -215 207 -209 c 2
+ 207 45 l 2
+ 253 45 l 2
+ 253 -191 l 2
+ 253 -209 228 -223 218 -223 c 0
+EndSplineSet
+EndChar

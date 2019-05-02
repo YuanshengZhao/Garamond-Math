@@ -2,12 +2,14 @@ StartChar: chi
 Encoding: 967 967 402
 Width: 438
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 290
-TopAccentHorizontal: 212
+TopAccentHorizontal: 220
 LayerCount: 2
 Fore
 SplineSet
+85 432 m 25
+ 354 436 l 1053
 51 -290 m 0
  43 -290 22 -288 22 -225 c 0
  22 -211 29 -177 40 -157 c 2

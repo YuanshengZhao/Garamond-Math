@@ -2,13 +2,15 @@ StartChar: u1D49F
 Encoding: 119967 119967 1645
 Width: 836
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 690 17
 ItalicCorrection: 31
-TopAccentHorizontal: 363
+TopAccentHorizontal: 357
 LayerCount: 2
 Fore
 SplineSet
+681 537 m 25
+ 674 510 l 1053
 310 35 m 0
  316 37 316 40 310 43 c 0
  261 66 224 79 181 79 c 0
@@ -56,7 +58,6 @@ SplineSet
  693 506 698 506 703 510 c 0
  725 527 740 537 775 548 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss08' Style Set 8" u1D49F.gm
 Substitution2: "'ss03' Style Set 3" u1D49F.c
 EndChar

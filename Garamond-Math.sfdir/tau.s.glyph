@@ -1,14 +1,16 @@
 StartChar: tau.s
-Encoding: 1115238 -1 3444
+Encoding: 1115234 -1 3444
 Width: 332
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 430 14
 ItalicCorrection: 77
-TopAccentHorizontal: 249
+TopAccentHorizontal: 276
 LayerCount: 2
 Fore
 SplineSet
+200 364 m 25
+ 266 363 l 1053
 236 -14 m 0
  200 -14 172 12 172 78 c 0
  172 163 208 305 209 322 c 0

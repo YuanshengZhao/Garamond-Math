@@ -1,0 +1,23 @@
+StartChar: arrowdblup.bt
+Encoding: 1116439 -1 4649
+Width: 460
+Flags: HMW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni2231.var.dp
+LayerCount: 2
+Fore
+SplineSet
+323 45 m 2
+ 323 -191 l 2
+ 323 -209 298 -223 288 -223 c 0
+ 282 -223 277 -215 277 -209 c 2
+ 277 45 l 2
+ 323 45 l 2
+183 45 m 2
+ 183 -191 l 2
+ 183 -209 158 -223 148 -223 c 0
+ 142 -223 137 -215 137 -209 c 2
+ 137 45 l 2
+ 183 45 l 2
+EndSplineSet
+EndChar

@@ -1,12 +1,14 @@
 StartChar: Ifraktur
 Encoding: 8465 8465 4945
 Width: 655
-Flags: MW
+Flags: HMW
 ItalicCorrection: 25
-TopAccentHorizontal: 367
+TopAccentHorizontal: 374
 LayerCount: 2
 Fore
 SplineSet
+512 635 m 25
+ 498 592 l 1053
 618 688 m 1
  607 616 550 552 473 552 c 0
  358 552 316 663 208 663 c 0

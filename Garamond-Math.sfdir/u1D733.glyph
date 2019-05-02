@@ -2,13 +2,15 @@ StartChar: u1D733
 Encoding: 120627 120627 2143
 Width: 634
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 655 3
 ItalicCorrection: 227
-TopAccentHorizontal: 448
+TopAccentHorizontal: 456
 LayerCount: 2
 Fore
 SplineSet
+440 673 m 25
+ 454 608 l 1053
 129 -3 m 0
  120 -3 112 2 115 11 c 0
  118 22 128 29 142 32 c 0
@@ -48,7 +50,6 @@ SplineSet
  377 -3 315 2 276 2 c 0
  235 2 174 -3 129 -3 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D733.sb
 Substitution2: "'ss05' Style Set 5" u1D733.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D733.s u1D733.ss

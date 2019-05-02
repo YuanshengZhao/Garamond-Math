@@ -5,10 +5,12 @@ GlyphClass: 2
 Flags: HMW
 TeX: 662 0
 ItalicCorrection: 13
-TopAccentHorizontal: 313
+TopAccentHorizontal: 258
 LayerCount: 2
 Fore
 SplineSet
+287 671 m 25
+ 299 638 l 1053
 63 -5 m 0
  46 -5 34 -2 34 6 c 0
  34 15 44 20 67 24 c 0

@@ -6,7 +6,7 @@ Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
-GlyphVariantsVertical: uni222F uni222F.v1
+GlyphVariantsVertical: uni222F uni222F.dp
 LayerCount: 2
 Fore
 SplineSet
@@ -83,5 +83,5 @@ SplineSet
  729 152 766 198 766 250 c 0
  766 294 739 334 696 365 c 0
 EndSplineSet
-Substitution2: "'ss07' Style Set 7" u222F.var
+Substitution2: "'ss07' Style Set 7" uni222F.var
 EndChar

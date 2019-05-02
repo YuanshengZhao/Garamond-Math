@@ -2,13 +2,15 @@ StartChar: u1D44F
 Encoding: 119887 119887 1567
 Width: 381
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 707 8
 ItalicCorrection: 79
-TopAccentHorizontal: 228
+TopAccentHorizontal: 227
 LayerCount: 2
 Fore
 SplineSet
+214 634 m 25
+ 262 652 l 1053
 126 -8 m 0
  74 -8 41 24 41 74 c 0
  41 107 49 151 64 195 c 2
@@ -33,6 +35,5 @@ SplineSet
  129 172 100 116 100 91 c 0
  100 55 124 24 152 24 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D44F.s u1D44F.ss
 EndChar

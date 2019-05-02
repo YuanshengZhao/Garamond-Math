@@ -2,13 +2,15 @@ StartChar: uni2110
 Encoding: 8464 8464 596
 Width: 586
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 689 15
 ItalicCorrection: 196
-TopAccentHorizontal: 598
+TopAccentHorizontal: 647
 LayerCount: 2
 Fore
 SplineSet
+635 592 m 25
+ 675 586 l 1053
 591 585 m 0
  482 585 365 558 365 447 c 0
  365 409 409 361 475 349 c 0
@@ -46,7 +48,6 @@ SplineSet
  119 106 110 83 82 83 c 0
  76 83 64 84 56 89 c 0
 EndSplineSet
-Validated: 1
-Substitution2: "'ss08' Style Set 8" u2110.gm
-Substitution2: "'ss03' Style Set 3" u2110.c
+Substitution2: "'ss08' Style Set 8" uni2110.gm
+Substitution2: "'ss03' Style Set 3" uni2110.c
 EndChar

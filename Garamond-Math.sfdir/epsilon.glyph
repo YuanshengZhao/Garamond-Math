@@ -2,9 +2,9 @@ StartChar: epsilon
 Encoding: 949 949 384
 Width: 334
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 412 14
-TopAccentHorizontal: 183
+TopAccentHorizontal: 201
 LayerCount: 2
 Fore
 SplineSet

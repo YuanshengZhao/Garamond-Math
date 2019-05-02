@@ -1,10 +1,10 @@
 StartChar: uni03C2.s
-Encoding: 1115234 -1 3440
+Encoding: 1115230 -1 3440
 Width: 345
 GlyphClass: 2
 Flags: MW
 TeX: 413 190
-TopAccentHorizontal: 229
+TopAccentHorizontal: 248
 LayerCount: 2
 Fore
 SplineSet

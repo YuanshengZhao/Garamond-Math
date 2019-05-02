@@ -1,12 +1,14 @@
 StartChar: seven.ss
-Encoding: 1115071 -1 3277
-Width: 299
-Flags: MW
-ItalicCorrection: 190
-TopAccentHorizontal: 272
+Encoding: 1115067 -1 3277
+Width: 311
+Flags: HMW
+ItalicCorrection: 178
+TopAccentHorizontal: 258
 LayerCount: 2
 Fore
 SplineSet
+70 647 m 25
+ 471 642 l 1053
 132 -31 m 0
  116 -31 108 -20 108 -4 c 0
  108 1 122 24 131 40 c 2

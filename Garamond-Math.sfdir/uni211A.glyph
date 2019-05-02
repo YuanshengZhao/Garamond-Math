@@ -4,7 +4,7 @@ Width: 878
 GlyphClass: 2
 Flags: HMW
 TeX: 676 65
-TopAccentHorizontal: 418
+TopAccentHorizontal: 417
 LayerCount: 2
 Fore
 SplineSet
@@ -49,5 +49,5 @@ SplineSet
  707.282226562 192.700195312 733 257.643554688 733 335 c 0
  733 429.084960938 683.34375 507.57421875 611.857421875 558.022460938 c 0
 EndSplineSet
-Substitution2: "'ss01' Style Set 1" u211A.gm
+Substitution2: "'ss01' Style Set 1" uni211A.gm
 EndChar

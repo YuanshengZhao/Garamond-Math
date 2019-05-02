@@ -1,11 +1,11 @@
 StartChar: u1D7D7.eb
-Encoding: 1116426 -1 4632
-Width: 344
+Encoding: 1116422 -1 4632
+Width: 385
 Flags: MW
-ItalicCorrection: 145
-TopAccentHorizontal: 259
+ItalicCorrection: 104
+TopAccentHorizontal: 262
 IsExtendedShape: 1
-GlyphVariantsVertical: u2A11.vv1
+GlyphVariantsVertical: uni2A11.var.dp
 LayerCount: 2
 Fore
 SplineSet

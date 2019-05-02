@@ -2,13 +2,15 @@ StartChar: dotlessi.calb
 Encoding: 1114125 -1 2335
 Width: 451
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 410 308
 ItalicCorrection: 41
-TopAccentHorizontal: 278
+TopAccentHorizontal: 306
 LayerCount: 2
 Fore
 SplineSet
+292 450 m 25
+ 343 451 l 1053
 431 182 m 0
  439 194 457 201 471 201 c 0
  476 201 478 196 475 191 c 0
@@ -32,5 +34,4 @@ SplineSet
  246 34 260 21 280 21 c 0
  311 21 363 74 431 182 c 0
 EndSplineSet
-Validated: 1
 EndChar

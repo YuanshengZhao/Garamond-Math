@@ -2,13 +2,15 @@ StartChar: u1D48A
 Encoding: 119946 119946 1625
 Width: 340
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 647 14
 ItalicCorrection: 61
-TopAccentHorizontal: 298
+TopAccentHorizontal: 300
 LayerCount: 2
 Fore
 SplineSet
+282 669 m 25
+ 296 613 l 1053
 279 504 m 0
  249 504 227 532 227 561 c 0
  227 606 263 647 311 647 c 0
@@ -31,7 +33,6 @@ SplineSet
  294 158 300 151 300 144 c 0
  300 96 168 -14 95 -14 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D48A.sb
 Substitution2: "'ss05' Style Set 5" u1D48A.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D48A.s u1D48A.ss

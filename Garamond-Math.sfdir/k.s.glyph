@@ -1,13 +1,15 @@
 StartChar: k.s
-Encoding: 1115148 -1 3354
+Encoding: 1115144 -1 3354
 Width: 469
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 705 3
-TopAccentHorizontal: 113
+TopAccentHorizontal: 111
 LayerCount: 2
 Fore
 SplineSet
+101 558 m 25
+ 144 552 l 1053
 42 -3 m 0
  27 -3 19 0 19 8 c 0
  19 18 31 21 42 25 c 0

@@ -2,13 +2,15 @@ StartChar: dotlessi.sso
 Encoding: 1114115 -1 2325
 Width: 186
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 482 0
 ItalicCorrection: 65
-TopAccentHorizontal: 170
+TopAccentHorizontal: 173
 LayerCount: 2
 Fore
 SplineSet
+126 434 m 25
+ 215 455 l 1053
 90 235 m 2
  105.900390625 310 117.30078125 373 118.400390625 416 c 1
  121 419 l 1
@@ -24,5 +26,4 @@ SplineSet
  49.499023438 54 62.399414062 105 78.299804688 180 c 2
  90 235 l 2
 EndSplineSet
-Validated: 1
 EndChar

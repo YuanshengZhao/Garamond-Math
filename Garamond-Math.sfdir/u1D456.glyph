@@ -2,13 +2,15 @@ StartChar: u1D456
 Encoding: 119894 119894 1573
 Width: 289
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 613 14
 ItalicCorrection: 72
-TopAccentHorizontal: 279
+TopAccentHorizontal: 280
 LayerCount: 2
 Fore
 SplineSet
+265 636 m 25
+ 279 587 l 1053
 267 513 m 0
  247 513 232 532 232 552 c 0
  232 584 256 613 288 613 c 0
@@ -31,7 +33,6 @@ SplineSet
  240 139 243 137 243 134 c 0
  243 92 126 -14 65 -14 c 0
 EndSplineSet
-Validated: 33
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D456.s u1D456.ss
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" u1D6A4
 EndChar

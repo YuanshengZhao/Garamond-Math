@@ -2,6 +2,7 @@ StartChar: arrowupdn
 Encoding: 8597 8597 678
 Width: 460
 Flags: HMW
+GlyphCompositionVertical: 3  arrowdown.hd%0,0,50,450 uniE012%1,200,200,200 arrowup.hd%0,50,0,450
 LayerCount: 2
 Fore
 SplineSet

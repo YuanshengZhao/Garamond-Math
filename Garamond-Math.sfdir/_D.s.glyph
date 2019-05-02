@@ -1,14 +1,16 @@
 StartChar: D.s
-Encoding: 1115082 -1 3288
+Encoding: 1115078 -1 3288
 Width: 682
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 659 7
 ItalicCorrection: 70
-TopAccentHorizontal: 307
+TopAccentHorizontal: 268
 LayerCount: 2
 Fore
 SplineSet
+326 646 m 25
+ 327 682 l 1053
 375 -7 m 0
  348 -7 241 0 168 0 c 0
  128 0 110 -5 58 -5 c 0

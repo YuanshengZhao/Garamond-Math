@@ -1,9 +1,8 @@
 StartChar: two.s
-Encoding: 1115060 -1 3266
-Width: 469
+Encoding: 1115056 -1 3266
+Width: 489
 Flags: MW
-ItalicCorrection: 20
-TopAccentHorizontal: 218
+TopAccentHorizontal: 223
 LayerCount: 2
 Fore
 SplineSet

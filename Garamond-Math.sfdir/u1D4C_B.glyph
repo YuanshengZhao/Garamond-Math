@@ -2,13 +2,15 @@ StartChar: u1D4CB
 Encoding: 120011 120011 1679
 Width: 462
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 410 14
 ItalicCorrection: 127
-TopAccentHorizontal: 341
+TopAccentHorizontal: 345
 LayerCount: 2
 Fore
 SplineSet
+300 402 m 25
+ 371 361 l 1053
 469 241 m 0
  466 235 467 229 472 225 c 0
  491 209 513 202 533 202 c 3
@@ -40,6 +42,5 @@ SplineSet
  483 436 495 393 495 364 c 3
  495 317 484 274 469 241 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss08' Style Set 8" u1D4CB.gm
 EndChar

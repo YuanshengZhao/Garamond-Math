@@ -4,11 +4,13 @@ Width: 305
 GlyphClass: 2
 Flags: HMW
 TeX: 962 461
-TopAccentHorizontal: 132
+TopAccentHorizontal: 177
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
+146 278 m 25
+ 162 280 l 1053
 50 -3 m 0
  38 -3 30 0 30 8 c 0
  30 18 42 21 53 24 c 0
@@ -38,5 +40,5 @@ SplineSet
  138 62 l 2
  138 55.81640625 137.6953125 51.21484375 136.083007812 43.5576171875 c 1
 EndSplineSet
-Substitution2: "'ss01' Style Set 1" dotlessi.dsgm
+Substitution2: "'ss01' Style Set 1" dotlessi.ds.gm
 EndChar

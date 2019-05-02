@@ -2,12 +2,14 @@ StartChar: kappa
 Encoding: 954 954 389
 Width: 468
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 414 15
-TopAccentHorizontal: 237
+TopAccentHorizontal: 240
 LayerCount: 2
 Fore
 SplineSet
+112 436 m 25
+ 382 438 l 1053
 365 -15 m 0
  332 -15 290 24 266 70 c 0
  247 106 230 160 223 196 c 0

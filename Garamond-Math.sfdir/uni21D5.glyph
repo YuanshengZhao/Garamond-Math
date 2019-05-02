@@ -2,6 +2,7 @@ StartChar: uni21D5
 Encoding: 8661 8661 742
 Width: 460
 Flags: HMW
+GlyphCompositionVertical: 3  arrowdbldown.hd%0,0,50,450 uniE013%1,200,200,200 arrowdblup.hd%0,50,0,450
 LayerCount: 2
 Fore
 SplineSet
