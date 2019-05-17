@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1557218050
+ModificationTime: 1557941859
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -67,7 +67,6 @@ Lookup: 1 0 0 "'ss04' Style Set SemiBold" { "'ss04' Style Set 4"  } ['ss04' ('DF
 Lookup: 1 0 0 "'ss05' Style Set ExtraBold" { "'ss05' Style Set 5"  } ['ss05' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss02' Style Set VarPartial" { "'ss02' Style Set 2"  } ['ss02' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss03' Style Set ScrCal" { "'ss03' Style Set 3"  } ['ss03' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
-Lookup: 3 0 0 "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0" { "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable"  } ['aalt' ('math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -87,7 +86,7 @@ MATH:SubscriptBaselineDropMin: 150
 MATH:SuperscriptShiftUp: 430 
 MATH:SuperscriptShiftUpCramped: 300 
 MATH:SuperscriptBottomMin: 150 
-MATH:SuperscriptBaselineDropMax: 150 
+MATH:SuperscriptBaselineDropMax: 230 
 MATH:SubSuperscriptGapMin: 250 
 MATH:SuperscriptBottomMaxWithSubscript: 350 
 MATH:SpaceAfterScript: 50 
@@ -131,12 +130,13 @@ MATH:RadicalKernAfterDegree: -355
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 26
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1115202 61 21
+WinInfo: 124 31 21
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]

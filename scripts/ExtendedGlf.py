@@ -229,6 +229,8 @@ gext=[
 "summation.dp",
 "uni2140",
 "uni2140.dp",
+"uni2140.gm",
+"uni2140.gm.dp",
 "uni2210",
 "uni2210.dp",
 "uni222B.var",

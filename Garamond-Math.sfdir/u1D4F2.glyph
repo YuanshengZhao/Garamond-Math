@@ -40,5 +40,4 @@ SplineSet
  430 660 449 641 449 614 c 0
 EndSplineSet
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessi.calb
-AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessi.calb
 EndChar

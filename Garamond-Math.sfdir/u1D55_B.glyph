@@ -47,5 +47,4 @@ SplineSet
 EndSplineSet
 Substitution2: "'ss01' Style Set 1" u1D55B.gm
 Substitution2: "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable" dotlessj.ds
-AlternateSubs2: "'aalt' Access All Alternates in Mathematical Alphanumeric Symbols lookup 0 subtable" dotlessj.ds
 EndChar
