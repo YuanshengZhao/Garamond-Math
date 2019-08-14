@@ -1,33 +1,34 @@
 StartChar: u1D7D4
 Encoding: 120788 120788 2224
-Width: 437
+Width: 472
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 639 14
-ItalicCorrection: 52
-TopAccentHorizontal: 298
+ItalicCorrection: 17
+TopAccentHorizontal: 323
 LayerCount: 2
 Fore
 SplineSet
-241 -14 m 0
- 101 -14 29 69 29 193 c 0
- 29 340 108 433 142 473 c 0
- 189 527 284 595 395 633 c 0
- 417 641 441 642 441 632 c 0
- 440 618 427 611 405 601 c 0
- 332 567 287 524 244 458 c 0
- 214 410 165 310 165 197 c 0
- 165 87 214 30 260 29 c 0
- 300 29 332 70 332 150 c 0
- 332 210 295 261 260 261 c 0
- 242 261 232 259 220 253 c 0
- 195 241 189 260 204 277 c 0
- 213 286 219 291 227 298 c 0
- 249 316 296 342 330 342 c 0
- 404 342 472 279 472 200 c 0
- 472 95 379 -14 241 -14 c 0
+262 451 m 25
+ 421 533 l 1053
+237 -14 m 0
+ 97 -14 25 69 25 193 c 0
+ 25 340 104 433 138 473 c 0
+ 185 527 280 595 391 633 c 0
+ 413 641 437 642 437 632 c 0
+ 436 618 423 611 401 601 c 0
+ 328 567 283 524 240 458 c 0
+ 210 410 161 310 161 197 c 0
+ 161 87 210 30 256 29 c 0
+ 296 29 328 70 328 150 c 0
+ 328 210 291 261 256 261 c 0
+ 238 261 228 259 216 253 c 0
+ 191 241 185 260 200 277 c 0
+ 209 286 215 291 223 298 c 0
+ 245 316 292 342 326 342 c 0
+ 400 342 468 279 468 200 c 0
+ 468 95 375 -14 237 -14 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'pnum' Proportional Numbers" u1D7D4.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7D4.s u1D7D4.ss
 Substitution2: "'ss04' Style Set 4" u1D7D4.sb

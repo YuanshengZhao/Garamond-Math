@@ -1,0 +1,17 @@
+StartChar: primereversed.ss
+Encoding: 1115046 -1 3256
+Width: 294
+VWidth: 950
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+224 101 m 0
+ 206 101 192 126 181 146 c 0
+ 132 231 50 411 50 458 c 0
+ 50 480 95 519 131 519 c 0
+ 145 519 160 495 174 441 c 0
+ 183 407 244 163 244 132 c 0
+ 244 116 242 101 224 101 c 0
+EndSplineSet
+EndChar

@@ -1,0 +1,21 @@
+StartChar: u1D7CE.prp.eb
+Encoding: 1116605 -1 4957
+Width: 575
+Flags: HMW
+ItalicCorrection: 40
+TopAccentHorizontal: 310
+LayerCount: 2
+Fore
+SplineSet
+302 -14 m 0
+ 137 -14 60 154 60 302 c 0
+ 60 455 134 631 314 631 c 0
+ 478 631 556 462 556 317 c 0
+ 556 166 482 -14 302 -14 c 0
+317 35 m 0
+ 377 35 401 160 401 299 c 0
+ 401 437 365 583 298 583 c 0
+ 237 583 216 457 216 319 c 0
+ 216 181 249 35 317 35 c 0
+EndSplineSet
+EndChar

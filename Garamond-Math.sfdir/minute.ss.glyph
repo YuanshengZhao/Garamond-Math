@@ -1,0 +1,17 @@
+StartChar: minute.ss
+Encoding: 1115045 -1 3255
+Width: 294
+VWidth: 950
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+70 101 m 0
+ 52 101 50 116 50 132 c 0
+ 50 163 111 407 120 441 c 0
+ 134 495 179 519 224 519 c 0
+ 242 519 244 507 244 485 c 0
+ 244 438 162 231 113 146 c 0
+ 102 126 88 101 70 101 c 0
+EndSplineSet
+EndChar

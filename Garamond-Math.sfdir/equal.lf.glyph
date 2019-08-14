@@ -1,0 +1,22 @@
+StartChar: equal.lf
+Encoding: 1116424 -1 4634
+Width: 300
+Flags: HMW
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+64 314 m 0
+ 57 314 50 320 50 326 c 0
+ 50 335 56 364 74 364 c 0
+ 300 364 l 1
+ 300 314 l 1
+ 64 314 l 0
+64 143 m 0
+ 57 143 50 149 50 155 c 0
+ 50 164 56 193 74 193 c 0
+ 300 193 l 1
+ 300 143 l 1
+ 64 143 l 0
+EndSplineSet
+EndChar

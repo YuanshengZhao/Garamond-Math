@@ -1,21 +1,21 @@
 StartChar: zero.prp.s
-Encoding: 1116531 -1 4741
-Width: 468
-Flags: MW
-ItalicCorrection: 64
-TopAccentHorizontal: 268
+Encoding: 1116539 -1 4749
+Width: 469
+Flags: HMW
+ItalicCorrection: 35
+TopAccentHorizontal: 263
 LayerCount: 2
 Fore
 SplineSet
-263 -14 m 0
- 124 -14 58 154 58 302 c 0
- 58 454 122 630 273 630 c 0
- 412 630 477 461 477 316 c 0
- 477 166 415 -14 263 -14 c 0
-279 15 m 0
- 357 15 387 149 387 298 c 0
- 387 447 341 600 254 600 c 0
- 176 600 149 469 149 320 c 0
- 149 171 191 15 279 15 c 0
+254 -14 m 0
+ 115 -14 49 154 49 302 c 0
+ 49 454 113 630 264 630 c 0
+ 403 630 468 461 468 316 c 0
+ 468 166 406 -14 254 -14 c 0
+270 15 m 0
+ 348 15 378 149 378 298 c 0
+ 378 447 332 600 245 600 c 0
+ 167 600 140 469 140 320 c 0
+ 140 171 182 15 270 15 c 0
 EndSplineSet
 EndChar

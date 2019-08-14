@@ -1,16 +1,16 @@
 StartChar: radical.ex
-Encoding: 1114451 -1 2661
-Width: 950
+Encoding: 1114447 -1 2657
+Width: 870
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
-541 1500 m 1
- 541 0 l 1
- 489 0 l 1
- 489 1500 l 1
- 541 1500 l 1
+461 1500 m 1
+ 461 0 l 1
+ 409 0 l 1
+ 409 1500 l 1
+ 461 1500 l 1
 EndSplineSet
 EndChar

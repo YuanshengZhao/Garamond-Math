@@ -1,35 +1,36 @@
 StartChar: five
 Encoding: 53 53 22
-Width: 438
+Width: 474
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 627 38
-ItalicCorrection: 51
-TopAccentHorizontal: 246
+ItalicCorrection: 15
+TopAccentHorizontal: 297
 LayerCount: 2
 Fore
 SplineSet
-101 -38 m 0
- 86 -38 64 -35 64 -26 c 0
- 64 -16 88 -7 100 -7 c 0
- 258 -7 333 93 333 179 c 0
- 333 256 270 305 93 351 c 1
- 75 366 69 379 69 397 c 0
- 69 433 103 512 117 556 c 0
- 124 576 137 587 158 592 c 0
- 219 608 287 620 365 627 c 0
- 375 628 381 619 376 610 c 2
- 359 577 l 2
- 350 557 339 547 322 545 c 0
- 270 539 180 532 150 527 c 0
- 136 525 107 464 106 448 c 0
- 105 439 107 432 119 429 c 0
- 194 407 255 386 301 362 c 0
- 375 323 412 274 412 193 c 0
- 412 120 364 53 290 10 c 0
- 237 -20 172 -38 101 -38 c 0
+161 630 m 25
+ 379 652 l 1053
+107 -38 m 0
+ 92 -38 70 -35 70 -26 c 0
+ 70 -16 94 -7 106 -7 c 0
+ 264 -7 339 93 339 179 c 0
+ 339 256 276 305 99 351 c 1
+ 81 366 75 379 75 397 c 0
+ 75 433 109 512 123 556 c 0
+ 130 576 143 587 164 592 c 0
+ 225 608 293 620 371 627 c 0
+ 381 628 387 619 382 610 c 2
+ 365 577 l 2
+ 356 557 345 547 328 545 c 0
+ 276 539 186 532 156 527 c 0
+ 142 525 113 464 112 448 c 0
+ 111 439 113 432 125 429 c 0
+ 200 407 261 386 307 362 c 0
+ 381 323 418 274 418 193 c 0
+ 418 120 370 53 296 10 c 0
+ 243 -20 178 -38 107 -38 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers" five.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" five.s five.ss
 EndChar

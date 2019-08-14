@@ -1,35 +1,36 @@
 StartChar: u1D408
 Encoding: 119816 119816 1496
 AltUni2: 01d6b0.ffffffff.0
-Width: 507
+Width: 422
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 655 3
-TopAccentHorizontal: 255
+TopAccentHorizontal: 210
 LayerCount: 2
 Fore
 SplineSet
-107 -3 m 0
- 97 -3 87 2 87 11 c 0
- 87 22 94 29 108 32 c 0
- 159 43 176 55 176 97 c 2
- 176 551 l 2
- 176 595 163 607 110 619 c 0
- 96 622 89 629 89 640 c 0
- 89 649 99 655 109 655 c 0
- 154 655 212 650 253 650 c 0
- 292 650 355 654 399 654 c 0
- 411 654 418 649 418 640 c 0
- 418 627 410 623 396 619 c 0
- 342 604 330 591 330 550 c 2
- 330 98 l 2
- 330 59 346 46 398 32 c 0
- 412 28 419 24 419 12 c 0
- 419 2 412 -3 401 -3 c 0
- 357 -3 293 2 253 2 c 0
- 211 2 153 -3 107 -3 c 0
+226 665 m 25
+ 221 627 l 1053
+65 -3 m 0
+ 55 -3 45 2 45 11 c 0
+ 45 22 52 29 66 32 c 0
+ 117 43 134 55 134 97 c 2
+ 134 551 l 2
+ 134 595 121 607 68 619 c 0
+ 54 622 47 629 47 640 c 0
+ 47 649 57 655 67 655 c 0
+ 112 655 170 650 211 650 c 0
+ 250 650 313 654 357 654 c 0
+ 369 654 376 649 376 640 c 0
+ 376 627 368 623 354 619 c 0
+ 300 604 288 591 288 550 c 2
+ 288 98 l 2
+ 288 59 304 46 356 32 c 0
+ 370 28 377 24 377 12 c 0
+ 377 2 370 -3 359 -3 c 0
+ 315 -3 251 2 211 2 c 0
+ 169 2 111 -3 65 -3 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D408.s u1D408.ss
 Substitution2: "'ss04' Style Set 4" u1D408.sb
 Substitution2: "'ss05' Style Set 5" u1D408.eb

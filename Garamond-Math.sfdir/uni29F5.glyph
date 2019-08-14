@@ -1,0 +1,17 @@
+StartChar: uni29F5
+Encoding: 10741 10741 4971
+Width: 489
+Flags: HW
+GlyphVariantsVertical: backslash backslash.v1 backslash.v2 backslash.v3 backslash.v4 backslash.v5 backslash.v6 backslash.v7 backslash.v8 backslash.v9 backslash.v10 backslash.v11 backslash.v12 backslash.v13 backslash.v14 backslash.v15 backslash.v16 backslash.v17 backslash.v18 backslash.v19 backslash.v20
+LayerCount: 2
+Fore
+SplineSet
+90.5146484375 709 m 2
+ 88.5146484375 717 92.5146484375 725 99.5146484375 725 c 0
+ 119.514648438 725 142.514648438 714 148.514648438 694 c 0
+ 398.514648438 -209 l 2
+ 400.514648438 -217 396.514648438 -225 389.514648438 -225 c 0
+ 369.514648438 -225 346.514648438 -214 340.514648438 -194 c 0
+ 90.5146484375 709 l 2
+EndSplineSet
+EndChar

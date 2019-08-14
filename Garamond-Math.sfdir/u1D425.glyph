@@ -1,33 +1,34 @@
 StartChar: u1D425
 Encoding: 119845 119845 1525
-Width: 451
+Width: 311
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 705 3
-TopAccentHorizontal: 203
+TopAccentHorizontal: 157
 LayerCount: 2
 Fore
 SplineSet
-119 -3 m 0
- 107 -3 99 2 99 11 c 0
- 99 21 107 27 122 31 c 0
- 142 38 160 41 160 69 c 2
- 160 550 l 2
- 160 586 153 615 120 622 c 0
- 114 623 110 628 110 637 c 0
- 110 646 114 651 119 652 c 0
- 170 662 243 691 274 702 c 0
- 279 704 283 705 287 705 c 0
- 295 705 297 699 297 693 c 0
- 297 683 292 656 291 624 c 2
- 291 71 l 2
- 291 42 309 40 329 33 c 0
- 344 28 352 23 352 13 c 0
- 352 4 344 -1 332 -1 c 0
- 293 -1 258 2 223 2 c 0
- 188 2 159 -3 119 -3 c 0
+114 555 m 25
+ 201 600 l 1053
+48 -3 m 0
+ 36 -3 28 2 28 11 c 0
+ 28 21 36 27 51 31 c 0
+ 71 38 89 41 89 69 c 2
+ 89 550 l 2
+ 89 586 82 615 49 622 c 0
+ 43 623 39 628 39 637 c 0
+ 39 646 43 651 48 652 c 0
+ 99 662 172 691 203 702 c 0
+ 208 704 212 705 216 705 c 0
+ 224 705 226 699 226 693 c 0
+ 226 683 221 656 220 624 c 2
+ 220 71 l 2
+ 220 42 238 40 258 33 c 0
+ 273 28 281 23 281 13 c 0
+ 281 4 273 -1 261 -1 c 0
+ 222 -1 187 2 152 2 c 0
+ 117 2 88 -3 48 -3 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D425.s u1D425.ss
 Substitution2: "'ss04' Style Set 4" u1D425.sb
 Substitution2: "'ss05' Style Set 5" u1D425.eb

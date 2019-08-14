@@ -1,34 +1,35 @@
 StartChar: u1D409
 Encoding: 119817 119817 1497
-Width: 507
+Width: 373
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 655 200
-ItalicCorrection: 76
-TopAccentHorizontal: 327
+ItalicCorrection: 74
+TopAccentHorizontal: 236
 LayerCount: 2
 Fore
 SplineSet
-183 -200 m 0
- 90 -200 44 -179 44 -142 c 0
- 44 -115 73 -84 95 -84 c 0
- 110 -84 124 -93 137 -108 c 0
- 162 -138 171 -158 187 -158 c 0
- 226 -158 249 -109 249 7 c 2
- 249 551 l 2
- 249 595 236 607 183 619 c 0
- 170 622 162 629 162 640 c 0
- 162 649 172 655 182 655 c 0
- 228 655 285 650 326 650 c 0
- 365 650 426 654 470 654 c 0
- 481 654 488 649 488 640 c 0
- 488 627 481 623 467 619 c 0
- 413 604 403 591 403 550 c 2
- 403 86 l 2
- 403 32 368 -47 323 -106 c 0
- 282 -159 233 -200 183 -200 c 0
+255 670 m 25
+ 245 628 l 1053
+94 -200 m 0
+ 1 -200 -45 -179 -45 -142 c 0
+ -45 -115 -16 -84 6 -84 c 0
+ 21 -84 35 -93 48 -108 c 0
+ 73 -138 82 -158 98 -158 c 0
+ 137 -158 160 -109 160 7 c 2
+ 160 551 l 2
+ 160 595 147 607 94 619 c 0
+ 81 622 73 629 73 640 c 0
+ 73 649 83 655 93 655 c 0
+ 139 655 196 650 237 650 c 0
+ 276 650 337 654 381 654 c 0
+ 392 654 399 649 399 640 c 0
+ 399 627 392 623 378 619 c 0
+ 324 604 314 591 314 550 c 2
+ 314 86 l 2
+ 314 32 279 -47 234 -106 c 0
+ 193 -159 144 -200 94 -200 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D409.s u1D409.ss
 Substitution2: "'ss04' Style Set 4" u1D409.sb
 Substitution2: "'ss05' Style Set 5" u1D409.eb

@@ -1,36 +1,37 @@
 StartChar: u1D46B
 Encoding: 119915 119915 1594
-Width: 794
+Width: 727
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 655 7
-ItalicCorrection: 143
-TopAccentHorizontal: 520
+ItalicCorrection: 96
+TopAccentHorizontal: 385
 LayerCount: 2
 Fore
 SplineSet
-406 -7 m 0
- 337 -7 244 3 209 3 c 0
- 170 3 109 -3 64 -3 c 0
- 55 -3 47 2 49 11 c 0
- 53 22 62 30 77 32 c 0
- 133 42 150 55 163 97 c 2
- 306 553 l 2
- 318 598 300 606 252 619 c 0
- 240 622 235 629 238 640 c 0
- 241 649 253 655 262 655 c 0
- 308 655 368 650 409 650 c 0
- 448 650 484 654 550 654 c 0
- 737 654 843 535 843 384 c 0
- 843 175 649 -7 406 -7 c 0
-406 30 m 0
- 551 30 684 220 684 401 c 0
- 684 557 624 616 535 616 c 0
- 489 616 471 604 462 572 c 2
- 327 123 l 2
- 305 53 357 30 406 30 c 0
+370 605 m 25
+ 484 639 l 1053
+337 -7 m 0
+ 268 -7 175 3 140 3 c 0
+ 101 3 40 -3 -5 -3 c 0
+ -14 -3 -22 2 -20 11 c 0
+ -16 22 -7 30 8 32 c 0
+ 64 42 81 55 94 97 c 2
+ 237 553 l 2
+ 249 598 231 606 183 619 c 0
+ 171 622 166 629 169 640 c 0
+ 172 649 184 655 193 655 c 0
+ 239 655 299 650 340 650 c 0
+ 379 650 415 654 481 654 c 0
+ 668 654 774 535 774 384 c 0
+ 774 175 580 -7 337 -7 c 0
+337 30 m 0
+ 482 30 615 220 615 401 c 0
+ 615 557 555 616 466 616 c 0
+ 420 616 402 604 393 572 c 2
+ 258 123 l 2
+ 236 53 288 30 337 30 c 0
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D46B.sb
 Substitution2: "'ss05' Style Set 5" u1D46B.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D46B.s u1D46B.ss

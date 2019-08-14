@@ -4,7 +4,6 @@ Width: 300
 GlyphClass: 2
 Flags: MW
 TeX: 749 -556
-TopAccentHorizontal: 150
 LayerCount: 2
 Fore
 SplineSet
@@ -27,5 +26,4 @@ SplineSet
  255 671 197 604 173 578 c 0
  165 569 151 556 143 556 c 0
 EndSplineSet
-Validated: 1
 EndChar

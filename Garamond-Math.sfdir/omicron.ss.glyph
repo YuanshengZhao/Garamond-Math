@@ -1,23 +1,23 @@
 StartChar: omicron.ss
-Encoding: 1115229 -1 3439
-Width: 455
+Encoding: 1115225 -1 3435
+Width: 386
 GlyphClass: 2
 Flags: MW
 TeX: 430 17
-ItalicCorrection: 42
-TopAccentHorizontal: 256
+ItalicCorrection: 13
+TopAccentHorizontal: 215
 LayerCount: 2
 Fore
 SplineSet
-223 -14 m 0
- 121 -14 79 99 79 198 c 0
- 79 311 149 419 264 419 c 0
- 369 419 419 308 419 197 c 0
- 419 86 340 -14 223 -14 c 0
-202 68 m 0
- 300 69 377 144 377 239 c 1
- 375 285 340 333 290 333 c 0
- 192 334 121 259 121 164 c 0
- 121 117 152 68 202 68 c 0
+179 -14 m 0
+ 77 -14 35 99 35 198 c 0
+ 35 311 105 419 220 419 c 0
+ 325 419 375 308 375 197 c 0
+ 375 86 296 -14 179 -14 c 0
+158 68 m 0
+ 256 69 333 144 333 239 c 1
+ 331 285 296 333 246 333 c 0
+ 148 334 77 259 77 164 c 0
+ 77 117 108 68 158 68 c 0
 EndSplineSet
 EndChar

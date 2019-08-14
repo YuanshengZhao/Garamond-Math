@@ -2,19 +2,18 @@ StartChar: uni20D3
 Encoding: 8403 8403 560
 Width: 0
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 505 5
 TopAccentHorizontal: -250
 LayerCount: 2
 Fore
 SplineSet
--224 11 m 2
- -224 3 -231 -5 -237 -5 c 0
- -257 -5 -276 6 -276 26 c 2
- -276 489 l 2
- -276 497 -269 505 -263 505 c 0
- -243 505 -224 494 -224 474 c 2
- -224 11 l 2
+26 11 m 6
+ 26 3 19 -5 13 -5 c 4
+ -7 -5 -26 6 -26 26 c 6
+ -26 489 l 6
+ -26 497 -19 505 -13 505 c 4
+ 7 505 26 494 26 474 c 6
+ 26 11 l 6
 EndSplineSet
-Validated: 1
 EndChar

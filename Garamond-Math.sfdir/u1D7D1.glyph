@@ -1,11 +1,11 @@
 StartChar: u1D7D1
 Encoding: 120785 120785 2221
-Width: 438
+Width: 473
 GlyphClass: 2
 Flags: MW
 TeX: 629 38
-ItalicCorrection: 51
-TopAccentHorizontal: 227
+ItalicCorrection: 16
+TopAccentHorizontal: 231
 LayerCount: 2
 Fore
 SplineSet
@@ -30,7 +30,6 @@ SplineSet
  358 358 434 299 434 202 c 0
  434 55 289 -38 136 -38 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'pnum' Proportional Numbers" u1D7D1.prp
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D7D1.s u1D7D1.ss
 Substitution2: "'ss04' Style Set 4" u1D7D1.sb

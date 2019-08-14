@@ -1,6 +1,9 @@
 import os
 
+mKernCnt=0
+
 def TransferGlyph(g_fname_in,g_fname_out):
+    global mKernCnt
     hfile = open(g_fname_in)
     lpstr=hfile.readline()   
     g_ic=0.0
@@ -26,7 +29,9 @@ def TransferGlyph(g_fname_in,g_fname_out):
             return 0
         elif (lpstr[:5]=="Width"):
             opr=opr+"Width: "+str(g_wd+g_ic)+"\n"
-            opr=opr+"BottomRightVertex: 1  0,"+str(-g_ic)+"\n"
+            if(g_ic>1):
+                opr=opr+"BottomRightVertex: 1  0,"+str(-g_ic)+"\n"
+                mKernCnt+=1
         elif (lpstr[:16]!="ItalicCorrection"):
             opr+=lpstr
     opr+=hfile.read()
@@ -64,4 +69,5 @@ for path, subdirs, files in os.walk(dirrr_in):
         if(lResult==0):
             print("Copied without processing: ", filename)
 
-print("Done!")\
+print("Done!")
+print("MKern Count: ", mKernCnt)

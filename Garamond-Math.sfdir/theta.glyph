@@ -1,32 +1,31 @@
 StartChar: theta
 Encoding: 952 952 387
-Width: 485
+Width: 387
 GlyphClass: 2
 Flags: MW
 TeX: 697 14
-ItalicCorrection: 66
-TopAccentHorizontal: 282
+ItalicCorrection: 42
+TopAccentHorizontal: 222
 LayerCount: 2
 Fore
 SplineSet
-267 -14 m 0
- 175 -14 105 196 105 331 c 0
- 105 507 196 697 283 697 c 0
- 371 697 445 510 445 375 c 0
- 445 220 384 -14 267 -14 c 0
-173 387 m 2
- 382 387 l 2
- 389 387 394 393 394 400 c 0
- 394 537 367 620 291 620 c 0
- 234 620 195 586 163 400 c 0
- 162 394 166 387 173 387 c 2
-261 60 m 0
- 340 60 373 198 384 323 c 0
- 385 334 383 338 371 338 c 2
- 162 339 l 2
- 154 339 150 331 150 324 c 0
- 150 169 179 60 261 60 c 0
+207 -14 m 0
+ 115 -14 45 196 45 331 c 0
+ 45 507 136 697 223 697 c 0
+ 311 697 385 510 385 375 c 0
+ 385 220 324 -14 207 -14 c 0
+113 387 m 2
+ 322 387 l 2
+ 329 387 334 393 334 400 c 0
+ 334 537 307 620 231 620 c 0
+ 174 620 135 586 103 400 c 0
+ 102 394 106 387 113 387 c 2
+201 60 m 0
+ 280 60 313 198 324 323 c 0
+ 325 334 323 338 311 338 c 2
+ 102 339 l 2
+ 94 339 90 331 90 324 c 0
+ 90 169 119 60 201 60 c 0
 EndSplineSet
-Validated: 1
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" theta.s theta.ss
 EndChar

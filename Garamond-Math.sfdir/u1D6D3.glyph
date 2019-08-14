@@ -1,30 +1,29 @@
 StartChar: u1D6D3
 Encoding: 120531 120531 2073
-Width: 467
+Width: 409
 GlyphClass: 2
 Flags: MW
 TeX: 438 198
-TopAccentHorizontal: 288
+TopAccentHorizontal: 272
 LayerCount: 2
 Fore
 SplineSet
-254 -198 m 0
- 230 -198 180 -159 180 -133 c 0
- 180 -105 193 -94 212 -94 c 0
- 292 -94 341 -45 341 -21 c 0
- 341 -12 335 -4 321 -4 c 0
- 293 -4 213 -7 185 -7 c 0
- 129 -7 82 41 82 164 c 0
- 82 342 250 438 331 438 c 0
- 362 438 392 410 392 378 c 0
- 392 341 377 309 336 309 c 0
- 200 309 134 282 134 189 c 0
- 134 144 167 114 208 114 c 0
- 240 114 299 120 331 120 c 0
- 374 120 393 82 393 23 c 0
- 393 -83 325 -198 254 -198 c 0
+218 -198 m 0
+ 194 -198 144 -159 144 -133 c 0
+ 144 -105 157 -94 176 -94 c 0
+ 256 -94 305 -45 305 -21 c 0
+ 305 -12 299 -4 285 -4 c 0
+ 257 -4 177 -7 149 -7 c 0
+ 93 -7 46 41 46 164 c 0
+ 46 342 214 438 295 438 c 0
+ 326 438 356 410 356 378 c 0
+ 356 341 341 309 300 309 c 0
+ 164 309 98 282 98 189 c 0
+ 98 144 131 114 172 114 c 0
+ 204 114 263 120 295 120 c 0
+ 338 120 357 82 357 23 c 0
+ 357 -83 289 -198 218 -198 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss04' Style Set 4" u1D6D3.sb
 Substitution2: "'ss05' Style Set 5" u1D6D3.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6D3.s u1D6D3.ss

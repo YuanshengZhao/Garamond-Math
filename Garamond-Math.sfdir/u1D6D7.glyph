@@ -1,34 +1,35 @@
 StartChar: u1D6D7
 Encoding: 120535 120535 2077
-Width: 624
+Width: 578
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 470 285
-ItalicCorrection: 64
-TopAccentHorizontal: 346
+ItalicCorrection: 26
+TopAccentHorizontal: 328
 LayerCount: 2
 Fore
 SplineSet
-336 -285 m 0
- 298 -285 256 -261 256 -230 c 0
- 256 -206 265 -99 267 -15 c 1
- 176 8 83 83 83 204 c 0
- 83 360 233 470 408 470 c 0
- 458 470 503 438 496 405 c 1
- 557 376 604 309 604 242 c 0
- 604 86 483 -12 348 -21 c 1
- 351 -121 367 -225 367 -244 c 0
- 367 -266 366 -285 336 -285 c 0
-269 83 m 1
- 273 201 284 300 319 355 c 1
- 209 323 129 245 129 186 c 0
- 129 131 197 93 269 83 c 1
-347 82 m 1
- 446 90 553 143 553 223 c 0
- 553 270 513 326 449 326 c 0
- 372 326 352 192 347 82 c 1
+278 400 m 25
+ 368 430 l 1053
+295 -285 m 0
+ 257 -285 215 -261 215 -230 c 0
+ 215 -206 224 -99 226 -15 c 1
+ 135 8 42 83 42 204 c 0
+ 42 360 192 470 367 470 c 0
+ 417 470 462 438 455 405 c 1
+ 516 376 563 309 563 242 c 0
+ 563 86 442 -12 307 -21 c 1
+ 310 -121 326 -225 326 -244 c 0
+ 326 -266 325 -285 295 -285 c 0
+228 83 m 1
+ 232 201 243 300 278 355 c 1
+ 168 323 88 245 88 186 c 0
+ 88 131 156 93 228 83 c 1
+306 82 m 1
+ 405 90 512 143 512 223 c 0
+ 512 270 472 326 408 326 c 0
+ 331 326 311 192 306 82 c 1
 EndSplineSet
-Validated: 33
 Substitution2: "'ss04' Style Set 4" u1D6D7.sb
 Substitution2: "'ss05' Style Set 5" u1D6D7.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6D7.s u1D6D7.ss

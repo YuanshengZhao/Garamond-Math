@@ -1,0 +1,18 @@
+StartChar: uni25AE
+Encoding: 9646 9646 4972
+Width: 410
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+80 470 m 2
+ 80 490 90 500 110 500 c 2
+ 300 500 l 2
+ 320 500 330 490 330 470 c 2
+ 330 30 l 2
+ 330 10 320 0 300 0 c 2
+ 110 0 l 2
+ 90 0 80 10 80 30 c 2
+ 80 470 l 2
+EndSplineSet
+EndChar

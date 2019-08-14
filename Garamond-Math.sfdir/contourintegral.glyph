@@ -6,7 +6,7 @@ Flags: MW
 TeX: 799 296
 ItalicCorrection: 260
 IsExtendedShape: 1
-GlyphVariantsVertical: contourintegral contourintegral.v1
+GlyphVariantsVertical: contourintegral contourintegral.dp
 LayerCount: 2
 Fore
 SplineSet
@@ -48,5 +48,5 @@ SplineSet
  295 85 298 87 299 94 c 2
  330 412 l 2
 EndSplineSet
-Substitution2: "'ss07' Style Set 7" u222E.var
+Substitution2: "'ss07' Style Set 7" uni222E.var
 EndChar

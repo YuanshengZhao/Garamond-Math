@@ -1,0 +1,23 @@
+StartChar: arrowdbldown.bt
+Encoding: 1116441 -1 4651
+Width: 460
+Flags: HMW
+IsExtendedShape: 1
+GlyphVariantsVertical: uni2233.var.dp
+LayerCount: 2
+Fore
+SplineSet
+137 351 m 2
+ 137 587 l 2
+ 137 605 162 619 172 619 c 0
+ 178 619 183 611 183 605 c 2
+ 183 351 l 2
+ 137 351 l 2
+277 351 m 2
+ 277 587 l 2
+ 277 605 302 619 312 619 c 0
+ 318 619 323 611 323 605 c 2
+ 323 351 l 2
+ 277 351 l 2
+EndSplineSet
+EndChar

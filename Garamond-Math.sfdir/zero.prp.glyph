@@ -1,22 +1,22 @@
 StartChar: zero.prp
-Encoding: 1116511 -1 4721
-Width: 461
-Flags: MW
-ItalicCorrection: 63
-TopAccentHorizontal: 264
+Encoding: 1116519 -1 4729
+Width: 471
+Flags: HMW
+ItalicCorrection: 34
+TopAccentHorizontal: 259
 LayerCount: 2
 Fore
 SplineSet
-258 -14 m 0
- 122 -14 58 154 58 302 c 0
- 58 454 120 630 268 630 c 0
- 404 630 468 461 468 316 c 0
- 468 166 406 -14 258 -14 c 0
-275 12 m 0
- 355 12 386 148 386 298 c 0
- 386 448 339 602 249 602 c 0
- 169 602 141 470 141 320 c 0
- 141 170 185 12 275 12 c 0
+248 -14 m 0
+ 112 -14 48 154 48 302 c 0
+ 48 454 110 630 258 630 c 0
+ 394 630 458 461 458 316 c 0
+ 458 166 396 -14 248 -14 c 0
+265 12 m 0
+ 345 12 376 148 376 298 c 0
+ 376 448 329 602 239 602 c 0
+ 159 602 131 470 131 320 c 0
+ 131 170 175 12 265 12 c 0
 EndSplineSet
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" zero.prp.s zero.prp.ss
 EndChar

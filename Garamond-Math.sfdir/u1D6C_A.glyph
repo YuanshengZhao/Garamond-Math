@@ -1,26 +1,24 @@
 StartChar: u1D6CA
 Encoding: 120522 120522 2064
-Width: 353
+Width: 294
 GlyphClass: 2
 Flags: MW
 TeX: 432 15
-ItalicCorrection: 6
-TopAccentHorizontal: 153
+TopAccentHorizontal: 124
 LayerCount: 2
 Fore
 SplineSet
-182 -15 m 0
- 129 -15 89 27 89 111 c 2
- 90 406 l 2
- 90 427 111 432 156 432 c 0
- 204 432 215 421 215 400 c 0
- 215 353 187 198 187 135 c 0
- 187 114 206 111 228 111 c 0
- 250 111 274 118 284 118 c 0
- 293 118 299 112 299 98 c 0
- 299 51 261 -15 182 -15 c 0
+155 -15 m 0
+ 102 -15 62 27 62 111 c 2
+ 63 406 l 2
+ 63 427 84 432 129 432 c 0
+ 177 432 188 421 188 400 c 0
+ 188 353 160 198 160 135 c 0
+ 160 114 179 111 201 111 c 0
+ 223 111 247 118 257 118 c 0
+ 266 118 272 112 272 98 c 0
+ 272 51 234 -15 155 -15 c 0
 EndSplineSet
-Validated: 1
 Substitution2: "'ss04' Style Set 4" u1D6CA.sb
 Substitution2: "'ss05' Style Set 5" u1D6CA.eb
 AlternateSubs2: "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable" u1D6CA.s u1D6CA.ss
