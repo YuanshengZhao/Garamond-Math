@@ -1,0 +1,20 @@
+StartChar: orthogonal.large
+Encoding: 1116629 -1 4985
+Width: 714
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+632 0 m 2
+ 79 0 l 2
+ 62 0 50 5 50 13 c 2
+ 51 606 l 2
+ 51 627 71 638 91 638 c 0
+ 98 638 104 630 104 622 c 2
+ 104 90 l 2
+ 104 63 114 50 139 50 c 2
+ 650 50 l 2
+ 656 50 664 45 664 39 c 0
+ 664 21 648 0 632 0 c 2
+EndSplineSet
+EndChar

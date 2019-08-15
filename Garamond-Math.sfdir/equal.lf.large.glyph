@@ -1,0 +1,21 @@
+StartChar: equal.lf.large
+Encoding: 1116809 -1 5168
+Width: 300
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+64 321 m 2
+ 57 321 50 327 50 333 c 0
+ 50 342 56 371 74 371 c 2
+ 300 371 l 2
+ 300 321 l 2
+ 64 321 l 2
+64 130 m 2
+ 57 130 50 136 50 142 c 0
+ 50 151 56 180 74 180 c 2
+ 300 180 l 2
+ 300 130 l 2
+ 64 130 l 2
+EndSplineSet
+EndChar

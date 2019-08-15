@@ -1,0 +1,20 @@
+StartChar: revlogicalnot.large
+Encoding: 1116797 -1 5153
+Width: 791
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+710 224 m 2
+ 112 224 l 2
+ 105 224 102 221 102 214 c 2
+ 102 -54 l 2
+ 102 -74 83 -85 63 -85 c 0
+ 57 -85 50 -77 50 -69 c 2
+ 50 246 l 2
+ 50 266 60 276 80 276 c 2
+ 725 276 l 2
+ 733 276 741 269 741 263 c 0
+ 741 243 730 224 710 224 c 2
+EndSplineSet
+EndChar

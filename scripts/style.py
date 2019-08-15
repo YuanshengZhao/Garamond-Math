@@ -107,6 +107,7 @@ VHvar=[
     ["arrowupdn"      , "GlyphCompositionVertical: 3  arrowdown.hd%0,0,50,450 uniE012%1,200,200,200 arrowup.hd%0,50,0,450\n"],
     ["uni21D5"        , "GlyphCompositionVertical: 3  arrowdbldown.hd%0,0,50,450 uniE013%1,200,200,200 arrowdblup.hd%0,50,0,450\n"],
     ["equal"          , "GlyphCompositionHorizontal: 3  equal.lf%0,83,83,250 equal.ex%0,200,200,200 equal.rt%0,83,83,250\n"],
+    ["equal.large"    , "GlyphCompositionHorizontal: 3  equal.lf.large%0,83,83,250 equal.ex.large%0,200,200,200 equal.rt.large%0,83,83,250\n"],
 ]
 
 

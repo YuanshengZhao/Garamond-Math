@@ -1,0 +1,18 @@
+StartChar: similar.large
+Encoding: 1116641 -1 4997
+Width: 726
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+506 148 m 0
+ 383 148 318 298 221 298 c 0
+ 133 298 74 196 69 196 c 0
+ 61 196 50 203 50 210 c 0
+ 50 237 121 352 228 352 c 0
+ 349 352 418 202 506 202 c 0
+ 588 202 651 313 656 313 c 0
+ 661 313 676 306 676 293 c 0
+ 676 252 592 148 506 148 c 0
+EndSplineSet
+EndChar

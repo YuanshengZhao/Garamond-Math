@@ -1,0 +1,22 @@
+StartChar: propersuperset.large
+Encoding: 1116702 -1 5058
+Width: 714
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+64 498 m 2
+ 57 498 50 504 50 510 c 0
+ 50 519 56 548 74 548 c 2
+ 349 548 l 2
+ 557 548 664 407 664 252 c 0
+ 664 97 557 -46 349 -46 c 2
+ 64 -46 l 2
+ 57 -46 50 -40 50 -34 c 0
+ 50 -25 56 4 74 4 c 2
+ 349 4 l 2
+ 498 4 610 109 610 252 c 0
+ 610 395 494 498 349 498 c 2
+ 64 498 l 2
+EndSplineSet
+EndChar

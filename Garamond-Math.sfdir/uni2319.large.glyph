@@ -1,0 +1,20 @@
+StartChar: uni2319.large
+Encoding: 1116798 -1 5154
+Width: 791
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+710 224 m 2
+ 80 224 l 2
+ 60 224 50 234 50 254 c 2
+ 50 554 l 2
+ 50 574 69 585 89 585 c 0
+ 95 585 102 577 102 569 c 2
+ 102 286 l 2
+ 102 279 105 276 112 276 c 2
+ 725 276 l 2
+ 733 276 741 269 741 263 c 0
+ 741 243 730 224 710 224 c 2
+EndSplineSet
+EndChar

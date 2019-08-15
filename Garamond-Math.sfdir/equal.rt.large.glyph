@@ -1,0 +1,21 @@
+StartChar: equal.rt.large
+Encoding: 1116810 -1 5169
+Width: 300
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 321 m 2
+ 0 371 l 2
+ 236 371 l 2
+ 242 371 250 366 250 360 c 0
+ 250 346 234 321 218 321 c 2
+ 0 321 l 2
+0 130 m 2
+ 0 180 l 2
+ 236 180 l 2
+ 242 180 250 175 250 169 c 0
+ 250 151 234 130 218 130 c 2
+ 0 130 l 2
+EndSplineSet
+EndChar
