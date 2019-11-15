@@ -1,11 +1,11 @@
-# Garamond-Math Ver. 2019-05-02
+# Garamond-Math Ver. 2019-08-16
 
 Garamond-Math is an open type math font matching the [EB Garamond (Octavio Pardo)](https://github.com/octaviopardo/EBGaramond12/) and [EB Garamond (Georg Mayr-Duffner)](https://github.com/georgd/EB-Garamond).
 Many mathematical symbols are derived from other fonts, others are made from scratch.
 
 ## Notes
 
-- Referred fonts:  [XITS Math](https://github.com/khaledhosny/xits), [Libertinus Math](https://github.com/khaledhosny/libertinus), Computer Modern, [Asana Math](https://www.ctan.org/pkg/asana-math).
+- Referred fonts:  [XITS Math](https://github.com/khaledhosny/xits), [Libertinus Math](https://github.com/khaledhosny/libertinus), Computer Modern, [Asana Math](https://www.ctan.org/pkg/asana-math), [Noto Sans Math](https://github.com/googlefonts/noto-fonts/).
 
 - Stylistic sets: (`StylisticSet={#1,#2,...}` in [`unicode-math`](https://ctan.org/pkg/unicode-math?lang=en) package)
     - `1` → XITS Blackboard `\mathbb`.
@@ -18,10 +18,11 @@ Many mathematical symbols are derived from other fonts, others are made from scr
     - `8` → A `\mathcal` variant (experimental, no boldface)
     - `9` → `\tilde` variant
     - `10` → out-bending italic h
+    - `11` → larger operators
 
 - Part of TeX files are from [FiraMath](https://github.com/Stone-Zeng/FiraMath) repository.
 
-- This font is still under development, there should be some bugs, use it with caution! Issues, bug reports, forks and other contributions are very welcome.
+- Issues, bug reports, forks and other contributions are very welcome.
 
 ## Known Issue
 - Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. `VA`); sometimes sub/superscript may also have same problem.

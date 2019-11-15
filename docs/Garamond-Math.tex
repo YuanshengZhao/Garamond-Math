@@ -3,21 +3,27 @@
 \usepackage{amsmath}
 \usepackage[math-style=ISO, bold-style=ISO]{unicode-math}
 \usepackage{metalogo}
+\usepackage{extarrows}
+\makeatletter
+\renewcommand{\relbar}{\symbol{"E010}\mkern-.2mu\symbol{"E010}\mkern1.8mu}
+\renewcommand{\Relbar}{\symbol{"E011}\mkern-.2mu\symbol{"E011}\mkern1.8mu}
+\makeatother
 
 % \setmainfont{EB Garamond}
-\setmainfont{libertinussans}[Extension = {.otf}, UprightFont = {*-regular}, ItalicFont = {*-italic}]
+\setmainfont{EB Garamond}
 \setmonofont{Source Code Pro}[Scale=.86]
-\setmathfont{Garamond-Math.otf}[Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIII ,StylisticSet={3 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIV  ,StylisticSet={4 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathV   ,StylisticSet={5 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVI  ,StylisticSet={6 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVII ,StylisticSet={7 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathVIII,StylisticSet={8 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9 },Path=./ ]%, Scale=MatchUppercase]
-\setmathfont{Garamond-Math.otf}[version=GaramondMathX   ,StylisticSet={10},Path=./ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIII ,StylisticSet={3 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIV  ,StylisticSet={4 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathV   ,StylisticSet={5 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVI  ,StylisticSet={6 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVII ,StylisticSet={7 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathVIII,StylisticSet={8 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9 },Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathX   ,StylisticSet={10},Path=../Release/ ]%, Scale=MatchUppercase]
+\setmathfont{Garamond-Math.otf}[version=GaramondMathXI   ,StylisticSet={11},Path=../Release/ ]%, Scale=MatchUppercase]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -103,7 +109,7 @@
 \newcommand{\dd}{\text{d}}
 \newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
 
-\title{Garamond-Math, Ver. 2019-02-05}
+\title{Garamond-Math, Ver. 2019-08-16}
 \author{Yuansheng Zhao, Xiangdong Zeng}
 
 \begin{document}
@@ -112,9 +118,9 @@
 Garamond-Math is an open type math font matching the \emph{EB Garamond (Octavio Pardo)}\footnote{https://ctan.org/pkg/ebgaramond/, and https://github.com/octaviopardo/EBGaramond12/} and \emph{EB Garamond (Georg Mayr-Duffner)}\footnote{https://github.com/georgd/EB-Garamond/}.
 Many mathematical symbols are derived from other fonts, others are made from scratch. The metric is generated with a python script.
 
-The font is best used with \XeTeX, with other engine, one might end up getting very bad spacing. 
+The font is mostly tested with \XeTeX, though it shoule also work with \LuaTeX.
 
-This font is still under development, do not expect the font to be free of bugs. We might update any components any at any time. Issues, bug reports, forks and other contributions are welcome. Please visit GitHub (https://github.com/YuanshengZhao/Garamond-Math/) for development details.
+Issues, bug reports, forks and other contributions are welcome. Please visit GitHub (https://github.com/YuanshengZhao/Garamond-Math/) for development details.
 
 A minimal example with \texttt{unicode-math} package is as following:
 \begin{verbatim}
@@ -124,14 +130,14 @@ A minimal example with \texttt{unicode-math} package is as following:
     \setmainfont{EB Garamond}%You should have installed the font
     \setmathfont{Garamond-Math.otf}[StylisticSet={7,9}]%Use StylisticSet that you like
     \begin{document}
-        \[x^3+y^3=z^3\]
+        \[x^3+y^3=z^3.\]
     \end{document}
 \end{verbatim}
+The result shoule be
+\[x^3+y^3=z^3.\]
 
-\section{Alphabets \& StylisticSet}
-\emph{The text font in this document is set to Libertinus Sans deliberately so that the difference between text and math can be easily seen.}
+\section{Alphabets \& StylisticSets}
 \subsubsection*{Latin and Greek (StylisticSet 4/5 give semi/extra bold for \texttt{\backslash symbf})}
-Each letter is regarded as variable, so the spacing is larger than usual text. I recommend typing equations like this (pay attention to \texttt{\backslash symup} $\ee$, $\ii$, and text $\cos$, $\dd$): $\ee^{\ii k z}=\cos k z-\ii\int_0^{kz}\cos \zeta\,\dd\zeta$.
 \[ \Latinalphabets\]
 \[ \latinalphabets \]
 \[ \symup{\Latinalphabets}\]
@@ -165,13 +171,13 @@ Each letter is regarded as variable, so the spacing is larger than usual text. I
 \[ \symtt{\Latinalphabets}\]
 \[\symtt{\latinalphabets} \]
 
-\subsubsection*{Blackboard (StylisticSet 1 gives rounded XITS Math\footnote{https://github.com/khaledhosny/xits/})}
+\subsubsection*{Blackboard (StylisticSet 1 $\rightarrow$ rounded XITS Math\footnote{https://github.com/khaledhosny/xits/})}
 \[ \symbb{\Latinalphabets} \]
 \[\symbb{\latinalphabets} \]
 \begingroup\mathversion{GaramondMathI}\[\symbb{\Latinalphabets}\]
 \[\symbb{\latinalphabets}\]\endgroup
 
-\subsubsection*{Script: Rounded XITS Math [StylisticSet 3 gives scaled CM; 8 gives Garamond-compatible ones (experimental)]}
+\subsubsection*{Script: Rounded XITS Math [StylisticSet 3 $\rightarrow$ scaled CM; 8 $\rightarrow$ Garamond-compatible ones (experimental)]}
 \[ \symscr{\Latinalphabets} \]
 \[\symscr{\latinalphabets} \]
 \[ \symbfscr{\Latinalphabets} \]
@@ -181,32 +187,54 @@ Each letter is regarded as variable, so the spacing is larger than usual text. I
 \begingroup\mathversion{GaramondMathVIII}\[\symscr{\Latinalphabets}\]
 \[\symscr{\latinalphabets}\]\endgroup
 
+\subsubsection*{Fraktur: From Noto Sans Math\footnote{https://github.com/googlefonts/noto-fonts/}}
+\[ \symfrak{\Latinalphabets} \]
+\[\symfrak{\latinalphabets} \]
+\[ \symbffrak{\Latinalphabets} \]
+\[\symbffrak{\latinalphabets} \]
+
+
 \subsubsection*{Digits: Same width between weight and serif/sans}
 \[3.141592653589793238462643383279502884197169399375105820974944592307816406286\]
 \[\symsf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\]
 \[\symbf{3.141592653589793238462643383279502884197169399375105820974944592307816406286}\]
 
-\subsubsection*{\texttt{\backslash partial}: (StylisticSet 2 gives curved ones)}
+\subsubsection*{\texttt{\backslash partial}: (StylisticSet 2 $\rightarrow$ curved ones)}
 \[\partial_\mu(\symup\partial^\mu\phi)-\symbf{\epsilon^{\lambda\mu\nu}\partial_\mu(A_\lambda\symbfup\partial_\nu f)}\]
 \begingroup\mathversion{GaramondMathII}\[\partial_\mu(\symup\partial^\mu\phi)-\symbf{\epsilon^{\lambda\mu\nu}\partial_\mu(A_\lambda\symbfup\partial_\nu f)}\]\endgroup
 
-\subsubsection*{\texttt{\backslash hbar}: (StylisticSet 6 gives horizontal bars)}
+\subsubsection*{\texttt{\backslash hbar}: (StylisticSet 6 $\rightarrow$ horizontal bars)}
 \[\text{$\hbar$\qquad \begingroup\mathversion{GaramondMathVI} $\hbar$\endgroup}\]
 
-\subsubsection*{Italic $\symbf h$: (StylisticSet 10 gives out-bending ones)}
+\subsubsection*{Italic $\symbf h$: (StylisticSet 10 $\rightarrow$ out-bending ones)}
 \[\text{$\displaystyle\hbar=\frac {\symbf{h}}{2\uppi} $\qquad \begingroup\mathversion{GaramondMathX} $\displaystyle\hbar=\frac {\symbf{h}}{2\uppi} $\endgroup}\]
 
-\subsubsection*{\texttt{\backslash tilde}: (StylisticSet 9 gives ``normal'' ones)}
+\subsubsection*{\texttt{\backslash tilde}: (StylisticSet 9 $\rightarrow$ ``normal'' ones)}
 \[\text{$\tilde F$\qquad \begingroup\mathversion{GaramondMathIX} $\tilde F$\endgroup}\]
 
-\subsubsection*{\texttt{\backslash int}: (StylisticSet 7 gives a variant with inversion symmetry)}
+\subsubsection*{\texttt{\backslash int}: (StylisticSet 7 $\rightarrow$ a variant with inversion symmetry)}
 \[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}}\]
 \begingroup\mathversion{GaramondMathVII}\[\oint_{\partial\Sigma}\vec E\cdot \dd{\vec{l}}=-\frac{1}{c}\frac{\dd}{\dd t}\iint_{\Sigma}\vec B \cdot \dd{\vec{S}}\]\endgroup
+
+\subsubsection*{Binany Operators: (StylisticSet 11 $\rightarrow$ larger ones)}
+\[s=A+b\times 1\div x^3\]
+\begingroup\mathversion{GaramondMathXI}\[s=A+b\times 1\div x^3\]\endgroup
+
+\subsubsection*{Extensible Arrow Hack}
+The font contains the math table for constructing extensible arrow. However \texttt{unicode-math} does not privode an interface to that. In \LuaTeX ~one can use \texttt{\textbackslash Uhextensible}\footnote{https://tex.stackexchange.com/questions/423893/}. A more general solution is to add the following code in preamble.
+\begin{verbatim}
+\usepackage{extarrow} %or mathtools
+\makeatletter
+\renewcommand{\relbar}{\symbol{"E010}\mkern-.2mu\symbol{"E010}\mkern1.8mu}
+\renewcommand{\Relbar}{\symbol{"E011}\mkern-.2mu\symbol{"E011}\mkern1.8mu}
+\makeatother
+\end{verbatim}
+Then \texttt{\textbackslash xleftarrow} and other commands will work:
+\[\mathrm{CH}_3\mathrm{COO}\mathrm{H}+\mathrm{C}_2\mathrm{H}_5\mathrm{OH}\xrightarrow[{\triangle}]{\mathrm{H}_2\mathrm{SO}_4}\mathrm{CH}_3\mathrm{COOC}_2\mathrm{H}_5+\mathrm{H}_2\mathrm{O}.\]
  
 \section{Known Issue}
 \begin{itemize}
-    \item As mentioned before, the font should only be used with \XeTeX.
-    \item Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. $VA$); sometimes sub/superscript may also have same problem.
+    \item Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. $VA$); sometimes sub/superscript may also have same problem. However, do note that due to the mechanism in math mode, making all spacing look perfect is amlost impossible (as far as I can do, and low x-height and large italic angle only make things even worse), in many cases, adjusting manually (i.e. using \texttt{\textbackslash,} or \texttt{\textbackslash!}) is required.
     \item Fake optical size. EB Garamond does not contain a complete set of glyphs (normal + bold + optical size of both weights). The ``optical size \texttt{ssty}'' is made by interpolating different weights at the present (without this, the double script is too thin to be readable). 
 \end{itemize}
 
