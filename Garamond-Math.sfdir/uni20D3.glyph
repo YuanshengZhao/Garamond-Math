@@ -4,16 +4,15 @@ Width: 0
 GlyphClass: 2
 Flags: HMW
 TeX: 505 5
-TopAccentHorizontal: -250
 LayerCount: 2
 Fore
 SplineSet
-26 11 m 6
- 26 3 19 -5 13 -5 c 4
- -7 -5 -26 6 -26 26 c 6
- -26 489 l 6
- -26 497 -19 505 -13 505 c 4
- 7 505 26 494 26 474 c 6
- 26 11 l 6
+26 11 m 2
+ 26 3 19 -5 13 -5 c 0
+ -7 -5 -26 6 -26 26 c 2
+ -26 489 l 2
+ -26 497 -19 505 -13 505 c 0
+ 7 505 26 494 26 474 c 2
+ 26 11 l 2
 EndSplineSet
 EndChar

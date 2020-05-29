@@ -1,0 +1,24 @@
+StartChar: uni20D1.hd
+Encoding: 1116443 -1 4653
+Width: 300
+Flags: HMW
+GlyphVariantsVertical: uni2A11.var.dp
+LayerCount: 2
+Fore
+SplineSet
+189 600 m 2
+ 0 600 l 2
+ 0 644 l 2
+ 177 644 l 2
+ 181 644 183 645 183 647 c 0
+ 183 648 183 649 181 651 c 0
+ 163 671 163 683 149 718 c 0
+ 147 723 146 727 146 730 c 0
+ 146 734 148 736 152 736 c 0
+ 159 736 169 732 174 727 c 0
+ 220 680 241 655 296 621 c 0
+ 299 619 300 617 300 614 c 0
+ 300 607 291 600 276 600 c 0
+ 255 600 217 600 189 600 c 2
+EndSplineSet
+EndChar

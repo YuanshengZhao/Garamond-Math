@@ -1,9 +1,8 @@
 StartChar: uni210F.bar.ss
-Encoding: 1116444 -1 4654
+Encoding: 1116456 -1 4666
 Width: 458
 Flags: HMW
-ItalicCorrection: 64
-TopAccentHorizontal: 232
+ItalicCorrection: 550
 LayerCount: 2
 Fore
 SplineSet

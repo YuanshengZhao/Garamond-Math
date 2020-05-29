@@ -1,15 +1,14 @@
 StartChar: uni210F.bar
-Encoding: 1116442 -1 4652
+Encoding: 1116454 -1 4664
 Width: 437
 Flags: HMW
-ItalicCorrection: 65
-TopAccentHorizontal: 223
-GlyphVariantsVertical: uni2A0C.var.dp
+ItalicCorrection: 280
+IsExtendedShape: 1
 LayerCount: 2
 Fore
 SplineSet
 222 632 m 25
- 256 649 l 1053
+ 256 649 l 1049
 400 421 m 0
  444 421 468 386 468 348 c 0
  468 245 405 115 336 42 c 0

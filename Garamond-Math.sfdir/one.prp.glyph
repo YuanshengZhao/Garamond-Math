@@ -1,8 +1,9 @@
 StartChar: one.prp
-Encoding: 1116520 -1 4730
+Encoding: 1116532 -1 4742
 Width: 382
 Flags: HMW
-TopAccentHorizontal: 184
+ItalicCorrection: 16
+TopAccentHorizontal: 231
 LayerCount: 2
 Fore
 SplineSet

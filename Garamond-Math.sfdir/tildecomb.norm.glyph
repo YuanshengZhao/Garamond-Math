@@ -1,8 +1,8 @@
 StartChar: tildecomb.norm
-Encoding: 1116579 -1 4789
+Encoding: 1116591 -1 4832
 Width: 300
 Flags: HMW
-GlyphVariantsHorizontal: tildecomb tildecomb.h1 tildecomb.h2 tildecomb.h3 tildecomb.h4 tildecomb.h5 tildecomb.h6 tildecomb.h7 tildecomb.h8 tildecomb.h9 tildecomb.h10 tildecomb.h11 tildecomb.h12 tildecomb.h13 tildecomb.h14 tildecomb.h15 tildecomb.h16 tildecomb.h17 tildecomb.h18 tildecomb.h19 tildecomb.h20 tildecomb.h21 tildecomb.h22 tildecomb.h23 tildecomb.h24 tildecomb.h25 tildecomb.h26 tildecomb.h27 tildecomb.h28 tildecomb.h29 tildecomb.h30 tildecomb.h31
+TopAccentHorizontal: 295
 LayerCount: 2
 Fore
 SplineSet

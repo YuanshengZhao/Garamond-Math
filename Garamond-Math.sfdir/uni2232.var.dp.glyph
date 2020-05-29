@@ -1,8 +1,9 @@
 StartChar: uni2232.var.dp
-Encoding: 1116463 -1 4673
+Encoding: 1116475 -1 4685
 Width: 1026
 Flags: HMW
-ItalicCorrection: 550
+ItalicCorrection: 65
+TopAccentHorizontal: 440
 LayerCount: 2
 Fore
 SplineSet

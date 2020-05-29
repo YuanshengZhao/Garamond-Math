@@ -1,9 +1,9 @@
 StartChar: u1D7D5.prp.s
-Encoding: 1116573 -1 4783
+Encoding: 1116585 -1 4826
 Width: 337
 Flags: HMW
-ItalicCorrection: 178
-TopAccentHorizontal: 270
+ItalicCorrection: 1
+TopAccentHorizontal: 260
 LayerCount: 2
 Fore
 SplineSet

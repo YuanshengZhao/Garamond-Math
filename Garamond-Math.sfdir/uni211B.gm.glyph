@@ -1,9 +1,10 @@
 StartChar: uni211B.gm
-Encoding: 1116484 -1 4694
+Encoding: 1116496 -1 4706
 Width: 882
 VWidth: 950
 Flags: HMW
-TopAccentHorizontal: 413
+ItalicCorrection: 31
+TopAccentHorizontal: 465
 LayerCount: 2
 Fore
 SplineSet

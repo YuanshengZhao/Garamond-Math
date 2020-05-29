@@ -1,12 +1,9 @@
 StartChar: u1D4C3.gm
-Encoding: 1116506 -1 4716
+Encoding: 1116518 -1 4728
 Width: 562
-GlyphClass: 2
 Flags: HMW
-TeX: 1350 850
-ItalicCorrection: 7
-TopAccentHorizontal: 259
-IsExtendedShape: 1
+ItalicCorrection: 91
+TopAccentHorizontal: 260
 LayerCount: 2
 Fore
 SplineSet

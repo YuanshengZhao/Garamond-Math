@@ -1,0 +1,16 @@
+StartChar: uni20ED.rt
+Encoding: 1116453 -1 4663
+Width: 200
+Flags: HMW
+IsExtendedShape: 1
+LayerCount: 2
+Fore
+SplineSet
+0 -150 m 1
+ 187 -150 l 2
+ 194 -150 200 -155 200 -161 c 0
+ 200 -177 191 -194 174 -194 c 2
+ 0 -194 l 2
+ 0 -150 l 1
+EndSplineSet
+EndChar

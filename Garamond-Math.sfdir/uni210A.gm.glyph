@@ -1,9 +1,9 @@
 StartChar: uni210A.gm
-Encoding: 1116499 -1 4709
+Encoding: 1116511 -1 4721
 Width: 529
 Flags: HMW
-ItalicCorrection: 40
-TopAccentHorizontal: 270
+ItalicCorrection: 130
+TopAccentHorizontal: 215
 LayerCount: 2
 Fore
 SplineSet
