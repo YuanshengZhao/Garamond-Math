@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1573861327
+ModificationTime: 1590720218
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -70,8 +70,15 @@ Lookup: 1 0 0 "'ss02' Style Set VarPartial" { "'ss02' Style Set 2"  } ['ss02' ('
 Lookup: 1 0 0 "'ss03' Style Set ScrCal" { "'ss03' Style Set 3"  } ['ss03' ('DFLT' <'dflt' > 'grek' <'dflt' > 'kana' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1" { "'dtls' Dotless Forms in Mathematical Alphanumeric Symbols lookup 1 subtable"  } ['dtls' ('math' <'dflt' > ) ]
 Lookup: 3 0 0 "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2" { "'ssty' Script Style in Mathematical Alphanumeric Symbols lookup 2 subtable"  } ['ssty' ('math' <'dflt' > ) ]
+Lookup: 258 0 0 "kern" { "kern-1" [300,0,6] } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'math' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 3 3 "kern-1"
+ 215 u1D449 u1D44A u1D47D u1D47E u1D6FB u1D735 u1D449.s u1D449.ss u1D44A.s u1D44A.ss u1D47D.s u1D47D.ss u1D47E.s u1D47E.ss u1D6FB.s u1D6FB.ss u1D735.s u1D735.ss u1D47D.sb u1D47E.sb u1D735.sb u1D47D.eb u1D47E.eb u1D735.eb
+ 71 u1D453 u1D487 u1D453.s u1D453.ss u1D487.s u1D487.ss u1D487.sb u1D487.eb
+ 215 u1D434 u1D468 u1D6E5 u1D6EC u1D71F u1D726 u1D434.s u1D434.ss u1D468.s u1D468.ss u1D6E5.s u1D6E5.ss u1D6EC.s u1D6EC.ss u1D71F.s u1D71F.ss u1D726.s u1D726.ss u1D468.sb u1D71F.sb u1D726.sb u1D468.eb u1D71F.eb u1D726.eb
+ 143 u1D453 u1D457 u1D487 u1D48B u1D453.s u1D453.ss u1D457.s u1D457.ss u1D487.s u1D487.ss u1D48B.s u1D48B.ss u1D487.sb u1D48B.sb u1D487.eb u1D48B.eb
+ 0 {} 0 {} 0 {} 0 {} -100 {} -100 {} 0 {} 0 {} -50 {}
 LangName: 1033 "" "" "Regular" "" "" "" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1." "http://scripts.sil.org/OFL"
 MATH:ScriptPercentScaleDown: 70
 MATH:ScriptScriptPercentScaleDown: 50
@@ -137,7 +144,7 @@ NameList: AGL For New Fonts
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 4248 36 25
+WinInfo: 497 71 25
 BeginPrivate: 9
 BlueValues 23 [-15 0 450 460 662 676]
 OtherBlues 11 [-218 -217]
