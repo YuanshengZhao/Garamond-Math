@@ -1,7 +1,7 @@
 StartChar: uni2A76
 Encoding: 10870 10870 1331
 Width: 1764
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
@@ -48,6 +48,5 @@ SplineSet
  1714 164 1698 143 1682 143 c 2
  1262 143 l 2
 EndSplineSet
-Validated: 1
 Substitution2: "'ss11' Style Set 11" uni2A76.large
 EndChar

@@ -1,8 +1,8 @@
 StartChar: uni27DE
 Encoding: 10206 10206 1295
-Width: 553
+Width: 753
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: -655 -155
 IsExtendedShape: 1
 LayerCount: 2
@@ -23,5 +23,4 @@ SplineSet
  651 584 670 595 690 595 c 0
  696 595 703 587 703 579 c 2
 EndSplineSet
-Validated: 1
 EndChar

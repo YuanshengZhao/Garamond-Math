@@ -2,7 +2,7 @@ StartChar: uni2B07
 Encoding: 11015 11015 1337
 Width: 438
 GlyphClass: 2
-Flags: MW
+Flags: HMW
 TeX: 680 179
 LayerCount: 2
 Fore
@@ -27,5 +27,4 @@ SplineSet
  126 609 136 619 156 619 c 0
  282 619 l 2
 EndSplineSet
-Validated: 513
 EndChar
