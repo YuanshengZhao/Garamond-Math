@@ -11,7 +11,7 @@
 
 % \setmainfont{EB Garamond}
 \setmainfont{EB Garamond}
-\setmonofont{Source Code Pro}[Scale=.86]
+% \setmonofont{Source Code Pro}[Scale=.86]
 \setmathfont{Garamond-Math.otf}[Path=../Release/ ]%, Scale=MatchUppercase]
 \setmathfont{Garamond-Math.otf}[version=GaramondMathI   ,StylisticSet={1 },Path=../Release/ ]%, Scale=MatchUppercase]
 \setmathfont{Garamond-Math.otf}[version=GaramondMathII  ,StylisticSet={2 },Path=../Release/ ]%, Scale=MatchUppercase]
@@ -24,6 +24,7 @@
 \setmathfont{Garamond-Math.otf}[version=GaramondMathIX  ,StylisticSet={9 },Path=../Release/ ]%, Scale=MatchUppercase]
 \setmathfont{Garamond-Math.otf}[version=GaramondMathX   ,StylisticSet={10},Path=../Release/ ]%, Scale=MatchUppercase]
 \setmathfont{Garamond-Math.otf}[version=GaramondMathXI   ,StylisticSet={11},Path=../Release/ ]%, Scale=MatchUppercase]
+\newfontfamily\GaramondMath{Garamond-Math.otf}[Path=../Release/]
 
 \def\Latinalphabets{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \def\latinalphabets{abcdefghijklmnopqrstuvwxyz}
@@ -87,6 +88,8 @@
   { \fonttest_circled_aux:nn {"1F150} {"1F169} }
 \NewDocumentCommand \CIRCLEDLETTERC { }
   { \fonttest_circled_aux:nn {"24D0} {"24E9} }
+\NewDocumentCommand \CHESSSYMB { }
+  { \fonttest_circled_aux:nn {"2654} {"265F} }
 \cs_new:Npn \fonttest_circled_aux:nn #1#2
   { \int_step_inline:nnn {#1} {#2} { \symbol {##1} } }
 \ExplSyntaxOff
@@ -109,18 +112,13 @@
 \newcommand{\dd}{\text{d}}
 \newcommand{\norm}[1]{\left\lVert{#1}\right\rVert}
 
-\title{Garamond-Math, Ver. 2019-08-16}
+\title{Garamond-Math, Ver. 2022-01-03}
 \author{Yuansheng Zhao, Xiangdong Zeng}
 
 \begin{document}
 \maketitle
 \section{Introduction}
-Garamond-Math is an open type math font matching the \emph{EB Garamond (Octavio Pardo)}\footnote{https://ctan.org/pkg/ebgaramond/, and https://github.com/octaviopardo/EBGaramond12/} and \emph{EB Garamond (Georg Mayr-Duffner)}\footnote{https://github.com/georgd/EB-Garamond/}.
-Many mathematical symbols are derived from other fonts, others are made from scratch. The metric is generated with a python script.
-
-The font is mostly tested with \XeTeX, though it shoule also work with \LuaTeX.
-
-Issues, bug reports, forks and other contributions are welcome. Please visit GitHub\footnote{https://github.com/YuanshengZhao/Garamond-Math/} for development details.
+Garamond-Math is an open type math font matching the \emph{EB Garamond (Octavio Pardo)}\footnote{https://ctan.org/pkg/ebgaramond/, and https://github.com/octaviopardo/EBGaramond12/} and \emph{EB Garamond (Georg Mayr-Duffner)}\footnote{https://github.com/georgd/EB-Garamond/}. Many mathematical symbols are derived from other fonts, others are made from scratch. The metric is generated with a python script. Issues, bug reports, forks and other contributions are welcome. Please visit GitHub\footnote{https://github.com/YuanshengZhao/Garamond-Math/} for development details.
 
 A minimal example with \texttt{unicode-math} package is as following:
 \begin{verbatim}
@@ -133,7 +131,7 @@ A minimal example with \texttt{unicode-math} package is as following:
         \[x^3+y^3=z^3.\]
     \end{document}
 \end{verbatim}
-The result shoule be
+The result should be
 \[x^3+y^3=z^3.\]
 
 \section{Alphabets \& StylisticSets}
@@ -159,7 +157,7 @@ The result shoule be
 \begingroup\mathversion{GaramondMathV}\[\symbf{\Latinalphabets}\]
 \[\symbf{\latinalphabets}\]\endgroup
 
-\subsubsection*{Sans and Typerwriter: From Libertinus Math\footnote{https://github.com/khaledhosny/libertinus/}}
+\subsubsection*{Sans and Typewriter: From Libertinus Math\footnote{https://github.com/khaledhosny/libertinus/}}
 \[ \symsf{\Latinalphabets} \]
 \[\symsf{\latinalphabets} \]
 \[ \symsfup{\Latinalphabets} \]
@@ -220,8 +218,20 @@ The result shoule be
 \[s=A+b\times 1\div x^3\]
 \begingroup\mathversion{GaramondMathXI}\[s=A+b\times 1\div x^3\]\endgroup
 
+\subsubsection*{Other Symbols}
+\begingroup
+  \hspace{\parindent}\GaramondMath
+  \CIRCLEDNUMA*   \par
+  \CIRCLEDNUMB*   \par
+  \CIRCLEDNUMC    \par
+  \CIRCLEDLETTERA \par
+  \CIRCLEDLETTERB \par
+  \CIRCLEDLETTERC \par
+  \CHESSSYMB
+\endgroup
+
 \subsubsection*{Extensible Arrow Hack}
-The font contains the math table for constructing extensible arrow. However \texttt{unicode-math} does not privode an interface to that. In \LuaTeX ~one can use \texttt{\textbackslash Uhextensible}\footnote{https://tex.stackexchange.com/questions/423893/}. A more general solution is to add the following code in preamble.
+The font contains the math table for constructing extensible arrow. However \texttt{unicode-math} does not provide an interface to that. In \LuaTeX ~one can use \texttt{\textbackslash Uhextensible}\footnote{https://tex.stackexchange.com/questions/423893/}. A more general solution is to add the following code in preamble.
 \begin{verbatim}
 \usepackage{extarrow} %or mathtools
 \makeatletter
@@ -234,7 +244,6 @@ Then \texttt{\textbackslash xleftarrow} and other commands will work:
  
 \section{Known Issue}
 \begin{itemize}
-    \item Various spacing problems. Though math fonts technically should not be kerned, some pairs looks very ugly (Ex. $VA$); sometimes sub/superscript may also have same problem. However, do note that due to the mechanism in math mode, making all spacing look perfect is amlost impossible (as far as I can do, and low x-height and large italic angle only make things even worse), in many cases, adjusting manually (i.e. using \texttt{\textbackslash,} or \texttt{\textbackslash!}) is required.
     \item Fake optical size. EB Garamond does not contain a complete set of glyphs (normal + bold + optical size of both weights). The ``optical size \texttt{ssty}'' is made by interpolating different weights at the present (without this, the double script is too thin to be readable). 
 \end{itemize}
 

@@ -3,8 +3,8 @@ FontName: Garamond-Math
 FullName: Garamond-Math
 FamilyName: Garamond-Math
 Weight: Regular
-Copyright: Copyleft (C) 2018-2021 Yuansheng Zhao and Xiangdong Zeng
-Version: 2019-08-16
+Copyright: Copyleft (C) 2018-2022 Yuansheng Zhao and Xiangdong Zeng
+Version: 2022-01-03
 ItalicAngle: 0
 UnderlinePosition: -200
 UnderlineWidth: 40
@@ -21,7 +21,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522080000
-ModificationTime: 1636823406
+ModificationTime: 1641221107
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
